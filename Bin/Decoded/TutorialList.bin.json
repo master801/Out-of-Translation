@@ -1,0 +1,960 @@
+{
+  "type": "PAGE",
+  "name": "TutorialList.bin",
+  "blocks": [
+    {
+      "id": 1,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "オートセーブ",
+      "text": "E380800"
+    },
+    {
+      "id": 51,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "メインメニュー",
+      "text": "E380800"
+    },
+    {
+      "id": 83,
+      "currentPageIndex": 1,
+      "lastPageIndex": 3,
+      "previousPageID": -1,
+      "nextPageID": 82,
+      "title": "プレイヤー選択：使用可能キャラクター",
+      "text": "E380800"
+    },
+    {
+      "id": 82,
+      "currentPageIndex": 2,
+      "lastPageIndex": 3,
+      "previousPageID": 83,
+      "nextPageID": 84,
+      "title": "プレイヤー選択：プレイヤーキャラクター",
+      "text": "E380800"
+    },
+    {
+      "id": 84,
+      "currentPageIndex": 3,
+      "lastPageIndex": 3,
+      "previousPageID": 82,
+      "nextPageID": -1,
+      "title": "プレイヤー選択：操作方法",
+      "text": "E380800"
+    },
+    {
+      "id": 85,
+      "currentPageIndex": 1,
+      "lastPageIndex": 2,
+      "previousPageID": -1,
+      "nextPageID": 86,
+      "title": "キャラクター衣装選択",
+      "text": "全てのプレイヤーキャラクターには衣装が用意されており、\n見た目を替えることが可能です。\n女性キャラクターの場合は、制服の下のガウンも替えることができます。"
+    },
+    {
+      "id": 86,
+      "currentPageIndex": 2,
+      "lastPageIndex": 2,
+      "previousPageID": 85,
+      "nextPageID": -1,
+      "title": "キャラクター衣装選択：操作方法",
+      "text": "E380800"
+    },
+    {
+      "id": 87,
+      "currentPageIndex": 1,
+      "lastPageIndex": 3,
+      "previousPageID": -1,
+      "nextPageID": 47,
+      "title": "ＣＡＤ選択",
+      "text": "E380800"
+    },
+    {
+      "id": 47,
+      "currentPageIndex": 2,
+      "lastPageIndex": 3,
+      "previousPageID": 87,
+      "nextPageID": 88,
+      "title": "ＣＡＤ選択：ＣＡＤ",
+      "text": "E380800"
+    },
+    {
+      "id": 88,
+      "currentPageIndex": 3,
+      "lastPageIndex": 3,
+      "previousPageID": 47,
+      "nextPageID": -1,
+      "title": "ＣＡＤ選択：操作方法",
+      "text": "E380800"
+    },
+    {
+      "id": 19,
+      "currentPageIndex": 1,
+      "lastPageIndex": 4,
+      "previousPageID": -1,
+      "nextPageID": 48,
+      "title": "ＣＡＤ",
+      "text": "E380800"
+    },
+    {
+      "id": 48,
+      "currentPageIndex": 2,
+      "lastPageIndex": 4,
+      "previousPageID": 19,
+      "nextPageID": 49,
+      "title": "ＣＡＤ：ＣＡＤのタイプ",
+      "text": "ＣＡＤには銃や刀剣を模したものから電子機器など、様々なタイプがあります。\nタイプの違いにより、ＣＡＤに登録することができる魔法の数が異なります。\nまた、アクション中の近接攻撃の動きもタイプの違いによって大きく変化し、\nナックルタイプのＣＡＤであれば、連続攻撃を繰り出すことも可能です。"
+    },
+    {
+      "id": 49,
+      "currentPageIndex": 3,
+      "lastPageIndex": 4,
+      "previousPageID": 48,
+      "nextPageID": 50,
+      "title": "ＣＡＤ：ＣＡＤのモデル",
+      "text": "ＣＡＤの外見形状です。\nモデルの違いによって生じるのは見た目の違いだけで、\nモデルによって選択できるパレットの種類が変わったり、\nＣＡＤの性能が変化することはありません。"
+    },
+    {
+      "id": 50,
+      "currentPageIndex": 4,
+      "lastPageIndex": 4,
+      "previousPageID": 49,
+      "nextPageID": -1,
+      "title": "ＣＡＤ：ＣＡＤのパレット",
+      "text": "パレットとは、ＣＡＤに魔法を登録するための枠のことで、\nタイプごとにレイアウトと動作が異なります。\nサイズが大きくなるほど多くの魔法を登録することができますが、\nその分、操作も複雑になってしまうため、取り扱いの難易度があがります。"
+    },
+    {
+      "id": 89,
+      "currentPageIndex": 1,
+      "lastPageIndex": 4,
+      "previousPageID": -1,
+      "nextPageID": 90,
+      "title": "パートナー選択：パートナーキャラクター",
+      "text": "E380800"
+    },
+    {
+      "id": 90,
+      "currentPageIndex": 2,
+      "lastPageIndex": 4,
+      "previousPageID": 89,
+      "nextPageID": 91,
+      "title": "パートナー選択：選択可能キャラクター",
+      "text": "E380800"
+    },
+    {
+      "id": 91,
+      "currentPageIndex": 3,
+      "lastPageIndex": 4,
+      "previousPageID": 90,
+      "nextPageID": 92,
+      "title": "パートナー選択：好感度",
+      "text": "E380800"
+    },
+    {
+      "id": 92,
+      "currentPageIndex": 4,
+      "lastPageIndex": 4,
+      "previousPageID": 91,
+      "nextPageID": -1,
+      "title": "パートナー選択：操作方法",
+      "text": "E380800"
+    },
+    {
+      "id": 2,
+      "currentPageIndex": 1,
+      "lastPageIndex": 4,
+      "previousPageID": -1,
+      "nextPageID": 3,
+      "title": "ストーリーモード",
+      "text": "E380800"
+    },
+    {
+      "id": 3,
+      "currentPageIndex": 2,
+      "lastPageIndex": 4,
+      "previousPageID": 2,
+      "nextPageID": 4,
+      "title": "ストーリーモード：ペア",
+      "text": "E380800"
+    },
+    {
+      "id": 4,
+      "currentPageIndex": 3,
+      "lastPageIndex": 4,
+      "previousPageID": 3,
+      "nextPageID": 53,
+      "title": "ストーリーモード：好感度ゼロ設定",
+      "text": "E380800"
+    },
+    {
+      "id": 53,
+      "currentPageIndex": 4,
+      "lastPageIndex": 4,
+      "previousPageID": 4,
+      "nextPageID": -1,
+      "title": "ストーリーモード：操作方法",
+      "text": "E380800"
+    },
+    {
+      "id": 95,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "特別授業開始",
+      "text": "E380800"
+    },
+    {
+      "id": 93,
+      "currentPageIndex": 1,
+      "lastPageIndex": 2,
+      "previousPageID": -1,
+      "nextPageID": 94,
+      "title": "最終調整",
+      "text": "E380800"
+    },
+    {
+      "id": 94,
+      "currentPageIndex": 2,
+      "lastPageIndex": 2,
+      "previousPageID": 93,
+      "nextPageID": -1,
+      "title": "最終調整：調整内容と対戦ペア",
+      "text": "E380800"
+    },
+    {
+      "id": 96,
+      "currentPageIndex": 1,
+      "lastPageIndex": 4,
+      "previousPageID": -1,
+      "nextPageID": 97,
+      "title": "初回プレイが終了しました",
+      "text": "E380800"
+    },
+    {
+      "id": 97,
+      "currentPageIndex": 2,
+      "lastPageIndex": 4,
+      "previousPageID": 96,
+      "nextPageID": 98,
+      "title": "初回プレイが終了しました",
+      "text": "E380800"
+    },
+    {
+      "id": 98,
+      "currentPageIndex": 3,
+      "lastPageIndex": 4,
+      "previousPageID": 97,
+      "nextPageID": 99,
+      "title": "初回プレイが終了しました",
+      "text": "E380800"
+    },
+    {
+      "id": 99,
+      "currentPageIndex": 4,
+      "lastPageIndex": 4,
+      "previousPageID": 98,
+      "nextPageID": -1,
+      "title": "初回プレイが終了しました",
+      "text": "E380800"
+    },
+    {
+      "id": 52,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "仮想人格の回収モードを開始します",
+      "text": "E380800"
+    },
+    {
+      "id": 54,
+      "currentPageIndex": 1,
+      "lastPageIndex": 2,
+      "previousPageID": -1,
+      "nextPageID": 55,
+      "title": "フリー対戦モード",
+      "text": "E380800"
+    },
+    {
+      "id": 55,
+      "currentPageIndex": 2,
+      "lastPageIndex": 2,
+      "previousPageID": 54,
+      "nextPageID": -1,
+      "title": "フリー対戦モード：対戦ルールの変更方法",
+      "text": "E380800"
+    },
+    {
+      "id": 16,
+      "currentPageIndex": 1,
+      "lastPageIndex": 2,
+      "previousPageID": -1,
+      "nextPageID": 17,
+      "title": "フリー対戦モード：アドホック通信対戦",
+      "text": "E380800"
+    },
+    {
+      "id": 17,
+      "currentPageIndex": 2,
+      "lastPageIndex": 2,
+      "previousPageID": 16,
+      "nextPageID": -1,
+      "title": "フリー対戦モード：アドホック通信対戦の設定方法",
+      "text": "E380800"
+    },
+    {
+      "id": 58,
+      "currentPageIndex": 1,
+      "lastPageIndex": 3,
+      "previousPageID": -1,
+      "nextPageID": 5,
+      "title": "カスタマイズモード",
+      "text": "E380800"
+    },
+    {
+      "id": 5,
+      "currentPageIndex": 2,
+      "lastPageIndex": 3,
+      "previousPageID": 58,
+      "nextPageID": 6,
+      "title": "カスタマイズモード：セッティング",
+      "text": "魔法は、所持しているだけでは使用することができません。\n各ＣＡＤに魔法を登録する手順＝セッティングを行わなければ\n魔法を使うことはできないので、注意してください。"
+    },
+    {
+      "id": 6,
+      "currentPageIndex": 3,
+      "lastPageIndex": 3,
+      "previousPageID": 5,
+      "nextPageID": -1,
+      "title": "カスタマイズモード：チューニング",
+      "text": "チューニングを行うことにより、「魔法の威力」「発生する魔法の大きさ」\n「発動までの早さ」を変化させることができます。\nただし、所持しているＣＰ（チューニングするために必要なポイント）が\n１０未満の場合はチューニングを行えません。"
+    },
+    {
+      "id": 60,
+      "currentPageIndex": 1,
+      "lastPageIndex": 6,
+      "previousPageID": -1,
+      "nextPageID": 109,
+      "title": "魔法",
+      "text": "魔法とは、アクションにおいて使用することができるスキルのことです。\n使用可能な魔法の総数は多く、様々な効果がありますが、用途に応じて大別すると、\n「攻撃魔法」「妨害魔法」「移動魔法」「強化魔法」の四つに分けることができます。"
+    },
+    {
+      "id": 109,
+      "currentPageIndex": 2,
+      "lastPageIndex": 6,
+      "previousPageID": 60,
+      "nextPageID": 110,
+      "title": "魔法：攻撃魔法",
+      "text": "攻撃魔法とは、対戦相手にダメージを与えるために用いる魔法のことです。\nアクションにおける基本的な攻撃手段であると同時に、勝負の決め手ともなりますので、\n色々な攻撃魔法を上手に扱い、アクションを有利に進めましょう。"
+    },
+    {
+      "id": 110,
+      "currentPageIndex": 3,
+      "lastPageIndex": 6,
+      "previousPageID": 109,
+      "nextPageID": 10,
+      "title": "魔法：妨害魔法",
+      "text": "妨害魔法とは、対戦相手の行動を阻害することが目的の魔法です。\n相手が魔法を発動しようとした時にそれを阻止したり、\n一定時間、相手を足止めするなど、使い道は様々です。"
+    },
+    {
+      "id": 10,
+      "currentPageIndex": 4,
+      "lastPageIndex": 6,
+      "previousPageID": 110,
+      "nextPageID": 62,
+      "title": "魔法：移動魔法",
+      "text": "移動魔法は、アクション中にＬボタンを押すことで自動的に発動します。\nその際、他の魔法と違ってパレットを操作する必要はありません。\n効果の発生までに時間を必要としませんが、発動中はサイオンを消費し続けます。"
+    },
+    {
+      "id": 62,
+      "currentPageIndex": 5,
+      "lastPageIndex": 6,
+      "previousPageID": 10,
+      "nextPageID": 63,
+      "title": "魔法：強化魔法",
+      "text": "強化魔法には、「パンツァー」のように単独で効果を発揮するものの他に、\n別の魔法と組み合わせることで効果を発揮するものがあります。\n上記、左と右のアイコンは、単独では効果を発揮しませんが、\nパレットの隣に配置されている魔法に対して性能の変化をもたらすことができます。"
+    },
+    {
+      "id": 63,
+      "currentPageIndex": 6,
+      "lastPageIndex": 6,
+      "previousPageID": 62,
+      "nextPageID": -1,
+      "title": "魔法：強化魔法の効果",
+      "text": "「ループキャスト」という強化魔法を使い、\nパレットの隣に配置されている「エア・ブリット」という魔法を強化すると、\n同時に複数の魔法弾を発生させることができます。"
+    },
+    {
+      "id": 59,
+      "currentPageIndex": 1,
+      "lastPageIndex": 5,
+      "previousPageID": -1,
+      "nextPageID": 8,
+      "title": "セッティング",
+      "text": "E380800"
+    },
+    {
+      "id": 8,
+      "currentPageIndex": 2,
+      "lastPageIndex": 5,
+      "previousPageID": 59,
+      "nextPageID": 9,
+      "title": "セッティング：魔法リストの見方",
+      "text": "Ｐｓｙｏｎ：各魔法を使用するために必要なコスト（サイオンの量）を表しています。\nサイオンは消費しても時間と共に回復していき、最大で２００まで溜まります。\nＣａｔｅｇｏｒｙ：アイコンの内容は魔法の区分と、\n登録に必要なレイアウトの数を表しています。"
+    },
+    {
+      "id": 9,
+      "currentPageIndex": 3,
+      "lastPageIndex": 5,
+      "previousPageID": 8,
+      "nextPageID": 7,
+      "title": "セッティング：魔法系統とは",
+      "text": "魔法を構成している要素のことで、単一の系統で構成されている魔法もあれば、\nいくつかの系統で構成されている魔法も存在します。この系統の割合が大きくなるほど、\nキャラクターの魔法適性（どの系統の魔法が得意か）の影響を大きく受けます。\n魔法リストの画面で□ボタンを押すと、各魔法の系統の情報を確認することができます。"
+    },
+    {
+      "id": 7,
+      "currentPageIndex": 4,
+      "lastPageIndex": 5,
+      "previousPageID": 9,
+      "nextPageID": 64,
+      "title": "セッティング：魔法の登録手順",
+      "text": "魔法リストの中から登録したい魔法を選択し、\n魔法をセットするための枠（パレット）の中にアイコンを置くことで、\n登録されます。"
+    },
+    {
+      "id": 64,
+      "currentPageIndex": 5,
+      "lastPageIndex": 5,
+      "previousPageID": 7,
+      "nextPageID": -1,
+      "title": "セッティング：魔法リストの操作方法",
+      "text": "E380800"
+    },
+    {
+      "id": 61,
+      "currentPageIndex": 1,
+      "lastPageIndex": 2,
+      "previousPageID": -1,
+      "nextPageID": 65,
+      "title": "魔法セット：同じ魔法は一つだけ",
+      "text": "魔法リストの中から選択したアイコンは方向キーで動き、\nパレットの好きな場所にセットできますが、一つのＣＡＤに\n同じ魔法を二つ以上セットすることはできません。"
+    },
+    {
+      "id": 65,
+      "currentPageIndex": 2,
+      "lastPageIndex": 2,
+      "previousPageID": 61,
+      "nextPageID": -1,
+      "title": "魔法セット：操作方法",
+      "text": "E380800"
+    },
+    {
+      "id": 66,
+      "currentPageIndex": 1,
+      "lastPageIndex": 4,
+      "previousPageID": -1,
+      "nextPageID": 46,
+      "title": "チューニング",
+      "text": "E380800"
+    },
+    {
+      "id": 46,
+      "currentPageIndex": 2,
+      "lastPageIndex": 4,
+      "previousPageID": 66,
+      "nextPageID": 69,
+      "title": "チューニング：Ａｄｊｕｓｔ　Ｇｒａｄｅ",
+      "text": "チューニングによって向上したＣＡＤ性能の度合いは、\nＡｄｊｕｓｔ　Ｇｒａｄｅとして評価されます。Ｇｒａｄｅが高いほど、\nキャラクターの魔法適性に応じて魔法の性能を引き出すことができます。\nまた、ＣＡＤの削除時にはＧｒａｄｅに応じたＣＰが返還されます。"
+    },
+    {
+      "id": 69,
+      "currentPageIndex": 3,
+      "lastPageIndex": 4,
+      "previousPageID": 46,
+      "nextPageID": 70,
+      "title": "チューニング：チューニングの流れ",
+      "text": "チューニングは、「計測」をしてから「調整」をする、\nという流れで順番に進行していきます。\n最終的にチューニングの内容が確定するのは、調整が終了した後となります。"
+    },
+    {
+      "id": 70,
+      "currentPageIndex": 4,
+      "lastPageIndex": 4,
+      "previousPageID": 69,
+      "nextPageID": -1,
+      "title": "チューニング：計測と調整",
+      "text": "チューニングを行い、どの程度ＣＡＤの性能が向上するのかは、\n調整の結果によって決まります。しかし、計測の結果がチューニング内容に\n影響しないわけではなく、計測を失敗させるか成功させるかが、\nそのまま調整の失敗・成功へと繋がっていきます。"
+    },
+    {
+      "id": 11,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "チューニング：通常計測と精密計測",
+      "text": "E380800"
+    },
+    {
+      "id": 12,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "チューニング：調整の対象",
+      "text": "E380800"
+    },
+    {
+      "id": 71,
+      "currentPageIndex": 1,
+      "lastPageIndex": 4,
+      "previousPageID": -1,
+      "nextPageID": 72,
+      "title": "チューニング：計測の目的",
+      "text": "E380800"
+    },
+    {
+      "id": 72,
+      "currentPageIndex": 2,
+      "lastPageIndex": 4,
+      "previousPageID": 71,
+      "nextPageID": 14,
+      "title": "チューニング：計測の方法",
+      "text": "計測は、スロットを用いて行います。「魔法威力」「効果範囲」「起動速度」の\nリール（プラスとマイナスの値が描かれている回転する部分のこと）が回っている時に\n○ボタンを押すと、回転するリールをストップさせることができます。\nリールは左から順番に、○ボタンを押すたびにストップしていきます。"
+    },
+    {
+      "id": 14,
+      "currentPageIndex": 3,
+      "lastPageIndex": 4,
+      "previousPageID": 72,
+      "nextPageID": 73,
+      "title": "チューニング：計測スロットの値と好感度",
+      "text": "計測スロットの各リールに描かれているプラスとマイナスの値ですが、\nこの値は、チューニングを行っているキャラクター同士の好感度が高いほど、\nプラスの方が多くなっていきます。"
+    },
+    {
+      "id": 73,
+      "currentPageIndex": 4,
+      "lastPageIndex": 4,
+      "previousPageID": 14,
+      "nextPageID": -1,
+      "title": "チューニング：計測の操作方法",
+      "text": "E380800"
+    },
+    {
+      "id": 74,
+      "currentPageIndex": 1,
+      "lastPageIndex": 4,
+      "previousPageID": -1,
+      "nextPageID": 75,
+      "title": "チューニング：調整",
+      "text": "計測スロットの各リールの値により、\nＣＡＤのパラメータが上昇、あるいは下降しますが、\n元々の性能＝０よりも低くなることはありません。\nちなみに、ＣＡＤの各パラメータは１００まで上昇します。"
+    },
+    {
+      "id": 75,
+      "currentPageIndex": 2,
+      "lastPageIndex": 4,
+      "previousPageID": 74,
+      "nextPageID": 15,
+      "title": "チューニング：調整の方法",
+      "text": "ＣＡＤのパラメータは、計測（スロット）の値をどのように変化させるのか、\nという調整の内容によって決まります。ただし、最初は計測の結果を\nそのまま調整内容として確定させるノーマルレートしか選べません。\n調整の内容は、○ボタンを押すことで確定させることができます。"
+    },
+    {
+      "id": 15,
+      "currentPageIndex": 3,
+      "lastPageIndex": 4,
+      "previousPageID": 75,
+      "nextPageID": 76,
+      "title": "チューニング：ＣＰについて",
+      "text": "ＣＰ＝カスタマイズポイントは、調整を確定する際に消費するもので、\n調整する内容によって必要となるＣＰが変化します。\nＣＰは、アクションのリザルト画面で獲得することができます。"
+    },
+    {
+      "id": 76,
+      "currentPageIndex": 4,
+      "lastPageIndex": 4,
+      "previousPageID": 15,
+      "nextPageID": -1,
+      "title": "チューニング：調整の操作方法",
+      "text": "E380800"
+    },
+    {
+      "id": 20,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "チューニング：オーバーロード",
+      "text": "E380800"
+    },
+    {
+      "id": 56,
+      "currentPageIndex": 1,
+      "lastPageIndex": 2,
+      "previousPageID": -1,
+      "nextPageID": 57,
+      "title": "メモリーズ",
+      "text": "E380800"
+    },
+    {
+      "id": 57,
+      "currentPageIndex": 2,
+      "lastPageIndex": 2,
+      "previousPageID": 56,
+      "nextPageID": -1,
+      "title": "メモリーズ：操作方法",
+      "text": "E380800"
+    },
+    {
+      "id": 100,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "オプション",
+      "text": "オプションでは、カメラの操作方法などのアクション設定や、\nテキストの表示速度などのゲーム設定を変更して、\n自分好みの環境に自由にカスタマイズすることができます。\nまた、今までに見たヘルプの内容を、もう一度確認することもできます。"
+    },
+    {
+      "id": 101,
+      "currentPageIndex": 1,
+      "lastPageIndex": 3,
+      "previousPageID": -1,
+      "nextPageID": 102,
+      "title": "アクション設定：カメラ操作について",
+      "text": "E380800"
+    },
+    {
+      "id": 102,
+      "currentPageIndex": 2,
+      "lastPageIndex": 3,
+      "previousPageID": 101,
+      "nextPageID": 103,
+      "title": "アクション設定：ロックオン操作、カットイン",
+      "text": "ターゲットをロックオン、もしくはロックを解除するまでのボタン入力の長さを\n「ターゲットロック操作感度」で変更したり、ターゲットの自動ロックのオン／オフや\nアクション中のカットイン演出のオン／オフを切り替えることができます。"
+    },
+    {
+      "id": 103,
+      "currentPageIndex": 3,
+      "lastPageIndex": 3,
+      "previousPageID": 102,
+      "nextPageID": -1,
+      "title": "アクション設定：操作方法",
+      "text": "E380800"
+    },
+    {
+      "id": 104,
+      "currentPageIndex": 1,
+      "lastPageIndex": 3,
+      "previousPageID": -1,
+      "nextPageID": 105,
+      "title": "ゲーム設定：音量とメッセージスピード",
+      "text": "E380800"
+    },
+    {
+      "id": 105,
+      "currentPageIndex": 2,
+      "lastPageIndex": 3,
+      "previousPageID": 104,
+      "nextPageID": 106,
+      "title": "ゲーム設定：ガイドボイス、好感度ゼロ設定",
+      "text": "E380800"
+    },
+    {
+      "id": 106,
+      "currentPageIndex": 3,
+      "lastPageIndex": 3,
+      "previousPageID": 105,
+      "nextPageID": -1,
+      "title": "ゲーム設定：操作方法",
+      "text": "E380800"
+    },
+    {
+      "id": 107,
+      "currentPageIndex": 1,
+      "lastPageIndex": 2,
+      "previousPageID": -1,
+      "nextPageID": 108,
+      "title": "ヘルプ",
+      "text": "操作方法が分からなくなってしまったり、\nカスタマイズの進め方などを忘れてしまった場合には\nここでもう一度内容をおさらいしておきましょう。"
+    },
+    {
+      "id": 108,
+      "currentPageIndex": 2,
+      "lastPageIndex": 2,
+      "previousPageID": 107,
+      "nextPageID": -1,
+      "title": "ヘルプ：操作方法",
+      "text": "E380800"
+    },
+    {
+      "id": 21,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "アクション：操作方法",
+      "text": "\n\n対戦相手のマーカーをタッチ：ターゲットロック\nマーカーのない場所をタッチし続ける：ロック解除"
+    },
+    {
+      "id": 22,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "アクション：魔法アクション",
+      "text": "魔法を発動させるには、方向キーでパレットを操作し、使いたい魔法アイコンを\n画面に表示させる必要があります。各魔法に割り当てられたボタンを押すと、\nサイオンが消費され、魔法アイコンのゲージが溜まっていきます。\nアイコンのゲージが満タンになったら、もう一度ボタンを押すことで魔法が発動します。"
+    },
+    {
+      "id": 18,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "アクション：魔法の追い撃ち",
+      "text": "魔法のキャストが完了した＝魔法アイコンのゲージが満タンになった状態で、\nターゲットロックした相手に近接攻撃をヒットさせると、魔法が自動的に発動し、相手に\n追い撃ちを与えます。ただし、ナックルやロッド、カタナやソードのＣＡＤを使った場合、\nまた、ジャンプ攻撃やステップ攻撃を行った際に魔法の追い撃ちは発生しません。"
+    },
+    {
+      "id": 23,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "アクション：モーションキャスト",
+      "text": "E380800"
+    },
+    {
+      "id": 24,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "アクション：魔法キャスト時の制限",
+      "text": "魔法をキャスト＝魔法アイコンのゲージを溜めている最中と、\n魔法を発動できる状態の時は、行えるアクションに制限がかかります。\nパレットへのセットに２マス以上使う魔法はさらに制限が強くなりますが、\n魔法との相性がＡよりも高くなると緩和されます。"
+    },
+    {
+      "id": 25,
+      "currentPageIndex": 1,
+      "lastPageIndex": 3,
+      "previousPageID": -1,
+      "nextPageID": 77,
+      "title": "アクション：ターゲットロック",
+      "text": "E380800"
+    },
+    {
+      "id": 77,
+      "currentPageIndex": 2,
+      "lastPageIndex": 3,
+      "previousPageID": 25,
+      "nextPageID": 78,
+      "title": "アクション：ターゲットロックの方法",
+      "text": "Ｒボタンを一定時間以上入力、またはキャラクター上のアイコンをタッチすると\nロックオンすることができます。ロックオンする対象を切り替える場合は、\nＲボタンを入力してください、ボタンを押すたびに順次ターゲットが切り替わります。"
+    },
+    {
+      "id": 78,
+      "currentPageIndex": 3,
+      "lastPageIndex": 3,
+      "previousPageID": 77,
+      "nextPageID": -1,
+      "title": "アクション：ターゲットロック解除の方法",
+      "text": "Ｒボタンを一定時間以上入力、または画面の何もない場所をタッチし続けると、\nロックオンを解除することができます。ターゲットとの距離が離れている場合は、\n右スティックをいずれかの方向に倒すとロックオンを解除できます。"
+    },
+    {
+      "id": 26,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "アクション：サイオン属性",
+      "text": "サイオンで構成されている魔法式やサイオンそのものが飛来する場合、\n物理的な障害物には衝突せず素通りし、\n同じサイオン属性のものとキャラクターにのみ当たります。"
+    },
+    {
+      "id": 27,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "対戦ルール：ノーマル・マッチ",
+      "text": "E380800"
+    },
+    {
+      "id": 28,
+      "currentPageIndex": 1,
+      "lastPageIndex": 2,
+      "previousPageID": -1,
+      "nextPageID": 80,
+      "title": "対戦ルール：テリトリー・コラプス",
+      "text": "E380800"
+    },
+    {
+      "id": 80,
+      "currentPageIndex": 2,
+      "lastPageIndex": 2,
+      "previousPageID": 28,
+      "nextPageID": -1,
+      "title": "対戦ルール：テリトリー・コラプスのターゲット",
+      "text": "ターゲットとなるのは「コア」と「サテライト」の２種類で、\nフィールド上には、コアの周囲をサテライトが漂う形で同時に出現します。\nコアとたくさんのサテライトを同時に破壊すると、多くのスコアを得ることができます。"
+    },
+    {
+      "id": 29,
+      "currentPageIndex": 1,
+      "lastPageIndex": 2,
+      "previousPageID": -1,
+      "nextPageID": 81,
+      "title": "対戦ルール：サイオン・フラッグ",
+      "text": "E380800"
+    },
+    {
+      "id": 81,
+      "currentPageIndex": 2,
+      "lastPageIndex": 2,
+      "previousPageID": 29,
+      "nextPageID": -1,
+      "title": "対戦ルール：フラッグの種類とサイオンの注入方法",
+      "text": "サイオン・フラッグには大小２種類の装置があり、小さい装置からは１ポイント、\n大きい装置からは３ポイントを獲得できます。フラッグのサイオンは、\n装置に近づいた時と、サイオン属性の魔法を装置に撃ち込んだ時に溜まりますが、\nポイントは、装置をサイオンで満タンにした時にしか得られません。"
+    },
+    {
+      "id": 30,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "Ｔｉｐｓ：クイックドロー",
+      "text": "E380800"
+    },
+    {
+      "id": 31,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "Ｔｉｐｓ：得意魔法",
+      "text": "各キャラクターには系統の得手不得手の他に、\n得意とする特定の魔法が存在します。\n得意魔法には、元の性能よりも高い状態で\n魔法を発動させられるという利点があります。"
+    },
+    {
+      "id": 32,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "Ｔｉｐｓ：強化した魔法の使い分け",
+      "text": "強化魔法を有効にするには、パレットを操作して強化魔法アイコンを画面に表示させ、\n強化魔法アイコンのゲージを満タンにする必要があります。\n強化魔法アイコンのボタンを使用せずに魔法を発動した場合、\n強化魔法の効果を得ることはできません。"
+    },
+    {
+      "id": 34,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "Ｔｉｐｓ：安定着地の効果",
+      "text": "E380800"
+    },
+    {
+      "id": 35,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "Ｔｉｐｓ：ゼロ距離サイオン放出",
+      "text": "E380800"
+    },
+    {
+      "id": 13,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "Ｔｉｐｓ：二つの対戦ルール",
+      "text": "テリトリー・コラプスとサイオン・フラッグでは体力ゲージがないので、\n相手キャラクターをノックダウンさせる必要がありません。\nそのため、このルールで対戦する場合は、相手を攻撃する魔法ばかりではなく、\n相手を足止めしたり、移動力を強化する魔法をセッティングしておくと有効です。"
+    },
+    {
+      "id": 36,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "用語解説：魔法とは",
+      "text": "「超能力」と呼ばれていた異能を、科学的研究により技術体系化したもののこと。\nあくまでも作用させるための力であり、事象を生み出すことはできない。\n魔法は大まかに「現代魔法」「古式魔法」「ＢＳ魔法」の三つに分類されるが、\n通常魔法と言った場合は現代魔法を指すことが多い。"
+    },
+    {
+      "id": 37,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "用語解説：サイオンとプシオン",
+      "text": "超心理現象の次元で観測される非物質粒子のこととされているが、\nその正体や機能については未だ解明されていない。\nサイオンは認識や思考結果を記録する情報素子のことと考えられており、\nプシオンは意思や思考を生み出す情動を形作っている粒子と考えられている。"
+    },
+    {
+      "id": 38,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "用語解説：起動式と魔法式",
+      "text": "起動式とは魔法の設計図のことで、魔法式とは魔法を実行するための情報体のことを指す。\n現代の魔法師は、起動式を「ＣＡＤ」という魔法機器から呼び出し、\nそれを元にして構築した「魔法式」を用いて物質世界の事象を改変させている。\nこれが現代魔法を使用するための一連のプロセスである。"
+    },
+    {
+      "id": 39,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "用語解説：魔法の評価基準",
+      "text": "魔法式を構築するスピード＝演算速度\n構築できる魔法式の規模＝演算規模\n魔法式を用いて事象改変する強さ＝干渉強度\nこれら三つから、魔法師の能力が総合的に評価される。"
+    },
+    {
+      "id": 40,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "用語解説：魔法の系統",
+      "text": "現代魔法の分野では、魔法という現象を作用面から四系統八種に分類している。\nそれは「系統魔法」と呼ばれており、これに属さない魔法は他のカテゴリーに分けられる。\n一つは精神的な現象を操る「系統外魔法」、一つはＥＳＰと呼ばれていた「知覚系魔法」、\n残る一つが事象改変ではなく、サイオンを操ることを目的とする「無系統魔法」である。"
+    },
+    {
+      "id": 41,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "用語解説：ＣＡＤの役割",
+      "text": "ＣＡＤとは魔法を発動させるための「起動式」を格納した魔法機器のことで、杖などの\n伝統的な補助具に代わり、高速・精緻・複雑・大規模な魔法発動を可能にしている。\nＣＡＤが無ければ魔法を発動できないというわけではないが、\n魔法発動を飛躍的に高速化したＣＡＤを使わない魔法師は皆無に等しい。"
+    },
+    {
+      "id": 42,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "用語解説：魔法師",
+      "text": "実用レベルで魔法を行使するスキルを持つ者の総称で、正式名称は「魔法技能師」\n魔法師の能力は遺伝的素質に大きく左右され、魔法的資質を持つ子どもは魔法師の家庭に\n生まれるケースが殆どだが、稀に隔世遺伝によって魔法の資質が現れる場合も存在する。\n日本において魔法の資質に優れた血を持つ家は、慣例的に数字を含む苗字を持っている。"
+    },
+    {
+      "id": 43,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "用語解説：魔法科高校",
+      "text": "全国に九校設置されている、魔法師養成を目的とした国立魔法大学付属高校の通称。\n正規過程として魔法教育を行う高校は他に存在しない。\n第一高校から第三高校の一学年の定員は二百名で、その他の六校が設けている定員は\n一学年百名であるため、一学年で養成することのできる生徒の総数は千二百名までとなる。"
+    },
+    {
+      "id": 44,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "用語解説：一科生と二科生",
+      "text": "一学年の定員が二百名となっている第一高校から第三高校では、入学時の試験の成績が\n優秀な上位百名を「一科生」、成績下位百名を「二科生」としてクラス分けをしている。\n差別的なため公には禁止されているものの、第一高校では一科生を「ブルーム（花）」、\n二科生を「ウィード（雑草）」と呼ぶ隠語が、生徒たちの間で広く使用されている。"
+    },
+    {
+      "id": 45,
+      "currentPageIndex": 0,
+      "lastPageIndex": 0,
+      "previousPageID": -1,
+      "nextPageID": -1,
+      "title": "用語解説：世界情勢",
+      "text": "西暦二〇四五年に勃発した第三次世界大戦により、世界情勢は激変した。\nその大戦の最中、魔法師たちは「国際魔法協会」を設立し、\n熱核兵器の使用阻止を最優先事項に定めて各地で活動していた。\nその功績が認められ、国際魔法協会は大戦後の世界でも高い地位を占めている。"
+    }
+  ]
+}

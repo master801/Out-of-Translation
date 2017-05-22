@@ -1,0 +1,5793 @@
+{
+  "name": "evt310000_Txt.lua",
+  "containers": [
+    {
+      "name": "t310001001",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "摩利・達也"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000100100"
+        }
+      ]
+    },
+    {
+      "name": "t310001002",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "当然\r\n",
+            "気づいているな？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000100200"
+        }
+      ]
+    },
+    {
+      "name": "t310001003",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "えぇ\r\n",
+            "この特別授業\r\n",
+            "おかしいですね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000100300"
+        }
+      ]
+    },
+    {
+      "name": "t310001004",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あたしを巻き込んだ上で\r\n",
+            "学校の風紀を乱そうとは\r\n",
+            "いい度胸をしている"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000100400"
+        }
+      ]
+    },
+    {
+      "name": "t310001005",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "目的が見えてこないところが\n",
+            "不気味ですね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000100500"
+        }
+      ]
+    },
+    {
+      "name": "t310001006",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まるで\n",
+            "同じ時間を\n",
+            "何度も繰り返しているようですが……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000100600"
+        }
+      ]
+    },
+    {
+      "name": "t310001007",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "魔法による\r\n",
+            "何かしらの攻撃なのだろう\r\n",
+            "記憶を書き換えられているといったところか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000100700"
+        }
+      ]
+    },
+    {
+      "name": "t310001008",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（俺の「精霊の眼」でも正体が掴めていない\r\n",
+            "　知る範囲の魔法であれば\r\n",
+            "　絶対にありえないことだ……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000100800"
+        }
+      ]
+    },
+    {
+      "name": "t310001009",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "現代では失われた魔法\r\n",
+            "あるいはそもそも\r\n",
+            "魔法では無い何かの可能性を考慮すべきです"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000100900"
+        }
+      ]
+    },
+    {
+      "name": "t310001010",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "どちらにしろ\r\n",
+            "取り締まりの対象であることに\r\n",
+            "変わりはない"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000101000"
+        }
+      ]
+    },
+    {
+      "name": "t310001011",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000101100"
+        }
+      ]
+    },
+    {
+      "name": "t310001012",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "当然\r\n",
+            "犯人を捕まえる\r\n",
+            "達也くんも風紀委員として協力するように"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000101200"
+        }
+      ]
+    },
+    {
+      "name": "t310001013",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "構いませんが\r\n",
+            "具体的には？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000101300"
+        }
+      ]
+    },
+    {
+      "name": "t310001014",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実践テストの直後に\r\n",
+            "捕らえるとしよう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000101400"
+        }
+      ]
+    },
+    {
+      "name": "t310001015",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "攻撃を受けるであろう\r\n",
+            "直前ということですね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000101500"
+        }
+      ]
+    },
+    {
+      "name": "t310001016",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "見張られているという前提のもと\r\n",
+            "動くべきだろうな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000101600"
+        }
+      ]
+    },
+    {
+      "name": "t310001017",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あたしがテストに\r\n",
+            "勝った瞬間を合図に\r\n",
+            "周辺の視界が不良になるようにしよう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000101700"
+        }
+      ]
+    },
+    {
+      "name": "t310001018",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そこから別行動をとれば\r\n",
+            "どちらかは相手に捕捉されずに\r\n",
+            "動けるはずだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000101800"
+        }
+      ]
+    },
+    {
+      "name": "t310001019",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "俺は負けたら\r\n",
+            "いいんですね？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000101900"
+        }
+      ]
+    },
+    {
+      "name": "t310001020",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "何だ\n",
+            "わざと手加減するとでも言いたげだな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000102000"
+        }
+      ]
+    },
+    {
+      "name": "t310001021",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000102100"
+        }
+      ]
+    },
+    {
+      "name": "t310001022",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "本気で来い\r\n",
+            "わざわざ手を抜かなくても\r\n",
+            "君に勝てることを証明しよう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000102200"
+        }
+      ]
+    },
+    {
+      "name": "t310001023",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "いえ\r\n",
+            "そのような必要はありません"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000102300"
+        }
+      ]
+    },
+    {
+      "name": "t310001024",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "手を抜いたかどうかなど\r\n",
+            "すぐに分かるからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000102400"
+        }
+      ]
+    },
+    {
+      "name": "t310001025",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "待って下さい\r\n",
+            "そんなつもりで\r\n",
+            "言ったわけではありません"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000102500"
+        }
+      ]
+    },
+    {
+      "name": "t310001026",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "では\r\n",
+            "健闘を祈る"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000102600"
+        }
+      ]
+    },
+    {
+      "name": "t310001027",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "摩利・深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000102700"
+        }
+      ]
+    },
+    {
+      "name": "t310001028",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まったく……\r\n",
+            "いい度胸をしているとしか言いようがないな\r\n",
+            "風紀を取り仕切るあたしに対する挑戦か？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000102800"
+        }
+      ]
+    },
+    {
+      "name": "t310001029",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000102900"
+        }
+      ]
+    },
+    {
+      "name": "t310001030",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "系統外魔法か古式魔法？\r\n",
+            "いや……\r\n",
+            "こうなると魔法かどうかすら怪しいぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000103000"
+        }
+      ]
+    },
+    {
+      "name": "t310001031",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "もしかして\r\n",
+            "この特別授業についてですか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000103100"
+        }
+      ]
+    },
+    {
+      "name": "t310001032",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "司波のことだ\r\n",
+            "既に気付いているのだろ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000103200"
+        }
+      ]
+    },
+    {
+      "name": "t310001033",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業は繰り返し行われている\r\n",
+            "我々にはそれに参加したかすかな記憶がある\r\n",
+            "全くもって不気味な話だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000103300"
+        }
+      ]
+    },
+    {
+      "name": "t310001034",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "はい\r\n",
+            "ただし今のところ認識しているのは\r\n",
+            "わたしと渡辺先輩だけだと思われます"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000103400"
+        }
+      ]
+    },
+    {
+      "name": "t310001035",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "情報を拡散するのはやめておいた方が賢明か\r\n",
+            "参加者の中にこの異常事態の仕掛け人が\r\n",
+            "いるやもしれんからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000103500"
+        }
+      ]
+    },
+    {
+      "name": "t310001036",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "となると\r\n",
+            "我々だけで解決するしかないな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000103600"
+        }
+      ]
+    },
+    {
+      "name": "t310001037",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000103700"
+        }
+      ]
+    },
+    {
+      "name": "t310001038",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "首謀者をあぶり出して叩きつぶす\r\n",
+            "あたしに無断でこのような\r\n",
+            "所行を許すわけにはいかん！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000103800"
+        }
+      ]
+    },
+    {
+      "name": "t310001039",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "お手伝いします\r\n",
+            "渡辺先輩"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000103900"
+        }
+      ]
+    },
+    {
+      "name": "t310001040",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000104000"
+        }
+      ]
+    },
+    {
+      "name": "t310001041",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "首謀者を検挙するのは\r\n",
+            "実践テスト終了後がよかろう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000104100"
+        }
+      ]
+    },
+    {
+      "name": "t310001042",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000104200"
+        }
+      ]
+    },
+    {
+      "name": "t310001043",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだ\r\n",
+            "敵が動くとしたら\n",
+            "そのタイミングであろうからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000104300"
+        }
+      ]
+    },
+    {
+      "name": "t310001044",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "作戦は如何いたします？\r\n",
+            "何ならわたしが立案いたしましょうか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000104400"
+        }
+      ]
+    },
+    {
+      "name": "t310001045",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "いや\r\n",
+            "あたしに考えがある"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000104500"
+        }
+      ]
+    },
+    {
+      "name": "t310001046",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あたしが勝利した瞬間\r\n",
+            "衆目の視線が集まるそのタイミングで\r\n",
+            "周辺の視界が不良になるようにしよう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000104600"
+        }
+      ]
+    },
+    {
+      "name": "t310001047",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その隙に乗じて\r\n",
+            "心当たりを徹底的に捜索する\r\n",
+            "情報は司波とも共有しておこう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000104700"
+        }
+      ]
+    },
+    {
+      "name": "t310001048",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "わかりました\r\n",
+            "視界不良と同時に\r\n",
+            "わたしも行動開始ですね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000104800"
+        }
+      ]
+    },
+    {
+      "name": "t310001049",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "敵を攪乱する必要もある\r\n",
+            "個別に首謀者の検挙を行うぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000104900"
+        }
+      ]
+    },
+    {
+      "name": "t310001050",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それとな\r\n",
+            "テストは本気で戦う\r\n",
+            "手を抜いたら敵に気取られるからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000105000"
+        }
+      ]
+    },
+    {
+      "name": "t310001051",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000105100"
+        }
+      ]
+    },
+    {
+      "name": "t310001052",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ふっ……\r\n",
+            "にしてもな……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000105200"
+        }
+      ]
+    },
+    {
+      "name": "t310001053",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000105300"
+        }
+      ]
+    },
+    {
+      "name": "t310001054",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "いや\n",
+            "何でもない"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000105400"
+        }
+      ]
+    },
+    {
+      "name": "t310001055",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（司波深雪に真剣勝負で勝利か……\r\n",
+            "　我ながら高いハードルを設置したものだ）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000105500"
+        }
+      ]
+    },
+    {
+      "name": "t310001056",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "摩利・エリカ"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000105600"
+        }
+      ]
+    },
+    {
+      "name": "t310001057",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まったく……\r\n",
+            "いい度胸をしているとしか言いようがないな\r\n",
+            "風紀を取り仕切るあたしに対する挑戦か？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000105700"
+        }
+      ]
+    },
+    {
+      "name": "t310001058",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000105800"
+        }
+      ]
+    },
+    {
+      "name": "t310001059",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "系統外魔法か古式魔法？\r\n",
+            "いや……\r\n",
+            "こうなると魔法かどうかすら怪しいぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000105900"
+        }
+      ]
+    },
+    {
+      "name": "t310001060",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ぶつぶつ言ってると思ったら……\r\n",
+            "この特別授業についてのことですか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000106000"
+        }
+      ]
+    },
+    {
+      "name": "t310001061",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "エリカは\r\n",
+            "既に気付いているのだろ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000106100"
+        }
+      ]
+    },
+    {
+      "name": "t310001062",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業は繰り返し行われている\r\n",
+            "我々にはそれに参加したかすかな記憶がある\r\n",
+            "全くもって不気味な話だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000106200"
+        }
+      ]
+    },
+    {
+      "name": "t310001063",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうですね\n",
+            "けどそれに気付いているのはあたしたちだけ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000106300"
+        }
+      ]
+    },
+    {
+      "name": "t310001064",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "情報を拡散するのはやめておいた方が賢明か\r\n",
+            "参加者の中にこの異常事態の仕掛け人が\r\n",
+            "いるやもしれんからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000106400"
+        }
+      ]
+    },
+    {
+      "name": "t310001065",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "となると\r\n",
+            "我々だけで解決するしかないな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000106500"
+        }
+      ]
+    },
+    {
+      "name": "t310001066",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000106600"
+        }
+      ]
+    },
+    {
+      "name": "t310001067",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "首謀者をあぶり出して叩きつぶす\r\n",
+            "あたしに無断でこのような\r\n",
+            "所行を許すわけにはいかん！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000106700"
+        }
+      ]
+    },
+    {
+      "name": "t310001068",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000106800"
+        }
+      ]
+    },
+    {
+      "name": "t310001069",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ああ\r\n",
+            "頼んだぞエリカ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000106900"
+        }
+      ]
+    },
+    {
+      "name": "t310001070",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "首謀者を検挙するのは\r\n",
+            "実践テスト終了後がよかろう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000107000"
+        }
+      ]
+    },
+    {
+      "name": "t310001071",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000107100"
+        }
+      ]
+    },
+    {
+      "name": "t310001072",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだ\r\n",
+            "敵が動くとしたら\n",
+            "そのタイミングであろうからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000107200"
+        }
+      ]
+    },
+    {
+      "name": "t310001073",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "どうやってとっ捕まえますか？\r\n",
+            "作戦なら用意しますけど"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000107300"
+        }
+      ]
+    },
+    {
+      "name": "t310001074",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "いや\r\n",
+            "あたしに考えがある"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000107400"
+        }
+      ]
+    },
+    {
+      "name": "t310001075",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あたしが勝利した瞬間\r\n",
+            "衆目の視線が集まるそのタイミングで\r\n",
+            "周辺の視界が不良になるようにしよう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000107500"
+        }
+      ]
+    },
+    {
+      "name": "t310001076",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その隙に乗じて\r\n",
+            "心当たりを徹底的に捜索する\r\n",
+            "情報はエリカとも共有しておこう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000107600"
+        }
+      ]
+    },
+    {
+      "name": "t310001077",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "了解です\r\n",
+            "視界が遮られたと同時に\r\n",
+            "捜索をスタートするんですね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000107700"
+        }
+      ]
+    },
+    {
+      "name": "t310001078",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "敵を攪乱する必要もある\r\n",
+            "個別に首謀者の検挙を行うぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000107800"
+        }
+      ]
+    },
+    {
+      "name": "t310001079",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それとな\r\n",
+            "テストは本気で戦う\r\n",
+            "手を抜いたら敵に気取られるからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000107900"
+        }
+      ]
+    },
+    {
+      "name": "t310001080",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "いいでしょう！\r\n",
+            "腕が鳴ります！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000108000"
+        }
+      ]
+    },
+    {
+      "name": "t310001081",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "摩利・レオ"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000108100"
+        }
+      ]
+    },
+    {
+      "name": "t310001082",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まったく……\r\n",
+            "いい度胸をしているとしか言いようがないな\r\n",
+            "風紀を取り仕切るあたしに対する挑戦か？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000108200"
+        }
+      ]
+    },
+    {
+      "name": "t310001083",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "どうしました\r\n",
+            "渡辺先輩？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000108300"
+        }
+      ]
+    },
+    {
+      "name": "t310001084",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "系統外魔法か古式魔法？\r\n",
+            "いや……\r\n",
+            "こうなると魔法かどうかすら怪しいぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000108400"
+        }
+      ]
+    },
+    {
+      "name": "t310001085",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まさか……\r\n",
+            "この特別授業についてですか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000108500"
+        }
+      ]
+    },
+    {
+      "name": "t310001086",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "西城も\r\n",
+            "既に気付いているのだろ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000108600"
+        }
+      ]
+    },
+    {
+      "name": "t310001087",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業は繰り返し行われている\r\n",
+            "我々にはそれに参加したかすかな記憶がある\r\n",
+            "全くもって不気味な話だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000108700"
+        }
+      ]
+    },
+    {
+      "name": "t310001088",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ええ\r\n",
+            "だけどみんなは\r\n",
+            "まだ気付いていないみたいです"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000108800"
+        }
+      ]
+    },
+    {
+      "name": "t310001089",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "情報を拡散するのはやめておいた方が賢明か\r\n",
+            "参加者の中にこの異常事態の仕掛け人が\r\n",
+            "いるやもしれんからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000108900"
+        }
+      ]
+    },
+    {
+      "name": "t310001090",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "となると\r\n",
+            "我々だけで解決するしかないな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000109000"
+        }
+      ]
+    },
+    {
+      "name": "t310001091",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "どうします？\r\n",
+            "どんな手を打ちますか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000109100"
+        }
+      ]
+    },
+    {
+      "name": "t310001092",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "首謀者をあぶり出して叩きつぶす\r\n",
+            "あたしに無断でこのような\r\n",
+            "所行を許すわけにはいかん！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000109200"
+        }
+      ]
+    },
+    {
+      "name": "t310001093",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "お手伝いします！\r\n",
+            "いえ\r\n",
+            "させて下さい！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000109300"
+        }
+      ]
+    },
+    {
+      "name": "t310001094",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ああ\r\n",
+            "頼りにしてるぞ西城"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000109400"
+        }
+      ]
+    },
+    {
+      "name": "t310001095",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "首謀者を検挙するのは\r\n",
+            "実践テスト終了後がよかろう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000109500"
+        }
+      ]
+    },
+    {
+      "name": "t310001096",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000109600"
+        }
+      ]
+    },
+    {
+      "name": "t310001097",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだ\r\n",
+            "敵が動くとしたら\n",
+            "そのタイミングであろうからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000109700"
+        }
+      ]
+    },
+    {
+      "name": "t310001098",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "どうしましょうか？\r\n",
+            "みんなの前でこの事実を暴露するとか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000109800"
+        }
+      ]
+    },
+    {
+      "name": "t310001099",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "いや\r\n",
+            "あたしに考えがある"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000109900"
+        }
+      ]
+    },
+    {
+      "name": "t310001100",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あたしが勝利した瞬間\r\n",
+            "衆目の視線が集まるそのタイミングで\r\n",
+            "周辺の視界が不良になるようにしよう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000110000"
+        }
+      ]
+    },
+    {
+      "name": "t310001101",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その隙に乗じて\r\n",
+            "心当たりを徹底的に捜索する\r\n",
+            "情報は西城とも共有しておこう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000110100"
+        }
+      ]
+    },
+    {
+      "name": "t310001102",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そういう手ですね\r\n",
+            "了解しました！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000110200"
+        }
+      ]
+    },
+    {
+      "name": "t310001103",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "敵を攪乱する必要もある\r\n",
+            "個別に首謀者の検挙を行うぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000110300"
+        }
+      ]
+    },
+    {
+      "name": "t310001104",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それとな\r\n",
+            "テストは本気で戦う\r\n",
+            "手を抜いたら敵に気取られるからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000110400"
+        }
+      ]
+    },
+    {
+      "name": "t310001105",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そりゃ望むところです！\r\n",
+            "実践テストが楽しみになってきましたよ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000110500"
+        }
+      ]
+    },
+    {
+      "name": "t310001106",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "摩利・幹比古"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000110600"
+        }
+      ]
+    },
+    {
+      "name": "t310001107",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まったく……\r\n",
+            "いい度胸をしているとしか言いようがないな\r\n",
+            "風紀を取り仕切るあたしに対する挑戦か？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000110700"
+        }
+      ]
+    },
+    {
+      "name": "t310001108",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "渡辺先輩？\r\n",
+            "どうしました？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000110800"
+        }
+      ]
+    },
+    {
+      "name": "t310001109",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "系統外魔法か古式魔法？\r\n",
+            "いや……\r\n",
+            "こうなると魔法かどうかすら怪しいぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000110900"
+        }
+      ]
+    },
+    {
+      "name": "t310001110",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "もしかするとデジャブ現象についてですか？\r\n",
+            "この特別授業に伴って発生している"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000111000"
+        }
+      ]
+    },
+    {
+      "name": "t310001111",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "吉田も\r\n",
+            "既に気付いているのだろ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000111100"
+        }
+      ]
+    },
+    {
+      "name": "t310001112",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業は繰り返し行われている\r\n",
+            "我々にはそれに参加したかすかな記憶がある\r\n",
+            "全くもって不気味な話だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000111200"
+        }
+      ]
+    },
+    {
+      "name": "t310001113",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "はい\n",
+            "しかもみんなはまだ気付いてません\n",
+            "今のところ僕と渡辺先輩だけのようです"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000111300"
+        }
+      ]
+    },
+    {
+      "name": "t310001114",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "情報を拡散するのはやめておいた方が賢明か\r\n",
+            "参加者の中にこの異常事態の仕掛け人が\r\n",
+            "いるやもしれんからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000111400"
+        }
+      ]
+    },
+    {
+      "name": "t310001115",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "となると\r\n",
+            "我々だけで解決するしかないな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000111500"
+        }
+      ]
+    },
+    {
+      "name": "t310001116",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ええ\r\n",
+            "これは明らかに犯罪行為ですしね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000111600"
+        }
+      ]
+    },
+    {
+      "name": "t310001117",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "首謀者をあぶり出して叩きつぶす\r\n",
+            "あたしに無断でこのような\r\n",
+            "所行を許すわけにはいかん！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000111700"
+        }
+      ]
+    },
+    {
+      "name": "t310001118",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "僕もご一緒させて下さい\r\n",
+            "渡辺先輩をサポートします"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000111800"
+        }
+      ]
+    },
+    {
+      "name": "t310001119",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ああ\r\n",
+            "頼りにしてるぞ吉田"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000111900"
+        }
+      ]
+    },
+    {
+      "name": "t310001120",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "首謀者を検挙するのは\r\n",
+            "実践テスト終了後がよかろう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000112000"
+        }
+      ]
+    },
+    {
+      "name": "t310001121",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "敵は監視をしてる\r\n",
+            "そういうことでしょうか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000112100"
+        }
+      ]
+    },
+    {
+      "name": "t310001122",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだ\r\n",
+            "敵が動くとしたら\n",
+            "そのタイミングであろうからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000112200"
+        }
+      ]
+    },
+    {
+      "name": "t310001123",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "罠を張りますか？\r\n",
+            "いくつか効果的なものがありますが"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000112300"
+        }
+      ]
+    },
+    {
+      "name": "t310001124",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "いや\r\n",
+            "あたしに考えがある"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000112400"
+        }
+      ]
+    },
+    {
+      "name": "t310001125",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あたしが勝利した瞬間\r\n",
+            "衆目の視線が集まるそのタイミングで\r\n",
+            "周辺の視界が不良になるようにしよう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000112500"
+        }
+      ]
+    },
+    {
+      "name": "t310001126",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その隙に乗じて\r\n",
+            "心当たりを徹底的に捜索する\r\n",
+            "情報は吉田とも共有しておこう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000112600"
+        }
+      ]
+    },
+    {
+      "name": "t310001127",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "了解です\r\n",
+            "情報は後ほど下さい"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000112700"
+        }
+      ]
+    },
+    {
+      "name": "t310001128",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "敵を攪乱する必要もある\r\n",
+            "個別に首謀者の検挙を行うぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000112800"
+        }
+      ]
+    },
+    {
+      "name": "t310001129",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それとな\r\n",
+            "テストは本気で戦う\r\n",
+            "手を抜いたら敵に気取られるからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000112900"
+        }
+      ]
+    },
+    {
+      "name": "t310001130",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "うっ……\r\n",
+            "わ わかりました……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000113000"
+        }
+      ]
+    },
+    {
+      "name": "t310001131",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "摩利・ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000113100"
+        }
+      ]
+    },
+    {
+      "name": "t310001132",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まったく……\r\n",
+            "いい度胸をしているとしか言いようがないな\r\n",
+            "風紀を取り仕切るあたしに対する挑戦か？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000113200"
+        }
+      ]
+    },
+    {
+      "name": "t310001133",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "渡辺先輩……\r\n",
+            "挑戦って？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000113300"
+        }
+      ]
+    },
+    {
+      "name": "t310001134",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "系統外魔法か古式魔法？\r\n",
+            "いや……\r\n",
+            "こうなると魔法かどうかすら怪しいぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000113400"
+        }
+      ]
+    },
+    {
+      "name": "t310001135",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あっ……\r\n",
+            "まさかこの特別授業についてですか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000113500"
+        }
+      ]
+    },
+    {
+      "name": "t310001136",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "光井も\r\n",
+            "既に気付いているのだろ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000113600"
+        }
+      ]
+    },
+    {
+      "name": "t310001137",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業は繰り返し行われている\r\n",
+            "我々にはそれに参加したかすかな記憶がある\r\n",
+            "全くもって不気味な話だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000113700"
+        }
+      ]
+    },
+    {
+      "name": "t310001138",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ええ\r\n",
+            "疲れてるから気のせいだと思ってました\r\n",
+            "異常事態は確かに発生してるんですね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000113800"
+        }
+      ]
+    },
+    {
+      "name": "t310001139",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "情報を拡散するのはやめておいた方が賢明か\r\n",
+            "参加者の中にこの異常事態の仕掛け人が\r\n",
+            "いるやもしれんからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000113900"
+        }
+      ]
+    },
+    {
+      "name": "t310001140",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "となると\r\n",
+            "我々だけで解決するしかないな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000114000"
+        }
+      ]
+    },
+    {
+      "name": "t310001141",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000114100"
+        }
+      ]
+    },
+    {
+      "name": "t310001142",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "首謀者をあぶり出して叩きつぶす\r\n",
+            "あたしに無断でこのような\r\n",
+            "所行を許すわけにはいかん！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000114200"
+        }
+      ]
+    },
+    {
+      "name": "t310001143",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうですね\r\n",
+            "こんな不気味なの許せませんね\r\n",
+            "お手伝いさせて下さい"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000114300"
+        }
+      ]
+    },
+    {
+      "name": "t310001144",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ああ\r\n",
+            "アテにさせてもらうぞ光井"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000114400"
+        }
+      ]
+    },
+    {
+      "name": "t310001145",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "首謀者を検挙するのは\r\n",
+            "実践テスト終了後がよかろう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000114500"
+        }
+      ]
+    },
+    {
+      "name": "t310001146",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000114600"
+        }
+      ]
+    },
+    {
+      "name": "t310001147",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだ\r\n",
+            "敵が動くとしたら\n",
+            "そのタイミングであろうからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000114700"
+        }
+      ]
+    },
+    {
+      "name": "t310001148",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "どうやって敵を見つけ出そう……\r\n",
+            "見当もつかないなぁ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000114800"
+        }
+      ]
+    },
+    {
+      "name": "t310001149",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000114900"
+        }
+      ]
+    },
+    {
+      "name": "t310001150",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あたしが勝利した瞬間\r\n",
+            "衆目の視線が集まるそのタイミングで\r\n",
+            "周辺の視界が不良になるようにしよう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000115000"
+        }
+      ]
+    },
+    {
+      "name": "t310001151",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その隙に乗じて\r\n",
+            "心当たりを徹底的に捜索する\r\n",
+            "情報は光井とも共有しておこう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000115100"
+        }
+      ]
+    },
+    {
+      "name": "t310001152",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "お願いします\r\n",
+            "渡辺先輩"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000115200"
+        }
+      ]
+    },
+    {
+      "name": "t310001153",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "敵を攪乱する必要もある\r\n",
+            "個別に首謀者の検挙を行うぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000115300"
+        }
+      ]
+    },
+    {
+      "name": "t310001154",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それとな\r\n",
+            "テストは本気で戦う\r\n",
+            "手を抜いたら敵に気取られるからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000115400"
+        }
+      ]
+    },
+    {
+      "name": "t310001155",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ほ 本気ですね……\r\n",
+            "そ そりゃそうですよね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000115500"
+        }
+      ]
+    },
+    {
+      "name": "t310001156",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "摩利・雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000115600"
+        }
+      ]
+    },
+    {
+      "name": "t310001157",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まったく……\r\n",
+            "いい度胸をしているとしか言いようがないな\r\n",
+            "風紀を取り仕切るあたしに対する挑戦か？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000115700"
+        }
+      ]
+    },
+    {
+      "name": "t310001158",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000115800"
+        }
+      ]
+    },
+    {
+      "name": "t310001159",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "系統外魔法か古式魔法？\r\n",
+            "いや……\r\n",
+            "こうなると魔法かどうかすら怪しいぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000115900"
+        }
+      ]
+    },
+    {
+      "name": "t310001160",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000116000"
+        }
+      ]
+    },
+    {
+      "name": "t310001161",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "北山も\r\n",
+            "とうに気付いているのだろ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000116100"
+        }
+      ]
+    },
+    {
+      "name": "t310001162",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業は繰り返し行われている\r\n",
+            "我々にはそれに参加したかすかな記憶がある\r\n",
+            "全くもって不気味な話だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000116200"
+        }
+      ]
+    },
+    {
+      "name": "t310001163",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000116300"
+        }
+      ]
+    },
+    {
+      "name": "t310001164",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "情報を拡散するのはやめておいた方が賢明か\r\n",
+            "参加者の中にこの異常事態の仕掛け人が\r\n",
+            "いるやもしれんからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000116400"
+        }
+      ]
+    },
+    {
+      "name": "t310001165",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "となると\r\n",
+            "我々だけで解決するしかないな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000116500"
+        }
+      ]
+    },
+    {
+      "name": "t310001166",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000116600"
+        }
+      ]
+    },
+    {
+      "name": "t310001167",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "首謀者をあぶり出して叩きつぶす\r\n",
+            "あたしに無断でこのような\r\n",
+            "所行を許すわけにはいかん！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000116700"
+        }
+      ]
+    },
+    {
+      "name": "t310001168",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000116800"
+        }
+      ]
+    },
+    {
+      "name": "t310001169",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ああ\r\n",
+            "頼りにさせてもらうぞ北山"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000116900"
+        }
+      ]
+    },
+    {
+      "name": "t310001170",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "首謀者を検挙するのは\r\n",
+            "実践テスト終了後がよかろう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000117000"
+        }
+      ]
+    },
+    {
+      "name": "t310001171",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000117100"
+        }
+      ]
+    },
+    {
+      "name": "t310001172",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "敵が動くとしたら\n",
+            "そのタイミングであるからだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000117200"
+        }
+      ]
+    },
+    {
+      "name": "t310001173",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "方法は？\r\n",
+            "どうやって叩きつぶします？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000117300"
+        }
+      ]
+    },
+    {
+      "name": "t310001174",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000117400"
+        }
+      ]
+    },
+    {
+      "name": "t310001175",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あたしが勝利した瞬間\r\n",
+            "衆目の視線が集まるそのタイミングで\r\n",
+            "周辺の視界が不良になるようにしよう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000117500"
+        }
+      ]
+    },
+    {
+      "name": "t310001176",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その隙に乗じて\r\n",
+            "心当たりを徹底的に捜索する\r\n",
+            "情報は北山とも共有しておこう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000117600"
+        }
+      ]
+    },
+    {
+      "name": "t310001177",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000117700"
+        }
+      ]
+    },
+    {
+      "name": "t310001178",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "敵を攪乱する必要もある\r\n",
+            "個別に首謀者の検挙を行うぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000117800"
+        }
+      ]
+    },
+    {
+      "name": "t310001179",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それとな\r\n",
+            "テストは本気で戦う\r\n",
+            "手を抜いたら敵に気取られるからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000117900"
+        }
+      ]
+    },
+    {
+      "name": "t310001180",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000118000"
+        }
+      ]
+    },
+    {
+      "name": "t310001181",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "摩利・真由美"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000118100"
+        }
+      ]
+    },
+    {
+      "name": "t310001182",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まったく……\r\n",
+            "いい度胸をしているとしか言いようがないな\r\n",
+            "風紀を取り仕切るあたしに対する挑戦か？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000118200"
+        }
+      ]
+    },
+    {
+      "name": "t310001183",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000118300"
+        }
+      ]
+    },
+    {
+      "name": "t310001184",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "系統外魔法か古式魔法？\r\n",
+            "いや……\r\n",
+            "こうなると魔法かどうかすら怪しいぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000118400"
+        }
+      ]
+    },
+    {
+      "name": "t310001185",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうね\r\n",
+            "現時点ではわからないことが多いわね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000118500"
+        }
+      ]
+    },
+    {
+      "name": "t310001186",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000118600"
+        }
+      ]
+    },
+    {
+      "name": "t310001187",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業は繰り返し行われている\r\n",
+            "我々にはそれに参加したかすかな記憶がある\r\n",
+            "全くもって不気味な話だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000118700"
+        }
+      ]
+    },
+    {
+      "name": "t310001188",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "気付いているのは私と摩利だけみたいね\n",
+            "他のみんなはまだのようね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000118800"
+        }
+      ]
+    },
+    {
+      "name": "t310001189",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "情報を拡散するのはやめておいた方が賢明か\r\n",
+            "参加者の中にこの異常事態の仕掛け人が\r\n",
+            "いるやもしれんからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000118900"
+        }
+      ]
+    },
+    {
+      "name": "t310001190",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "となると\r\n",
+            "我々だけで解決するしかないな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000119000"
+        }
+      ]
+    },
+    {
+      "name": "t310001191",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000119100"
+        }
+      ]
+    },
+    {
+      "name": "t310001192",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "首謀者をあぶり出して叩きつぶす\r\n",
+            "あたしに無断でこのような\r\n",
+            "所行を許すわけにはいかん！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000119200"
+        }
+      ]
+    },
+    {
+      "name": "t310001193",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうこなくっちゃ\r\n",
+            "頼りにしてるわよ\r\n",
+            "風紀委員長"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000119300"
+        }
+      ]
+    },
+    {
+      "name": "t310001194",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ああ真由美\r\n",
+            "こちらこそアテにさせてもらうぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000119400"
+        }
+      ]
+    },
+    {
+      "name": "t310001195",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだな……\r\n",
+            "首謀者を検挙するのは\r\n",
+            "実践テスト終了後でいいだろう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000119500"
+        }
+      ]
+    },
+    {
+      "name": "t310001196",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000119600"
+        }
+      ]
+    },
+    {
+      "name": "t310001197",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "敵が動くとしたら\n",
+            "そのタイミングである可能性が高いからだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000119700"
+        }
+      ]
+    },
+    {
+      "name": "t310001198",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "なるほど\r\n",
+            "じゃあテストが終わったらどうするの？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000119800"
+        }
+      ]
+    },
+    {
+      "name": "t310001199",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000119900"
+        }
+      ]
+    },
+    {
+      "name": "t310001200",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あたしが勝利した瞬間\r\n",
+            "衆目の視線が集まるそのタイミングで\r\n",
+            "周辺の視界が不良になるようにしよう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000120000"
+        }
+      ]
+    },
+    {
+      "name": "t310001201",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その隙に乗じて\r\n",
+            "心当たりを徹底的に捜索する\r\n",
+            "情報は真由美とも共有しておこう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000120100"
+        }
+      ]
+    },
+    {
+      "name": "t310001202",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000120200"
+        }
+      ]
+    },
+    {
+      "name": "t310001203",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "敵を攪乱する必要もある\r\n",
+            "個別に首謀者の検挙を行うぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000120300"
+        }
+      ]
+    },
+    {
+      "name": "t310001204",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それとな\r\n",
+            "テストは本気で戦う\r\n",
+            "手を抜いたら敵に気取られるからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000120400"
+        }
+      ]
+    },
+    {
+      "name": "t310001205",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "うふふ\r\n",
+            "楽しい実践テストになりそうね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000120500"
+        }
+      ]
+    },
+    {
+      "name": "t310001206",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "摩利・服部"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000120600"
+        }
+      ]
+    },
+    {
+      "name": "t310001207",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まったく……\r\n",
+            "いい度胸をしているとしか言いようがないな\r\n",
+            "風紀を取り仕切るあたしに対する挑戦か？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000120700"
+        }
+      ]
+    },
+    {
+      "name": "t310001208",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "渡辺先輩？\r\n",
+            "まさか……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000120800"
+        }
+      ]
+    },
+    {
+      "name": "t310001209",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "系統外魔法か古式魔法？\r\n",
+            "いや……\r\n",
+            "こうなると魔法かどうかすら怪しいぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000120900"
+        }
+      ]
+    },
+    {
+      "name": "t310001210",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "特別授業で発生している異変のことですか？\r\n",
+            "渡辺先輩もお気づきで？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000121000"
+        }
+      ]
+    },
+    {
+      "name": "t310001211",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "服部も\r\n",
+            "既に気付いているのだろ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000121100"
+        }
+      ]
+    },
+    {
+      "name": "t310001212",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業は繰り返し行われている\r\n",
+            "我々にはそれに参加したかすかな記憶がある\r\n",
+            "全くもって不気味な話だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000121200"
+        }
+      ]
+    },
+    {
+      "name": "t310001213",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "はい\n",
+            "ただし記憶があるのは私と先輩だけです\n",
+            "他の生徒たちは気付いていません"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000121300"
+        }
+      ]
+    },
+    {
+      "name": "t310001214",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "情報を拡散するのはやめておいた方が賢明か\r\n",
+            "参加者の中にこの異常事態の仕掛け人が\r\n",
+            "いるやもしれんからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000121400"
+        }
+      ]
+    },
+    {
+      "name": "t310001215",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "となると\r\n",
+            "我々だけで解決するしかないな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000121500"
+        }
+      ]
+    },
+    {
+      "name": "t310001216",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ですね\r\n",
+            "このまま放置はできません"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000121600"
+        }
+      ]
+    },
+    {
+      "name": "t310001217",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "首謀者をあぶり出して叩きつぶす\r\n",
+            "あたしに無断でこのような\r\n",
+            "所行を許すわけにはいかん！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000121700"
+        }
+      ]
+    },
+    {
+      "name": "t310001218",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "お供します\r\n",
+            "生徒会副会長として\r\n",
+            "是非とも協力させて下さい"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000121800"
+        }
+      ]
+    },
+    {
+      "name": "t310001219",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ああ\r\n",
+            "服部にも力になってもらうぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000121900"
+        }
+      ]
+    },
+    {
+      "name": "t310001220",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "首謀者を検挙するのは\r\n",
+            "実践テスト終了後がよかろう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000122000"
+        }
+      ]
+    },
+    {
+      "name": "t310001221",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "なぜですか？\r\n",
+            "今すぐでも私は大丈夫ですが"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000122100"
+        }
+      ]
+    },
+    {
+      "name": "t310001222",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "いいや\r\n",
+            "敵が動くタイミングを見計らうべきだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000122200"
+        }
+      ]
+    },
+    {
+      "name": "t310001223",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "なるほど\r\n",
+            "では具体的な作戦は？\r\n",
+            "私が考えましょうか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000122300"
+        }
+      ]
+    },
+    {
+      "name": "t310001224",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "いや\r\n",
+            "あたしに考えがある"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000122400"
+        }
+      ]
+    },
+    {
+      "name": "t310001225",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あたしが勝利した瞬間\r\n",
+            "衆目の視線が集まるそのタイミングで\r\n",
+            "周辺の視界が不良になるようにしよう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000122500"
+        }
+      ]
+    },
+    {
+      "name": "t310001226",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その隙に乗じて\r\n",
+            "心当たりを徹底的に捜索する\r\n",
+            "情報は服部とも共有しておこう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000122600"
+        }
+      ]
+    },
+    {
+      "name": "t310001227",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "わかりました\r\n",
+            "視界不良が開始の合図ですね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000122700"
+        }
+      ]
+    },
+    {
+      "name": "t310001228",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "敵を攪乱する必要もある\r\n",
+            "個別に首謀者の検挙を行うぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000122800"
+        }
+      ]
+    },
+    {
+      "name": "t310001229",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それとな\r\n",
+            "テストは本気で戦う\r\n",
+            "手を抜いたら敵に気取られるからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000122900"
+        }
+      ]
+    },
+    {
+      "name": "t310001230",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ええ\r\n",
+            "こちらも手加減抜きでいきます"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000123000"
+        }
+      ]
+    },
+    {
+      "name": "t310001231",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "摩利・英美"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000123100"
+        }
+      ]
+    },
+    {
+      "name": "t310001232",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まったく……\r\n",
+            "いい度胸をしているとしか言いようがないな\r\n",
+            "風紀を取り仕切るあたしに対する挑戦か？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000123200"
+        }
+      ]
+    },
+    {
+      "name": "t310001233",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000123300"
+        }
+      ]
+    },
+    {
+      "name": "t310001234",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "系統外魔法か古式魔法？\r\n",
+            "いや……\r\n",
+            "こうなると魔法かどうかすら怪しいぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000123400"
+        }
+      ]
+    },
+    {
+      "name": "t310001235",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あっ……\r\n",
+            "それってもしかすると渡辺先輩も？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000123500"
+        }
+      ]
+    },
+    {
+      "name": "t310001236",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "明智も\r\n",
+            "既に気付いているのだろ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000123600"
+        }
+      ]
+    },
+    {
+      "name": "t310001237",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業は繰り返し行われている\r\n",
+            "我々にはそれに参加したかすかな記憶がある\r\n",
+            "全くもって不気味な話だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000123700"
+        }
+      ]
+    },
+    {
+      "name": "t310001238",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ですよね！\r\n",
+            "私もそう感じてたんです！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000123800"
+        }
+      ]
+    },
+    {
+      "name": "t310001239",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "情報を拡散するのはやめておいた方が賢明か\r\n",
+            "参加者の中にこの異常事態の仕掛け人が\r\n",
+            "いるやもしれんからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000123900"
+        }
+      ]
+    },
+    {
+      "name": "t310001240",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "となると\r\n",
+            "我々だけで解決するしかないな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000124000"
+        }
+      ]
+    },
+    {
+      "name": "t310001241",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "はい\r\n",
+            "みんなを疑うのは辛いですけど\r\n",
+            "仕方がありませんね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000124100"
+        }
+      ]
+    },
+    {
+      "name": "t310001242",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "首謀者をあぶり出して叩きつぶす\r\n",
+            "あたしに無断でこのような\r\n",
+            "所行を許すわけにはいかん！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000124200"
+        }
+      ]
+    },
+    {
+      "name": "t310001243",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "でしたら私も\r\n",
+            "臨時の風紀委員ってことでお手伝いします"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000124300"
+        }
+      ]
+    },
+    {
+      "name": "t310001244",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ああ\r\n",
+            "明智の力\r\n",
+            "頼りにさせてもらうぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000124400"
+        }
+      ]
+    },
+    {
+      "name": "t310001245",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "首謀者を検挙するのは\r\n",
+            "実践テスト終了後がよかろう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000124500"
+        }
+      ]
+    },
+    {
+      "name": "t310001246",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000124600"
+        }
+      ]
+    },
+    {
+      "name": "t310001247",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "敵が動き出すとしたら\r\n",
+            "おそらくそのタイミングだからだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000124700"
+        }
+      ]
+    },
+    {
+      "name": "t310001248",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうか……\r\n",
+            "特別授業が終わる頃ってことですね\r\n",
+            "作戦はどうしようかなぁ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000124800"
+        }
+      ]
+    },
+    {
+      "name": "t310001249",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000124900"
+        }
+      ]
+    },
+    {
+      "name": "t310001250",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あたしが勝利した瞬間\r\n",
+            "衆目の視線が集まるそのタイミングで\r\n",
+            "周辺の視界が不良になるようにしよう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000125000"
+        }
+      ]
+    },
+    {
+      "name": "t310001251",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その隙に乗じて\r\n",
+            "心当たりを徹底的に捜索する\r\n",
+            "情報は明智とも共有しておこう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000125100"
+        }
+      ]
+    },
+    {
+      "name": "t310001252",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "よろしくお願いします\r\n",
+            "渡辺先輩"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000125200"
+        }
+      ]
+    },
+    {
+      "name": "t310001253",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "敵を攪乱する必要もある\r\n",
+            "個別に首謀者の検挙を行うぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000125300"
+        }
+      ]
+    },
+    {
+      "name": "t310001254",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それとな\r\n",
+            "テストは本気で戦う\r\n",
+            "手を抜いたら敵に気取られるからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000125400"
+        }
+      ]
+    },
+    {
+      "name": "t310001255",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "おおっ！\r\n",
+            "真剣勝負ですね\r\n",
+            "わかりました！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000125500"
+        }
+      ]
+    },
+    {
+      "name": "t310002001",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "摩利・達也"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000200100"
+        }
+      ]
+    },
+    {
+      "name": "t310002002",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（さすがだな達也くん\r\n",
+            "　アイコンタクトだけで\r\n",
+            "　概ね問題がなさそうだ）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000200200"
+        }
+      ]
+    },
+    {
+      "name": "t310002003",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（最後の立ち位置から\r\n",
+            "　捜索範囲を割り振ることも\r\n",
+            "　ちゃんと伝わったと見て間違いない）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000200300"
+        }
+      ]
+    },
+    {
+      "name": "t310002004",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000200400"
+        }
+      ]
+    },
+    {
+      "name": "t310002005",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "摩利・深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000200500"
+        }
+      ]
+    },
+    {
+      "name": "t310002006",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（よし\r\n",
+            "　司波も行動を開始したな\r\n",
+            "　さすがに動きが速い）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000200600"
+        }
+      ]
+    },
+    {
+      "name": "t310002007",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（あたしも負けてられんな\r\n",
+            "　この茶番をさっさと解決してしまおう）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000200700"
+        }
+      ]
+    },
+    {
+      "name": "t310002008",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "摩利・エリカ"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000200800"
+        }
+      ]
+    },
+    {
+      "name": "t310002009",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（エリカは行動を開始したか……\r\n",
+            "　さすがにこういった状況では頼りになる）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000200900"
+        }
+      ]
+    },
+    {
+      "name": "t310002010",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（あたしも負けてられんな\r\n",
+            "　この茶番をさっさと解決してしまおう）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000200700"
+        }
+      ]
+    },
+    {
+      "name": "t310002011",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "摩利・レオ"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000201100"
+        }
+      ]
+    },
+    {
+      "name": "t310002012",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（ん？\r\n",
+            "　西城はもう行動を開始したのか\r\n",
+            "　中々判断の迅速なやつだな）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000201200"
+        }
+      ]
+    },
+    {
+      "name": "t310002013",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（あたしも負けてられんな\r\n",
+            "　この茶番をさっさと解決してしまおう）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000200700"
+        }
+      ]
+    },
+    {
+      "name": "t310002014",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "摩利・幹比古"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000201400"
+        }
+      ]
+    },
+    {
+      "name": "t310002015",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（吉田……\r\n",
+            "　意外とやるな\r\n",
+            "　目配せだけで意図を察知するとは）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000201500"
+        }
+      ]
+    },
+    {
+      "name": "t310002016",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（あたしも負けてられんな\r\n",
+            "　この茶番をさっさと解決してしまおう）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000200700"
+        }
+      ]
+    },
+    {
+      "name": "t310002017",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "摩利・ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000201700"
+        }
+      ]
+    },
+    {
+      "name": "t310002018",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（光井は行動を開始したか\r\n",
+            "　あれで中々素早いな）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000201800"
+        }
+      ]
+    },
+    {
+      "name": "t310002019",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（あたしも負けてられんな\r\n",
+            "　この茶番をさっさと解決してしまおう）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000200700"
+        }
+      ]
+    },
+    {
+      "name": "t310002020",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "摩利・雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000202000"
+        }
+      ]
+    },
+    {
+      "name": "t310002021",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（北山も動き出したな\r\n",
+            "　ああ見えて意外と素早いやつだな\r\n",
+            "　意外と風紀委員向きかもしれん）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000202100"
+        }
+      ]
+    },
+    {
+      "name": "t310002022",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（あたしも負けてられんな\r\n",
+            "　この茶番をさっさと解決してしまおう）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000200700"
+        }
+      ]
+    },
+    {
+      "name": "t310002023",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "摩利・真由美"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000202300"
+        }
+      ]
+    },
+    {
+      "name": "t310002024",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（さすがは真由美だ\r\n",
+            "　こちらの意図を完璧に察した動きだ）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000202400"
+        }
+      ]
+    },
+    {
+      "name": "t310002025",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（やはり何だかんだ言っても\n",
+            "　パートナーとしては最適だな）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000202500"
+        }
+      ]
+    },
+    {
+      "name": "t310002026",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（よし……\r\n",
+            "　それでは捜索に取りかかるか\r\n",
+            "　この馬鹿げた事態を収拾しなければな）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000202600"
+        }
+      ]
+    },
+    {
+      "name": "t310002027",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "摩利・服部"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000202700"
+        }
+      ]
+    },
+    {
+      "name": "t310002028",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（服部は服部で動き出したな\n",
+            "　何もかも段取り通りだ）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000202800"
+        }
+      ]
+    },
+    {
+      "name": "t310002029",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（あたしも負けてられんな\r\n",
+            "　この茶番をさっさと解決してしまおう）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000200700"
+        }
+      ]
+    },
+    {
+      "name": "t310002030",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "摩利・英美"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000203000"
+        }
+      ]
+    },
+    {
+      "name": "t310002031",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（明智は既に行動を開始したか\r\n",
+            "　よし……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000203100"
+        }
+      ]
+    },
+    {
+      "name": "t310002032",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（あたしも負けてられんな\r\n",
+            "　この茶番をさっさと解決してしまおう）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000200700"
+        }
+      ]
+    },
+    {
+      "name": "t310002033",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000203300"
+        }
+      ]
+    },
+    {
+      "name": "t310002034",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（攻撃を受ける前に\r\n",
+            "　相手を捕捉し無効化する）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000203400"
+        }
+      ]
+    },
+    {
+      "name": "t310002035",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（事前に\r\n",
+            "　いくつか怪しい場所の\r\n",
+            "　目星をつけておいたのだが……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000203500"
+        }
+      ]
+    },
+    {
+      "name": "t310002036",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000203600"
+        }
+      ]
+    },
+    {
+      "name": "t310002037",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000203700"
+        }
+      ]
+    },
+    {
+      "name": "t310002038",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "？？？？"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000203800"
+        }
+      ]
+    },
+    {
+      "name": "t310002039",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "？？？？"
+        },
+        {
+          "name": "voice",
+          "line": "voe01000205300"
+        }
+      ]
+    },
+    {
+      "name": "t310002040",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ほう\r\n",
+            "喋るのか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000204000"
+        }
+      ]
+    },
+    {
+      "name": "t310002041",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（これは……\r\n",
+            "　かなり嫌な感じがする……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000204100"
+        }
+      ]
+    },
+    {
+      "name": "t310002042",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "？？？？"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "何の\n",
+            "ご用件でしょう？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe04000205500"
+        }
+      ]
+    },
+    {
+      "name": "t310002043",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "念のため聞いておこう\r\n",
+            "この奇妙な現象\r\n",
+            "貴様が原因だな？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000204300"
+        }
+      ]
+    },
+    {
+      "name": "t310002044",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（こんなものを\r\n",
+            "　格上に感じているのか……？）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000204400"
+        }
+      ]
+    },
+    {
+      "name": "t310002045",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "？？？？"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "これを現象と呼ぶのなら\r\n",
+            "その通りです"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe01000205600"
+        }
+      ]
+    },
+    {
+      "name": "t310002046",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000204600"
+        }
+      ]
+    },
+    {
+      "name": "t310002047",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（だとしても\r\n",
+            "　捨て置くわけにはいかんな）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000204700"
+        }
+      ]
+    },
+    {
+      "name": "t310002048",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "学校の風紀を乱す行為だ\r\n",
+            "規則違反者として\r\n",
+            "ご同行願おう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe31000204800"
+        }
+      ]
+    },
+    {
+      "name": "t310002049",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "？？？？"
+        },
+        {
+          "name": "voice",
+          "line": "voe01000206000"
+        }
+      ]
+    },
+    {
+      "name": "t310002050",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "voice",
+          "line": "voe31000205000"
+        }
+      ]
+    },
+    {
+      "name": "t310002051",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "？？？？"
+        },
+        {
+          "name": "voice",
+          "line": "voe01000206300"
+        }
+      ]
+    }
+  ]
+}
