@@ -1,0 +1,5541 @@
+{
+  "name": "evt000001_Txt.lua",
+  "containers": [
+    {
+      "name": "t000001001",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ナレーション"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "白熱の九校戦を終え\n",
+            "第一高校の生徒たちから\n",
+            "優勝の熱気が冷め始めた頃……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000100100"
+        }
+      ]
+    },
+    {
+      "name": "t000001002",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "みなさんに集まっていただいたのは\r\n",
+            "本校で行われる特別授業への参加を\r\n",
+            "お願いするためです"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000100200"
+        }
+      ]
+    },
+    {
+      "name": "t000001003",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "お願いと言っても\r\n",
+            "これは国家プロジェクトの一環でもあって\r\n",
+            "余程のことがない限り辞退は認められません"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000100300"
+        }
+      ]
+    },
+    {
+      "name": "t000001004",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000100400"
+        }
+      ]
+    },
+    {
+      "name": "t000001005",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（一科生と二科生\r\n",
+            "　合同でやるつもりなのか……？）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000100500"
+        }
+      ]
+    },
+    {
+      "name": "t000001006",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "でも　安心して\r\n",
+            "参加するだけで成績に反映されるし\r\n",
+            "通常授業も出席扱いになるわ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000100600"
+        }
+      ]
+    },
+    {
+      "name": "t000001007",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それって\r\n",
+            "参加したら単位も\r\n",
+            "もらえるってことですか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000100700"
+        }
+      ]
+    },
+    {
+      "name": "t000001008",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "出席数だけが問題なら\r\n",
+            "そうだけど"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000100800"
+        }
+      ]
+    },
+    {
+      "name": "t000001009",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "テストの点数には関係無いから\n",
+            "勉強しないで済むって\n",
+            "わけではないわね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000100900"
+        }
+      ]
+    },
+    {
+      "name": "t000001010",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000101000"
+        }
+      ]
+    },
+    {
+      "name": "t000001011",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "当たり前でしょ！\r\n",
+            "何言ってんだか……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000101100"
+        }
+      ]
+    },
+    {
+      "name": "t000001012",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "オマエこそ\r\n",
+            "こないだの課題\r\n",
+            "危なかったくせに"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000101200"
+        }
+      ]
+    },
+    {
+      "name": "t000001013",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000101300"
+        }
+      ]
+    },
+    {
+      "name": "t000001014",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "柴田　美月"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000101400"
+        }
+      ]
+    },
+    {
+      "name": "t000001015",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "お前たち\r\n",
+            "騒がしいぞ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000101500"
+        }
+      ]
+    },
+    {
+      "name": "t000001016",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "レオ・エリカ・美月"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000101600"
+        }
+      ]
+    },
+    {
+      "name": "t000001017",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000101700"
+        }
+      ]
+    },
+    {
+      "name": "t000001018",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この授業は二人一組で行ってもらいます\r\n",
+            "終了時に順位をつけて\r\n",
+            "最も優秀だったペアは表彰されるそうよ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000101800"
+        }
+      ]
+    },
+    {
+      "name": "t000001019",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000101900"
+        }
+      ]
+    },
+    {
+      "name": "t000001020",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "えぇ\r\n",
+            "落とした単位分くらいは\r\n",
+            "成績の挽回になるかもしれないわね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000102000"
+        }
+      ]
+    },
+    {
+      "name": "t000001021",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "おっ\r\n",
+            "ヤル気でてきた"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000102100"
+        }
+      ]
+    },
+    {
+      "name": "t000001022",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000102200"
+        }
+      ]
+    },
+    {
+      "name": "t000001023",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "で……\r\n",
+            "授業の内容は何ですか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000102300"
+        }
+      ]
+    },
+    {
+      "name": "t000001024",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ＣＡＤの新インターフェースを\r\n",
+            "調整すること\r\n",
+            "そして評価することよ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000102400"
+        }
+      ]
+    },
+    {
+      "name": "t000001025",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "つまり\r\n",
+            "実践テストを行う\r\n",
+            "ということですか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000102500"
+        }
+      ]
+    },
+    {
+      "name": "t000001026",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "危険ではありませんか？\r\n",
+            "国のプロジェクトであれば\r\n",
+            "軍の方が行えば良いと思いますが……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000102600"
+        }
+      ]
+    },
+    {
+      "name": "t000001027",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうね\n",
+            "でも熟練の人間ではインターフェース自体が\n",
+            "優れているかの評価が難しい……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000102700"
+        }
+      ]
+    },
+    {
+      "name": "t000001028",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そこで\r\n",
+            "実践テストを行っても\r\n",
+            "事故にならない程度の技量を有し"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000102800"
+        }
+      ]
+    },
+    {
+      "name": "t000001029",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まだ魔法師としては未熟な人間が\r\n",
+            "必要とされた結果"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000102900"
+        }
+      ]
+    },
+    {
+      "name": "t000001030",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "九校戦優勝校である\r\n",
+            "第一高校に白羽の矢が立ったわけね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000103000"
+        }
+      ]
+    },
+    {
+      "name": "t000001031",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あたし\r\n",
+            "出場してませんけど"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000103100"
+        }
+      ]
+    },
+    {
+      "name": "t000001032",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000103200"
+        }
+      ]
+    },
+    {
+      "name": "t000001033",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "今回扱うインターフェースは\r\n",
+            "モーションキャストと呼ばれる\r\n",
+            "特定の動作によって魔法を起動するものだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000103300"
+        }
+      ]
+    },
+    {
+      "name": "t000001034",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "総合的に運動能力の高い者が\r\n",
+            "適しているので推薦させてもらった"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000103400"
+        }
+      ]
+    },
+    {
+      "name": "t000001035",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ふぅん……\r\n",
+            "これって辞退しても良いんですか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000103500"
+        }
+      ]
+    },
+    {
+      "name": "t000001036",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "先ほど\r\n",
+            "生徒会長の説明にあった通り\r\n",
+            "基本的には認められない"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000103600"
+        }
+      ]
+    },
+    {
+      "name": "t000001037",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "偉そうに……\n",
+            "何か嫌な感じ……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000103700"
+        }
+      ]
+    },
+    {
+      "name": "t000001038",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "柴田　美月"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000103800"
+        }
+      ]
+    },
+    {
+      "name": "t000001039",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "知っていると思うけど\n",
+            "エンジニアの数が足りていないの\n",
+            "魔工師志望の生徒も選出させてもらったわ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000103900"
+        }
+      ]
+    },
+    {
+      "name": "t000001040",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "中条　あずさ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ごめんね\r\n",
+            "参加する人数と同じ人数が必要で\r\n",
+            "人手が足りないんです"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000104000"
+        }
+      ]
+    },
+    {
+      "name": "t000001041",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "柴田　美月"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "いっ　いえ\r\n",
+            "頑張ります！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000104100"
+        }
+      ]
+    },
+    {
+      "name": "t000001042",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "参加する人数が限られているので\r\n",
+            "一科　二科　学年を問わずに\r\n",
+            "ペアを組んでもらって構いません"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000104200"
+        }
+      ]
+    },
+    {
+      "name": "t000001043",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "授業の工程は\r\n",
+            "対戦形式の「実技計測」と\r\n",
+            "「調整」を交互に繰り返す形になります"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000104300"
+        }
+      ]
+    },
+    {
+      "name": "t000001044",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まず「干渉強度」「演算規模」「演算速度」\r\n",
+            "それぞれを実技計測した上で\r\n",
+            "調整を行い"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000104400"
+        }
+      ]
+    },
+    {
+      "name": "t000001045",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "「最終調整」をした後に\r\n",
+            "「実践テスト」を経て\r\n",
+            "最終評価が決まります"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000104500"
+        }
+      ]
+    },
+    {
+      "name": "t000001046",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "計測や実践テストの勝敗が\r\n",
+            "評価の全てでは無く\r\n",
+            "総合的に評価されるそうなので"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000104600"
+        }
+      ]
+    },
+    {
+      "name": "t000001047",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "みんな\r\n",
+            "熱くなりすぎないでね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000104700"
+        }
+      ]
+    },
+    {
+      "name": "t000001048",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000104800"
+        }
+      ]
+    },
+    {
+      "name": "t000001049",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000104900"
+        }
+      ]
+    },
+    {
+      "name": "t000001050",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000105000"
+        }
+      ]
+    },
+    {
+      "name": "t000001051",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "達也さんと\r\n",
+            "ペアになれるといいね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000105100"
+        }
+      ]
+    },
+    {
+      "name": "t000001052",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "！？\n",
+            "雫！？\n",
+            "何言っているの！？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000105200"
+        }
+      ]
+    },
+    {
+      "name": "t000001053",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "なになに！？\r\n",
+            "ほのか　どうしたっ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000105300"
+        }
+      ]
+    },
+    {
+      "name": "t000001054",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000105400"
+        }
+      ]
+    },
+    {
+      "name": "t000001055",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（お兄様と同じ授業をうけられる\r\n",
+            "　絶好の機会です！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000105500"
+        }
+      ]
+    },
+    {
+      "name": "t000001056",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（……深雪さん\r\n",
+            "　……すごく張り切ってるな）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000105600"
+        }
+      ]
+    },
+    {
+      "name": "t000001057",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（やれやれ、誰の差金か……\r\n",
+            "　また面倒にならなければ良いが……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000105700"
+        }
+      ]
+    },
+    {
+      "name": "t000001058",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "じゃあ\r\n",
+            "堅苦しいのは　これくらいにして……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000105800"
+        }
+      ]
+    },
+    {
+      "name": "t000001059",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000105900"
+        }
+      ]
+    },
+    {
+      "name": "t000001060",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "真由美！？\n",
+            "何を！？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000106000"
+        }
+      ]
+    },
+    {
+      "name": "t000001061",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "いい？\r\n",
+            "ここで決まるペアは運命共同体！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000106100"
+        }
+      ]
+    },
+    {
+      "name": "t000001062",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "つまり\r\n",
+            "運命の人と言い換えても差し支えないわ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000106200"
+        }
+      ]
+    },
+    {
+      "name": "t000001063",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "深雪・ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000106300"
+        }
+      ]
+    },
+    {
+      "name": "t000001064",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "市原　鈴音"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "会長……\r\n",
+            "無理があります"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000106400"
+        }
+      ]
+    },
+    {
+      "name": "t000001065",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000106500"
+        }
+      ]
+    },
+    {
+      "name": "t000001066",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それでは……\r\n",
+            "スタート！！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000106600"
+        }
+      ]
+    },
+    {
+      "name": "t000001067",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000106700"
+        }
+      ]
+    },
+    {
+      "name": "t000001068",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000106800"
+        }
+      ]
+    },
+    {
+      "name": "t000001069",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "中条　あずさ"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000106900"
+        }
+      ]
+    },
+    {
+      "name": "t000001070",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "中条　あずさ"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000107000"
+        }
+      ]
+    },
+    {
+      "name": "t000001071",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000107100"
+        }
+      ]
+    },
+    {
+      "name": "t000001072",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000107200"
+        }
+      ]
+    },
+    {
+      "name": "t000001073",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000107300"
+        }
+      ]
+    },
+    {
+      "name": "t000001074",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000107400"
+        }
+      ]
+    },
+    {
+      "name": "t000001075",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あれっ？\r\n",
+            "はんぞーくん\r\n",
+            "妬いてるの？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000107500"
+        }
+      ]
+    },
+    {
+      "name": "t000001076",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "なっ！？\r\n",
+            "妬いてません！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000107600"
+        }
+      ]
+    },
+    {
+      "name": "t000001077",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "じゃあ\r\n",
+            "私と組む？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000107700"
+        }
+      ]
+    },
+    {
+      "name": "t000001078",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000107800"
+        }
+      ]
+    },
+    {
+      "name": "t000001079",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まったく……\r\n",
+            "緊張感の欠片も無い"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000107900"
+        }
+      ]
+    },
+    {
+      "name": "t000001080",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000108000"
+        }
+      ]
+    },
+    {
+      "name": "t000001081",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "柴田　美月"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000108100"
+        }
+      ]
+    },
+    {
+      "name": "t000001082",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000108200"
+        }
+      ]
+    },
+    {
+      "name": "t000001083",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000108300"
+        }
+      ]
+    },
+    {
+      "name": "t000002001",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "司波　達也"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000200100"
+        }
+      ]
+    },
+    {
+      "name": "t000002002",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000200200"
+        }
+      ]
+    },
+    {
+      "name": "t000002003",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ａ組\r\n",
+            "司波　深雪"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000200300"
+        }
+      ]
+    },
+    {
+      "name": "t000002004",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "お兄様となら\r\n",
+            "負けるはずありません"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000200400"
+        }
+      ]
+    },
+    {
+      "name": "t000002005",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あぁ\r\n",
+            "ただ油断は禁物だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000200500"
+        }
+      ]
+    },
+    {
+      "name": "t000002006",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "必ず　お兄様に\r\n",
+            "最優秀者の栄誉を……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000200600"
+        }
+      ]
+    },
+    {
+      "name": "t000002007",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "司波　達也"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000200700"
+        }
+      ]
+    },
+    {
+      "name": "t000002008",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000200800"
+        }
+      ]
+    },
+    {
+      "name": "t000002009",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ａ組\r\n",
+            "光井　ほのか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000200900"
+        }
+      ]
+    },
+    {
+      "name": "t000002010",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000201000"
+        }
+      ]
+    },
+    {
+      "name": "t000002011",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ほのか\r\n",
+            "肩の力を抜いて……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000201100"
+        }
+      ]
+    },
+    {
+      "name": "t000002012",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "はいっ！\r\n",
+            "頑張りますっ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000201200"
+        }
+      ]
+    },
+    {
+      "name": "t000002013",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "司波　達也"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000201300"
+        }
+      ]
+    },
+    {
+      "name": "t000002014",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000201400"
+        }
+      ]
+    },
+    {
+      "name": "t000002015",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　２年　Ａ組\r\n",
+            "中条　あずさ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000201500"
+        }
+      ]
+    },
+    {
+      "name": "t000002016",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "中条　あずさ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "司波くん\r\n",
+            "シルバー・モデル使いますよね！？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000201600"
+        }
+      ]
+    },
+    {
+      "name": "t000002017",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "えっ…えぇ……\r\n",
+            "そのつもりですが"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000201700"
+        }
+      ]
+    },
+    {
+      "name": "t000002018",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "中条　あずさ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうですよね！\r\n",
+            "よろしくお願いします！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000201800"
+        }
+      ]
+    },
+    {
+      "name": "t000002019",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ａ組\r\n",
+            "司波　深雪"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000201900"
+        }
+      ]
+    },
+    {
+      "name": "t000002020",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000202000"
+        }
+      ]
+    },
+    {
+      "name": "t000002021",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "司波　達也"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000202100"
+        }
+      ]
+    },
+    {
+      "name": "t000002022",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "深雪ならば\r\n",
+            "最優秀賞も狙っていけるはずだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000202200"
+        }
+      ]
+    },
+    {
+      "name": "t000002023",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それは\r\n",
+            "お兄様のお力添えがあって……\r\n",
+            "のことですよね？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000202300"
+        }
+      ]
+    },
+    {
+      "name": "t000002024",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "……そうだな\r\n",
+            "俺も　調整者として\r\n",
+            "全力で深雪をバックアップさせてもらう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000202400"
+        }
+      ]
+    },
+    {
+      "name": "t000002025",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ａ組\r\n",
+            "司波　深雪"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000202500"
+        }
+      ]
+    },
+    {
+      "name": "t000002026",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000202600"
+        }
+      ]
+    },
+    {
+      "name": "t000002027",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ａ組\r\n",
+            "光井　ほのか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000202700"
+        }
+      ]
+    },
+    {
+      "name": "t000002028",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "さ　最後まで\r\n",
+            "諦めないようにしようね！\r\n",
+            "深雪"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000202800"
+        }
+      ]
+    },
+    {
+      "name": "t000002029",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ええ　もちろん\r\n",
+            "どんな結果になろうとも\r\n",
+            "悔いを残さないようにしましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000202900"
+        }
+      ]
+    },
+    {
+      "name": "t000002030",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだね！\r\n",
+            "うん　頑張ろう！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000203000"
+        }
+      ]
+    },
+    {
+      "name": "t000002031",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ａ組\r\n",
+            "司波　深雪"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000203100"
+        }
+      ]
+    },
+    {
+      "name": "t000002032",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000203200"
+        }
+      ]
+    },
+    {
+      "name": "t000002033",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　３年　Ａ組\r\n",
+            "市原　鈴音"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000203300"
+        }
+      ]
+    },
+    {
+      "name": "t000002034",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "市原　鈴音"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "参加する以上は\r\n",
+            "首位を狙っていきましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000203400"
+        }
+      ]
+    },
+    {
+      "name": "t000002035",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "……はい\r\n",
+            "わたしは　そのつもりでいます\r\n",
+            "情けない結果は　残したくありませんから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000203500"
+        }
+      ]
+    },
+    {
+      "name": "t000002036",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "市原　鈴音"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "……闘志は十分なようですね\r\n",
+            "これは　期待が持てそうです"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000203600"
+        }
+      ]
+    },
+    {
+      "name": "t000002037",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "千葉　エリカ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000203700"
+        }
+      ]
+    },
+    {
+      "name": "t000002038",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000203800"
+        }
+      ]
+    },
+    {
+      "name": "t000002039",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "西城　レオンハルト"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000203900"
+        }
+      ]
+    },
+    {
+      "name": "t000002040",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "力み過ぎて\r\n",
+            "ミスったりしねぇようにな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000204000"
+        }
+      ]
+    },
+    {
+      "name": "t000002041",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そりゃアンタのことでしょ\r\n",
+            "……あたしの足を引っ張りでもしたら\r\n",
+            "承知しないわよ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000204100"
+        }
+      ]
+    },
+    {
+      "name": "t000002042",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "フン……そんな心配いらねぇよ\r\n",
+            "まぁ　大船に乗ったつもりで\r\n",
+            "安心しておけばいいさ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000204200"
+        }
+      ]
+    },
+    {
+      "name": "t000002043",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "千葉　エリカ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000204300"
+        }
+      ]
+    },
+    {
+      "name": "t000002044",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000204400"
+        }
+      ]
+    },
+    {
+      "name": "t000002045",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "柴田　美月"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000204500"
+        }
+      ]
+    },
+    {
+      "name": "t000002046",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "柴田　美月"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "頑張ろうね\r\n",
+            "エリカちゃん"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000204600"
+        }
+      ]
+    },
+    {
+      "name": "t000002047",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "うん\r\n",
+            "調整の方はお願いね　美月"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000204700"
+        }
+      ]
+    },
+    {
+      "name": "t000002048",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "柴田　美月"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "任せておいて！\r\n",
+            "エリカちゃんの助けになれるように\r\n",
+            "私……精一杯サポートさせてもらうから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000204800"
+        }
+      ]
+    },
+    {
+      "name": "t000002049",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "千葉　エリカ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000204900"
+        }
+      ]
+    },
+    {
+      "name": "t000002050",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000205000"
+        }
+      ]
+    },
+    {
+      "name": "t000002051",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "吉田　幹比古"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000205100"
+        }
+      ]
+    },
+    {
+      "name": "t000002052",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "エリカ\r\n",
+            "目標は？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000205200"
+        }
+      ]
+    },
+    {
+      "name": "t000002053",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そんなの聞くまでもないでしょ\r\n",
+            "……最優秀賞よ　もちろん"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000205300"
+        }
+      ]
+    },
+    {
+      "name": "t000002054",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "……それもそうか\n",
+            "よし　僕もできる範囲で\n",
+            "精一杯サポートさせてもらうよ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000205400"
+        }
+      ]
+    },
+    {
+      "name": "t000002055",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "西城　レオンハルト"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000205500"
+        }
+      ]
+    },
+    {
+      "name": "t000002056",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000205600"
+        }
+      ]
+    },
+    {
+      "name": "t000002057",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "千葉　エリカ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000205700"
+        }
+      ]
+    },
+    {
+      "name": "t000002058",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "アンタ……\r\n",
+            "あたしが協力してあげる以上は\r\n",
+            "しっかりと結果を出しなさいよ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000205800"
+        }
+      ]
+    },
+    {
+      "name": "t000002059",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "んなことは言われるまでもねぇ\r\n",
+            "……まぁ　俺に任せときな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000205900"
+        }
+      ]
+    },
+    {
+      "name": "t000002060",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "……ふ～ん……\r\n",
+            "それじゃ　大いに期待させてもらおうかしら"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000206000"
+        }
+      ]
+    },
+    {
+      "name": "t000002061",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "西城　レオンハルト"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000206100"
+        }
+      ]
+    },
+    {
+      "name": "t000002062",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000206200"
+        }
+      ]
+    },
+    {
+      "name": "t000002063",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "柴田　美月"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000206300"
+        }
+      ]
+    },
+    {
+      "name": "t000002064",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "柴田　美月"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "レオ君の\r\n",
+            "足を引っ張らないように\r\n",
+            "頑張りますね！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000206400"
+        }
+      ]
+    },
+    {
+      "name": "t000002065",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ああ　期待させてもらうぜ\r\n",
+            "……だが　無理はし過ぎないようにな？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000206500"
+        }
+      ]
+    },
+    {
+      "name": "t000002066",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "柴田　美月"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "大丈夫です！\r\n",
+            "お任せください"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000206600"
+        }
+      ]
+    },
+    {
+      "name": "t000002067",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "西城　レオンハルト"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000206700"
+        }
+      ]
+    },
+    {
+      "name": "t000002068",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000206800"
+        }
+      ]
+    },
+    {
+      "name": "t000002069",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "吉田　幹比古"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000206900"
+        }
+      ]
+    },
+    {
+      "name": "t000002070",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "……レオの足を\r\n",
+            "引っ張らないように\r\n",
+            "頑張らないと……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000207000"
+        }
+      ]
+    },
+    {
+      "name": "t000002071",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "幹比古\r\n",
+            "気合が入んのはいいが\r\n",
+            "空回りだけはしねぇようにな？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000207100"
+        }
+      ]
+    },
+    {
+      "name": "t000002072",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "……ああ\r\n",
+            "つまらないミスは犯さないよう\r\n",
+            "十分に気を付けておくことにするよ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000207200"
+        }
+      ]
+    },
+    {
+      "name": "t000002073",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "吉田　幹比古"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000207300"
+        }
+      ]
+    },
+    {
+      "name": "t000002074",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "……少し\r\n",
+            "緊張してきたな……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000207400"
+        }
+      ]
+    },
+    {
+      "name": "t000002075",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "柴田　美月"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000207500"
+        }
+      ]
+    },
+    {
+      "name": "t000002076",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "柴田　美月"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整者として\r\n",
+            "しっかりと吉田くんを\r\n",
+            "サポートさせていただきます"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000207600"
+        }
+      ]
+    },
+    {
+      "name": "t000002077",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "……うん\r\n",
+            "これからよろしくね　柴田さん"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000207700"
+        }
+      ]
+    },
+    {
+      "name": "t000002078",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "柴田　美月"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "はい\r\n",
+            "一緒に頑張っていきましょうね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000207800"
+        }
+      ]
+    },
+    {
+      "name": "t000002079",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "吉田　幹比古"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000207900"
+        }
+      ]
+    },
+    {
+      "name": "t000002080",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "……少し\r\n",
+            "緊張してきたな……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000208000"
+        }
+      ]
+    },
+    {
+      "name": "t000002081",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "千葉　エリカ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000208100"
+        }
+      ]
+    },
+    {
+      "name": "t000002082",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "シャキッとしなさいよ？　ミキ\r\n",
+            "グズついた気持ちのままやってたって\r\n",
+            "中途半端な結果しか出せないんだからさ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000208200"
+        }
+      ]
+    },
+    {
+      "name": "t000002083",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あ　うん……\r\n",
+            "そうだよね\r\n",
+            "もっと　堂々としていないと……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000208300"
+        }
+      ]
+    },
+    {
+      "name": "t000002084",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "だから\r\n",
+            "その弱気な態度を止めなさいっての\r\n",
+            "……本当に大丈夫かしら"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000208400"
+        }
+      ]
+    },
+    {
+      "name": "t000002085",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "吉田　幹比古"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000208500"
+        }
+      ]
+    },
+    {
+      "name": "t000002086",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "……少し\r\n",
+            "緊張してきたな……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000208600"
+        }
+      ]
+    },
+    {
+      "name": "t000002087",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "西城　レオンハルト"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000208700"
+        }
+      ]
+    },
+    {
+      "name": "t000002088",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "頑張っていこうぜ\r\n",
+            "幹比古"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000208800"
+        }
+      ]
+    },
+    {
+      "name": "t000002089",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "うん\r\n",
+            "よろしく頼むよ　レオ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000208900"
+        }
+      ]
+    },
+    {
+      "name": "t000002090",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "任せときな\r\n",
+            "お前が誰にも負けねぇように\r\n",
+            "俺がバシッとサポートしてやるさ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000209000"
+        }
+      ]
+    },
+    {
+      "name": "t000002091",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ａ組\r\n",
+            "光井　ほのか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000209100"
+        }
+      ]
+    },
+    {
+      "name": "t000002092",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000209200"
+        }
+      ]
+    },
+    {
+      "name": "t000002093",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "司波　達也"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000209300"
+        }
+      ]
+    },
+    {
+      "name": "t000002094",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "一緒に頑張ろう\r\n",
+            "ほのか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000209400"
+        }
+      ]
+    },
+    {
+      "name": "t000002095",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "はっ　はい！\r\n",
+            "達也さんと一緒なら私……\r\n",
+            "誰にだって負ける気がしません！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000209500"
+        }
+      ]
+    },
+    {
+      "name": "t000002096",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それは心強いな\r\n",
+            "期待してるよ　ほのか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000209600"
+        }
+      ]
+    },
+    {
+      "name": "t000002097",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ａ組\r\n",
+            "光井　ほのか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000209700"
+        }
+      ]
+    },
+    {
+      "name": "t000002098",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000209800"
+        }
+      ]
+    },
+    {
+      "name": "t000002099",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ａ組\r\n",
+            "北山　雫"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000209900"
+        }
+      ]
+    },
+    {
+      "name": "t000002100",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ほのか\r\n",
+            "絶対に……勝とうね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000210000"
+        }
+      ]
+    },
+    {
+      "name": "t000002101",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "うっ……\r\n",
+            "変なプレッシャー掛けないでよ……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000210100"
+        }
+      ]
+    },
+    {
+      "name": "t000002102",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "プレッシャーじゃ　ないよ\r\n",
+            "負けないようにしようねっていう\r\n",
+            "意気込み"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000210200"
+        }
+      ]
+    },
+    {
+      "name": "t000002103",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ａ組\r\n",
+            "光井　ほのか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000210300"
+        }
+      ]
+    },
+    {
+      "name": "t000002104",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000210400"
+        }
+      ]
+    },
+    {
+      "name": "t000002105",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ｂ組\r\n",
+            "明智　英美"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000210500"
+        }
+      ]
+    },
+    {
+      "name": "t000002106",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ファイトだよ！\r\n",
+            "ほのか\r\n",
+            "私も応援してるから！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000210600"
+        }
+      ]
+    },
+    {
+      "name": "t000002107",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "……応援よりもむしろ\r\n",
+            "調整の方をお願いしたいんだけど……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000210700"
+        }
+      ]
+    },
+    {
+      "name": "t000002108",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "うんうん　分かってるって\r\n",
+            "調整も応援も全力で頑張るから\r\n",
+            "私に任せておいてよ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000210800"
+        }
+      ]
+    },
+    {
+      "name": "t000002109",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ａ組\r\n",
+            "北山　雫"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000210900"
+        }
+      ]
+    },
+    {
+      "name": "t000002110",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000211000"
+        }
+      ]
+    },
+    {
+      "name": "t000002111",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "司波　達也"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000211100"
+        }
+      ]
+    },
+    {
+      "name": "t000002112",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "雫\r\n",
+            "何かと不安は多いだろうが\r\n",
+            "落ち着いて取り組むようにな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000211200"
+        }
+      ]
+    },
+    {
+      "name": "t000002113",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "大丈夫\r\n",
+            "達也さんが調整してくれるから\r\n",
+            "安心"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000211300"
+        }
+      ]
+    },
+    {
+      "name": "t000002114",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうか……\r\n",
+            "そう言われては\r\n",
+            "俺も頑張らないわけにはいかないな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000211400"
+        }
+      ]
+    },
+    {
+      "name": "t000002115",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ａ組\r\n",
+            "北山　雫"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000211500"
+        }
+      ]
+    },
+    {
+      "name": "t000002116",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000211600"
+        }
+      ]
+    },
+    {
+      "name": "t000002117",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ａ組\r\n",
+            "光井　ほのか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000211700"
+        }
+      ]
+    },
+    {
+      "name": "t000002118",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "わ　私が調整者じゃ\r\n",
+            "不安かもしれないけど……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000211800"
+        }
+      ]
+    },
+    {
+      "name": "t000002119",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そんなこと　ないよ\r\n",
+            "ほのかのことは　頼りにしてる"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000211900"
+        }
+      ]
+    },
+    {
+      "name": "t000002120",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そ　そっか……\r\n",
+            "うん　分かった！\r\n",
+            "私なりに一生懸命やらせてもらうね！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000212000"
+        }
+      ]
+    },
+    {
+      "name": "t000002121",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ａ組\r\n",
+            "北山　雫"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000212100"
+        }
+      ]
+    },
+    {
+      "name": "t000002122",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000212200"
+        }
+      ]
+    },
+    {
+      "name": "t000002123",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ｂ組\r\n",
+            "明智　英美"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000212300"
+        }
+      ]
+    },
+    {
+      "name": "t000002124",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "楽しんでいこうね\r\n",
+            "雫"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000212400"
+        }
+      ]
+    },
+    {
+      "name": "t000002125",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "うん\r\n",
+            "でも　それだけじゃなくて……\r\n",
+            "きちんと勝たないと……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000212500"
+        }
+      ]
+    },
+    {
+      "name": "t000002126",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それはもちろんだね\r\n",
+            "だからさ　楽しみながら\r\n",
+            "勝ち進んでいこうよ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000212600"
+        }
+      ]
+    },
+    {
+      "name": "t000002127",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　３年　Ａ組\r\n",
+            "七草　真由美"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000212700"
+        }
+      ]
+    },
+    {
+      "name": "t000002128",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "私も\r\n",
+            "いち参加者として\r\n",
+            "頑張らせてもらうわね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000212800"
+        }
+      ]
+    },
+    {
+      "name": "t000002129",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　２年　Ｂ組\r\n",
+            "服部刑部少丞範蔵"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000212900"
+        }
+      ]
+    },
+    {
+      "name": "t000002130",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "会長のお力ならば\r\n",
+            "上位に食い込むことも\r\n",
+            "十分に可能ではないかと……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000213000"
+        }
+      ]
+    },
+    {
+      "name": "t000002131",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "……そうよね……\r\n",
+            "私の実力じゃあ　最優秀賞までも確実\r\n",
+            "とは言えないわよね……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000213100"
+        }
+      ]
+    },
+    {
+      "name": "t000002132",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "いっ　いえ！　訂正いたします！\r\n",
+            "会長がそのお力を遺憾なく発揮なされれば\r\n",
+            "最優秀賞は確実に我々のものとなるでしょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000213200"
+        }
+      ]
+    },
+    {
+      "name": "t000002133",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　３年　Ａ組\r\n",
+            "七草　真由美"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000213300"
+        }
+      ]
+    },
+    {
+      "name": "t000002134",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "私も\r\n",
+            "いち参加者として\r\n",
+            "頑張らせてもらうわね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000213400"
+        }
+      ]
+    },
+    {
+      "name": "t000002135",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　２年　Ａ組\r\n",
+            "中条　あずさ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000213500"
+        }
+      ]
+    },
+    {
+      "name": "t000002136",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "中条　あずさ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "周りは強敵揃いですが\r\n",
+            "会長だったらその中でも\r\n",
+            "トップに立てると思います"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000213600"
+        }
+      ]
+    },
+    {
+      "name": "t000002137",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "……ありがとう　あーちゃん\r\n",
+            "あなたの信頼に少しでも応えられるよう\r\n",
+            "精一杯取り組ませてもらうわね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000213700"
+        }
+      ]
+    },
+    {
+      "name": "t000002138",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "中条　あずさ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "はい！\r\n",
+            "一緒に頑張っていきましょうね\r\n",
+            "会長"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000213800"
+        }
+      ]
+    },
+    {
+      "name": "t000002139",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　３年　Ａ組\r\n",
+            "七草　真由美"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000213900"
+        }
+      ]
+    },
+    {
+      "name": "t000002140",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "私も\r\n",
+            "いち参加者として\r\n",
+            "頑張らせてもらうわね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000214000"
+        }
+      ]
+    },
+    {
+      "name": "t000002141",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　３年　Ａ組\r\n",
+            "市原　鈴音"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000214100"
+        }
+      ]
+    },
+    {
+      "name": "t000002142",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "市原　鈴音"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "会長\r\n",
+            "分かっているとは思いますが\r\n",
+            "油断は禁物ですよ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000214200"
+        }
+      ]
+    },
+    {
+      "name": "t000002143",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "うん　もちろん\r\n",
+            "私がみっともないところを見せたりしたら\r\n",
+            "下級生たちに示しがつかないものね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000214300"
+        }
+      ]
+    },
+    {
+      "name": "t000002144",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "市原　鈴音"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "生徒会の威信を損なわないためにも\r\n",
+            "よろしくお願いします\r\n",
+            "会長"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000214400"
+        }
+      ]
+    },
+    {
+      "name": "t000002145",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　３年　Ｂ組\r\n",
+            "渡辺　摩利"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000214500"
+        }
+      ]
+    },
+    {
+      "name": "t000002146",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "下級生たちに\r\n",
+            "負けるわけにはいかんな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000214600"
+        }
+      ]
+    },
+    {
+      "name": "t000002147",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　３年　Ａ組\r\n",
+            "七草　真由美"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000214700"
+        }
+      ]
+    },
+    {
+      "name": "t000002148",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "熱くなり過ぎないようにね\r\n",
+            "摩利"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000214800"
+        }
+      ]
+    },
+    {
+      "name": "t000002149",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ああ……\r\n",
+            "安全に授業が行われることが第一\r\n",
+            "勝った負けたは二の次……だろ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000214900"
+        }
+      ]
+    },
+    {
+      "name": "t000002150",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "……本当に分かってるのかしら\r\n",
+            "ムキにならないといいんだけど……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000215000"
+        }
+      ]
+    },
+    {
+      "name": "t000002151",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　３年　Ｂ組\r\n",
+            "渡辺　摩利"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000215100"
+        }
+      ]
+    },
+    {
+      "name": "t000002152",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "下級生たちに\r\n",
+            "負けるわけにはいかんな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000215200"
+        }
+      ]
+    },
+    {
+      "name": "t000002153",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　２年　Ａ組\r\n",
+            "中条　あずさ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000215300"
+        }
+      ]
+    },
+    {
+      "name": "t000002154",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "中条　あずさ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "頑張ります！\r\n",
+            "調整はわたしに任せてください！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000215400"
+        }
+      ]
+    },
+    {
+      "name": "t000002155",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ああ\r\n",
+            "頼りにしてるぞ　中条"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000215500"
+        }
+      ]
+    },
+    {
+      "name": "t000002156",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "中条　あずさ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "はい！\r\n",
+            "少しでもお役に立てるよう\r\n",
+            "全力でやらせていただきます"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000215600"
+        }
+      ]
+    },
+    {
+      "name": "t000002157",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　３年　Ｂ組\r\n",
+            "渡辺　摩利"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000215700"
+        }
+      ]
+    },
+    {
+      "name": "t000002158",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "下級生たちに\r\n",
+            "負けるわけにはいかんな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000215800"
+        }
+      ]
+    },
+    {
+      "name": "t000002159",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　３年　Ａ組\r\n",
+            "市原　鈴音"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000215900"
+        }
+      ]
+    },
+    {
+      "name": "t000002160",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "市原　鈴音"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "華々しいご活躍を\r\n",
+            "期待しております\r\n",
+            "渡辺委員長"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000216000"
+        }
+      ]
+    },
+    {
+      "name": "t000002161",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "……そう過度に期待されても\r\n",
+            "確約はできんな\r\n",
+            "まぁ　やれる範囲で頑張ってくるさ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000216100"
+        }
+      ]
+    },
+    {
+      "name": "t000002162",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "市原　鈴音"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "はい　お願いします\r\n",
+            "私も微力ではありますが\r\n",
+            "渡辺委員長のサポートに努めてまいります"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000216200"
+        }
+      ]
+    },
+    {
+      "name": "t000002163",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　２年　Ｂ組\r\n",
+            "服部刑部少丞範蔵"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000216300"
+        }
+      ]
+    },
+    {
+      "name": "t000002164",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000216400"
+        }
+      ]
+    },
+    {
+      "name": "t000002165",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ｅ組\r\n",
+            "司波　達也"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000216500"
+        }
+      ]
+    },
+    {
+      "name": "t000002166",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "服部先輩が\r\n",
+            "ストレスなく実技に集中できるよう\r\n",
+            "調整させてもらいます"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000216600"
+        }
+      ]
+    },
+    {
+      "name": "t000002167",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "……ああ\r\n",
+            "期待してるぞ　司波"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000216700"
+        }
+      ]
+    },
+    {
+      "name": "t000002168",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "はい\r\n",
+            "お任せください"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000216800"
+        }
+      ]
+    },
+    {
+      "name": "t000002169",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実技担当\r\n",
+            "第一高校　１年　Ｂ組\r\n",
+            "明智　英美"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000216900"
+        }
+      ]
+    },
+    {
+      "name": "t000002170",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000217000"
+        }
+      ]
+    },
+    {
+      "name": "t000002171",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": ""
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "調整担当\r\n",
+            "第一高校　１年　Ａ組\r\n",
+            "北山　雫"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000217100"
+        }
+      ]
+    },
+    {
+      "name": "t000002172",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "一生懸命　調整するから\r\n",
+            "エイミィも頑張って"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000217200"
+        }
+      ]
+    },
+    {
+      "name": "t000002173",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "うん！\r\n",
+            "ありがとうね　雫"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000217300"
+        }
+      ]
+    },
+    {
+      "name": "t000002174",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "二人で頑張って\r\n",
+            "必ず　勝とうね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000217400"
+        }
+      ]
+    },
+    {
+      "name": "t000002175",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "手の空いた人は\r\n",
+            "運営のお手伝いを　お願いします"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000217500"
+        }
+      ]
+    },
+    {
+      "name": "t000002176",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "今回は\r\n",
+            "十文字くんが裏方に回ってくれているから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000217600"
+        }
+      ]
+    },
+    {
+      "name": "t000002177",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "彼の指示を\r\n",
+            "聞いて動いてね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000217700"
+        }
+      ]
+    },
+    {
+      "name": "t000002178",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "では　みなさん\r\n",
+            "事故のないように\r\n",
+            "そして　全力を尽くしてください"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000217800"
+        }
+      ]
+    },
+    {
+      "name": "t000002179",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000217900"
+        }
+      ]
+    },
+    {
+      "name": "t000002180",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（以前にも感じた\n",
+            "　この感覚は……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000218000"
+        }
+      ]
+    },
+    {
+      "name": "t000002181",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000218100"
+        }
+      ]
+    },
+    {
+      "name": "t000002182",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（今回はこの方々が\n",
+            "　お相手になるのですね）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000218200"
+        }
+      ]
+    },
+    {
+      "name": "t000002183",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000218300"
+        }
+      ]
+    },
+    {
+      "name": "t000002184",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000218400"
+        }
+      ]
+    },
+    {
+      "name": "t000002185",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000218500"
+        }
+      ]
+    },
+    {
+      "name": "t000002186",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（何か……\n",
+            "　前にもこんなことが\n",
+            "　あったような気がすんなぁ……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000218600"
+        }
+      ]
+    },
+    {
+      "name": "t000002187",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "さてと……\n",
+            "今回も最優秀賞目指して\n",
+            "頑張っていかないとな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000218700"
+        }
+      ]
+    },
+    {
+      "name": "t000002188",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "……ん？\n",
+            "あたし　今何か変なこと\n",
+            "口走ったかも……？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000218800"
+        }
+      ]
+    },
+    {
+      "name": "t000002189",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（初めて　だよな……\n",
+            "　こういった形式の授業を\n",
+            "　行うのは……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000218900"
+        }
+      ]
+    },
+    {
+      "name": "t000002190",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（そのはずだ……\n",
+            "　それだけは間違いないはず……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000219000"
+        }
+      ]
+    },
+    {
+      "name": "t000002191",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（……だが　何か頭に\n",
+            "　引っかかるものを感じる……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000219100"
+        }
+      ]
+    },
+    {
+      "name": "t000002192",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（あれ……？\n",
+            "　この光景　前にもどこかで\n",
+            "　見たような覚えが……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000219200"
+        }
+      ]
+    },
+    {
+      "name": "t000002193",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000219300"
+        }
+      ]
+    },
+    {
+      "name": "t000002194",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（……もしかしたら\n",
+            "　夢の中でこれと似たような\n",
+            "　出来事が起きてたのかも……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000219400"
+        }
+      ]
+    },
+    {
+      "name": "t000002195",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000219500"
+        }
+      ]
+    },
+    {
+      "name": "t000002196",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（どうしてだろう……\n",
+            "　この授業　初めてなのに\n",
+            "　初めてじゃない気がする……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000219600"
+        }
+      ]
+    },
+    {
+      "name": "t000002197",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ふふっ……\n",
+            "みんな張り切ってるわね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000219700"
+        }
+      ]
+    },
+    {
+      "name": "t000002198",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この分なら\n",
+            "また特別授業は成功……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000219800"
+        }
+      ]
+    },
+    {
+      "name": "t000002199",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            " ……？\n",
+            "今のは何？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000219900"
+        }
+      ]
+    },
+    {
+      "name": "t000002200",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まるで……\n",
+            "以前にもここで特別授業を\n",
+            "行ったことがあるような……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000220000"
+        }
+      ]
+    },
+    {
+      "name": "t000002201",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000220100"
+        }
+      ]
+    },
+    {
+      "name": "t000002202",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（授業の説明を行っている時から\n",
+            "　感じていたことだが……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000220200"
+        }
+      ]
+    },
+    {
+      "name": "t000002203",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（あたしたちは過去にも\n",
+            "　同じようなやり取りを\n",
+            "　していたという妙な感覚が……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000220300"
+        }
+      ]
+    },
+    {
+      "name": "t000002204",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（……いや　何を考えてるんだ\n",
+            "　そんなものは　気のせいに\n",
+            "　決まっているだろう）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000220400"
+        }
+      ]
+    },
+    {
+      "name": "t000002205",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "一条　将輝"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000220500"
+        }
+      ]
+    },
+    {
+      "name": "t000002206",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "一条　将輝"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（俺が司波さんや司波　達也\n",
+            "　一校の生徒たちと顔を合わせていたのは\n",
+            "　九校戦が最後のはずだ）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000220600"
+        }
+      ]
+    },
+    {
+      "name": "t000002207",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "一条　将輝"
+        },
+        {
+          "name": "voice",
+          "line": "voe00000220700"
+        }
+      ]
+    },
+    {
+      "name": "t000002208",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "一条　将輝"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（そう遠くない過去にも\n",
+            "　彼らと再会していたような気が\n",
+            "　してならない……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe00000220800"
+        }
+      ]
+    }
+  ]
+}

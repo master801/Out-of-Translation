@@ -1,0 +1,6774 @@
+{
+  "name": "evt110000_Txt.lua",
+  "containers": [
+    {
+      "name": "t110001001",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ほのか・達也"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000100100"
+        }
+      ]
+    },
+    {
+      "name": "t110001002",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "達也さん\r\n",
+            "チョッと相談があるんですけど……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000100200"
+        }
+      ]
+    },
+    {
+      "name": "t110001003",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "どうしたんだ\r\n",
+            "ほのか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000100300"
+        }
+      ]
+    },
+    {
+      "name": "t110001004",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あのっ私\r\n",
+            "疲れがたまっているだけかも\r\n",
+            "しれないんですけど……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000100400"
+        }
+      ]
+    },
+    {
+      "name": "t110001005",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業を\r\n",
+            "ずっとやっている気がしてるんです"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000100500"
+        }
+      ]
+    },
+    {
+      "name": "t110001006",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ほのか\r\n",
+            "それはきっと\r\n",
+            "疲れのせいじゃないよ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000100600"
+        }
+      ]
+    },
+    {
+      "name": "t110001007",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000100700"
+        }
+      ]
+    },
+    {
+      "name": "t110001008",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "なぜなら\r\n",
+            "俺も感じている"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000100800"
+        }
+      ]
+    },
+    {
+      "name": "t110001009",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まるで\n",
+            "同じ時間を\n",
+            "何度も繰り返しているようだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000100900"
+        }
+      ]
+    },
+    {
+      "name": "t110001010",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "やっぱり\r\n",
+            "そうなんですね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000101000"
+        }
+      ]
+    },
+    {
+      "name": "t110001011",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まだ\r\n",
+            "ハッキリとしないが\r\n",
+            "異常事態なのは間違いない"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000101100"
+        }
+      ]
+    },
+    {
+      "name": "t110001012",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "誰かから\r\n",
+            "記憶を攻撃されてるってことでしょうか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000101200"
+        }
+      ]
+    },
+    {
+      "name": "t110001013",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "おそらくは……\r\n",
+            "しかし　確証がない"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000101300"
+        }
+      ]
+    },
+    {
+      "name": "t110001014",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（俺の「精霊の眼」でも正体が掴めていない\r\n",
+            "　知る範囲の魔法であれば\r\n",
+            "　絶対にありえないことだ……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000101400"
+        }
+      ]
+    },
+    {
+      "name": "t110001015",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "現代では失われた魔法か\r\n",
+            "あるいはそもそも\r\n",
+            "魔法とは別の何かかもしれない"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000101500"
+        }
+      ]
+    },
+    {
+      "name": "t110001016",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "こんなことするなんて\r\n",
+            "許せませんよねっ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000101600"
+        }
+      ]
+    },
+    {
+      "name": "t110001017",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "私なんて\r\n",
+            "夢と現実の区別が\r\n",
+            "つかなくなってしまったのかと思って……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000101700"
+        }
+      ]
+    },
+    {
+      "name": "t110001018",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "このままにしておけないのは\r\n",
+            "確かだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000101800"
+        }
+      ]
+    },
+    {
+      "name": "t110001019",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000101900"
+        }
+      ]
+    },
+    {
+      "name": "t110001020",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "正体の分からない相手だ\r\n",
+            "危険すぎる"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000102000"
+        }
+      ]
+    },
+    {
+      "name": "t110001021",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "いいえ\r\n",
+            "大丈夫です\r\n",
+            "達也さんのためなら！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000102100"
+        }
+      ]
+    },
+    {
+      "name": "t110001022",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000102200"
+        }
+      ]
+    },
+    {
+      "name": "t110001023",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それなら\r\n",
+            "実践テストで私が勝てたら\r\n",
+            "協力して下さい"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000102300"
+        }
+      ]
+    },
+    {
+      "name": "t110001024",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "勝敗がついた直後に\r\n",
+            "目眩ましの魔法を使いますから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000102400"
+        }
+      ]
+    },
+    {
+      "name": "t110001025",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "同時に\r\n",
+            "その場を離れて\r\n",
+            "手分けして探しましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000102500"
+        }
+      ]
+    },
+    {
+      "name": "t110001026",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "状況を把握される前に\r\n",
+            "犯人を捕らえられれば\r\n",
+            "問題解決です！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000102600"
+        }
+      ]
+    },
+    {
+      "name": "t110001027",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "……わかった\r\n",
+            "くれぐれも無理はしないように"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000102700"
+        }
+      ]
+    },
+    {
+      "name": "t110001028",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "はい\r\n",
+            "よろしくお願いします"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000102800"
+        }
+      ]
+    },
+    {
+      "name": "t110001029",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ほのか・深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000102900"
+        }
+      ]
+    },
+    {
+      "name": "t110001030",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "また……\r\n",
+            "これだ……\r\n",
+            "この感覚……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000103000"
+        }
+      ]
+    },
+    {
+      "name": "t110001031",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ほのか\r\n",
+            "あなたまさか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000103100"
+        }
+      ]
+    },
+    {
+      "name": "t110001032",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まさかって？\r\n",
+            "深雪も私と同じこと感じてるの？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000103200"
+        }
+      ]
+    },
+    {
+      "name": "t110001033",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ええ……\r\n",
+            "この特別授業は何かおかしいわ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000103300"
+        }
+      ]
+    },
+    {
+      "name": "t110001034",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まるで\r\n",
+            "同じ時間が繰り返されているような\r\n",
+            "そんな　奇妙な感じ……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000103400"
+        }
+      ]
+    },
+    {
+      "name": "t110001035",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "よかった変な病気とかじゃなかったのね\r\n",
+            "私だけだと思ってた"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000103500"
+        }
+      ]
+    },
+    {
+      "name": "t110001036",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "魔法の攻撃によって発生してる\r\n",
+            "現象かもしれないわね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000103600"
+        }
+      ]
+    },
+    {
+      "name": "t110001037",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "だとしたら\r\n",
+            "どこかにこれを仕掛けた犯人がいる？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000103700"
+        }
+      ]
+    },
+    {
+      "name": "t110001038",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ええ\r\n",
+            "目的が知りたいわね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000103800"
+        }
+      ]
+    },
+    {
+      "name": "t110001039",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それもそうだけど\r\n",
+            "私こういうの許せないな！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000103900"
+        }
+      ]
+    },
+    {
+      "name": "t110001040",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "だって\r\n",
+            "ずっと気持ち悪い感じだったし"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000104000"
+        }
+      ]
+    },
+    {
+      "name": "t110001041",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "このままにはしておけないわね\r\n",
+            "どうやって真相を究明しようかしら"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000104100"
+        }
+      ]
+    },
+    {
+      "name": "t110001042",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "犯人の隙をつきましょう\r\n",
+            "油断したところを捕まえるの"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000104200"
+        }
+      ]
+    },
+    {
+      "name": "t110001043",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そして問い質す……\r\n",
+            "そういうことね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000104300"
+        }
+      ]
+    },
+    {
+      "name": "t110001044",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだ\r\n",
+            "こうしましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000104400"
+        }
+      ]
+    },
+    {
+      "name": "t110001045",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実践テストで私が勝てたら\r\n",
+            "二人で手分けして犯人を捜すの"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000104500"
+        }
+      ]
+    },
+    {
+      "name": "t110001046",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "勝敗がついた直後に\r\n",
+            "目眩ましの魔法を使うから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000104600"
+        }
+      ]
+    },
+    {
+      "name": "t110001047",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "同時にその場を離れて\r\n",
+            "手分けして捜索開始"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000104700"
+        }
+      ]
+    },
+    {
+      "name": "t110001048",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "状況を把握される前に\r\n",
+            "犯人を捕らえられれば\r\n",
+            "問題は解決ね！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000104800"
+        }
+      ]
+    },
+    {
+      "name": "t110001049",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "いいけど\r\n",
+            "ほのかが勝たなくても\r\n",
+            "わたしが勝った場合でもいいんじゃない？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000104900"
+        }
+      ]
+    },
+    {
+      "name": "t110001050",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ゴメンなさい\r\n",
+            "そこは　私のタイミングの問題"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000105000"
+        }
+      ]
+    },
+    {
+      "name": "t110001051",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "負けた場合よりも\r\n",
+            "勝った場合の方が\r\n",
+            "素早く行動に移すことができるから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000105100"
+        }
+      ]
+    },
+    {
+      "name": "t110001052",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "なら\r\n",
+            "わたしは手加減した方がいい？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000105200"
+        }
+      ]
+    },
+    {
+      "name": "t110001053",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それじゃ犯人に怪しまれるよ\r\n",
+            "きっと実践テストも監視してるんだろうし"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000105300"
+        }
+      ]
+    },
+    {
+      "name": "t110001054",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "確かに\r\n",
+            "それもそうね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000105400"
+        }
+      ]
+    },
+    {
+      "name": "t110001055",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（真剣勝負で深雪に勝たないと……\r\n",
+            "　できるのかな　私に）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000105500"
+        }
+      ]
+    },
+    {
+      "name": "t110001056",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（ううん\n",
+            "　頑張れほのか！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000105600"
+        }
+      ]
+    },
+    {
+      "name": "t110001057",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ほのか・エリカ"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000105700"
+        }
+      ]
+    },
+    {
+      "name": "t110001058",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "また……\r\n",
+            "これだ……\r\n",
+            "この感覚……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000105800"
+        }
+      ]
+    },
+    {
+      "name": "t110001059",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "どうしたのほのか？\r\n",
+            "もしかして……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000105900"
+        }
+      ]
+    },
+    {
+      "name": "t110001060",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業\n",
+            "何かおかしいよ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000106000"
+        }
+      ]
+    },
+    {
+      "name": "t110001061",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ほのかもなんだ\r\n",
+            "あたしもよ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000106100"
+        }
+      ]
+    },
+    {
+      "name": "t110001062",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "繰り返し行われてるって感じ\r\n",
+            "そんなことあるはずないんだけど\r\n",
+            "そうとしか言いようがない"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000106200"
+        }
+      ]
+    },
+    {
+      "name": "t110001063",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "よかった変な病気とかじゃなかったのね\r\n",
+            "私だけだと思ってた"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000106300"
+        }
+      ]
+    },
+    {
+      "name": "t110001064",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "魔法かな？\r\n",
+            "系統外か古式魔法とか\r\n",
+            "記憶を操作してる？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000106400"
+        }
+      ]
+    },
+    {
+      "name": "t110001065",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "だとしたら\r\n",
+            "どこかにこれを仕掛けた犯人がいる？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000106500"
+        }
+      ]
+    },
+    {
+      "name": "t110001066",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "たぶんね\r\n",
+            "誰かはわからないけど"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000106600"
+        }
+      ]
+    },
+    {
+      "name": "t110001067",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "早く止めないと！\r\n",
+            "記憶をいじるなんて気持ち悪いよ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000106700"
+        }
+      ]
+    },
+    {
+      "name": "t110001068",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "うん\r\n",
+            "あたしも許せないな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000106800"
+        }
+      ]
+    },
+    {
+      "name": "t110001069",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "犯人の隙をつきましょう\r\n",
+            "油断したところを捕まえるの"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000106900"
+        }
+      ]
+    },
+    {
+      "name": "t110001070",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "どうしようかしら\r\n",
+            "何かいいアイデアはない？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000107000"
+        }
+      ]
+    },
+    {
+      "name": "t110001071",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだ\r\n",
+            "こうしましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000107100"
+        }
+      ]
+    },
+    {
+      "name": "t110001072",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実践テストで私が勝てたら\r\n",
+            "二人で手分けして犯人を捜すの"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000107200"
+        }
+      ]
+    },
+    {
+      "name": "t110001073",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "勝敗がついた直後に\r\n",
+            "目眩ましの魔法を使うから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000107300"
+        }
+      ]
+    },
+    {
+      "name": "t110001074",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "同時にその場を離れて\r\n",
+            "手分けして捜索開始"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000107400"
+        }
+      ]
+    },
+    {
+      "name": "t110001075",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "状況を把握される前に\r\n",
+            "犯人を捕らえられれば\r\n",
+            "問題は解決ね！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000107500"
+        }
+      ]
+    },
+    {
+      "name": "t110001076",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "いいけど\r\n",
+            "あたしが勝った場合でもいいんじゃない？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000107600"
+        }
+      ]
+    },
+    {
+      "name": "t110001077",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ゴメンなさい\r\n",
+            "そこは　私のタイミングの問題"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000107700"
+        }
+      ]
+    },
+    {
+      "name": "t110001078",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "負けた場合よりも\r\n",
+            "勝った場合の方が\r\n",
+            "素早く行動に移すことができるから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000107800"
+        }
+      ]
+    },
+    {
+      "name": "t110001079",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "なら\r\n",
+            "わざと負けるとかしたら？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000107900"
+        }
+      ]
+    },
+    {
+      "name": "t110001080",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それじゃ犯人に怪しまれるよ\r\n",
+            "きっと実践テストも監視してるんだろうし"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000108000"
+        }
+      ]
+    },
+    {
+      "name": "t110001081",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そっか\r\n",
+            "勝負は真剣にやらないといけないのね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000108100"
+        }
+      ]
+    },
+    {
+      "name": "t110001082",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（真剣勝負でエリカに勝たないと……\r\n",
+            "　できるのかな　私に）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000108200"
+        }
+      ]
+    },
+    {
+      "name": "t110001083",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（ううん\n",
+            "　頑張れほのか！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000108300"
+        }
+      ]
+    },
+    {
+      "name": "t110001084",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ほのか・レオ"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000108400"
+        }
+      ]
+    },
+    {
+      "name": "t110001085",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "また……\r\n",
+            "これだ……\r\n",
+            "この感覚……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000108500"
+        }
+      ]
+    },
+    {
+      "name": "t110001086",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "光井\r\n",
+            "どうしたんだ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000108600"
+        }
+      ]
+    },
+    {
+      "name": "t110001087",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業\n",
+            "何かおかしいよ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000108700"
+        }
+      ]
+    },
+    {
+      "name": "t110001088",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ああ確かに\r\n",
+            "光井も気付いていたのか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000108800"
+        }
+      ]
+    },
+    {
+      "name": "t110001089",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "不思議な話だが\n",
+            "俺にはこの授業が繰り返し行われている\n",
+            "ような気がしてならないんだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000108900"
+        }
+      ]
+    },
+    {
+      "name": "t110001090",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "よかった変な病気とかじゃなかったのね\r\n",
+            "私だけだと思ってた"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000109000"
+        }
+      ]
+    },
+    {
+      "name": "t110001091",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "こいつは魔法かもな\r\n",
+            "記憶を操作したり書き換えたりする類の\r\n",
+            "系統外魔法とかかな？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000109100"
+        }
+      ]
+    },
+    {
+      "name": "t110001092",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "だとしたら\r\n",
+            "どこかにこれを仕掛けた犯人がいる？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000109200"
+        }
+      ]
+    },
+    {
+      "name": "t110001093",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "いるだろうな\r\n",
+            "それもかなりの力を持ったヤツだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000109300"
+        }
+      ]
+    },
+    {
+      "name": "t110001094",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "早く止めないと！\r\n",
+            "記憶をいじるなんて気持ち悪いよ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000109400"
+        }
+      ]
+    },
+    {
+      "name": "t110001095",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "同感だ\r\n",
+            "こんなの絶対に許せねぇよ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000109500"
+        }
+      ]
+    },
+    {
+      "name": "t110001096",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "犯人の隙をつきましょう\r\n",
+            "油断したところを捕まえるの"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000109600"
+        }
+      ]
+    },
+    {
+      "name": "t110001097",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "うーん\r\n",
+            "一体どうすりゃいいんだ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000109700"
+        }
+      ]
+    },
+    {
+      "name": "t110001098",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだ\r\n",
+            "こうしましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000109800"
+        }
+      ]
+    },
+    {
+      "name": "t110001099",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実践テストで私が勝てたら\r\n",
+            "二人で手分けして犯人を捜すの"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000109900"
+        }
+      ]
+    },
+    {
+      "name": "t110001100",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "勝敗がついた直後に\r\n",
+            "目眩ましの魔法を使うから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000110000"
+        }
+      ]
+    },
+    {
+      "name": "t110001101",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "同時にその場を離れて\r\n",
+            "手分けして捜索開始"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000110100"
+        }
+      ]
+    },
+    {
+      "name": "t110001102",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "状況を把握される前に\r\n",
+            "犯人を捕らえられれば\r\n",
+            "問題は解決ね！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000110200"
+        }
+      ]
+    },
+    {
+      "name": "t110001103",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "わかった\r\n",
+            "でもよ\r\n",
+            "俺が勝った場合でもいいんじゃないのか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000110300"
+        }
+      ]
+    },
+    {
+      "name": "t110001104",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ゴメンなさい\r\n",
+            "そこは　私のタイミングの問題"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000110400"
+        }
+      ]
+    },
+    {
+      "name": "t110001105",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "負けた場合よりも\r\n",
+            "勝った場合の方が\r\n",
+            "素早く行動に移すことができるから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000110500"
+        }
+      ]
+    },
+    {
+      "name": "t110001106",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "じゃあ\r\n",
+            "手加減すりゃいいのか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000110600"
+        }
+      ]
+    },
+    {
+      "name": "t110001107",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それじゃ犯人に怪しまれるよ\r\n",
+            "きっと実践テストも監視してるんだろうし"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000110700"
+        }
+      ]
+    },
+    {
+      "name": "t110001108",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "うーん\r\n",
+            "それもそっか\r\n",
+            "ならガチンコ勝負しかないな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000110800"
+        }
+      ]
+    },
+    {
+      "name": "t110001109",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（真剣勝負で西城君に勝たないと……\r\n",
+            "　できるのかな　私に）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000110900"
+        }
+      ]
+    },
+    {
+      "name": "t110001110",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（ううん\n",
+            "　頑張れほのか！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000111000"
+        }
+      ]
+    },
+    {
+      "name": "t110001111",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ほのか・幹比古"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000111100"
+        }
+      ]
+    },
+    {
+      "name": "t110001112",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "また……\r\n",
+            "これだ……\r\n",
+            "この感覚……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000111200"
+        }
+      ]
+    },
+    {
+      "name": "t110001113",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "どうしたの光井さん？\r\n",
+            "感覚って？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000111300"
+        }
+      ]
+    },
+    {
+      "name": "t110001114",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業\n",
+            "何かおかしいよ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000111400"
+        }
+      ]
+    },
+    {
+      "name": "t110001115",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "え……？\r\n",
+            "光井さんもか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000111500"
+        }
+      ]
+    },
+    {
+      "name": "t110001116",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "もしかして\r\n",
+            "特別授業が繰り返し行われているとか\r\n",
+            "そんな気がするのかな？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000111600"
+        }
+      ]
+    },
+    {
+      "name": "t110001117",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "よかった変な病気とかじゃなかったのね\r\n",
+            "私だけだと思ってた"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000111700"
+        }
+      ]
+    },
+    {
+      "name": "t110001118",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まだ気付いたのは僕たちだけみたいだけど\n",
+            "魔法によって記憶を操作されていたのかも"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000111800"
+        }
+      ]
+    },
+    {
+      "name": "t110001119",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "だとしたら\r\n",
+            "どこかにこれを仕掛けた犯人がいる？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000111900"
+        }
+      ]
+    },
+    {
+      "name": "t110001120",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "うん\r\n",
+            "いるだろうね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000112000"
+        }
+      ]
+    },
+    {
+      "name": "t110001121",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "早く止めないと！\r\n",
+            "記憶をいじるなんて気持ち悪いよ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000112100"
+        }
+      ]
+    },
+    {
+      "name": "t110001122",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだね\r\n",
+            "このループ現象は断ち切らないと"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000112200"
+        }
+      ]
+    },
+    {
+      "name": "t110001123",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "犯人の隙をつきましょう\r\n",
+            "油断したところを捕まえるの"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000112300"
+        }
+      ]
+    },
+    {
+      "name": "t110001124",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "だとしたら……\r\n",
+            "どうしたものだろう……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000112400"
+        }
+      ]
+    },
+    {
+      "name": "t110001125",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだ\r\n",
+            "こうしましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000112500"
+        }
+      ]
+    },
+    {
+      "name": "t110001126",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実践テストで私が勝てたら\r\n",
+            "二人で手分けして犯人を捜すの"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000112600"
+        }
+      ]
+    },
+    {
+      "name": "t110001127",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "勝敗がついた直後に\r\n",
+            "目眩ましの魔法を使うから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000112700"
+        }
+      ]
+    },
+    {
+      "name": "t110001128",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "同時にその場を離れて\r\n",
+            "手分けして捜索開始"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000112800"
+        }
+      ]
+    },
+    {
+      "name": "t110001129",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "状況を把握される前に\r\n",
+            "犯人を捕らえられれば\r\n",
+            "問題は解決ね！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000112900"
+        }
+      ]
+    },
+    {
+      "name": "t110001130",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その作戦でいこう\r\n",
+            "けど……\r\n",
+            "僕が勝ったケースでもいいよね？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000113000"
+        }
+      ]
+    },
+    {
+      "name": "t110001131",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ゴメンなさい\r\n",
+            "私が勝った場合というのは\r\n",
+            "その方が都合がいいからなの"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000113100"
+        }
+      ]
+    },
+    {
+      "name": "t110001132",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "負けた場合よりも\r\n",
+            "勝った場合の方が\r\n",
+            "素早く行動に移すことができるから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000113200"
+        }
+      ]
+    },
+    {
+      "name": "t110001133",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それじゃあ\r\n",
+            "僕は手加減すればいい？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000113300"
+        }
+      ]
+    },
+    {
+      "name": "t110001134",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それじゃ犯人に怪しまれるよ\r\n",
+            "きっと実践テストも監視してるんだろうし"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000113400"
+        }
+      ]
+    },
+    {
+      "name": "t110001135",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "なるほど\r\n",
+            "それもそうだね\r\n",
+            "あくまでも勝負は真面目にやるべきか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000113500"
+        }
+      ]
+    },
+    {
+      "name": "t110001136",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（真剣勝負で吉田君に勝たないと……\r\n",
+            "　できるのかな　私に）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000113600"
+        }
+      ]
+    },
+    {
+      "name": "t110001137",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（ううん\n",
+            "　頑張れほのか！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000113700"
+        }
+      ]
+    },
+    {
+      "name": "t110001138",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ほのか・雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000113800"
+        }
+      ]
+    },
+    {
+      "name": "t110001139",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "また……\r\n",
+            "これだ……\r\n",
+            "この感覚……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000113900"
+        }
+      ]
+    },
+    {
+      "name": "t110001140",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000114000"
+        }
+      ]
+    },
+    {
+      "name": "t110001141",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業\n",
+            "何かおかしいよ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000114100"
+        }
+      ]
+    },
+    {
+      "name": "t110001142",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000114200"
+        }
+      ]
+    },
+    {
+      "name": "t110001143",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "何度も同じ授業を受けてる\r\n",
+            "繰り返し繰り返し……\r\n",
+            "不思議な感じ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000114300"
+        }
+      ]
+    },
+    {
+      "name": "t110001144",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "よかった変な病気とかじゃなかったのね\r\n",
+            "私だけだと思ってた"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000114400"
+        }
+      ]
+    },
+    {
+      "name": "t110001145",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "魔法かも\n",
+            "私たちみんながかかってる"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000114500"
+        }
+      ]
+    },
+    {
+      "name": "t110001146",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "だとしたら\r\n",
+            "どこかにこれを仕掛けた犯人がいる？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000114600"
+        }
+      ]
+    },
+    {
+      "name": "t110001147",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000114700"
+        }
+      ]
+    },
+    {
+      "name": "t110001148",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "早く止めないと！\r\n",
+            "記憶をいじるなんて気持ち悪いよ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000114800"
+        }
+      ]
+    },
+    {
+      "name": "t110001149",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000114900"
+        }
+      ]
+    },
+    {
+      "name": "t110001150",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "犯人の隙をつこう\r\n",
+            "油断したところを捕まえるの"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000115000"
+        }
+      ]
+    },
+    {
+      "name": "t110001151",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000115100"
+        }
+      ]
+    },
+    {
+      "name": "t110001152",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだ\r\n",
+            "こうしましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000115200"
+        }
+      ]
+    },
+    {
+      "name": "t110001153",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実践テストで私が勝てたら\r\n",
+            "二人で手分けして犯人を捜すの"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000115300"
+        }
+      ]
+    },
+    {
+      "name": "t110001154",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "勝敗がついた直後に\r\n",
+            "目眩ましの魔法を使うから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000115400"
+        }
+      ]
+    },
+    {
+      "name": "t110001155",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "同時にその場を離れて\r\n",
+            "手分けして捜索開始"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000115500"
+        }
+      ]
+    },
+    {
+      "name": "t110001156",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "状況を把握される前に\r\n",
+            "犯人を捕らえられれば\r\n",
+            "問題は解決ね！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000115600"
+        }
+      ]
+    },
+    {
+      "name": "t110001157",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "わかった\r\n",
+            "ちゃんと負けるから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000115700"
+        }
+      ]
+    },
+    {
+      "name": "t110001158",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "わざとはダメだよ\r\n",
+            "犯人は実践テストを監視してるだろうし\r\n",
+            "怪しまれちゃう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000115800"
+        }
+      ]
+    },
+    {
+      "name": "t110001159",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "わかった\r\n",
+            "真面目にちゃんとする"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000115900"
+        }
+      ]
+    },
+    {
+      "name": "t110001160",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（雫と真剣勝負か……\n",
+            "　何だか緊張してきちゃった）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000116000"
+        }
+      ]
+    },
+    {
+      "name": "t110001161",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ほのか・真由美"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000116100"
+        }
+      ]
+    },
+    {
+      "name": "t110001162",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "七草先輩\r\n",
+            "チョッと相談してもよろしいですか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000116200"
+        }
+      ]
+    },
+    {
+      "name": "t110001163",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ええ\r\n",
+            "どうしました光井さん"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000116300"
+        }
+      ]
+    },
+    {
+      "name": "t110001164",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あのっ私\r\n",
+            "疲れがたまっているだけかも\r\n",
+            "しれないんですけど……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000116400"
+        }
+      ]
+    },
+    {
+      "name": "t110001165",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業を\r\n",
+            "ずっとやっている気がしてるんです"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000116500"
+        }
+      ]
+    },
+    {
+      "name": "t110001166",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "光井さん……\r\n",
+            "それは疲れのせいじゃありませんね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000116600"
+        }
+      ]
+    },
+    {
+      "name": "t110001167",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000116700"
+        }
+      ]
+    },
+    {
+      "name": "t110001168",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "だって\r\n",
+            "私も感じてますから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000116800"
+        }
+      ]
+    },
+    {
+      "name": "t110001169",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "何だか同じ時間を\n",
+            "ずっと繰り返しているような気がするの"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000116900"
+        }
+      ]
+    },
+    {
+      "name": "t110001170",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "やっぱり\r\n",
+            "そうなんですね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000117000"
+        }
+      ]
+    },
+    {
+      "name": "t110001171",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000117100"
+        }
+      ]
+    },
+    {
+      "name": "t110001172",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "誰かから\r\n",
+            "攻撃されてるってことでしょうか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000117200"
+        }
+      ]
+    },
+    {
+      "name": "t110001173",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その可能性は高いと思います\r\n",
+            "しかも学校全体が"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000117300"
+        }
+      ]
+    },
+    {
+      "name": "t110001174",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "記憶を操作するということは\r\n",
+            "系統外魔法かなぁ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000117400"
+        }
+      ]
+    },
+    {
+      "name": "t110001175",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "こんなことするなんて\r\n",
+            "許せませんよねっ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000117500"
+        }
+      ]
+    },
+    {
+      "name": "t110001176",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "私なんて\r\n",
+            "夢と現実の区別が\r\n",
+            "つかなくなってしまったのかと思って……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000117600"
+        }
+      ]
+    },
+    {
+      "name": "t110001177",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ええ 生徒会としてもこの異常事態は\r\n",
+            "看過できるものではありません"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000117700"
+        }
+      ]
+    },
+    {
+      "name": "t110001178",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000117800"
+        }
+      ]
+    },
+    {
+      "name": "t110001179",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうね\r\n",
+            "具体的にはどんな方法でいきましょうか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000117900"
+        }
+      ]
+    },
+    {
+      "name": "t110001180",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだ\r\n",
+            "こうしましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000118000"
+        }
+      ]
+    },
+    {
+      "name": "t110001181",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実践テストで私が勝てたら\r\n",
+            "二人で手分けして犯人を捜すんです"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000118100"
+        }
+      ]
+    },
+    {
+      "name": "t110001182",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "勝敗がついた直後に\r\n",
+            "目眩ましの魔法を使いますから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000118200"
+        }
+      ]
+    },
+    {
+      "name": "t110001183",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "同時にその場を離れて\r\n",
+            "手分けして捜索を開始します"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000118300"
+        }
+      ]
+    },
+    {
+      "name": "t110001184",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "状況を把握される前に\r\n",
+            "犯人を捕らえられれば\r\n",
+            "問題は解決です！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000118400"
+        }
+      ]
+    },
+    {
+      "name": "t110001185",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その作戦でいいと思うわ\r\n",
+            "だけど……\r\n",
+            "私が勝った場合でもいいわよね？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000118500"
+        }
+      ]
+    },
+    {
+      "name": "t110001186",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ゴメンなさい\r\n",
+            "私が勝った場合というのは\r\n",
+            "その方が都合がいいからなんです"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000118600"
+        }
+      ]
+    },
+    {
+      "name": "t110001187",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "負けた場合よりも\r\n",
+            "勝った場合の方が\r\n",
+            "素早く行動に移すことができますから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000118700"
+        }
+      ]
+    },
+    {
+      "name": "t110001188",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000118800"
+        }
+      ]
+    },
+    {
+      "name": "t110001189",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それじゃ犯人に怪しまれます\r\n",
+            "きっと実践テストも監視してるでしょうし"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000118900"
+        }
+      ]
+    },
+    {
+      "name": "t110001190",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それもそうね\r\n",
+            "ならテスト自体は真剣勝負ね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000119000"
+        }
+      ]
+    },
+    {
+      "name": "t110001191",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（真剣勝負で七草先輩に勝つのか……\r\n",
+            "　できるのかな　私に）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000119100"
+        }
+      ]
+    },
+    {
+      "name": "t110001192",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（ううん\n",
+            "　頑張れほのか！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000119200"
+        }
+      ]
+    },
+    {
+      "name": "t110001193",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ほのか・摩利"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000119300"
+        }
+      ]
+    },
+    {
+      "name": "t110001194",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "渡辺先輩\r\n",
+            "チョッと相談してもよろしいですか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000119400"
+        }
+      ]
+    },
+    {
+      "name": "t110001195",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "何だ光井\n",
+            "どうしたんだ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000119500"
+        }
+      ]
+    },
+    {
+      "name": "t110001196",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あのっ私\r\n",
+            "疲れがたまっているだけかも\r\n",
+            "しれないんですけど……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000119600"
+        }
+      ]
+    },
+    {
+      "name": "t110001197",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業を\r\n",
+            "ずっとやっている気がしてるんです"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000119700"
+        }
+      ]
+    },
+    {
+      "name": "t110001198",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ほう……\r\n",
+            "しかしそれは疲れのせいなどではないぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000119800"
+        }
+      ]
+    },
+    {
+      "name": "t110001199",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000119900"
+        }
+      ]
+    },
+    {
+      "name": "t110001200",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "なぜなら\r\n",
+            "あたしもそう感じているからだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000120000"
+        }
+      ]
+    },
+    {
+      "name": "t110001201",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "何度も何度も特別授業を\r\n",
+            "繰り返し受けている\r\n",
+            "そんな気がしてならんのだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000120100"
+        }
+      ]
+    },
+    {
+      "name": "t110001202",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "やっぱり\r\n",
+            "そうなんですね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000120200"
+        }
+      ]
+    },
+    {
+      "name": "t110001203",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "系統外魔法を仕掛けられているのかも\r\n",
+            "しれんな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000120300"
+        }
+      ]
+    },
+    {
+      "name": "t110001204",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "誰かから\r\n",
+            "攻撃されてるってことでしょうか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000120400"
+        }
+      ]
+    },
+    {
+      "name": "t110001205",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ああ\r\n",
+            "それも学校全体に対してな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000120500"
+        }
+      ]
+    },
+    {
+      "name": "t110001206",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "風紀委員に対する挑戦としか思えん\r\n",
+            "実に不愉快な状況だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000120600"
+        }
+      ]
+    },
+    {
+      "name": "t110001207",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "こんなことするなんて\r\n",
+            "許せませんよねっ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000120700"
+        }
+      ]
+    },
+    {
+      "name": "t110001208",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "私なんて\r\n",
+            "夢と現実の区別が\r\n",
+            "つかなくなってしまったのかと思って……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000120800"
+        }
+      ]
+    },
+    {
+      "name": "t110001209",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "止めなければならんだろう\r\n",
+            "あきらかなる異常事態だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000120900"
+        }
+      ]
+    },
+    {
+      "name": "t110001210",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000121000"
+        }
+      ]
+    },
+    {
+      "name": "t110001211",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだな\r\n",
+            "問題はどのような作戦にするかだが……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000121100"
+        }
+      ]
+    },
+    {
+      "name": "t110001212",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだ\r\n",
+            "こうしましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000121200"
+        }
+      ]
+    },
+    {
+      "name": "t110001213",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実践テストで私が勝てたら\r\n",
+            "二人で手分けして犯人を捜すんです"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000121300"
+        }
+      ]
+    },
+    {
+      "name": "t110001214",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "勝敗がついた直後に\r\n",
+            "目眩ましの魔法を使いますから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000121400"
+        }
+      ]
+    },
+    {
+      "name": "t110001215",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "同時にその場を離れて\r\n",
+            "手分けして捜索を開始します"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000121500"
+        }
+      ]
+    },
+    {
+      "name": "t110001216",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "状況を把握される前に\r\n",
+            "犯人を捕らえられれば\r\n",
+            "問題は解決です！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000121600"
+        }
+      ]
+    },
+    {
+      "name": "t110001217",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "中々いい作戦ではあるが……\r\n",
+            "あたしが勝利したケースでも\r\n",
+            "問題はないと思えるが"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000121700"
+        }
+      ]
+    },
+    {
+      "name": "t110001218",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ゴメンなさい\r\n",
+            "私が勝った場合というのは\r\n",
+            "その方が都合がいいからなんです"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000121800"
+        }
+      ]
+    },
+    {
+      "name": "t110001219",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "負けた場合よりも\r\n",
+            "勝った場合の方が\r\n",
+            "素早く行動に移すことができますから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000121900"
+        }
+      ]
+    },
+    {
+      "name": "t110001220",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "全力では戦わんよ\n",
+            "余力を残すように配慮はする"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000122000"
+        }
+      ]
+    },
+    {
+      "name": "t110001221",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それじゃ犯人に怪しまれます\r\n",
+            "きっと実践テストも監視してるでしょうし"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000122100"
+        }
+      ]
+    },
+    {
+      "name": "t110001222",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それも一理ありか……\r\n",
+            "そうなると真剣勝負以外に道はないな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000122200"
+        }
+      ]
+    },
+    {
+      "name": "t110001223",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（真剣勝負で渡辺先輩に勝つのか……\r\n",
+            "　できるのかな　私に）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000122300"
+        }
+      ]
+    },
+    {
+      "name": "t110001224",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（ううん\n",
+            "　頑張れほのか！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000122400"
+        }
+      ]
+    },
+    {
+      "name": "t110001225",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ほのか・服部"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000122500"
+        }
+      ]
+    },
+    {
+      "name": "t110001226",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "服部先輩\r\n",
+            "チョッと相談してもよろしいですか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000122600"
+        }
+      ]
+    },
+    {
+      "name": "t110001227",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "光井さんが\n",
+            "俺に相談？\n",
+            "何だろう？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000122700"
+        }
+      ]
+    },
+    {
+      "name": "t110001228",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あのっ私\r\n",
+            "疲れがたまっているだけかも\r\n",
+            "しれないんですけど……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000122800"
+        }
+      ]
+    },
+    {
+      "name": "t110001229",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業を\r\n",
+            "ずっとやっている気がしてるんです"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000122900"
+        }
+      ]
+    },
+    {
+      "name": "t110001230",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "なるほど……\r\n",
+            "安心しろ\r\n",
+            "それは疲れなんかじゃない"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000123000"
+        }
+      ]
+    },
+    {
+      "name": "t110001231",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000123100"
+        }
+      ]
+    },
+    {
+      "name": "t110001232",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "事実として起きている\n",
+            "ループ現象は俺も感じているからな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000123200"
+        }
+      ]
+    },
+    {
+      "name": "t110001233",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "特別授業は繰り返し行われている\r\n",
+            "不気味な事態だ\r\n",
+            "我々生徒会も関知していない"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000123300"
+        }
+      ]
+    },
+    {
+      "name": "t110001234",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "やっぱり\r\n",
+            "そうなんですね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000123400"
+        }
+      ]
+    },
+    {
+      "name": "t110001235",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000123500"
+        }
+      ]
+    },
+    {
+      "name": "t110001236",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "誰かから\r\n",
+            "攻撃されてるってことでしょうか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000123600"
+        }
+      ]
+    },
+    {
+      "name": "t110001237",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだ\r\n",
+            "記憶を操作する何者かがいる"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000123700"
+        }
+      ]
+    },
+    {
+      "name": "t110001238",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "授業が終了する度\r\n",
+            "我々の記憶を操作しているのに違いない"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000123800"
+        }
+      ]
+    },
+    {
+      "name": "t110001239",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "こんなことするなんて\r\n",
+            "許せませんよねっ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000123900"
+        }
+      ]
+    },
+    {
+      "name": "t110001240",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "私なんて\r\n",
+            "夢と現実の区別が\r\n",
+            "つかなくなってしまったのかと思って……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000124000"
+        }
+      ]
+    },
+    {
+      "name": "t110001241",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "早急に解決しないとな\r\n",
+            "取り返しのつかないことにもなりかねん"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000124100"
+        }
+      ]
+    },
+    {
+      "name": "t110001242",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000124200"
+        }
+      ]
+    },
+    {
+      "name": "t110001243",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "当然だ\r\n",
+            "しかしどうするべきか……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000124300"
+        }
+      ]
+    },
+    {
+      "name": "t110001244",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだ\r\n",
+            "こうしましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000124400"
+        }
+      ]
+    },
+    {
+      "name": "t110001245",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実践テストで私が勝てたら\r\n",
+            "二人で手分けして犯人を捜すんです"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000124500"
+        }
+      ]
+    },
+    {
+      "name": "t110001246",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "勝敗がついた直後に\r\n",
+            "目眩ましの魔法を使いますから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000124600"
+        }
+      ]
+    },
+    {
+      "name": "t110001247",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "同時にその場を離れて\r\n",
+            "手分けして捜索を開始します"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000124700"
+        }
+      ]
+    },
+    {
+      "name": "t110001248",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "状況を把握される前に\r\n",
+            "犯人を捕らえられれば\r\n",
+            "問題は解決です！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000124800"
+        }
+      ]
+    },
+    {
+      "name": "t110001249",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "いいだろう\n",
+            "だが俺が勝った場合でも同様の\n",
+            "作戦は開始できるんじゃないのかな？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000124900"
+        }
+      ]
+    },
+    {
+      "name": "t110001250",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ゴメンなさい\r\n",
+            "私が勝った場合というのは\r\n",
+            "その方が都合がいいからなんです"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000125000"
+        }
+      ]
+    },
+    {
+      "name": "t110001251",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "負けた場合よりも\r\n",
+            "勝った場合の方が\r\n",
+            "素早く行動に移すことができますから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000125100"
+        }
+      ]
+    },
+    {
+      "name": "t110001252",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ふむ……\r\n",
+            "それでは　実践テストは\r\n",
+            "手加減して戦った方がよさそうだな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000125200"
+        }
+      ]
+    },
+    {
+      "name": "t110001253",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それじゃ犯人に怪しまれます\r\n",
+            "きっと実践テストも監視してるでしょうし"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000125300"
+        }
+      ]
+    },
+    {
+      "name": "t110001254",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そ そうか……\r\n",
+            "それもそうだな\r\n",
+            "あくまでも真剣勝負ということか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000125400"
+        }
+      ]
+    },
+    {
+      "name": "t110001255",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（真剣勝負で服部先輩に勝つのか……\r\n",
+            "　できるのかな　私に）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000125500"
+        }
+      ]
+    },
+    {
+      "name": "t110001256",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（ううん\n",
+            "　頑張れほのか！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000125600"
+        }
+      ]
+    },
+    {
+      "name": "t110001257",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ほのか・英美"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000125700"
+        }
+      ]
+    },
+    {
+      "name": "t110001258",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "また……\r\n",
+            "これだ……\r\n",
+            "この感覚……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000125800"
+        }
+      ]
+    },
+    {
+      "name": "t110001259",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ん？\r\n",
+            "どうしたのほのか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000125900"
+        }
+      ]
+    },
+    {
+      "name": "t110001260",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業\n",
+            "何かおかしいよ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000126000"
+        }
+      ]
+    },
+    {
+      "name": "t110001261",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "おかしい？\r\n",
+            "おかしいってもしかして……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000126100"
+        }
+      ]
+    },
+    {
+      "name": "t110001262",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "特別授業が何度も繰り返されてるとか\r\n",
+            "そんな感じがするってこと？\r\n",
+            "ならわかるけど"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000126200"
+        }
+      ]
+    },
+    {
+      "name": "t110001263",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "よかった変な病気とかじゃなかったのね\r\n",
+            "私だけだと思ってた"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000126300"
+        }
+      ]
+    },
+    {
+      "name": "t110001264",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "みんなはまだ気付いてないみたいだけどね\r\n",
+            "魔法か何かの攻撃を受けてるのかも"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000126400"
+        }
+      ]
+    },
+    {
+      "name": "t110001265",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "だとしたら\r\n",
+            "どこかにこれを仕掛けた犯人がいる？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000126500"
+        }
+      ]
+    },
+    {
+      "name": "t110001266",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "うん\r\n",
+            "しかも生徒会や風紀委員会にも気付かれずに\r\n",
+            "かなり巧妙な手口だよね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000126600"
+        }
+      ]
+    },
+    {
+      "name": "t110001267",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "早く止めないと！\r\n",
+            "記憶をいじるなんて気持ち悪いよ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000126700"
+        }
+      ]
+    },
+    {
+      "name": "t110001268",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだね\r\n",
+            "チョッと腹が立つよね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000126800"
+        }
+      ]
+    },
+    {
+      "name": "t110001269",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "犯人の隙をつきましょう\r\n",
+            "油断したところを捕まえるの"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000126900"
+        }
+      ]
+    },
+    {
+      "name": "t110001270",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "オッケー\r\n",
+            "どうやって油断させようか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000127000"
+        }
+      ]
+    },
+    {
+      "name": "t110001271",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだ\r\n",
+            "こうしましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000127100"
+        }
+      ]
+    },
+    {
+      "name": "t110001272",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "実践テストで私が勝てたら\r\n",
+            "二人で手分けして犯人を捜すの"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000127200"
+        }
+      ]
+    },
+    {
+      "name": "t110001273",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "勝敗がついた直後に\r\n",
+            "目眩ましの魔法を使うから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000127300"
+        }
+      ]
+    },
+    {
+      "name": "t110001274",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "同時にその場を離れて\r\n",
+            "手分けして捜索開始"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000127400"
+        }
+      ]
+    },
+    {
+      "name": "t110001275",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "状況を把握される前に\r\n",
+            "犯人を捕らえられれば\r\n",
+            "問題は解決ね！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000127500"
+        }
+      ]
+    },
+    {
+      "name": "t110001276",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それでいきましょう\r\n",
+            "けど……\r\n",
+            "私が勝ってもいいんじゃない？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000127600"
+        }
+      ]
+    },
+    {
+      "name": "t110001277",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ゴメンなさい\r\n",
+            "私が勝った場合というのは\r\n",
+            "その方が都合がいいからなの"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000127700"
+        }
+      ]
+    },
+    {
+      "name": "t110001278",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "負けた場合よりも\r\n",
+            "勝った場合の方が\r\n",
+            "素早く行動に移すことができるから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000127800"
+        }
+      ]
+    },
+    {
+      "name": "t110001279",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それじゃあ……\r\n",
+            "私は手加減して戦った方がいい？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000127900"
+        }
+      ]
+    },
+    {
+      "name": "t110001280",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それじゃ犯人に怪しまれるよ\r\n",
+            "きっと実践テストも監視してるんだろうし"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000128000"
+        }
+      ]
+    },
+    {
+      "name": "t110001281",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "じゃあ\r\n",
+            "テストは真剣勝負ってことにしないとダメか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000128100"
+        }
+      ]
+    },
+    {
+      "name": "t110001282",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（真剣勝負でエイミィに勝たないと……\r\n",
+            "　できるのかな　私に）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000128200"
+        }
+      ]
+    },
+    {
+      "name": "t110001283",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（ううん\n",
+            "　頑張れほのか！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000128300"
+        }
+      ]
+    },
+    {
+      "name": "t110002001",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000200100"
+        }
+      ]
+    },
+    {
+      "name": "t110002002",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（ほのか\r\n",
+            "　こっちだ）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000200200"
+        }
+      ]
+    },
+    {
+      "name": "t110002003",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ほのか・達也"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000200300"
+        }
+      ]
+    },
+    {
+      "name": "t110002004",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000200400"
+        }
+      ]
+    },
+    {
+      "name": "t110002005",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "分かりました\r\n",
+            "私はこちら側を探します"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000200500"
+        }
+      ]
+    },
+    {
+      "name": "t110002006",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（達也さんと\r\n",
+            "　手をつないじゃった……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000200600"
+        }
+      ]
+    },
+    {
+      "name": "t110002007",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000200700"
+        }
+      ]
+    },
+    {
+      "name": "t110002008",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（ほのか\r\n",
+            "　こっちよ！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000200800"
+        }
+      ]
+    },
+    {
+      "name": "t110002009",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ほのか・深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000200900"
+        }
+      ]
+    },
+    {
+      "name": "t110002010",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それじゃあ\n",
+            "手分けして犯人を見つけ出しましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000201000"
+        }
+      ]
+    },
+    {
+      "name": "t110002011",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ええ\r\n",
+            "だけど気を付けてね\r\n",
+            "ほのか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000201100"
+        }
+      ]
+    },
+    {
+      "name": "t110002012",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000200700"
+        }
+      ]
+    },
+    {
+      "name": "t110002013",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（ほのか！\r\n",
+            "　こっちこっち！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000201300"
+        }
+      ]
+    },
+    {
+      "name": "t110002014",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ほのか・エリカ"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000201400"
+        }
+      ]
+    },
+    {
+      "name": "t110002015",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それじゃあ\n",
+            "手分けして犯人を見つけ出しましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000201000"
+        }
+      ]
+    },
+    {
+      "name": "t110002016",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000201600"
+        }
+      ]
+    },
+    {
+      "name": "t110002017",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000200700"
+        }
+      ]
+    },
+    {
+      "name": "t110002018",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（光井！\r\n",
+            "　こっちだ！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000201800"
+        }
+      ]
+    },
+    {
+      "name": "t110002019",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ほのか・レオ"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000201900"
+        }
+      ]
+    },
+    {
+      "name": "t110002020",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それじゃあ\n",
+            "手分けして犯人を見つけ出しましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000201000"
+        }
+      ]
+    },
+    {
+      "name": "t110002021",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ああ\r\n",
+            "気を付けろよ光井\r\n",
+            "無理はすんなよ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000202100"
+        }
+      ]
+    },
+    {
+      "name": "t110002022",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000202200"
+        }
+      ]
+    },
+    {
+      "name": "t110002023",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000200700"
+        }
+      ]
+    },
+    {
+      "name": "t110002024",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（光井さん！\r\n",
+            "　こっちに来るんだ！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000202400"
+        }
+      ]
+    },
+    {
+      "name": "t110002025",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ほのか・幹比古"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000202500"
+        }
+      ]
+    },
+    {
+      "name": "t110002026",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それじゃあ\n",
+            "手分けして犯人を見つけ出しましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000201000"
+        }
+      ]
+    },
+    {
+      "name": "t110002027",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ここからは単独行動だ\r\n",
+            "くれぐれも用心して"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000202700"
+        }
+      ]
+    },
+    {
+      "name": "t110002028",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ええ\r\n",
+            "吉田くんもね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000202800"
+        }
+      ]
+    },
+    {
+      "name": "t110002029",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（いくよ！\r\n",
+            "　雫！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000202900"
+        }
+      ]
+    },
+    {
+      "name": "t110002030",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（雫！\r\n",
+            "　こっちだよ！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000203000"
+        }
+      ]
+    },
+    {
+      "name": "t110002031",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ほのか・雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000203100"
+        }
+      ]
+    },
+    {
+      "name": "t110002032",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ここからは手分けして捜そう\r\n",
+            "雫　犯人を見つけたら知らせてね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000203200"
+        }
+      ]
+    },
+    {
+      "name": "t110002033",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "うん\n",
+            "頑張る"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000203300"
+        }
+      ]
+    },
+    {
+      "name": "t110002034",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000200100"
+        }
+      ]
+    },
+    {
+      "name": "t110002035",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（光井さん！\r\n",
+            "　こっちよ！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000203500"
+        }
+      ]
+    },
+    {
+      "name": "t110002036",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ほのか・真由美"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000203600"
+        }
+      ]
+    },
+    {
+      "name": "t110002037",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それでは\n",
+            "手分けして犯人を捜し出しましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000203700"
+        }
+      ]
+    },
+    {
+      "name": "t110002038",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ええ\r\n",
+            "頑張って見つけ出しましょうね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000203800"
+        }
+      ]
+    },
+    {
+      "name": "t110002039",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000200100"
+        }
+      ]
+    },
+    {
+      "name": "t110002040",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（光井！\r\n",
+            "　こっちだ！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000204000"
+        }
+      ]
+    },
+    {
+      "name": "t110002041",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ほのか・摩利"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000204100"
+        }
+      ]
+    },
+    {
+      "name": "t110002042",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それでは\n",
+            "手分けして犯人を捜し出しましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000203700"
+        }
+      ]
+    },
+    {
+      "name": "t110002043",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ああ\r\n",
+            "くれぐれも気を付けるんだぞ\r\n",
+            "敵は狡猾だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000204300"
+        }
+      ]
+    },
+    {
+      "name": "t110002044",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000200100"
+        }
+      ]
+    },
+    {
+      "name": "t110002045",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（光井さん！\r\n",
+            "　こっちだ！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000204500"
+        }
+      ]
+    },
+    {
+      "name": "t110002046",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ほのか・服部"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000204600"
+        }
+      ]
+    },
+    {
+      "name": "t110002047",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それでは\n",
+            "手分けして犯人を捜し出しましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000203700"
+        }
+      ]
+    },
+    {
+      "name": "t110002048",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだな\r\n",
+            "しかし得体の知れない敵だ\r\n",
+            "危ないと感じたら逃げるんだぞ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000204800"
+        }
+      ]
+    },
+    {
+      "name": "t110002049",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "はい！\r\n",
+            "分かりました！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000204900"
+        }
+      ]
+    },
+    {
+      "name": "t110002050",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000200700"
+        }
+      ]
+    },
+    {
+      "name": "t110002051",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（ほのか！\r\n",
+            "　こっちだよ！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000205100"
+        }
+      ]
+    },
+    {
+      "name": "t110002052",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "ほのか・英美"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000205200"
+        }
+      ]
+    },
+    {
+      "name": "t110002053",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それじゃあ\n",
+            "手分けして犯人を見つけ出しましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000201000"
+        }
+      ]
+    },
+    {
+      "name": "t110002054",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "犯人確保ゲームの開始ね！\r\n",
+            "競争といきましょうか！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000205400"
+        }
+      ]
+    },
+    {
+      "name": "t110002055",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000205500"
+        }
+      ]
+    },
+    {
+      "name": "t110002056",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000205600"
+        }
+      ]
+    },
+    {
+      "name": "t110002057",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（何でだろう\n",
+            "　こっちのような気がする）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000205700"
+        }
+      ]
+    },
+    {
+      "name": "t110002058",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（間違いない\r\n",
+            "　ここにいる……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000205800"
+        }
+      ]
+    },
+    {
+      "name": "t110002059",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000205900"
+        }
+      ]
+    },
+    {
+      "name": "t110002060",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000206000"
+        }
+      ]
+    },
+    {
+      "name": "t110002061",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "？？？？"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000206100"
+        }
+      ]
+    },
+    {
+      "name": "t110002062",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "？？？？"
+        },
+        {
+          "name": "voice",
+          "line": "voe01000205300"
+        }
+      ]
+    },
+    {
+      "name": "t110002063",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000206300"
+        }
+      ]
+    },
+    {
+      "name": "t110002064",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（何だろう\n",
+            "　この感覚\n",
+            "　懐かしいような……？）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000206400"
+        }
+      ]
+    },
+    {
+      "name": "t110002065",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "？？？？"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "何の\n",
+            "ご用件でしょう？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe04000205500"
+        }
+      ]
+    },
+    {
+      "name": "t110002066",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "あなたですよね？\r\n",
+            "みんなを勘違いさせて\r\n",
+            "同じ授業を繰り返させて……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000206600"
+        }
+      ]
+    },
+    {
+      "name": "t110002067",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（懐かしいというよりは\r\n",
+            "　私と似てる……？）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe11000206700"
+        }
+      ]
+    },
+    {
+      "name": "t110002068",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "？？？？"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "はい\r\n",
+            "私が運用しています"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe04000205700"
+        }
+      ]
+    },
+    {
+      "name": "t110002069",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000206900"
+        }
+      ]
+    },
+    {
+      "name": "t110002070",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "？？？？"
+        },
+        {
+          "name": "voice",
+          "line": "voe01000206000"
+        }
+      ]
+    },
+    {
+      "name": "t110002071",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000207100"
+        }
+      ]
+    },
+    {
+      "name": "t110002072",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe11000207200"
+        }
+      ]
+    },
+    {
+      "name": "t110002073",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "？？？？"
+        },
+        {
+          "name": "voice",
+          "line": "voe01000206300"
+        }
+      ]
+    }
+  ]
+}

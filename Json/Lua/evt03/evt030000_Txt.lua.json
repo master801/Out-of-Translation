@@ -1,0 +1,6580 @@
+{
+  "name": "evt030000_Txt.lua",
+  "containers": [
+    {
+      "name": "t030001001",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "レオ・達也"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000100100"
+        }
+      ]
+    },
+    {
+      "name": "t030001002",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "やっぱり\r\n",
+            "おかしいよな？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000100200"
+        }
+      ]
+    },
+    {
+      "name": "t030001003",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだな\r\n",
+            "レオも気づいていたか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000100300"
+        }
+      ]
+    },
+    {
+      "name": "t030001004",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "正直\r\n",
+            "何が起きてるのかはサッパリだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000100400"
+        }
+      ]
+    },
+    {
+      "name": "t030001005",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まるで\n",
+            "同じ時間を\n",
+            "何度も繰り返しているようだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000100500"
+        }
+      ]
+    },
+    {
+      "name": "t030001006",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうなんだよ\n",
+            "思い出してみると\n",
+            "同じような記憶がたくさんあるんだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000100600"
+        }
+      ]
+    },
+    {
+      "name": "t030001007",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まだ\r\n",
+            "ハッキリとしないが\r\n",
+            "異常事態なのは間違いない"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000100700"
+        }
+      ]
+    },
+    {
+      "name": "t030001008",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "これ\r\n",
+            "系統外魔法の精神操作とかじゃないのか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000100800"
+        }
+      ]
+    },
+    {
+      "name": "t030001009",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "おそらくは……\r\n",
+            "しかし　確証がない"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000100900"
+        }
+      ]
+    },
+    {
+      "name": "t030001010",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（俺の「精霊の眼」でも正体が掴めていない\r\n",
+            "　知る範囲の魔法であれば\r\n",
+            "　絶対にありえないことだ……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000101000"
+        }
+      ]
+    },
+    {
+      "name": "t030001011",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "現代では失われた魔法か\r\n",
+            "あるいはそもそも\r\n",
+            "魔法とは別の何かかもしれない"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000101100"
+        }
+      ]
+    },
+    {
+      "name": "t030001012",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "学校を\r\n",
+            "丸ごと攻撃するとか\r\n",
+            "いい度胸してるぜ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000101200"
+        }
+      ]
+    },
+    {
+      "name": "t030001013",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ここまで\r\n",
+            "不気味な相手は初めてだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000101300"
+        }
+      ]
+    },
+    {
+      "name": "t030001014",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そんじゃまぁ\r\n",
+            "後悔はしてもらわないとな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000101400"
+        }
+      ]
+    },
+    {
+      "name": "t030001015",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "異存は無いが\r\n",
+            "どうする？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000101500"
+        }
+      ]
+    },
+    {
+      "name": "t030001016",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "やっぱり\r\n",
+            "向こうから直接攻撃してくる時が\r\n",
+            "反撃のチャンスだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000101600"
+        }
+      ]
+    },
+    {
+      "name": "t030001017",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "となると\r\n",
+            "実践テストの直後が\r\n",
+            "タイミングはよさそうだな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000101700"
+        }
+      ]
+    },
+    {
+      "name": "t030001018",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "決着がついたら\r\n",
+            "騒ぎを起こそう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000101800"
+        }
+      ]
+    },
+    {
+      "name": "t030001019",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その混乱の中なら\r\n",
+            "向こうに気付かれずに\r\n",
+            "反撃できるだろ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000101900"
+        }
+      ]
+    },
+    {
+      "name": "t030001020",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "混乱か……\r\n",
+            "具体的にはどうする？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000102000"
+        }
+      ]
+    },
+    {
+      "name": "t030001021",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ＣＡＤが暴発した\r\n",
+            "とか言って\r\n",
+            "適当に魔法を撃つのはどうだ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000102100"
+        }
+      ]
+    },
+    {
+      "name": "t030001022",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "上手いこと怪我人とか出ないようにさ\r\n",
+            "達也なら\r\n",
+            "そういうの得意そうだし"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000102200"
+        }
+      ]
+    },
+    {
+      "name": "t030001023",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000102300"
+        }
+      ]
+    },
+    {
+      "name": "t030001024",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "不満か？\r\n",
+            "じゃあ実践テストで俺が勝ったら\r\n",
+            "達也が囮役ってことで……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000102400"
+        }
+      ]
+    },
+    {
+      "name": "t030001025",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "問題は\r\n",
+            "そこではないんだが……\r\n",
+            "まぁ仕方がない引き受けよう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000102500"
+        }
+      ]
+    },
+    {
+      "name": "t030001026",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "わざと負けたりしないで\r\n",
+            "いいんだぜ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000102600"
+        }
+      ]
+    },
+    {
+      "name": "t030001027",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000102700"
+        }
+      ]
+    },
+    {
+      "name": "t030001028",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "レオ・深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000102800"
+        }
+      ]
+    },
+    {
+      "name": "t030001029",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "おかしい\r\n",
+            "こりゃどう考えても変だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000102900"
+        }
+      ]
+    },
+    {
+      "name": "t030001030",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000103000"
+        }
+      ]
+    },
+    {
+      "name": "t030001031",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "気付いたって？\r\n",
+            "い いや……\r\n",
+            "そこまではと言うか……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000103100"
+        }
+      ]
+    },
+    {
+      "name": "t030001032",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ただ\n",
+            "何か違和感があるんだよなぁ\n",
+            "深雪さんは何に気付いたんだ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000103200"
+        }
+      ]
+    },
+    {
+      "name": "t030001033",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ええ……\n",
+            "わたしたち\n",
+            "この特別授業を繰り返し経験している"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000103300"
+        }
+      ]
+    },
+    {
+      "name": "t030001034",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "突拍子もないかもしれないけど\r\n",
+            "そんな気がして仕方がないの"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000103400"
+        }
+      ]
+    },
+    {
+      "name": "t030001035",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "繰り返し……\r\n",
+            "そう！\r\n",
+            "それだ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000103500"
+        }
+      ]
+    },
+    {
+      "name": "t030001036",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "同じようなことを何度も繰り返してるんだ！\n",
+            "記憶違いとかじゃなくって\n",
+            "現実に起きてるとしか考えられねぇ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000103600"
+        }
+      ]
+    },
+    {
+      "name": "t030001037",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "わたしもそう思う\r\n",
+            "おそらく魔法による攻撃ね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000103700"
+        }
+      ]
+    },
+    {
+      "name": "t030001038",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000103800"
+        }
+      ]
+    },
+    {
+      "name": "t030001039",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000103900"
+        }
+      ]
+    },
+    {
+      "name": "t030001040",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それにしても\r\n",
+            "学校を丸ごと攻撃するとか\r\n",
+            "いい度胸してるぜ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000104000"
+        }
+      ]
+    },
+    {
+      "name": "t030001041",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "どこの誰だか知らないが\r\n",
+            "後悔してもらうしかないな！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000104100"
+        }
+      ]
+    },
+    {
+      "name": "t030001042",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "犯人を見つけるのね\r\n",
+            "でもどうやって？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000104200"
+        }
+      ]
+    },
+    {
+      "name": "t030001043",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "やっぱり\r\n",
+            "向こうから直接攻撃してくる時が\r\n",
+            "反撃のチャンスだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000104300"
+        }
+      ]
+    },
+    {
+      "name": "t030001044",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "タイミングは\r\n",
+            "特別授業終了の時だよな\r\n",
+            "つまり……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000104400"
+        }
+      ]
+    },
+    {
+      "name": "t030001045",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000104500"
+        }
+      ]
+    },
+    {
+      "name": "t030001046",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000104600"
+        }
+      ]
+    },
+    {
+      "name": "t030001047",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "決着がついたら\r\n",
+            "騒ぎを起こそう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000104700"
+        }
+      ]
+    },
+    {
+      "name": "t030001048",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その混乱の中なら\r\n",
+            "向こうに気付かれずに\r\n",
+            "反撃できるだろ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000104800"
+        }
+      ]
+    },
+    {
+      "name": "t030001049",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "騒ぎ……\r\n",
+            "どうすればいいんだろう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000104900"
+        }
+      ]
+    },
+    {
+      "name": "t030001050",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000105000"
+        }
+      ]
+    },
+    {
+      "name": "t030001051",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000105100"
+        }
+      ]
+    },
+    {
+      "name": "t030001052",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "黒幕暴きは危険が伴うからな\r\n",
+            "そっちは俺が受け持つよ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000105200"
+        }
+      ]
+    },
+    {
+      "name": "t030001053",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "俺が実践テストで勝てたケースに限定しよう\r\n",
+            "大喜びして皆の注意を引きつけるから\r\n",
+            "そのタイミングでやってくれ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000105300"
+        }
+      ]
+    },
+    {
+      "name": "t030001054",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "わかったわ\r\n",
+            "でも西城君も気を付けてね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000105400"
+        }
+      ]
+    },
+    {
+      "name": "t030001055",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "もちろん\r\n",
+            "ミスなんてしないさ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000105500"
+        }
+      ]
+    },
+    {
+      "name": "t030001056",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "レオ・エリカ"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000105600"
+        }
+      ]
+    },
+    {
+      "name": "t030001057",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "おかしい\r\n",
+            "こりゃどう考えても変だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000105700"
+        }
+      ]
+    },
+    {
+      "name": "t030001058",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "へぇ\r\n",
+            "まさかアンタも気付いてたとはね\r\n",
+            "結構意外かも"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000105800"
+        }
+      ]
+    },
+    {
+      "name": "t030001059",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000105900"
+        }
+      ]
+    },
+    {
+      "name": "t030001060",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "だってアンタってば鈍いとこあるでしょ？\r\n",
+            "意外と鋭いところもあるんだなって"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000106000"
+        }
+      ]
+    },
+    {
+      "name": "t030001061",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業って異常よね\r\n",
+            "何度も繰り返し行われてる\r\n",
+            "しかも誰もそれに気付いてない"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000106100"
+        }
+      ]
+    },
+    {
+      "name": "t030001062",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ああ\r\n",
+            "そうなんだよ\r\n",
+            "ずっとおかしいって思ってた"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000106200"
+        }
+      ]
+    },
+    {
+      "name": "t030001063",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "最初は気のせいかって思ってたけど\r\n",
+            "オメエまでそう感じるってことは\r\n",
+            "こいつはもう確実にそうなんだろうな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000106300"
+        }
+      ]
+    },
+    {
+      "name": "t030001064",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "おそらく魔法による攻撃ね\r\n",
+            "系統外魔法で記憶を操作してる"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000106400"
+        }
+      ]
+    },
+    {
+      "name": "t030001065",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000106500"
+        }
+      ]
+    },
+    {
+      "name": "t030001066",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000106600"
+        }
+      ]
+    },
+    {
+      "name": "t030001067",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それにしても\r\n",
+            "学校を丸ごと攻撃するとか\r\n",
+            "いい度胸してるぜ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000106700"
+        }
+      ]
+    },
+    {
+      "name": "t030001068",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "どこの誰だか知らないが\r\n",
+            "後悔してもらうしかないな！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000106800"
+        }
+      ]
+    },
+    {
+      "name": "t030001069",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "犯人捜しをするのね\r\n",
+            "具体的な方法は？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000106900"
+        }
+      ]
+    },
+    {
+      "name": "t030001070",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "向こうから直接攻撃してくる時が\r\n",
+            "反撃のチャンスだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000107000"
+        }
+      ]
+    },
+    {
+      "name": "t030001071",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "タイミングは\r\n",
+            "特別授業終了の時だよな\r\n",
+            "つまり……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000107100"
+        }
+      ]
+    },
+    {
+      "name": "t030001072",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000107200"
+        }
+      ]
+    },
+    {
+      "name": "t030001073",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000107300"
+        }
+      ]
+    },
+    {
+      "name": "t030001074",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "決着がついたら\r\n",
+            "騒ぎを起こそう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000107400"
+        }
+      ]
+    },
+    {
+      "name": "t030001075",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その混乱の中なら\r\n",
+            "向こうに気付かれずに\r\n",
+            "反撃できるだろ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000107500"
+        }
+      ]
+    },
+    {
+      "name": "t030001076",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "騒ぎね\r\n",
+            "どうすればいいのかな？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000107600"
+        }
+      ]
+    },
+    {
+      "name": "t030001077",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ＣＡＤの暴走なんてどうだ？\r\n",
+            "オメエのがそうなって\r\n",
+            "魔法を乱射しちまうってのは"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000107700"
+        }
+      ]
+    },
+    {
+      "name": "t030001078",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "えー！\n",
+            "何でアタシが暴走役なわけ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000107800"
+        }
+      ]
+    },
+    {
+      "name": "t030001079",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000107900"
+        }
+      ]
+    },
+    {
+      "name": "t030001080",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000108000"
+        }
+      ]
+    },
+    {
+      "name": "t030001081",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "なら勝負に俺が勝ったらって\r\n",
+            "条件ならどうだ\r\n",
+            "負けた方のが暴走した方が違和感も少ないし"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000108100"
+        }
+      ]
+    },
+    {
+      "name": "t030001082",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "いいわよ\r\n",
+            "だけど手加減なんてしないからね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000108200"
+        }
+      ]
+    },
+    {
+      "name": "t030001083",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "もちろん\r\n",
+            "ガチンコ勝負は望むところだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000108300"
+        }
+      ]
+    },
+    {
+      "name": "t030001084",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "レオ・幹比古"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000108400"
+        }
+      ]
+    },
+    {
+      "name": "t030001085",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "やっぱり\r\n",
+            "おかしいよな？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000108500"
+        }
+      ]
+    },
+    {
+      "name": "t030001086",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだね\r\n",
+            "レオも気づいてたんだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000108600"
+        }
+      ]
+    },
+    {
+      "name": "t030001087",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "正直\r\n",
+            "何が起きてるのかはサッパリだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000108700"
+        }
+      ]
+    },
+    {
+      "name": "t030001088",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000108800"
+        }
+      ]
+    },
+    {
+      "name": "t030001089",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうなんだよ\n",
+            "思い出してみると\n",
+            "同じような記憶がたくさんあるんだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000108900"
+        }
+      ]
+    },
+    {
+      "name": "t030001090",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "しかも自覚している人は限られている\r\n",
+            "今のところたぶん\r\n",
+            "僕と君の二人だけだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000109000"
+        }
+      ]
+    },
+    {
+      "name": "t030001091",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "これ\r\n",
+            "系統外魔法の精神操作とかじゃないのか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000109100"
+        }
+      ]
+    },
+    {
+      "name": "t030001092",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "何とも言えないけど……\n",
+            "精霊に不自然な痕跡は感じられない\n",
+            "だから古式魔法の線は薄いと思うよ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000109200"
+        }
+      ]
+    },
+    {
+      "name": "t030001093",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "何にしても大規模な\n",
+            "魔法ってことは間違いない"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000109300"
+        }
+      ]
+    },
+    {
+      "name": "t030001094",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "学校を\r\n",
+            "丸ごと攻撃するとか\r\n",
+            "いい度胸してるぜ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000109400"
+        }
+      ]
+    },
+    {
+      "name": "t030001095",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000109500"
+        }
+      ]
+    },
+    {
+      "name": "t030001096",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そんじゃまぁ\r\n",
+            "後悔はしてもらわないとな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000109600"
+        }
+      ]
+    },
+    {
+      "name": "t030001097",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "犯人を捕まえるんだね\r\n",
+            "でもどうやって？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000109700"
+        }
+      ]
+    },
+    {
+      "name": "t030001098",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "向こうから直接攻撃してくる時が\r\n",
+            "反撃のチャンスだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000109800"
+        }
+      ]
+    },
+    {
+      "name": "t030001099",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "だとしたら\r\n",
+            "実践テストの直後がいいね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000109900"
+        }
+      ]
+    },
+    {
+      "name": "t030001100",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "決着がついたら\r\n",
+            "騒ぎを起こそう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000110000"
+        }
+      ]
+    },
+    {
+      "name": "t030001101",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その混乱の中なら\r\n",
+            "向こうに気付かれずに\r\n",
+            "反撃できるだろ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000110100"
+        }
+      ]
+    },
+    {
+      "name": "t030001102",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "騒ぎって\r\n",
+            "何をすればいいのかな？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000110200"
+        }
+      ]
+    },
+    {
+      "name": "t030001103",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ＣＡＤが暴発した\r\n",
+            "とか言って\r\n",
+            "適当に魔法を撃つのはどうだ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000110300"
+        }
+      ]
+    },
+    {
+      "name": "t030001104",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "幹比古\r\n",
+            "やってくれるよな？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000110400"
+        }
+      ]
+    },
+    {
+      "name": "t030001105",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000110500"
+        }
+      ]
+    },
+    {
+      "name": "t030001106",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000110600"
+        }
+      ]
+    },
+    {
+      "name": "t030001107",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まぁ……\r\n",
+            "確かにそうかもしれないけど"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000110700"
+        }
+      ]
+    },
+    {
+      "name": "t030001108",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この計画は俺が勝ったケースでのみ発動だ\r\n",
+            "負けた方のＣＡＤが暴走する方が\r\n",
+            "説得力があるわけだし"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000110800"
+        }
+      ]
+    },
+    {
+      "name": "t030001109",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "なら\r\n",
+            "僕はわざと負ければいいんじゃないのか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000110900"
+        }
+      ]
+    },
+    {
+      "name": "t030001110",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "手抜きなんてしたら敵に怪しまれるだろ？\r\n",
+            "勝負はあくまでも真剣にやらないと"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000111000"
+        }
+      ]
+    },
+    {
+      "name": "t030001111",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "なるほど\r\n",
+            "それもそうだね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000111100"
+        }
+      ]
+    },
+    {
+      "name": "t030001112",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "よし決まりだな\r\n",
+            "実践テストが楽しみだぜ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000111200"
+        }
+      ]
+    },
+    {
+      "name": "t030001113",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "レオ・ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000111300"
+        }
+      ]
+    },
+    {
+      "name": "t030001114",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "おかしい\r\n",
+            "こりゃどう考えても変だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000111400"
+        }
+      ]
+    },
+    {
+      "name": "t030001115",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000111500"
+        }
+      ]
+    },
+    {
+      "name": "t030001116",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "気付いたって？\r\n",
+            "い いや……\r\n",
+            "そこまではと言うか……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000111600"
+        }
+      ]
+    },
+    {
+      "name": "t030001117",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ただ\n",
+            "何か違和感があるんだよなぁ\n",
+            "光井は何に気付いたんだ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000111700"
+        }
+      ]
+    },
+    {
+      "name": "t030001118",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "うん\r\n",
+            "この特別授業って\r\n",
+            "何度も繰り返し行われてる"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000111800"
+        }
+      ]
+    },
+    {
+      "name": "t030001119",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "最初は疲れてるから\r\n",
+            "気のせいって思ってたんだけど"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000111900"
+        }
+      ]
+    },
+    {
+      "name": "t030001120",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "繰り返し……\r\n",
+            "そう！\r\n",
+            "それだ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000112000"
+        }
+      ]
+    },
+    {
+      "name": "t030001121",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "同じようなことを何度も繰り返してるんだ！\n",
+            "記憶違いとかじゃなくって\n",
+            "現実に起きてるとしか考えられねぇ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000112100"
+        }
+      ]
+    },
+    {
+      "name": "t030001122",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "だよね\r\n",
+            "たぶんだけど\r\n",
+            "魔法で攻撃されてるんじゃないのかな？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000112200"
+        }
+      ]
+    },
+    {
+      "name": "t030001123",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000112300"
+        }
+      ]
+    },
+    {
+      "name": "t030001124",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それは……\r\n",
+            "わからないけど"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000112400"
+        }
+      ]
+    },
+    {
+      "name": "t030001125",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それにしても\r\n",
+            "学校を丸ごと攻撃するとか\r\n",
+            "いい度胸してるぜ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000112500"
+        }
+      ]
+    },
+    {
+      "name": "t030001126",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "どこの誰だか知らないが\r\n",
+            "後悔してもらうしかないな！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000112600"
+        }
+      ]
+    },
+    {
+      "name": "t030001127",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "犯人を捜して捕まえるのね\r\n",
+            "でもどうやって？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000112700"
+        }
+      ]
+    },
+    {
+      "name": "t030001128",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "向こうから直接攻撃してくる時が\r\n",
+            "反撃のチャンスだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000112800"
+        }
+      ]
+    },
+    {
+      "name": "t030001129",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "タイミングは\r\n",
+            "特別授業終了の時だよな\r\n",
+            "つまり……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000112900"
+        }
+      ]
+    },
+    {
+      "name": "t030001130",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000113000"
+        }
+      ]
+    },
+    {
+      "name": "t030001131",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000113100"
+        }
+      ]
+    },
+    {
+      "name": "t030001132",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "決着がついたら\r\n",
+            "騒ぎを起こそう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000113200"
+        }
+      ]
+    },
+    {
+      "name": "t030001133",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その混乱の中なら\r\n",
+            "向こうに気付かれずに\r\n",
+            "反撃できるだろ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000113300"
+        }
+      ]
+    },
+    {
+      "name": "t030001134",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "騒ぎ……\r\n",
+            "具体的にはどうしよう？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000113400"
+        }
+      ]
+    },
+    {
+      "name": "t030001135",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ＣＡＤの暴走なんてどうだ？\r\n",
+            "光井のが壊れちまって\r\n",
+            "魔法を乱射しちまうってのは"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000113500"
+        }
+      ]
+    },
+    {
+      "name": "t030001136",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000113600"
+        }
+      ]
+    },
+    {
+      "name": "t030001137",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "黒幕暴きは危険が伴うからな\r\n",
+            "そっちは俺が受け持つよ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000113700"
+        }
+      ]
+    },
+    {
+      "name": "t030001138",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この作戦は俺が勝ったケースに限定しよう\r\n",
+            "戦いのダメージで光井のＣＡＤが\r\n",
+            "破損したって設定にすれば説得力も増す"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000113800"
+        }
+      ]
+    },
+    {
+      "name": "t030001139",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "勝負も真剣にやろう\r\n",
+            "手加減とかはなしだ\r\n",
+            "敵はテストを監視してるかもしれねぇ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000113900"
+        }
+      ]
+    },
+    {
+      "name": "t030001140",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "了解したわ\r\n",
+            "でも西城君も気を付けてね\r\n",
+            "無茶とかしないでね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000114000"
+        }
+      ]
+    },
+    {
+      "name": "t030001141",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ああ\r\n",
+            "用心はするさ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000114100"
+        }
+      ]
+    },
+    {
+      "name": "t030001142",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "レオ・雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000114200"
+        }
+      ]
+    },
+    {
+      "name": "t030001143",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "おかしい\r\n",
+            "こりゃどう考えても変だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000114300"
+        }
+      ]
+    },
+    {
+      "name": "t030001144",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "西城君も……\r\n",
+            "気付いた？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000114400"
+        }
+      ]
+    },
+    {
+      "name": "t030001145",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "気付いたって？\r\n",
+            "い いや……\r\n",
+            "そこまではと言うか……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000114500"
+        }
+      ]
+    },
+    {
+      "name": "t030001146",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ただ\n",
+            "何か違和感があるんだよなぁ\n",
+            "北山は何に気付いたんだ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000114600"
+        }
+      ]
+    },
+    {
+      "name": "t030001147",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この授業\r\n",
+            "繰り返されてる\r\n",
+            "ループしてるみたい"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000114700"
+        }
+      ]
+    },
+    {
+      "name": "t030001148",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "同じ毎日がずっと続いてる\r\n",
+            "繰り返し\r\n",
+            "繰り返し"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000114800"
+        }
+      ]
+    },
+    {
+      "name": "t030001149",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "繰り返し……\r\n",
+            "そう！\r\n",
+            "それだ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000114900"
+        }
+      ]
+    },
+    {
+      "name": "t030001150",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "同じようなことを何度も繰り返してるんだ！\n",
+            "記憶違いとかじゃなくって\n",
+            "現実に起きてるとしか考えられねぇ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000115000"
+        }
+      ]
+    },
+    {
+      "name": "t030001151",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "うん\r\n",
+            "魔法で攻撃されてるのかも"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000115100"
+        }
+      ]
+    },
+    {
+      "name": "t030001152",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000115200"
+        }
+      ]
+    },
+    {
+      "name": "t030001153",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000115300"
+        }
+      ]
+    },
+    {
+      "name": "t030001154",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それにしても\r\n",
+            "学校を丸ごと攻撃するとか\r\n",
+            "いい度胸してるぜ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000115400"
+        }
+      ]
+    },
+    {
+      "name": "t030001155",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "どこの誰だか知らないが\r\n",
+            "後悔してもらうしかないな！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000115500"
+        }
+      ]
+    },
+    {
+      "name": "t030001156",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "犯人捜し？\r\n",
+            "具体的には？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000115600"
+        }
+      ]
+    },
+    {
+      "name": "t030001157",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "向こうから直接攻撃してくる時が\r\n",
+            "反撃のチャンスだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000115700"
+        }
+      ]
+    },
+    {
+      "name": "t030001158",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "タイミングは\r\n",
+            "特別授業終了の時だよな\r\n",
+            "つまり……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000115800"
+        }
+      ]
+    },
+    {
+      "name": "t030001159",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000115900"
+        }
+      ]
+    },
+    {
+      "name": "t030001160",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000116000"
+        }
+      ]
+    },
+    {
+      "name": "t030001161",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "決着がついたら\r\n",
+            "騒ぎを起こそう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000116100"
+        }
+      ]
+    },
+    {
+      "name": "t030001162",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その混乱の中なら\r\n",
+            "向こうに気付かれずに\r\n",
+            "反撃できるだろ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000116200"
+        }
+      ]
+    },
+    {
+      "name": "t030001163",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "騒ぎ……\r\n",
+            "何をする？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000116300"
+        }
+      ]
+    },
+    {
+      "name": "t030001164",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ＣＡＤの暴走なんてどうだ？\r\n",
+            "北山のが壊れちまって\r\n",
+            "魔法を乱射しちまうってのは"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000116400"
+        }
+      ]
+    },
+    {
+      "name": "t030001165",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000116500"
+        }
+      ]
+    },
+    {
+      "name": "t030001166",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "黒幕暴きは危険が伴うからな\r\n",
+            "そっちは俺が受け持つよ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000116600"
+        }
+      ]
+    },
+    {
+      "name": "t030001167",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この作戦は俺が勝ったケースに限定しよう\r\n",
+            "戦いのダメージで北山のＣＡＤが\n",
+            "破損したって設定にすれば説得力も増す"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000116700"
+        }
+      ]
+    },
+    {
+      "name": "t030001168",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "勝負も真剣にやろう\r\n",
+            "手加減とかはなしだ\r\n",
+            "敵はテストを監視してるかもしれねぇ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000116800"
+        }
+      ]
+    },
+    {
+      "name": "t030001169",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000116900"
+        }
+      ]
+    },
+    {
+      "name": "t030001170",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "見てろよ\r\n",
+            "どこのどいつかわからねぇけど\r\n",
+            "正体を絶対暴いてやる！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000117000"
+        }
+      ]
+    },
+    {
+      "name": "t030001171",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "レオ・真由美"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000117100"
+        }
+      ]
+    },
+    {
+      "name": "t030001172",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "おかしい\r\n",
+            "こりゃどう考えても変だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000117200"
+        }
+      ]
+    },
+    {
+      "name": "t030001173",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "西城くんも？\r\n",
+            "気付いたんですね？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000117300"
+        }
+      ]
+    },
+    {
+      "name": "t030001174",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "気付いた……\r\n",
+            "い いえ……\r\n",
+            "そこまではと言いますか……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000117400"
+        }
+      ]
+    },
+    {
+      "name": "t030001175",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ただ\n",
+            "何か違和感があるんですよ\n",
+            "会長は何に気付いたんですか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000117500"
+        }
+      ]
+    },
+    {
+      "name": "t030001176",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業は繰り返し行われています\r\n",
+            "もう何度も\r\n",
+            "そしておそらくこれからも"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000117600"
+        }
+      ]
+    },
+    {
+      "name": "t030001177",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "しかもそれに気付いている人はいません\r\n",
+            "私とあなた以外は"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000117700"
+        }
+      ]
+    },
+    {
+      "name": "t030001178",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "繰り返し……\r\n",
+            "そう！\r\n",
+            "それだ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000117800"
+        }
+      ]
+    },
+    {
+      "name": "t030001179",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "同じようなことを何度も繰り返してるんだ！\n",
+            "記憶違いとかじゃなくって\n",
+            "現実に起きてるとしか考えられねぇ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000117900"
+        }
+      ]
+    },
+    {
+      "name": "t030001180",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "恐らく\r\n",
+            "系統外魔法か古式魔法による\r\n",
+            "攻撃でしょうね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000118000"
+        }
+      ]
+    },
+    {
+      "name": "t030001181",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000118100"
+        }
+      ]
+    },
+    {
+      "name": "t030001182",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そこまではわかりませんね\r\n",
+            "犯人に直接聞いてみないことには"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000118200"
+        }
+      ]
+    },
+    {
+      "name": "t030001183",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それにしても\r\n",
+            "学校を丸ごと攻撃するとか\r\n",
+            "いい度胸してるぜ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000118300"
+        }
+      ]
+    },
+    {
+      "name": "t030001184",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "どこの誰だか知らないが\r\n",
+            "後悔してもらうしかないな！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000118400"
+        }
+      ]
+    },
+    {
+      "name": "t030001185",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ええ\r\n",
+            "生徒会としてもこの状況は\r\n",
+            "看過できませんね"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000118500"
+        }
+      ]
+    },
+    {
+      "name": "t030001186",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "向こうから直接攻撃してくる時が\r\n",
+            "反撃のチャンスだと思います"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000118600"
+        }
+      ]
+    },
+    {
+      "name": "t030001187",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "タイミングは\r\n",
+            "特別授業終了の時だよな\r\n",
+            "つまり……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000118700"
+        }
+      ]
+    },
+    {
+      "name": "t030001188",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000118800"
+        }
+      ]
+    },
+    {
+      "name": "t030001189",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000118900"
+        }
+      ]
+    },
+    {
+      "name": "t030001190",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "決着がついたら\r\n",
+            "騒ぎを起こしましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000119000"
+        }
+      ]
+    },
+    {
+      "name": "t030001191",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その混乱の中なら\r\n",
+            "向こうに気付かれずに\r\n",
+            "反撃できると思います"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000119100"
+        }
+      ]
+    },
+    {
+      "name": "t030001192",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000119200"
+        }
+      ]
+    },
+    {
+      "name": "t030001193",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ＣＡＤの暴走なんてどうでしょう？\r\n",
+            "会長のが壊れてしまって\r\n",
+            "魔法を乱射するというのは"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000119300"
+        }
+      ]
+    },
+    {
+      "name": "t030001194",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000119400"
+        }
+      ]
+    },
+    {
+      "name": "t030001195",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "黒幕暴きは危険が伴いますし\r\n",
+            "そっちは俺に受け持たせて下さい"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000119500"
+        }
+      ]
+    },
+    {
+      "name": "t030001196",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000119600"
+        }
+      ]
+    },
+    {
+      "name": "t030001197",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "俺がテストに勝ったケースに限定しましょう\r\n",
+            "戦いのダメージで会長のＣＡＤが\r\n",
+            "破損したって設定にすれば説得力も増します"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000119700"
+        }
+      ]
+    },
+    {
+      "name": "t030001198",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "勝負も真剣にやらないと\r\n",
+            "手加減とかはなしでいきましょう\r\n",
+            "敵はテストを監視してるかもしれません"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000119800"
+        }
+      ]
+    },
+    {
+      "name": "t030001199",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000119900"
+        }
+      ]
+    },
+    {
+      "name": "t030001200",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "見てろよ\r\n",
+            "どこのどいつかわからねぇけど\r\n",
+            "正体を絶対暴いてやる！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000120000"
+        }
+      ]
+    },
+    {
+      "name": "t030001201",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "レオ・摩利"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000120100"
+        }
+      ]
+    },
+    {
+      "name": "t030001202",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "おかしい\r\n",
+            "こりゃどう考えても変だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000120200"
+        }
+      ]
+    },
+    {
+      "name": "t030001203",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000120300"
+        }
+      ]
+    },
+    {
+      "name": "t030001204",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "気付いた……\r\n",
+            "い いえ……\r\n",
+            "そこまではと言いますか……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000120400"
+        }
+      ]
+    },
+    {
+      "name": "t030001205",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ただ\n",
+            "何か違和感があるんですよ\n",
+            "先輩は何に気付いたんですか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000120500"
+        }
+      ]
+    },
+    {
+      "name": "t030001206",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業は繰り返し行われている\n",
+            "不気味な話だが……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000120600"
+        }
+      ]
+    },
+    {
+      "name": "t030001207",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "繰り返し……\r\n",
+            "そう！\r\n",
+            "それだ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000120700"
+        }
+      ]
+    },
+    {
+      "name": "t030001208",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "同じようなことを何度も繰り返してるんだ！\n",
+            "記憶違いとかじゃなくって\n",
+            "現実に起きてるとしか考えられねぇ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000120800"
+        }
+      ]
+    },
+    {
+      "name": "t030001209",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "魔法による攻撃の可能性が高い\r\n",
+            "記憶を直接操作されている\r\n",
+            "しかも学校全体が"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000120900"
+        }
+      ]
+    },
+    {
+      "name": "t030001210",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000121000"
+        }
+      ]
+    },
+    {
+      "name": "t030001211",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "さて\r\n",
+            "現時点ではそこまではわからんな"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000121100"
+        }
+      ]
+    },
+    {
+      "name": "t030001212",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それにしても\r\n",
+            "学校を丸ごと攻撃するとか\r\n",
+            "いい度胸してるぜ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000121200"
+        }
+      ]
+    },
+    {
+      "name": "t030001213",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "どこの誰だか知らないが\r\n",
+            "後悔してもらうしかないな！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000121300"
+        }
+      ]
+    },
+    {
+      "name": "t030001214",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "まったくだ\r\n",
+            "風紀委員としてもこの異常事態は\r\n",
+            "放置しておけん"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000121400"
+        }
+      ]
+    },
+    {
+      "name": "t030001215",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "向こうから直接攻撃してくる時が\r\n",
+            "反撃のチャンスだと思います"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000121500"
+        }
+      ]
+    },
+    {
+      "name": "t030001216",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "タイミングは\r\n",
+            "特別授業終了の時だよな\r\n",
+            "つまり……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000121600"
+        }
+      ]
+    },
+    {
+      "name": "t030001217",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000121700"
+        }
+      ]
+    },
+    {
+      "name": "t030001218",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000121800"
+        }
+      ]
+    },
+    {
+      "name": "t030001219",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "決着がついたら\r\n",
+            "騒ぎを起こしましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000121900"
+        }
+      ]
+    },
+    {
+      "name": "t030001220",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その混乱の中なら\r\n",
+            "向こうに気付かれずに\r\n",
+            "反撃できると思います"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000122000"
+        }
+      ]
+    },
+    {
+      "name": "t030001221",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "騒乱か\r\n",
+            "いいだろう\r\n",
+            "どのようにして行う？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000122100"
+        }
+      ]
+    },
+    {
+      "name": "t030001222",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ＣＡＤの暴走なんてどうでしょう？\r\n",
+            "先輩のが壊れてしまって\r\n",
+            "魔法を乱射するというのは"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000122200"
+        }
+      ]
+    },
+    {
+      "name": "t030001223",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "よかろう\r\n",
+            "その任務を引き受けよう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000122300"
+        }
+      ]
+    },
+    {
+      "name": "t030001224",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "俺がテストに勝ったケースに限定しましょう\r\n",
+            "戦いのダメージで先輩のＣＡＤが\r\n",
+            "破損したって設定にすれば説得力も増します"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000122400"
+        }
+      ]
+    },
+    {
+      "name": "t030001225",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "勝負も真剣にやらないと\r\n",
+            "手加減とかはなしでいきましょう\r\n",
+            "敵はテストを監視してるかもしれません"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000122500"
+        }
+      ]
+    },
+    {
+      "name": "t030001226",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000122600"
+        }
+      ]
+    },
+    {
+      "name": "t030001227",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "見てろよ\r\n",
+            "どこのどいつかわからねぇけど\r\n",
+            "正体を絶対暴いてやる！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000122700"
+        }
+      ]
+    },
+    {
+      "name": "t030001228",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "レオ・服部"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000122800"
+        }
+      ]
+    },
+    {
+      "name": "t030001229",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "おかしい\r\n",
+            "こりゃどう考えても変だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000122900"
+        }
+      ]
+    },
+    {
+      "name": "t030001230",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ほう……\r\n",
+            "西城も気付いたのか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000123000"
+        }
+      ]
+    },
+    {
+      "name": "t030001231",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "気付いた……\r\n",
+            "い いえ……\r\n",
+            "そこまではと言いますか……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000123100"
+        }
+      ]
+    },
+    {
+      "name": "t030001232",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ただ\n",
+            "何か違和感があるんですよ\n",
+            "先輩は何に気付いたんですか？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000123200"
+        }
+      ]
+    },
+    {
+      "name": "t030001233",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "信じがたいことだが\r\n",
+            "この特別授業は繰り返し行われている\r\n",
+            "ループとでも言うべきなのか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000123300"
+        }
+      ]
+    },
+    {
+      "name": "t030001234",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "繰り返し……\r\n",
+            "そう！\r\n",
+            "それだ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000123400"
+        }
+      ]
+    },
+    {
+      "name": "t030001235",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "同じようなことを何度も繰り返してるんだ！\n",
+            "記憶違いとかじゃなくって\n",
+            "現実に起きてるとしか考えられねぇ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000123500"
+        }
+      ]
+    },
+    {
+      "name": "t030001236",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "大規模な系統外魔法による攻撃かもしれんな\r\n",
+            "我々の記憶を一斉に操作して\r\n",
+            "認識の障害を引き起こしているとか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000123600"
+        }
+      ]
+    },
+    {
+      "name": "t030001237",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000123700"
+        }
+      ]
+    },
+    {
+      "name": "t030001238",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それがわかれば苦労はしない\r\n",
+            "現時点ではあまりにも情報が少ない"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000123800"
+        }
+      ]
+    },
+    {
+      "name": "t030001239",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それにしても\r\n",
+            "学校を丸ごと攻撃するとか\r\n",
+            "いい度胸してるぜ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000123900"
+        }
+      ]
+    },
+    {
+      "name": "t030001240",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "どこの誰だか知らないが\r\n",
+            "後悔してもらうしかないな！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000124000"
+        }
+      ]
+    },
+    {
+      "name": "t030001241",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "そうだな\r\n",
+            "生徒会としても放置できん\r\n",
+            "早急に対処しなければ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000124100"
+        }
+      ]
+    },
+    {
+      "name": "t030001242",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "向こうから直接攻撃してくる時が\r\n",
+            "反撃のチャンスだと思います"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000124200"
+        }
+      ]
+    },
+    {
+      "name": "t030001243",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "タイミングは\r\n",
+            "特別授業終了の時だよな\r\n",
+            "つまり……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000124300"
+        }
+      ]
+    },
+    {
+      "name": "t030001244",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000124400"
+        }
+      ]
+    },
+    {
+      "name": "t030001245",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000124500"
+        }
+      ]
+    },
+    {
+      "name": "t030001246",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "決着がついたら\r\n",
+            "騒ぎを起こしましょう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000124600"
+        }
+      ]
+    },
+    {
+      "name": "t030001247",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その混乱の中なら\r\n",
+            "向こうに気付かれずに\r\n",
+            "反撃できると思います"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000124700"
+        }
+      ]
+    },
+    {
+      "name": "t030001248",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000124800"
+        }
+      ]
+    },
+    {
+      "name": "t030001249",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ＣＡＤの暴走なんてどうでしょう？\r\n",
+            "先輩のが壊れてしまって\r\n",
+            "魔法を乱射するというのは"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000124900"
+        }
+      ]
+    },
+    {
+      "name": "t030001250",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "俺のが暴走？\n",
+            "いささか抵抗があるが"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000125000"
+        }
+      ]
+    },
+    {
+      "name": "t030001251",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "どうしてもこの手で\r\n",
+            "犯人をとっ捕まえたいんです\r\n",
+            "お願いします！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000125100"
+        }
+      ]
+    },
+    {
+      "name": "t030001252",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "わかった……\r\n",
+            "陽動役は引き受けよう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000125200"
+        }
+      ]
+    },
+    {
+      "name": "t030001253",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000125300"
+        }
+      ]
+    },
+    {
+      "name": "t030001254",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この作戦は俺が勝ったケースに限定します\r\n",
+            "戦いのダメージで先輩のＣＡＤが破損した\r\n",
+            "という設定にすれば説得力も増しますから"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000125400"
+        }
+      ]
+    },
+    {
+      "name": "t030001255",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "勝負も真剣にやらないと\r\n",
+            "手加減とかはなしでいきましょう\r\n",
+            "敵はテストを監視してるかもしれません"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000125500"
+        }
+      ]
+    },
+    {
+      "name": "t030001256",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "わかった\n",
+            "しかし手加減抜きとなると\n",
+            "お前の勝率も低まると思うが？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000125600"
+        }
+      ]
+    },
+    {
+      "name": "t030001257",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それは\r\n",
+            "やってみないとわかりませんよ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000125700"
+        }
+      ]
+    },
+    {
+      "name": "t030001258",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000125800"
+        }
+      ]
+    },
+    {
+      "name": "t030001259",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "見てろよ\r\n",
+            "どこのどいつかわからねぇけど\r\n",
+            "正体を絶対暴いてやる！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000125900"
+        }
+      ]
+    },
+    {
+      "name": "t030001260",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "レオ・英美"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000126000"
+        }
+      ]
+    },
+    {
+      "name": "t030001261",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "おかしい\r\n",
+            "こりゃどう考えても変だ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000126100"
+        }
+      ]
+    },
+    {
+      "name": "t030001262",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000126200"
+        }
+      ]
+    },
+    {
+      "name": "t030001263",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "気付いたって？\r\n",
+            "い いや……\r\n",
+            "そこまではと言うか……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000126300"
+        }
+      ]
+    },
+    {
+      "name": "t030001264",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ただ\n",
+            "何か違和感があるんだよなぁ\n",
+            "明智さんは何に気付いたんだ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000126400"
+        }
+      ]
+    },
+    {
+      "name": "t030001265",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この特別授業についてよ\r\n",
+            "ウソみたいな話だけど、\r\n",
+            "これって何度も繰り返してない？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000126500"
+        }
+      ]
+    },
+    {
+      "name": "t030001266",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "終わったはずの授業が\r\n",
+            "また最初っから始まるの"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000126600"
+        }
+      ]
+    },
+    {
+      "name": "t030001267",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "繰り返し……\r\n",
+            "そう！\r\n",
+            "それだ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000126700"
+        }
+      ]
+    },
+    {
+      "name": "t030001268",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "同じようなことを何度も繰り返してるんだ！\n",
+            "記憶違いとかじゃなくって\n",
+            "現実に起きてるとしか考えられねぇ！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000126800"
+        }
+      ]
+    },
+    {
+      "name": "t030001269",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "でしょ？\r\n",
+            "系統外魔法とかの\r\n",
+            "攻撃を受けてるんじゃないのかな？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000126900"
+        }
+      ]
+    },
+    {
+      "name": "t030001270",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000127000"
+        }
+      ]
+    },
+    {
+      "name": "t030001271",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "さぁ？\r\n",
+            "そこまではわからないけど"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000127100"
+        }
+      ]
+    },
+    {
+      "name": "t030001272",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "それにしても\r\n",
+            "学校を丸ごと攻撃するとか\r\n",
+            "いい度胸してるぜ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000127200"
+        }
+      ]
+    },
+    {
+      "name": "t030001273",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "どこの誰だか知らないが\r\n",
+            "後悔してもらうしかないな！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000127300"
+        }
+      ]
+    },
+    {
+      "name": "t030001274",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その通りね\r\n",
+            "具体的にはどうする？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000127400"
+        }
+      ]
+    },
+    {
+      "name": "t030001275",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "向こうから直接攻撃してくる時が\r\n",
+            "反撃のチャンスだ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000127500"
+        }
+      ]
+    },
+    {
+      "name": "t030001276",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "タイミングは\r\n",
+            "特別授業終了の時だよな\r\n",
+            "つまり……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000127600"
+        }
+      ]
+    },
+    {
+      "name": "t030001277",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000127700"
+        }
+      ]
+    },
+    {
+      "name": "t030001278",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000127800"
+        }
+      ]
+    },
+    {
+      "name": "t030001279",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "決着がついたら\r\n",
+            "騒ぎを起こそう"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000127900"
+        }
+      ]
+    },
+    {
+      "name": "t030001280",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "その混乱の中なら\r\n",
+            "向こうに気付かれずに\r\n",
+            "反撃できるだろ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000128000"
+        }
+      ]
+    },
+    {
+      "name": "t030001281",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "騒ぎって\r\n",
+            "何をすればいいんだろ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000128100"
+        }
+      ]
+    },
+    {
+      "name": "t030001282",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ＣＡＤの暴走なんてどうだ？\r\n",
+            "明智さんのが壊れちまって\r\n",
+            "魔法を乱射しちまうってのは"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000128200"
+        }
+      ]
+    },
+    {
+      "name": "t030001283",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000128300"
+        }
+      ]
+    },
+    {
+      "name": "t030001284",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "黒幕暴きは危険が伴うからな\r\n",
+            "そっちは俺が受け持つよ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000128400"
+        }
+      ]
+    },
+    {
+      "name": "t030001285",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "この作戦は俺が勝ったケースに限定しよう\r\n",
+            "戦いのダメージで明智さんのＣＡＤが\r\n",
+            "破損したって設定にすれば説得力も増す"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000128500"
+        }
+      ]
+    },
+    {
+      "name": "t030001286",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "勝負も真剣にやろう\r\n",
+            "手加減とかはなしだ\r\n",
+            "敵はテストを監視してるかもしれねぇ"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000128600"
+        }
+      ]
+    },
+    {
+      "name": "t030001287",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000128700"
+        }
+      ]
+    },
+    {
+      "name": "t030001288",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "見てろよ\r\n",
+            "どこのどいつかわからねぇけど\r\n",
+            "正体を絶対暴いてやる！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000128800"
+        }
+      ]
+    },
+    {
+      "name": "t030002001",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "くっ……\r\n",
+            "これはＣＡＤの暴走！？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe04000200100"
+        }
+      ]
+    },
+    {
+      "name": "t030002002",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　達也"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "みんな\r\n",
+            "伏せろー！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe04000200200"
+        }
+      ]
+    },
+    {
+      "name": "t030002003",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（達也は\n",
+            "　俳優もできそうだな）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000200300"
+        }
+      ]
+    },
+    {
+      "name": "t030002004",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（そんじゃ\r\n",
+            "　こっちも反撃と行きますか）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000200400"
+        }
+      ]
+    },
+    {
+      "name": "t030002005",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "よっしゃあ！！\r\n",
+            "大勝利だぁ！！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000200500"
+        }
+      ]
+    },
+    {
+      "name": "t030002006",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "司波　深雪"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "こんなの納得いかない！\r\n",
+            "これじゃお兄様に合わす顔がない！！\r\n",
+            "あの時この魔法が決まってたら勝てたのに！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000200600"
+        }
+      ]
+    },
+    {
+      "name": "t030002007",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（うわぁ……\r\n",
+            "　いつもの深雪さんらしからぬ暴走っぷりだ\r\n",
+            "　彼女なりに考えたんだろうなぁ）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000200700"
+        }
+      ]
+    },
+    {
+      "name": "t030002008",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（だけどおかげで\r\n",
+            "　皆の注意が深雪さんに移ったぞ！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000200800"
+        }
+      ]
+    },
+    {
+      "name": "t030002009",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（そんじゃ\r\n",
+            "　こっちも反撃と行きますか）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000200400"
+        }
+      ]
+    },
+    {
+      "name": "t030002010",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "何これ！？\n",
+            "ホウキが故障？\n",
+            "制御ができない！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000201000"
+        }
+      ]
+    },
+    {
+      "name": "t030002011",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "千葉　エリカ"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "みんなここから離れて！\r\n",
+            "魔法が暴走しちゃう！！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000201100"
+        }
+      ]
+    },
+    {
+      "name": "t030002012",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（ほーら\n",
+            "　やっぱりオメエの方が\n",
+            "　お似合いじゃないか）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000201200"
+        }
+      ]
+    },
+    {
+      "name": "t030002013",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（そんじゃ\r\n",
+            "　こっちも反撃と行きますか）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000200400"
+        }
+      ]
+    },
+    {
+      "name": "t030002014",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "吉田　幹比古"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "今の戦いでＣＡＤが壊れた！？\r\n",
+            "魔法が暴発する！\r\n",
+            "みんな危ない！！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000201400"
+        }
+      ]
+    },
+    {
+      "name": "t030002015",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（やっぱ\r\n",
+            "　幹比古に任せて正解だったな\r\n",
+            "　みんな驚いて注目してるぜ)"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000201500"
+        }
+      ]
+    },
+    {
+      "name": "t030002016",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（そんじゃ\r\n",
+            "　こっちも反撃と行きますか）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000200400"
+        }
+      ]
+    },
+    {
+      "name": "t030002017",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "やだ！\r\n",
+            "ＣＡＤが停止しない！\r\n",
+            "さっきのダメージで壊れた！？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe04000201800"
+        }
+      ]
+    },
+    {
+      "name": "t030002018",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "光井　ほのか"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ダメぇ！\r\n",
+            "止まらない！！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe04000201900"
+        }
+      ]
+    },
+    {
+      "name": "t030002019",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（さすがは光井\r\n",
+            "　みんなの目が眩んでる\r\n",
+            "　いいチャンスを作ってくれるぜ）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000201900"
+        }
+      ]
+    },
+    {
+      "name": "t030002020",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（そんじゃ\r\n",
+            "　こっちも反撃と行きますか）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000200400"
+        }
+      ]
+    },
+    {
+      "name": "t030002021",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "壊れた……\r\n",
+            "ＣＡＤ制御不能\r\n",
+            "暴走してる"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000202100"
+        }
+      ]
+    },
+    {
+      "name": "t030002022",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "北山　雫"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "みんな\r\n",
+            "ここから離れて"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000202200"
+        }
+      ]
+    },
+    {
+      "name": "t030002023",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（北山……\r\n",
+            "　これまた派手にやってくれたもんだぜ）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000202300"
+        }
+      ]
+    },
+    {
+      "name": "t030002024",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（そんじゃ\r\n",
+            "　こっちも反撃と行きますか）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000200400"
+        }
+      ]
+    },
+    {
+      "name": "t030002025",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "くっ\r\n",
+            "攻撃のダメージでＣＡＤが……"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe04000202600"
+        }
+      ]
+    },
+    {
+      "name": "t030002026",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "七草　真由美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "暴走する！\r\n",
+            "起動式が勝手に！\r\n",
+            "このままじゃ！！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe04000202700"
+        }
+      ]
+    },
+    {
+      "name": "t030002027",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（会長\r\n",
+            "　ありがとうございます\r\n",
+            "　見事な手際です）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000202700"
+        }
+      ]
+    },
+    {
+      "name": "t030002028",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（そんじゃ\r\n",
+            "　こっちも反撃と行きますか）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000200400"
+        }
+      ]
+    },
+    {
+      "name": "t030002029",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "さっきの攻撃でＣＡＤが損傷しただと！？\r\n",
+            "いかん！！\r\n",
+            "暴走現象が急速に発生している！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe04000203000"
+        }
+      ]
+    },
+    {
+      "name": "t030002030",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "渡辺　摩利"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "みんな！\r\n",
+            "ここから離れるんだ！！\r\n",
+            "魔法が暴発する！！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe04000203100"
+        }
+      ]
+    },
+    {
+      "name": "t030002031",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（うーん\r\n",
+            "　チョッと無理がある設定だったかな？）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000203100"
+        }
+      ]
+    },
+    {
+      "name": "t030002032",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（まぁでも\r\n",
+            "　みんなの注意は十分に引けたな）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000203200"
+        }
+      ]
+    },
+    {
+      "name": "t030002033",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（そんじゃ\r\n",
+            "　こっちも反撃と行きますか）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000200400"
+        }
+      ]
+    },
+    {
+      "name": "t030002034",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "くっ！\r\n",
+            "ＣＡＤの制御ができないだと！？\r\n",
+            "一体何が起きている！？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe04000203500"
+        }
+      ]
+    },
+    {
+      "name": "t030002035",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "服部刑部少丞範蔵"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "西城の攻撃で破損したのか！？\r\n",
+            "だめだ\r\n",
+            "このままでは暴走する！！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000203500"
+        }
+      ]
+    },
+    {
+      "name": "t030002036",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（いいぞ先輩！\r\n",
+            "　これだけの規模なら\r\n",
+            "　陽動に十分だ！）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000203600"
+        }
+      ]
+    },
+    {
+      "name": "t030002037",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（そんじゃ\r\n",
+            "　こっちも反撃と行きますか）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000200400"
+        }
+      ]
+    },
+    {
+      "name": "t030002038",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "西城君の攻撃でＣＡＤが壊れた！\r\n",
+            "このままじゃ暴走しちゃう！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000203800"
+        }
+      ]
+    },
+    {
+      "name": "t030002039",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "明智　英美"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "みんなここから離れて！\r\n",
+            "魔法に巻き込まれる！！"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe04000204000"
+        }
+      ]
+    },
+    {
+      "name": "t030002040",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（明智さん\r\n",
+            "　いい手際だ）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000204000"
+        }
+      ]
+    },
+    {
+      "name": "t030002041",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（そんじゃ\r\n",
+            "　こっちも反撃と行きますか）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000200400"
+        }
+      ]
+    },
+    {
+      "name": "t030002042",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（とにかく\r\n",
+            "　探しまわんねぇと……）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000204200"
+        }
+      ]
+    },
+    {
+      "name": "t030002043",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000204300"
+        }
+      ]
+    },
+    {
+      "name": "t030002044",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000204400"
+        }
+      ]
+    },
+    {
+      "name": "t030002045",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（なら\r\n",
+            "　こっちか……？）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000204500"
+        }
+      ]
+    },
+    {
+      "name": "t030002046",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000204600"
+        }
+      ]
+    },
+    {
+      "name": "t030002047",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000204700"
+        }
+      ]
+    },
+    {
+      "name": "t030002048",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "？？？？"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000204800"
+        }
+      ]
+    },
+    {
+      "name": "t030002049",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000204900"
+        }
+      ]
+    },
+    {
+      "name": "t030002050",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "？？？？"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000205000"
+        }
+      ]
+    },
+    {
+      "name": "t030002051",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "ん？\n",
+            "何だこれ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000205100"
+        }
+      ]
+    },
+    {
+      "name": "t030002052",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "？？？？"
+        },
+        {
+          "name": "voice",
+          "line": "voe01000205300"
+        }
+      ]
+    },
+    {
+      "name": "t030002053",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "おわっ！\r\n",
+            "喋んのか"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000205300"
+        }
+      ]
+    },
+    {
+      "name": "t030002054",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "voice",
+          "line": "voe03000205400"
+        }
+      ]
+    },
+    {
+      "name": "t030002055",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "？？？？"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "何の\n",
+            "ご用件でしょう？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe04000205500"
+        }
+      ]
+    },
+    {
+      "name": "t030002056",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "お前が\r\n",
+            "この授業の黒幕なんだろ？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000205600"
+        }
+      ]
+    },
+    {
+      "name": "t030002057",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "？？？？"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "黒幕というニュアンスは\r\n",
+            "正確ではありませんが\r\n",
+            "私が実行しています"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000205700"
+        }
+      ]
+    },
+    {
+      "name": "t030002058",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "よくわかんねぇけど\r\n",
+            "お前を倒せば\r\n",
+            "解決ってことだよな？"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000205800"
+        }
+      ]
+    },
+    {
+      "name": "t030002059",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "西城　レオンハルト"
+        },
+        {
+          "name": "txt",
+          "lines": [
+            "（急に寒気がしてきた\r\n",
+            "　気を引き締めないとやられる）"
+          ]
+        },
+        {
+          "name": "voice",
+          "line": "voe03000205900"
+        }
+      ]
+    },
+    {
+      "name": "t030002060",
+      "lineContainers": [
+        {
+          "name": "name",
+          "line": "？？？？"
+        },
+        {
+          "name": "voice",
+          "line": "voe01000206300"
+        }
+      ]
+    }
+  ]
+}
