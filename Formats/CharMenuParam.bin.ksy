@@ -1,0 +1,1 @@
+../../../../Documents/Kaitai/Formats/CharMenuParam.bin.ksy
