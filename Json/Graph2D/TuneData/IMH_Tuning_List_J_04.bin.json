@@ -1,2504 +1,2024 @@
 {
-  "type": "STANDARD",
-  "name": "IMH_Tuning_List_J_04.bin",
-  "blocks": [
+  "type": "TuningList",
+  "file_path": "Graph2D/TuneData/IMH_Tuning_List_J_04.bin",
+  "block": [
     {
       "id": 1,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "PC13_N001_C04",
-          "text": "うーん、勧めて貰ってなんだけど\n今回は通常計測だけで良いんじゃない？\n"
+          "title": "PC13_N001_C04",
+          "text": "���[��A���߂Ė���ĂȂ񂾂���\n����͒ʏ�v�������ŗǂ��񂶂�Ȃ��H\n"
         },
         {
-          "index": 1,
-          "name": "PC14_N001_C04",
-          "text": "そこまで言うのなら……\n準備してくるから\n待ってて"
+          "title": "PC14_N001_C04",
+          "text": "�����܂Ō����̂Ȃ�c�c\n�������Ă��邩��\n�҂��Ă�"
         },
         {
-          "index": 2,
-          "name": "PC15_N001_C04",
-          "text": "了解、達也くん\nすぐに準備をしてくるから\nチョッと待ってて"
+          "title": "PC15_N001_C04",
+          "text": "�����A�B�炭��\n�����ɏ��������Ă��邩��\n�`���b�Ƒ҂��Ă�"
         },
         {
-          "index": 3,
-          "name": "PC13_N002_C04",
-          "text": "達也くんでも失敗するのね\n再計測、考えとくわ\n"
+          "title": "PC13_N002_C04",
+          "text": "�B�炭��ł����s����̂�\n�Čv���A�l���Ƃ���\n"
         },
         {
-          "index": 4,
-          "name": "PC13_N003_C04",
-          "text": "計測も終わったみたいだし\n調整もよろしく、達也くん\n"
+          "title": "PC13_N003_C04",
+          "text": "�v�����I������݂�������\n��������낵���A�B�炭��\n"
         },
         {
-          "index": 5,
-          "name": "PC13_N004_C04",
-          "text": "達也くんなら当然の結果かな？\n調整も期待しているよ\n"
+          "title": "PC13_N004_C04",
+          "text": "�B�炭��Ȃ瓖�R�̌��ʂ��ȁH\n���������҂��Ă����\n"
         },
         {
-          "index": 6,
-          "name": "PC14_N002_C04",
-          "text": "あらら、失敗しちゃったか……\nでも、達也くんなら調整は成功しそうね\n"
+          "title": "PC14_N002_C04",
+          "text": "�����A���s������������c�c\n�ł��A�B�炭��Ȃ璲���͐�����������\n"
         },
         {
-          "index": 7,
-          "name": "PC14_N003_C04",
-          "text": "達也くんの計測にも慣れたかな\nこのまま調整もお任せね\n"
+          "title": "PC14_N003_C04",
+          "text": "�B�炭��̌v���ɂ����ꂽ����\n���̂܂ܒ��������C����\n"
         },
         {
-          "index": 8,
-          "name": "PC14_N004_C04",
-          "text": "達也くん、お見事！\n達也くんならこのまま調整も成功ね！\n"
+          "title": "PC14_N004_C04",
+          "text": "�B�炭��A�������I\n�B�炭��Ȃ炱�̂܂ܒ����������ˁI\n"
         },
         {
-          "index": 9,
-          "name": "PC15_N002_C04",
-          "text": "達也くんにしては珍しいねー\nまあ、次は成功するでしょ\n"
+          "title": "PC15_N002_C04",
+          "text": "�B�炭��ɂ��Ă͒������ˁ[\n�܂��A���͐�������ł���\n"
         },
         {
-          "index": 10,
-          "name": "PC15_N003_C04",
-          "text": "達也くんの計測ならもう安心してられるわ\n調整もきっと大丈夫ね\n"
+          "title": "PC15_N003_C04",
+          "text": "�B�炭��̌v���Ȃ�������S���Ă����\n�����������Ƒ��v��\n"
         },
         {
-          "index": 11,
-          "name": "PC15_N004_C04",
-          "text": "何か達也くんに\n全部知られてる気がするかも……\nチョッと恥ずかしいかも"
+          "title": "PC15_N004_C04",
+          "text": "�����B�炭���\n�S���m���Ă�C�����邩���c�c\n�`���b�ƒp������������"
         },
         {
-          "index": 12,
-          "name": "PC13_N005_C04",
-          "text": "今回の調整は失敗したみたいね\n\n"
+          "title": "PC13_N005_C04",
+          "text": "����̒����͎��s�����݂�����\n\n"
         },
         {
-          "index": 13,
-          "name": "PC13_N006_C04",
-          "text": "達也くんにしては普通ね\nもっとビックリ箱みたいなホウキが\nできると思ったわ"
+          "title": "PC13_N006_C04",
+          "text": "�B�炭��ɂ��Ă͕��ʂ�\n�����ƃr�b�N�����݂����ȃz�E�L��\n�ł���Ǝv������"
         },
         {
-          "index": 14,
-          "name": "PC13_N007_C04",
-          "text": "さすが、達也くん\nあたし好みの調整になっているわ\n動作確認してくるわね"
+          "title": "PC13_N007_C04",
+          "text": "�������A�B�炭��\n�������D�݂̒����ɂȂ��Ă����\n����m�F���Ă�����"
         },
         {
-          "index": 15,
-          "name": "PC13_N008_C04",
-          "text": "いや、驚いたわ、達也くん……\n思っていた以上の出来で\n使いやすくなったわ"
+          "title": "PC13_N008_C04",
+          "text": "����A��������A�B�炭��c�c\n�v���Ă����ȏ�̏o����\n�g���₷���Ȃ�����"
         },
         {
-          "index": 16,
-          "name": "PC14_N005_C04",
-          "text": "達也くん、失敗の原因って\nひょっとしてあたし？\n"
+          "title": "PC14_N005_C04",
+          "text": "�B�炭��A���s�̌�������\n�Ђ���Ƃ��Ă������H\n"
         },
         {
-          "index": 17,
-          "name": "PC14_N006_C04",
-          "text": "達也くんにしてはまあまあの出来ね\n変化は無いかもしれないけど\n一応、動作確認に行きましょう"
+          "title": "PC14_N006_C04",
+          "text": "�B�炭��ɂ��Ă͂܂��܂��̏o����\n�ω��͖�����������Ȃ�����\n�ꉞ�A����m�F�ɍs���܂��傤"
         },
         {
-          "index": 18,
-          "name": "PC14_N007_C04",
-          "text": "なかなか見事な出来だね\n流石は達也くんと言ったところかな\n"
+          "title": "PC14_N007_C04",
+          "text": "�Ȃ��Ȃ������ȏo������\n���΂͒B�炭��ƌ������Ƃ��납��\n"
         },
         {
-          "index": 19,
-          "name": "PC14_N008_C04",
-          "text": "これは……素晴らしい出来ね、達也くん\nこんな調整受けられるなんて\nあたしってラッキーだわ"
+          "title": "PC14_N008_C04",
+          "text": "����́c�c�f���炵���o���ˁA�B�炭��\n����Ȓ����󂯂���Ȃ��\n���������ă��b�L�[����"
         },
         {
-          "index": 20,
-          "name": "PC15_N005_C04",
-          "text": "チョッと調整ギリギリ過ぎない？\n要求高過ぎ……\n達也くんって、絶対『Ｓ』だよね"
+          "title": "PC15_N005_C04",
+          "text": "�`���b�ƒ����M���M���߂��Ȃ��H\n�v�����߂��c�c\n�B�炭����āA��΁w�r�x�����"
         },
         {
-          "index": 21,
-          "name": "PC15_N006_C04",
-          "text": "良い出来になったね\n調整もあたしに合ってるみたいだし\n達也くん、動作も見たいから相手して"
+          "title": "PC15_N006_C04",
+          "text": "�ǂ��o���ɂȂ�����\n�������������ɍ����Ă�݂�������\n�B�炭��A��������������瑊�肵��"
         },
         {
-          "index": 22,
-          "name": "PC15_N007_C04",
-          "text": "流石、達也くん\nうん、見事なＣＡＤの出来映えです\n今後も変わらずお世話になりまーす"
+          "title": "PC15_N007_C04",
+          "text": "���΁A�B�炭��\n����A�����Ȃb�`�c�̏o���f���ł�\n������ς�炸�����b�ɂȂ�܁[��"
         },
         {
-          "index": 23,
-          "name": "PC15_N008_C04",
-          "text": "達也くん、あたしの専属になるつもり無い？\n何なら永久就職でもイ・イ・の・よ♪\n"
+          "title": "PC15_N008_C04",
+          "text": "�B�炭��A�������̐ꑮ�ɂȂ���薳���H\n���Ȃ�i�v�A�E�ł��C�E�C�E�́E���\n"
         }
       ]
     },
     {
       "id": 2,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "PC04_N001_C04",
-          "text": "通常計測だけでイイじゃない？\n着替える必要も無いでしょ\n"
+          "title": "PC04_N001_C04",
+          "text": "�ʏ�v�������ŃC�C����Ȃ��H\n���ւ���K�v�������ł���\n"
         },
         {
-          "index": 1,
-          "name": "PC05_N001_C04",
-          "text": "チョッと大げさじゃない？\nでも、まあ、今回は申し出を採用して\n着替えてくるから、準備を進めてて"
+          "title": "PC05_N001_C04",
+          "text": "�`���b�Ƒ傰������Ȃ��H\n�ł��A�܂��A����͐\���o���̗p����\n���ւ��Ă��邩��A������i�߂Ă�"
         },
         {
-          "index": 2,
-          "name": "PC06_N001_C04",
-          "text": "そうよねー\n中途半端な計測をするよりもね……\nうん、すぐに着替えてくるわ"
+          "title": "PC06_N001_C04",
+          "text": "������ˁ[\n���r���[�Ȍv������������ˁc�c\n����A�����ɒ��ւ��Ă����"
         },
         {
-          "index": 3,
-          "name": "PC04_N002_C04",
-          "text": "計測、失敗じゃない？\n\n"
+          "title": "PC04_N002_C04",
+          "text": "�v���A���s����Ȃ��H\n\n"
         },
         {
-          "index": 4,
-          "name": "PC04_N003_C04",
-          "text": "この調子なら調整もいけるね\n\n"
+          "title": "PC04_N003_C04",
+          "text": "���̒��q�Ȃ璲�����������\n\n"
         },
         {
-          "index": 5,
-          "name": "PC04_N004_C04",
-          "text": "驚き！\nなかなかやるじゃない\nこの調子で調整もお願いね"
+          "title": "PC04_N004_C04",
+          "text": "�����I\n�Ȃ��Ȃ���邶��Ȃ�\n���̒��q�Œ��������肢��"
         },
         {
-          "index": 6,
-          "name": "PC05_N002_C04",
-          "text": "あらら、失敗かぁー\n切り替えて、次で頑張りましょう\n"
+          "title": "PC05_N002_C04",
+          "text": "�����A���s�����[\n�؂�ւ��āA���Ŋ撣��܂��傤\n"
         },
         {
-          "index": 7,
-          "name": "PC05_N003_C04",
-          "text": "計測にも慣れたっぽいね\n調整もこの調子で行きたいな\n"
+          "title": "PC05_N003_C04",
+          "text": "�v���ɂ����ꂽ���ۂ���\n���������̒��q�ōs��������\n"
         },
         {
-          "index": 8,
-          "name": "PC05_N004_C04",
-          "text": "わおっ、見事な計測\nこれなら調整も成功確実かな？\n"
+          "title": "PC05_N004_C04",
+          "text": "�킨���A�����Ȍv��\n����Ȃ璲���������m�����ȁH\n"
         },
         {
-          "index": 9,
-          "name": "PC06_N002_C04",
-          "text": "気にしない、気にしない\n失敗は次の調整で挽回よ！\n"
+          "title": "PC06_N002_C04",
+          "text": "�C�ɂ��Ȃ��A�C�ɂ��Ȃ�\n���s�͎��̒����Ŕ҉��I\n"
         },
         {
-          "index": 10,
-          "name": "PC06_N003_C04",
-          "text": "計測結果もバッチリね\nこれなら調整も無事に済みそう\n"
+          "title": "PC06_N003_C04",
+          "text": "�v�����ʂ��o�b�`����\n����Ȃ璲���������ɍς݂���\n"
         },
         {
-          "index": 11,
-          "name": "PC06_N004_C04",
-          "text": "何、この計測結果\n凄いわ～\nこれなら調整も大丈夫そう"
+          "title": "PC06_N004_C04",
+          "text": "���A���̌v������\n������`\n����Ȃ璲�������v����"
         },
         {
-          "index": 12,
-          "name": "PC04_N005_C04",
-          "text": "これは、チョッと失敗したね\n\n"
+          "title": "PC04_N005_C04",
+          "text": "����́A�`���b�Ǝ��s������\n\n"
         },
         {
-          "index": 13,
-          "name": "PC04_N006_C04",
-          "text": "うーん、普通ね\nもうすこしアクセントが効いてる方が\n好みだわ"
+          "title": "PC04_N006_C04",
+          "text": "���[��A���ʂ�\n�����������A�N�Z���g�������Ă����\n�D�݂���"
         },
         {
-          "index": 14,
-          "name": "PC04_N007_C04",
-          "text": "ほほう、イイ感じね\nチョッと、動作確認に行って来るね\n"
+          "title": "PC04_N007_C04",
+          "text": "�قق��A�C�C������\n�`���b�ƁA����m�F�ɍs���ė����\n"
         },
         {
-          "index": 15,
-          "name": "PC04_N008_C04",
-          "text": "予想外に凄いわ\nここまで調整が上手いとは\n思わなかったわー"
+          "title": "PC04_N008_C04",
+          "text": "�\�z�O�ɐ�����\n�����܂Œ�������肢�Ƃ�\n�v��Ȃ�������["
         },
         {
-          "index": 16,
-          "name": "PC05_N005_C04",
-          "text": "いいよ、いいよ\n次こそ成功よ！\n"
+          "title": "PC05_N005_C04",
+          "text": "������A������\n������������I\n"
         },
         {
-          "index": 17,
-          "name": "PC05_N006_C04",
-          "text": "まあまあの仕上げかな？\nほらほら、動作の確認もしておこうよ\n"
+          "title": "PC05_N006_C04",
+          "text": "�܂��܂��̎d�グ���ȁH\n�ق�ق�A����̊m�F�����Ă�������\n"
         },
         {
-          "index": 18,
-          "name": "PC05_N007_C04",
-          "text": "調整も見事成功！\n技術面の才能もあるって\nどんだけ多才なの？"
+          "title": "PC05_N007_C04",
+          "text": "���������������I\n�Z�p�ʂ̍˔\���������\n�ǂ񂾂����˂Ȃ́H"
         },
         {
-          "index": 19,
-          "name": "PC05_N008_C04",
-          "text": "わおっ、凄い出来だわ\nこの調子で次回の調整もお願いね♪\n"
+          "title": "PC05_N008_C04",
+          "text": "�킨���A�����o������\n���̒��q�Ŏ���̒��������肢�ˁ�\n"
         },
         {
-          "index": 20,
-          "name": "PC06_N005_C04",
-          "text": "たまには失敗もアリね\n次でリベンジよ！\n"
+          "title": "PC06_N005_C04",
+          "text": "���܂ɂ͎��s���A����\n���Ń��x���W��I\n"
         },
         {
-          "index": 21,
-          "name": "PC06_N006_C04",
-          "text": "良い仕上がりよね\n動作もスムーズだし\nこのまま動作確認にも付き合って"
+          "title": "PC06_N006_C04",
+          "text": "�ǂ��d�オ����\n������X���[�Y����\n���̂܂ܓ���m�F�ɂ��t��������"
         },
         {
-          "index": 22,
-          "name": "PC06_N007_C04",
-          "text": "うはー、見事な仕上げ\nこれは、もう、他のホウキには\n浮気できないかな～"
+          "title": "PC06_N007_C04",
+          "text": "���́[�A�����Ȏd�グ\n����́A�����A���̃z�E�L�ɂ�\n���C�ł��Ȃ����ȁ`"
         },
         {
-          "index": 23,
-          "name": "PC06_N008_C04",
-          "text": "いやいや、チョッと凄い出来よ、コレ\n同年代でここまでの腕とは\nお見逸れしました"
+          "title": "PC06_N008_C04",
+          "text": "���₢��A�`���b�Ɛ����o����A�R��\n���N��ł����܂ł̘r�Ƃ�\n������ꂵ�܂���"
         }
       ]
     },
     {
       "id": 4,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "",
-          "text": "通常計測だけでイイじゃない？\n着替える必要も無いでしょ\n"
+          "title": "",
+          "text": "�ʏ�v�������ŃC�C����Ȃ��H\n���ւ���K�v�������ł���\n"
         },
         {
-          "index": 1,
-          "name": "",
-          "text": "チョッと大げさじゃない？\nでも、まあ、今回は申し出を採用して\n着替えてくるから、準備を進めてて"
+          "title": "",
+          "text": "�`���b�Ƒ傰������Ȃ��H\n�ł��A�܂��A����͐\���o���̗p����\n���ւ��Ă��邩��A������i�߂Ă�"
         },
         {
-          "index": 2,
-          "name": "",
-          "text": "そうよねー\n中途半端な計測をするよりもね……\nうん、すぐに着替えてくるわ"
+          "title": "",
+          "text": "������ˁ[\n���r���[�Ȍv������������ˁc�c\n����A�����ɒ��ւ��Ă����"
         },
         {
-          "index": 3,
-          "name": "",
-          "text": "計測、失敗じゃない？\n\n"
+          "title": "",
+          "text": "�v���A���s����Ȃ��H\n\n"
         },
         {
-          "index": 4,
-          "name": "",
-          "text": "この調子なら調整もいけるね\n\n"
+          "title": "",
+          "text": "���̒��q�Ȃ璲�����������\n\n"
         },
         {
-          "index": 5,
-          "name": "",
-          "text": "驚き！\nなかなかやるじゃない\nこの調子で調整もお願いね"
+          "title": "",
+          "text": "�����I\n�Ȃ��Ȃ���邶��Ȃ�\n���̒��q�Œ��������肢��"
         },
         {
-          "index": 6,
-          "name": "",
-          "text": "あらら、失敗かぁー\n切り替えて、次で頑張りましょう\n"
+          "title": "",
+          "text": "�����A���s�����[\n�؂�ւ��āA���Ŋ撣��܂��傤\n"
         },
         {
-          "index": 7,
-          "name": "",
-          "text": "計測にも慣れたっぽいね\n調整もこの調子で行きたいな\n"
+          "title": "",
+          "text": "�v���ɂ����ꂽ���ۂ���\n���������̒��q�ōs��������\n"
         },
         {
-          "index": 8,
-          "name": "",
-          "text": "わおっ、見事な計測\nこれなら調整も成功確実かな？\n"
+          "title": "",
+          "text": "�킨���A�����Ȍv��\n����Ȃ璲���������m�����ȁH\n"
         },
         {
-          "index": 9,
-          "name": "",
-          "text": "気にしない、気にしない\n失敗は次の調整で挽回よ！\n"
+          "title": "",
+          "text": "�C�ɂ��Ȃ��A�C�ɂ��Ȃ�\n���s�͎��̒����Ŕ҉��I\n"
         },
         {
-          "index": 10,
-          "name": "",
-          "text": "計測結果もバッチリね\nこれなら調整も無事に済みそう\n"
+          "title": "",
+          "text": "�v�����ʂ��o�b�`����\n����Ȃ璲���������ɍς݂���\n"
         },
         {
-          "index": 11,
-          "name": "",
-          "text": "何、この計測結果\n凄いわ～\nこれなら調整も大丈夫そう"
+          "title": "",
+          "text": "���A���̌v������\n������`\n����Ȃ璲�������v����"
         },
         {
-          "index": 12,
-          "name": "",
-          "text": "これは、チョッと失敗したね\n\n"
+          "title": "",
+          "text": "����́A�`���b�Ǝ��s������\n\n"
         },
         {
-          "index": 13,
-          "name": "",
-          "text": "うーん、普通ね\nもうすこしアクセントが効いてる方が\n好みだわ"
+          "title": "",
+          "text": "���[��A���ʂ�\n�����������A�N�Z���g�������Ă����\n�D�݂���"
         },
         {
-          "index": 14,
-          "name": "",
-          "text": "ほほう、イイ感じね\nチョッと、動作確認に行って来るね\n"
+          "title": "",
+          "text": "�قق��A�C�C������\n�`���b�ƁA����m�F�ɍs���ė����\n"
         },
         {
-          "index": 15,
-          "name": "",
-          "text": "予想外に凄いわ\nここまで調整が上手いとは\n思わなかったわー"
+          "title": "",
+          "text": "�\�z�O�ɐ�����\n�����܂Œ�������肢�Ƃ�\n�v��Ȃ�������["
         },
         {
-          "index": 16,
-          "name": "",
-          "text": "いいよ、いいよ\n次こそ成功よ！\n"
+          "title": "",
+          "text": "������A������\n������������I\n"
         },
         {
-          "index": 17,
-          "name": "",
-          "text": "まあまあの仕上げかな？\nほらほら、動作の確認もしておこうよ\n"
+          "title": "",
+          "text": "�܂��܂��̎d�グ���ȁH\n�ق�ق�A����̊m�F�����Ă�������\n"
         },
         {
-          "index": 18,
-          "name": "",
-          "text": "調整も見事成功！\n技術面の才能もあるって\nどんだけ多才なの？"
+          "title": "",
+          "text": "���������������I\n�Z�p�ʂ̍˔\���������\n�ǂ񂾂����˂Ȃ́H"
         },
         {
-          "index": 19,
-          "name": "",
-          "text": "わおっ、凄い出来だわ\nこの調子で次回の調整もお願いね♪\n"
+          "title": "",
+          "text": "�킨���A�����o������\n���̒��q�Ŏ���̒��������肢�ˁ�\n"
         },
         {
-          "index": 20,
-          "name": "",
-          "text": "たまには失敗もアリね\n次でリベンジよ！\n"
+          "title": "",
+          "text": "���܂ɂ͎��s���A����\n���Ń��x���W��I\n"
         },
         {
-          "index": 21,
-          "name": "",
-          "text": "良い仕上がりよね\n動作もスムーズだし\nこのまま動作確認にも付き合って"
+          "title": "",
+          "text": "�ǂ��d�オ����\n������X���[�Y����\n���̂܂ܓ���m�F�ɂ��t��������"
         },
         {
-          "index": 22,
-          "name": "",
-          "text": "うはー、見事な仕上げ\nこれは、もう、他のホウキには\n浮気できないかな～"
+          "title": "",
+          "text": "���́[�A�����Ȏd�グ\n����́A�����A���̃z�E�L�ɂ�\n���C�ł��Ȃ����ȁ`"
         },
         {
-          "index": 23,
-          "name": "",
-          "text": "いやいや、チョッと凄い出来よ、コレ\n同年代でここまでの腕とは\nお見逸れしました"
+          "title": "",
+          "text": "���₢��A�`���b�Ɛ����o����A�R��\n���N��ł����܂ł̘r�Ƃ�\n������ꂵ�܂���"
         }
       ]
     },
     {
       "id": 3,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "PC16_N001_C04",
-          "text": "このすけべ！\n今回は通常計測だけで\n着替えなんて必要無いわよ！"
+          "title": "PC16_N001_C04",
+          "text": "���̂����ׁI\n����͒ʏ�v��������\n���ւ��Ȃ�ĕK�v�������I"
         },
         {
-          "index": 1,
-          "name": "PC17_N001_C04",
-          "text": "チョッと大げさねぇ……\nしょうがない、準備してくるから\n待ってて"
+          "title": "PC17_N001_C04",
+          "text": "�`���b�Ƒ傰���˂��c�c\n���傤���Ȃ��A�������Ă��邩��\n�҂��Ă�"
         },
         {
-          "index": 2,
-          "name": "PC18_N001_C04",
-          "text": "アンタの言う通りにするのは癪だけど\n準備してくるわ\n……ノゾくなよ"
+          "title": "PC18_N001_C04",
+          "text": "�A���^�̌����ʂ�ɂ���̂�ᛂ�����\n�������Ă����\n�c�c�m�]���Ȃ�"
         },
         {
-          "index": 3,
-          "name": "PC16_N002_C04",
-          "text": "レオだから仕方無いけど\nやっぱり、失敗だったかー\n"
+          "title": "PC16_N002_C04",
+          "text": "���I������d����������\n����ς�A���s���������[\n"
         },
         {
-          "index": 4,
-          "name": "PC16_N003_C04",
-          "text": "うん、普通、普通\n調整もきっと普通ね\n"
+          "title": "PC16_N003_C04",
+          "text": "����A���ʁA����\n�����������ƕ��ʂ�\n"
         },
         {
-          "index": 5,
-          "name": "PC16_N004_C04",
-          "text": "驚いたわ、レオ\n能ある鷹はってやつ？\nまあ、似合わないけどね"
+          "title": "PC16_N004_C04",
+          "text": "��������A���I\n�\�����͂��Ă�H\n�܂��A������Ȃ����ǂ�"
         },
         {
-          "index": 6,
-          "name": "PC17_N002_C04",
-          "text": "ありゃりゃ、失敗かぁ～\nでも、調整は続けてみましょ\n"
+          "title": "PC17_N002_C04",
+          "text": "�������A���s�����`\n�ł��A�����͑����Ă݂܂���\n"
         },
         {
-          "index": 7,
-          "name": "PC17_N003_C04",
-          "text": "アンタの計測も様になってきたわね\nこの調子で調整も\nモノになれば良いんだけどねぇ～"
+          "title": "PC17_N003_C04",
+          "text": "�A���^�̌v�����l�ɂȂ��Ă������\n���̒��q�Œ�����\n���m�ɂȂ�Ηǂ��񂾂��ǂ˂��`"
         },
         {
-          "index": 8,
-          "name": "PC17_N004_C04",
-          "text": "チョッと見直したわ、レオ\nこれなら調整も成功するかもしれないわね\n"
+          "title": "PC17_N004_C04",
+          "text": "�`���b�ƌ���������A���I\n����Ȃ璲�����������邩������Ȃ����\n"
         },
         {
-          "index": 9,
-          "name": "PC18_N002_C04",
-          "text": "むむむ、失敗しちゃったね\n結構期待してんだから、次は頑張ってね\n"
+          "title": "PC18_N002_C04",
+          "text": "�ނނށA���s�����������\n���\���҂��Ă񂾂���A���͊撣���Ă�\n"
         },
         {
-          "index": 10,
-          "name": "PC18_N003_C04",
-          "text": "レオのくせに\nまともな計測できるようになったわね\nこれなら調整も大丈夫そう"
+          "title": "PC18_N003_C04",
+          "text": "���I�̂�����\n�܂Ƃ��Ȍv���ł���悤�ɂȂ������\n����Ȃ璲�������v����"
         },
         {
-          "index": 11,
-          "name": "PC18_N004_C04",
-          "text": "チ、チョッと、恥ずかしいから\n何時までも計測結果見てないで\nさっさと調整に入っちゃって"
+          "title": "PC18_N004_C04",
+          "text": "�`�A�`���b�ƁA�p������������\n�����܂ł��v�����ʌ��ĂȂ���\n�������ƒ����ɓ����������"
         },
         {
-          "index": 12,
-          "name": "PC16_N005_C04",
-          "text": "まあ、失敗すると思ったわ\n今回は諦めましょ\n"
+          "title": "PC16_N005_C04",
+          "text": "�܂��A���s����Ǝv������\n����͒��߂܂���\n"
         },
         {
-          "index": 13,
-          "name": "PC16_N006_C04",
-          "text": "どうしたの、レオ？\n調子悪いなら調整はまた今度にしましょ\n"
+          "title": "PC16_N006_C04",
+          "text": "�ǂ������́A���I�H\n���q�����Ȃ璲���͂܂����x�ɂ��܂���\n"
         },
         {
-          "index": 14,
-          "name": "PC16_N007_C04",
-          "text": "良い出来になったわね\nしかーし、動作チェックするまでは\nまだ安心するんじゃないわよ！"
+          "title": "PC16_N007_C04",
+          "text": "�ǂ��o���ɂȂ������\n�����[���A����`�F�b�N����܂ł�\n�܂����S����񂶂�Ȃ����I"
         },
         {
-          "index": 15,
-          "name": "PC16_N008_C04",
-          "text": "予想外の出来！\nレオも日々成長しているのね\n感心、感心"
+          "title": "PC16_N008_C04",
+          "text": "�\�z�O�̏o���I\n���I�����X�������Ă���̂�\n���S�A���S"
         },
         {
-          "index": 16,
-          "name": "PC17_N005_C04",
-          "text": "失敗することもあるって\n気にしない、気にしない\n"
+          "title": "PC17_N005_C04",
+          "text": "���s���邱�Ƃ��������\n�C�ɂ��Ȃ��A�C�ɂ��Ȃ�\n"
         },
         {
-          "index": 17,
-          "name": "PC17_N006_C04",
-          "text": "まあまあの出来だからって満足しない！\nまあ一応、動作確認しておきたいから\n付き合いなさい"
+          "title": "PC17_N006_C04",
+          "text": "�܂��܂��̏o����������Ė������Ȃ��I\n�܂��ꉞ�A����m�F���Ă�����������\n�t�������Ȃ���"
         },
         {
-          "index": 18,
-          "name": "PC17_N007_C04",
-          "text": "レオにしては、見事な調整！\nアンタ、もうエンジニアになったら？\n"
+          "title": "PC17_N007_C04",
+          "text": "���I�ɂ��ẮA�����Ȓ����I\n�A���^�A�����G���W�j�A�ɂȂ�����H\n"
         },
         {
-          "index": 19,
-          "name": "PC17_N008_C04",
-          "text": "チョッと、凄い出来じゃない！\nこの調子で次回の調整もお願いね\n"
+          "title": "PC17_N008_C04",
+          "text": "�`���b�ƁA�����o������Ȃ��I\n���̒��q�Ŏ���̒��������肢��\n"
         },
         {
-          "index": 20,
-          "name": "PC18_N005_C04",
-          "text": "失敗したけど、勉強になったわ\nアンタも気にする必要ないわよ\n"
+          "title": "PC18_N005_C04",
+          "text": "���s�������ǁA�׋��ɂȂ�����\n�A���^���C�ɂ���K�v�Ȃ����\n"
         },
         {
-          "index": 21,
-          "name": "PC18_N006_C04",
-          "text": "良い出来じゃない\nふむ、アンタでも居ないよりマシだから\n確認の相手しなさいよ"
+          "title": "PC18_N006_C04",
+          "text": "�ǂ��o������Ȃ�\n�ӂށA�A���^�ł����Ȃ����}�V������\n�m�F�̑��肵�Ȃ�����"
         },
         {
-          "index": 22,
-          "name": "PC18_N007_C04",
-          "text": "わおっ、見事な出来映え\nよしっ、今後の調整は\nレオに任せるつもりなんで、よろしく！"
+          "title": "PC18_N007_C04",
+          "text": "�킨���A�����ȏo���f��\n�悵���A����̒�����\n���I�ɔC�������Ȃ�ŁA��낵���I"
         },
         {
-          "index": 23,
-          "name": "PC18_N008_C04",
-          "text": "もう、調整技術はあたしよりレオが上ね\n……ねえ、アンタが良かったら\nあたしの専属にしてやっても良いわよ"
+          "title": "PC18_N008_C04",
+          "text": "�����A�����Z�p�͂�������背�I�����\n�c�c�˂��A�A���^���ǂ�������\n�������̐ꑮ�ɂ��Ă���Ă��ǂ����"
         }
       ]
     },
     {
       "id": 5,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "PC19_N001_C04",
-          "text": "通常計測でイイんじゃない？\nミキもその方が楽でしょ？\n"
+          "title": "PC19_N001_C04",
+          "text": "�ʏ�v���ŃC�C�񂶂�Ȃ��H\n�~�L�����̕����y�ł���H\n"
         },
         {
-          "index": 1,
-          "name": "PC19_N008_C04",
-          "text": "はいはい、分かったわよ\n準備してくるから\n待ってて"
+          "title": "PC19_N008_C04",
+          "text": "�͂��͂��A�����������\n�������Ă��邩��\n�҂��Ă�"
         },
         {
-          "index": 2,
-          "name": "PC21_N001_C04",
-          "text": "ミキの意見ももっともね\nすぐ戻ってくるから\n計測の準備進めといて"
+          "title": "PC21_N001_C04",
+          "text": "�~�L�̈ӌ��������Ƃ���\n�����߂��Ă��邩��\n�v���̏����i�߂Ƃ���"
         },
         {
-          "index": 3,
-          "name": "PC19_N002_C04",
-          "text": "これは失敗でしょ\nしっかりしてよね、ミキ\n"
+          "title": "PC19_N002_C04",
+          "text": "����͎��s�ł���\n�������肵�Ă�ˁA�~�L\n"
         },
         {
-          "index": 4,
-          "name": "PC19_N003_C04",
-          "text": "普通の計測ありがとう、ミキ\n計測に続いて調整もお願いね\n"
+          "title": "PC19_N003_C04",
+          "text": "���ʂ̌v�����肪�Ƃ��A�~�L\n�v���ɑ����Ē��������肢��\n"
         },
         {
-          "index": 5,
-          "name": "PC19_N004_C04",
-          "text": "驚いた\nミキでもここまでの計測ができるんだ\n"
+          "title": "PC19_N004_C04",
+          "text": "������\n�~�L�ł������܂ł̌v�����ł����\n"
         },
         {
-          "index": 6,
-          "name": "PC20_N002_C04",
-          "text": "あとチョッとで失敗したかぁ～\nでも、調整は続けてみよ\n"
+          "title": "PC20_N002_C04",
+          "text": "���ƃ`���b�ƂŎ��s���������`\n�ł��A�����͑����Ă݂�\n"
         },
         {
-          "index": 7,
-          "name": "PC20_N003_C04",
-          "text": "計測にも慣れてきたわね\nこの調子で調整も進んでくれると\n良いんだけどねぇ～"
+          "title": "PC20_N003_C04",
+          "text": "�v���ɂ�����Ă������\n���̒��q�Œ������i��ł�����\n�ǂ��񂾂��ǂ˂��`"
         },
         {
-          "index": 8,
-          "name": "PC20_N004_C04",
-          "text": "見事な腕前ねぇ～\n隠れて予習でもしてた？\nこの調子なら調整も成功するかもね"
+          "title": "PC20_N004_C04",
+          "text": "�����Șr�O�˂��`\n�B��ė\�K�ł����Ă��H\n���̒��q�Ȃ璲�����������邩����"
         },
         {
-          "index": 9,
-          "name": "PC21_N002_C04",
-          "text": "ミキ、人は失敗する生き物なのよ！\n次に活かしましょう\n"
+          "title": "PC21_N002_C04",
+          "text": "�~�L�A�l�͎��s���鐶�����Ȃ̂�I\n���Ɋ������܂��傤\n"
         },
         {
-          "index": 10,
-          "name": "PC21_N003_C04",
-          "text": "ミキの計測も安定してきたねぇ～\nここまでの計測技術があるなら\n調整も大丈夫な気がしてきたわ"
+          "title": "PC21_N003_C04",
+          "text": "�~�L�̌v�������肵�Ă����˂��`\n�����܂ł̌v���Z�p������Ȃ�\n���������v�ȋC�����Ă�����"
         },
         {
-          "index": 11,
-          "name": "PC21_N004_C04",
-          "text": "ミキにあるまじき\n予想外の上達っぷり\n……この調子で美月の計測もしてあげたら"
+          "title": "PC21_N004_C04",
+          "text": "�~�L�ɂ���܂���\n�\�z�O�̏�B���Ղ�\n�c�c���̒��q�Ŕ����̌v�������Ă�������"
         },
         {
-          "index": 12,
-          "name": "PC19_N005_C04",
-          "text": "ひどい調整ね\n失敗よ、し・っ・ぱ・い\n"
+          "title": "PC19_N005_C04",
+          "text": "�Ђǂ�������\n���s��A���E���E�ρE��\n"
         },
         {
-          "index": 13,
-          "name": "PC19_N006_C04",
-          "text": "普通ねー\n何か面白みに欠けるわ\n"
+          "title": "PC19_N006_C04",
+          "text": "���ʂˁ[\n�����ʔ��݂Ɍ������\n"
         },
         {
-          "index": 14,
-          "name": "PC19_N007_C04",
-          "text": "ミキの調整らしからぬ、良い出来\n動作をチェックしてみましょう\n"
+          "title": "PC19_N007_C04",
+          "text": "�~�L�̒����炵����ʁA�ǂ��o��\n������`�F�b�N���Ă݂܂��傤\n"
         },
         {
-          "index": 15,
-          "name": "PC19_N008_C04",
-          "text": "驚きの仕上がり！\nここまで上手に調整できるなら\nミキも一人前ってところね"
+          "title": "PC19_N008_C04",
+          "text": "�����̎d�オ��I\n�����܂ŏ��ɒ����ł���Ȃ�\n�~�L����l�O���ĂƂ����"
         },
         {
-          "index": 16,
-          "name": "PC20_N005_C04",
-          "text": "失敗することもあるって\n次は成功させるわよ！\n"
+          "title": "PC20_N005_C04",
+          "text": "���s���邱�Ƃ��������\n���͐�����������I\n"
         },
         {
-          "index": 17,
-          "name": "PC20_N006_C04",
-          "text": "まあまあの仕上がりだね\nチェックでも問題無かったら\n動作確認に行くから付き合いなさい"
+          "title": "PC20_N006_C04",
+          "text": "�܂��܂��̎d�オ�肾��\n�`�F�b�N�ł���薳��������\n����m�F�ɍs������t�������Ȃ���"
         },
         {
-          "index": 18,
-          "name": "PC20_N007_C04",
-          "text": "いやぁ、見事な仕上がりね\nミキって結構器用だよねぇ～\n"
+          "title": "PC20_N007_C04",
+          "text": "���₟�A�����Ȏd�オ���\n�~�L���Č��\��p����˂��`\n"
         },
         {
-          "index": 19,
-          "name": "PC20_N008_C04",
-          "text": "ミキの調整技術も素晴らしく向上したわね\nこれは今後の調整も期待できるわ\n"
+          "title": "PC20_N008_C04",
+          "text": "�~�L�̒����Z�p���f���炵�����サ�����\n����͍���̒��������҂ł����\n"
         },
         {
-          "index": 20,
-          "name": "PC21_N005_C04",
-          "text": "あらら、失敗かぁ……\n次はしっかりやんなさいよ、ミキ\n"
+          "title": "PC21_N005_C04",
+          "text": "�����A���s�����c�c\n���͂���������Ȃ�����A�~�L\n"
         },
         {
-          "index": 21,
-          "name": "PC21_N006_C04",
-          "text": "調整の出来も良い仕上がりね\n動作確認の相手してほしいから\nチョッと付き合って"
+          "title": "PC21_N006_C04",
+          "text": "�����̏o�����ǂ��d�オ���\n����m�F�̑��肵�Ăق�������\n�`���b�ƕt��������"
         },
         {
-          "index": 22,
-          "name": "PC21_N007_C04",
-          "text": "見事な仕上がりね\n古式魔法師でエンジニアって\n錬金術師みたい"
+          "title": "PC21_N007_C04",
+          "text": "�����Ȏd�オ���\n�Î����@�t�ŃG���W�j�A����\n�B���p�t�݂���"
         },
         {
-          "index": 23,
-          "name": "PC21_N008_C04",
-          "text": "素晴らしい調整技術ねぇ～\n……むふふ、ミキって美月と二人で\n千葉家の専属エンジニアになる気ない？"
+          "title": "PC21_N008_C04",
+          "text": "�f���炵�������Z�p�˂��`\n�c�c�ނӂӁA�~�L���Ĕ����Ɠ�l��\n��t�Ƃ̐ꑮ�G���W�j�A�ɂȂ�C�Ȃ��H"
         }
       ]
     },
     {
       "id": 6,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "PC04_N001_C04",
-          "text": "通常計測だけでイイじゃない？\n着替える必要も無いでしょ\n"
+          "title": "PC04_N001_C04",
+          "text": "�ʏ�v�������ŃC�C����Ȃ��H\n���ւ���K�v�������ł���\n"
         },
         {
-          "index": 1,
-          "name": "PC05_N001_C04",
-          "text": "チョッと大げさじゃない？\nでも、まあ、今回は申し出を採用して\n着替えてくるから、準備を進めてて"
+          "title": "PC05_N001_C04",
+          "text": "�`���b�Ƒ傰������Ȃ��H\n�ł��A�܂��A����͐\���o���̗p����\n���ւ��Ă��邩��A������i�߂Ă�"
         },
         {
-          "index": 2,
-          "name": "PC06_N001_C04",
-          "text": "そうよねー\n中途半端な計測をするよりもね……\nうん、すぐに着替えてくるわ"
+          "title": "PC06_N001_C04",
+          "text": "������ˁ[\n���r���[�Ȍv������������ˁc�c\n����A�����ɒ��ւ��Ă����"
         },
         {
-          "index": 3,
-          "name": "PC04_N002_C04",
-          "text": "計測、失敗じゃない？\n\n"
+          "title": "PC04_N002_C04",
+          "text": "�v���A���s����Ȃ��H\n\n"
         },
         {
-          "index": 4,
-          "name": "PC04_N003_C04",
-          "text": "この調子なら調整もいけるね\n\n"
+          "title": "PC04_N003_C04",
+          "text": "���̒��q�Ȃ璲�����������\n\n"
         },
         {
-          "index": 5,
-          "name": "PC04_N004_C04",
-          "text": "驚き！\nなかなかやるじゃない\nこの調子で調整もお願いね"
+          "title": "PC04_N004_C04",
+          "text": "�����I\n�Ȃ��Ȃ���邶��Ȃ�\n���̒��q�Œ��������肢��"
         },
         {
-          "index": 6,
-          "name": "PC05_N002_C04",
-          "text": "あらら、失敗かぁー\n切り替えて、次で頑張りましょう\n"
+          "title": "PC05_N002_C04",
+          "text": "�����A���s�����[\n�؂�ւ��āA���Ŋ撣��܂��傤\n"
         },
         {
-          "index": 7,
-          "name": "PC05_N003_C04",
-          "text": "計測にも慣れたっぽいね\n調整もこの調子で行きたいな\n"
+          "title": "PC05_N003_C04",
+          "text": "�v���ɂ����ꂽ���ۂ���\n���������̒��q�ōs��������\n"
         },
         {
-          "index": 8,
-          "name": "PC05_N004_C04",
-          "text": "わおっ、見事な計測\nこれなら調整も成功確実かな？\n"
+          "title": "PC05_N004_C04",
+          "text": "�킨���A�����Ȍv��\n����Ȃ璲���������m�����ȁH\n"
         },
         {
-          "index": 9,
-          "name": "PC06_N002_C04",
-          "text": "気にしない、気にしない\n失敗は次の調整で挽回よ！\n"
+          "title": "PC06_N002_C04",
+          "text": "�C�ɂ��Ȃ��A�C�ɂ��Ȃ�\n���s�͎��̒����Ŕ҉��I\n"
         },
         {
-          "index": 10,
-          "name": "PC06_N003_C04",
-          "text": "計測結果もバッチリね\nこれなら調整も無事に済みそう\n"
+          "title": "PC06_N003_C04",
+          "text": "�v�����ʂ��o�b�`����\n����Ȃ璲���������ɍς݂���\n"
         },
         {
-          "index": 11,
-          "name": "PC06_N004_C04",
-          "text": "何、この計測結果\n凄いわ～\nこれなら調整も大丈夫そう"
+          "title": "PC06_N004_C04",
+          "text": "���A���̌v������\n������`\n����Ȃ璲�������v����"
         },
         {
-          "index": 12,
-          "name": "PC04_N005_C04",
-          "text": "これは、チョッと失敗したね\n\n"
+          "title": "PC04_N005_C04",
+          "text": "����́A�`���b�Ǝ��s������\n\n"
         },
         {
-          "index": 13,
-          "name": "PC04_N006_C04",
-          "text": "うーん、普通ね\nもうすこしアクセントが効いてる方が\n好みだわ"
+          "title": "PC04_N006_C04",
+          "text": "���[��A���ʂ�\n�����������A�N�Z���g�������Ă����\n�D�݂���"
         },
         {
-          "index": 14,
-          "name": "PC04_N007_C04",
-          "text": "ほほう、イイ感じね\nチョッと、動作確認に行って来るね\n"
+          "title": "PC04_N007_C04",
+          "text": "�قق��A�C�C������\n�`���b�ƁA����m�F�ɍs���ė����\n"
         },
         {
-          "index": 15,
-          "name": "PC04_N008_C04",
-          "text": "予想外に凄いわ\nここまで調整が上手いとは\n思わなかったわー"
+          "title": "PC04_N008_C04",
+          "text": "�\�z�O�ɐ�����\n�����܂Œ�������肢�Ƃ�\n�v��Ȃ�������["
         },
         {
-          "index": 16,
-          "name": "PC05_N005_C04",
-          "text": "いいよ、いいよ\n次こそ成功よ！\n"
+          "title": "PC05_N005_C04",
+          "text": "������A������\n������������I\n"
         },
         {
-          "index": 17,
-          "name": "PC05_N006_C04",
-          "text": "まあまあの仕上げかな？\nほらほら、動作の確認もしておこうよ\n"
+          "title": "PC05_N006_C04",
+          "text": "�܂��܂��̎d�グ���ȁH\n�ق�ق�A����̊m�F�����Ă�������\n"
         },
         {
-          "index": 18,
-          "name": "PC05_N007_C04",
-          "text": "調整も見事成功！\n技術面の才能もあるって\nどんだけ多才なの？"
+          "title": "PC05_N007_C04",
+          "text": "���������������I\n�Z�p�ʂ̍˔\���������\n�ǂ񂾂����˂Ȃ́H"
         },
         {
-          "index": 19,
-          "name": "PC05_N008_C04",
-          "text": "わおっ、凄い出来だわ\nこの調子で次回の調整もお願いね♪\n"
+          "title": "PC05_N008_C04",
+          "text": "�킨���A�����o������\n���̒��q�Ŏ���̒��������肢�ˁ�\n"
         },
         {
-          "index": 20,
-          "name": "PC06_N005_C04",
-          "text": "たまには失敗もアリね\n次でリベンジよ！\n"
+          "title": "PC06_N005_C04",
+          "text": "���܂ɂ͎��s���A����\n���Ń��x���W��I\n"
         },
         {
-          "index": 21,
-          "name": "PC06_N006_C04",
-          "text": "良い仕上がりよね\n動作もスムーズだし\nこのまま動作確認にも付き合って"
+          "title": "PC06_N006_C04",
+          "text": "�ǂ��d�オ����\n������X���[�Y����\n���̂܂ܓ���m�F�ɂ��t��������"
         },
         {
-          "index": 22,
-          "name": "PC06_N007_C04",
-          "text": "うはー、見事な仕上げ\nこれは、もう、他のホウキには\n浮気できないかな～"
+          "title": "PC06_N007_C04",
+          "text": "���́[�A�����Ȏd�グ\n����́A�����A���̃z�E�L�ɂ�\n���C�ł��Ȃ����ȁ`"
         },
         {
-          "index": 23,
-          "name": "PC06_N008_C04",
-          "text": "いやいや、チョッと凄い出来よ、コレ\n同年代でここまでの腕とは\nお見逸れしました"
+          "title": "PC06_N008_C04",
+          "text": "���₢��A�`���b�Ɛ����o����A�R��\n���N��ł����܂ł̘r�Ƃ�\n������ꂵ�܂���"
         }
       ]
     },
     {
       "id": 11,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "PC04_N001_C04",
-          "text": "通常計測だけでイイじゃない？\n着替える必要も無いでしょ\n"
+          "title": "PC04_N001_C04",
+          "text": "�ʏ�v�������ŃC�C����Ȃ��H\n���ւ���K�v�������ł���\n"
         },
         {
-          "index": 1,
-          "name": "PC05_N001_C04",
-          "text": "チョッと大げさじゃない？\nでも、まあ、今回は申し出を採用して\n着替えてくるから、準備を進めてて"
+          "title": "PC05_N001_C04",
+          "text": "�`���b�Ƒ傰������Ȃ��H\n�ł��A�܂��A����͐\���o���̗p����\n���ւ��Ă��邩��A������i�߂Ă�"
         },
         {
-          "index": 2,
-          "name": "PC06_N001_C04",
-          "text": "そうよねー\n中途半端な計測をするよりもね……\nうん、すぐに着替えてくるわ"
+          "title": "PC06_N001_C04",
+          "text": "������ˁ[\n���r���[�Ȍv������������ˁc�c\n����A�����ɒ��ւ��Ă����"
         },
         {
-          "index": 3,
-          "name": "PC04_N002_C04",
-          "text": "計測、失敗じゃない？\n\n"
+          "title": "PC04_N002_C04",
+          "text": "�v���A���s����Ȃ��H\n\n"
         },
         {
-          "index": 4,
-          "name": "PC04_N003_C04",
-          "text": "この調子なら調整もいけるね\n\n"
+          "title": "PC04_N003_C04",
+          "text": "���̒��q�Ȃ璲�����������\n\n"
         },
         {
-          "index": 5,
-          "name": "PC04_N004_C04",
-          "text": "驚き！\nなかなかやるじゃない\nこの調子で調整もお願いね"
+          "title": "PC04_N004_C04",
+          "text": "�����I\n�Ȃ��Ȃ���邶��Ȃ�\n���̒��q�Œ��������肢��"
         },
         {
-          "index": 6,
-          "name": "PC05_N002_C04",
-          "text": "あらら、失敗かぁー\n切り替えて、次で頑張りましょう\n"
+          "title": "PC05_N002_C04",
+          "text": "�����A���s�����[\n�؂�ւ��āA���Ŋ撣��܂��傤\n"
         },
         {
-          "index": 7,
-          "name": "PC05_N003_C04",
-          "text": "計測にも慣れたっぽいね\n調整もこの調子で行きたいな\n"
+          "title": "PC05_N003_C04",
+          "text": "�v���ɂ����ꂽ���ۂ���\n���������̒��q�ōs��������\n"
         },
         {
-          "index": 8,
-          "name": "PC05_N004_C04",
-          "text": "わおっ、見事な計測\nこれなら調整も成功確実かな？\n"
+          "title": "PC05_N004_C04",
+          "text": "�킨���A�����Ȍv��\n����Ȃ璲���������m�����ȁH\n"
         },
         {
-          "index": 9,
-          "name": "PC06_N002_C04",
-          "text": "気にしない、気にしない\n失敗は次の調整で挽回よ！\n"
+          "title": "PC06_N002_C04",
+          "text": "�C�ɂ��Ȃ��A�C�ɂ��Ȃ�\n���s�͎��̒����Ŕ҉��I\n"
         },
         {
-          "index": 10,
-          "name": "PC06_N003_C04",
-          "text": "計測結果もバッチリね\nこれなら調整も無事に済みそう\n"
+          "title": "PC06_N003_C04",
+          "text": "�v�����ʂ��o�b�`����\n����Ȃ璲���������ɍς݂���\n"
         },
         {
-          "index": 11,
-          "name": "PC06_N004_C04",
-          "text": "何、この計測結果\n凄いわ～\nこれなら調整も大丈夫そう"
+          "title": "PC06_N004_C04",
+          "text": "���A���̌v������\n������`\n����Ȃ璲�������v����"
         },
         {
-          "index": 12,
-          "name": "PC04_N005_C04",
-          "text": "これは、チョッと失敗したね\n\n"
+          "title": "PC04_N005_C04",
+          "text": "����́A�`���b�Ǝ��s������\n\n"
         },
         {
-          "index": 13,
-          "name": "PC04_N006_C04",
-          "text": "うーん、普通ね\nもうすこしアクセントが効いてる方が\n好みだわ"
+          "title": "PC04_N006_C04",
+          "text": "���[��A���ʂ�\n�����������A�N�Z���g�������Ă����\n�D�݂���"
         },
         {
-          "index": 14,
-          "name": "PC04_N007_C04",
-          "text": "ほほう、イイ感じね\nチョッと、動作確認に行って来るね\n"
+          "title": "PC04_N007_C04",
+          "text": "�قق��A�C�C������\n�`���b�ƁA����m�F�ɍs���ė����\n"
         },
         {
-          "index": 15,
-          "name": "PC04_N008_C04",
-          "text": "予想外に凄いわ\nここまで調整が上手いとは\n思わなかったわー"
+          "title": "PC04_N008_C04",
+          "text": "�\�z�O�ɐ�����\n�����܂Œ�������肢�Ƃ�\n�v��Ȃ�������["
         },
         {
-          "index": 16,
-          "name": "PC05_N005_C04",
-          "text": "いいよ、いいよ\n次こそ成功よ！\n"
+          "title": "PC05_N005_C04",
+          "text": "������A������\n������������I\n"
         },
         {
-          "index": 17,
-          "name": "PC05_N006_C04",
-          "text": "まあまあの仕上げかな？\nほらほら、動作の確認もしておこうよ\n"
+          "title": "PC05_N006_C04",
+          "text": "�܂��܂��̎d�グ���ȁH\n�ق�ق�A����̊m�F�����Ă�������\n"
         },
         {
-          "index": 18,
-          "name": "PC05_N007_C04",
-          "text": "調整も見事成功！\n技術面の才能もあるって\nどんだけ多才なの？"
+          "title": "PC05_N007_C04",
+          "text": "���������������I\n�Z�p�ʂ̍˔\���������\n�ǂ񂾂����˂Ȃ́H"
         },
         {
-          "index": 19,
-          "name": "PC05_N008_C04",
-          "text": "わおっ、凄い出来だわ\nこの調子で次回の調整もお願いね♪\n"
+          "title": "PC05_N008_C04",
+          "text": "�킨���A�����o������\n���̒��q�Ŏ���̒��������肢�ˁ�\n"
         },
         {
-          "index": 20,
-          "name": "PC06_N005_C04",
-          "text": "たまには失敗もアリね\n次でリベンジよ！\n"
+          "title": "PC06_N005_C04",
+          "text": "���܂ɂ͎��s���A����\n���Ń��x���W��I\n"
         },
         {
-          "index": 21,
-          "name": "PC06_N006_C04",
-          "text": "良い仕上がりよね\n動作もスムーズだし\nこのまま動作確認にも付き合って"
+          "title": "PC06_N006_C04",
+          "text": "�ǂ��d�オ����\n������X���[�Y����\n���̂܂ܓ���m�F�ɂ��t��������"
         },
         {
-          "index": 22,
-          "name": "PC06_N007_C04",
-          "text": "うはー、見事な仕上げ\nこれは、もう、他のホウキには\n浮気できないかな～"
+          "title": "PC06_N007_C04",
+          "text": "���́[�A�����Ȏd�グ\n����́A�����A���̃z�E�L�ɂ�\n���C�ł��Ȃ����ȁ`"
         },
         {
-          "index": 23,
-          "name": "PC06_N008_C04",
-          "text": "いやいや、チョッと凄い出来よ、コレ\n同年代でここまでの腕とは\nお見逸れしました"
+          "title": "PC06_N008_C04",
+          "text": "���₢��A�`���b�Ɛ����o����A�R��\n���N��ł����܂ł̘r�Ƃ�\n������ꂵ�܂���"
         }
       ]
     },
     {
       "id": 12,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "PC04_N001_C04",
-          "text": "通常計測だけでイイじゃない？\n着替える必要も無いでしょ\n"
+          "title": "PC04_N001_C04",
+          "text": "�ʏ�v�������ŃC�C����Ȃ��H\n���ւ���K�v�������ł���\n"
         },
         {
-          "index": 1,
-          "name": "PC05_N001_C04",
-          "text": "チョッと大げさじゃない？\nでも、まあ、今回は申し出を採用して\n着替えてくるから、準備を進めてて"
+          "title": "PC05_N001_C04",
+          "text": "�`���b�Ƒ傰������Ȃ��H\n�ł��A�܂��A����͐\���o���̗p����\n���ւ��Ă��邩��A������i�߂Ă�"
         },
         {
-          "index": 2,
-          "name": "PC06_N001_C04",
-          "text": "そうよねー\n中途半端な計測をするよりもね……\nうん、すぐに着替えてくるわ"
+          "title": "PC06_N001_C04",
+          "text": "������ˁ[\n���r���[�Ȍv������������ˁc�c\n����A�����ɒ��ւ��Ă����"
         },
         {
-          "index": 3,
-          "name": "PC04_N002_C04",
-          "text": "計測、失敗じゃない？\n\n"
+          "title": "PC04_N002_C04",
+          "text": "�v���A���s����Ȃ��H\n\n"
         },
         {
-          "index": 4,
-          "name": "PC04_N003_C04",
-          "text": "この調子なら調整もいけるね\n\n"
+          "title": "PC04_N003_C04",
+          "text": "���̒��q�Ȃ璲�����������\n\n"
         },
         {
-          "index": 5,
-          "name": "PC04_N004_C04",
-          "text": "驚き！\nなかなかやるじゃない\nこの調子で調整もお願いね"
+          "title": "PC04_N004_C04",
+          "text": "�����I\n�Ȃ��Ȃ���邶��Ȃ�\n���̒��q�Œ��������肢��"
         },
         {
-          "index": 6,
-          "name": "PC05_N002_C04",
-          "text": "あらら、失敗かぁー\n切り替えて、次で頑張りましょう\n"
+          "title": "PC05_N002_C04",
+          "text": "�����A���s�����[\n�؂�ւ��āA���Ŋ撣��܂��傤\n"
         },
         {
-          "index": 7,
-          "name": "PC05_N003_C04",
-          "text": "計測にも慣れたっぽいね\n調整もこの調子で行きたいな\n"
+          "title": "PC05_N003_C04",
+          "text": "�v���ɂ����ꂽ���ۂ���\n���������̒��q�ōs��������\n"
         },
         {
-          "index": 8,
-          "name": "PC05_N004_C04",
-          "text": "わおっ、見事な計測\nこれなら調整も成功確実かな？\n"
+          "title": "PC05_N004_C04",
+          "text": "�킨���A�����Ȍv��\n����Ȃ璲���������m�����ȁH\n"
         },
         {
-          "index": 9,
-          "name": "PC06_N002_C04",
-          "text": "気にしない、気にしない\n失敗は次の調整で挽回よ！\n"
+          "title": "PC06_N002_C04",
+          "text": "�C�ɂ��Ȃ��A�C�ɂ��Ȃ�\n���s�͎��̒����Ŕ҉��I\n"
         },
         {
-          "index": 10,
-          "name": "PC06_N003_C04",
-          "text": "計測結果もバッチリね\nこれなら調整も無事に済みそう\n"
+          "title": "PC06_N003_C04",
+          "text": "�v�����ʂ��o�b�`����\n����Ȃ璲���������ɍς݂���\n"
         },
         {
-          "index": 11,
-          "name": "PC06_N004_C04",
-          "text": "何、この計測結果\n凄いわ～\nこれなら調整も大丈夫そう"
+          "title": "PC06_N004_C04",
+          "text": "���A���̌v������\n������`\n����Ȃ璲�������v����"
         },
         {
-          "index": 12,
-          "name": "PC04_N005_C04",
-          "text": "これは、チョッと失敗したね\n\n"
+          "title": "PC04_N005_C04",
+          "text": "����́A�`���b�Ǝ��s������\n\n"
         },
         {
-          "index": 13,
-          "name": "PC04_N006_C04",
-          "text": "うーん、普通ね\nもうすこしアクセントが効いてる方が\n好みだわ"
+          "title": "PC04_N006_C04",
+          "text": "���[��A���ʂ�\n�����������A�N�Z���g�������Ă����\n�D�݂���"
         },
         {
-          "index": 14,
-          "name": "PC04_N007_C04",
-          "text": "ほほう、イイ感じね\nチョッと、動作確認に行って来るね\n"
+          "title": "PC04_N007_C04",
+          "text": "�قق��A�C�C������\n�`���b�ƁA����m�F�ɍs���ė����\n"
         },
         {
-          "index": 15,
-          "name": "PC04_N008_C04",
-          "text": "予想外に凄いわ\nここまで調整が上手いとは\n思わなかったわー"
+          "title": "PC04_N008_C04",
+          "text": "�\�z�O�ɐ�����\n�����܂Œ�������肢�Ƃ�\n�v��Ȃ�������["
         },
         {
-          "index": 16,
-          "name": "PC05_N005_C04",
-          "text": "いいよ、いいよ\n次こそ成功よ！\n"
+          "title": "PC05_N005_C04",
+          "text": "������A������\n������������I\n"
         },
         {
-          "index": 17,
-          "name": "PC05_N006_C04",
-          "text": "まあまあの仕上げかな？\nほらほら、動作の確認もしておこうよ\n"
+          "title": "PC05_N006_C04",
+          "text": "�܂��܂��̎d�グ���ȁH\n�ق�ق�A����̊m�F�����Ă�������\n"
         },
         {
-          "index": 18,
-          "name": "PC05_N007_C04",
-          "text": "調整も見事成功！\n技術面の才能もあるって\nどんだけ多才なの？"
+          "title": "PC05_N007_C04",
+          "text": "���������������I\n�Z�p�ʂ̍˔\���������\n�ǂ񂾂����˂Ȃ́H"
         },
         {
-          "index": 19,
-          "name": "PC05_N008_C04",
-          "text": "わおっ、凄い出来だわ\nこの調子で次回の調整もお願いね♪\n"
+          "title": "PC05_N008_C04",
+          "text": "�킨���A�����o������\n���̒��q�Ŏ���̒��������肢�ˁ�\n"
         },
         {
-          "index": 20,
-          "name": "PC06_N005_C04",
-          "text": "たまには失敗もアリね\n次でリベンジよ！\n"
+          "title": "PC06_N005_C04",
+          "text": "���܂ɂ͎��s���A����\n���Ń��x���W��I\n"
         },
         {
-          "index": 21,
-          "name": "PC06_N006_C04",
-          "text": "良い仕上がりよね\n動作もスムーズだし\nこのまま動作確認にも付き合って"
+          "title": "PC06_N006_C04",
+          "text": "�ǂ��d�オ����\n������X���[�Y����\n���̂܂ܓ���m�F�ɂ��t��������"
         },
         {
-          "index": 22,
-          "name": "PC06_N007_C04",
-          "text": "うはー、見事な仕上げ\nこれは、もう、他のホウキには\n浮気できないかな～"
+          "title": "PC06_N007_C04",
+          "text": "���́[�A�����Ȏd�グ\n����́A�����A���̃z�E�L�ɂ�\n���C�ł��Ȃ����ȁ`"
         },
         {
-          "index": 23,
-          "name": "PC06_N008_C04",
-          "text": "いやいや、チョッと凄い出来よ、コレ\n同年代でここまでの腕とは\nお見逸れしました"
+          "title": "PC06_N008_C04",
+          "text": "���₢��A�`���b�Ɛ����o����A�R��\n���N��ł����܂ł̘r�Ƃ�\n������ꂵ�܂���"
         }
       ]
     },
     {
       "id": 14,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "PC04_N001_C04",
-          "text": "通常計測だけでイイじゃない？\n着替える必要も無いでしょ\n"
+          "title": "PC04_N001_C04",
+          "text": "�ʏ�v�������ŃC�C����Ȃ��H\n���ւ���K�v�������ł���\n"
         },
         {
-          "index": 1,
-          "name": "PC05_N001_C04",
-          "text": "チョッと大げさじゃない？\nでも、まあ、今回は申し出を採用して\n着替えてくるから、準備を進めてて"
+          "title": "PC05_N001_C04",
+          "text": "�`���b�Ƒ傰������Ȃ��H\n�ł��A�܂��A����͐\���o���̗p����\n���ւ��Ă��邩��A������i�߂Ă�"
         },
         {
-          "index": 2,
-          "name": "PC06_N001_C04",
-          "text": "そうよねー\n中途半端な計測をするよりもね……\nうん、すぐに着替えてくるわ"
+          "title": "PC06_N001_C04",
+          "text": "������ˁ[\n���r���[�Ȍv������������ˁc�c\n����A�����ɒ��ւ��Ă����"
         },
         {
-          "index": 3,
-          "name": "PC04_N002_C04",
-          "text": "計測、失敗じゃない？\n\n"
+          "title": "PC04_N002_C04",
+          "text": "�v���A���s����Ȃ��H\n\n"
         },
         {
-          "index": 4,
-          "name": "PC04_N003_C04",
-          "text": "この調子なら調整もいけるね\n\n"
+          "title": "PC04_N003_C04",
+          "text": "���̒��q�Ȃ璲�����������\n\n"
         },
         {
-          "index": 5,
-          "name": "PC04_N004_C04",
-          "text": "驚き！\nなかなかやるじゃない\nこの調子で調整もお願いね"
+          "title": "PC04_N004_C04",
+          "text": "�����I\n�Ȃ��Ȃ���邶��Ȃ�\n���̒��q�Œ��������肢��"
         },
         {
-          "index": 6,
-          "name": "PC05_N002_C04",
-          "text": "あらら、失敗かぁー\n切り替えて、次で頑張りましょう\n"
+          "title": "PC05_N002_C04",
+          "text": "�����A���s�����[\n�؂�ւ��āA���Ŋ撣��܂��傤\n"
         },
         {
-          "index": 7,
-          "name": "PC05_N003_C04",
-          "text": "計測にも慣れたっぽいね\n調整もこの調子で行きたいな\n"
+          "title": "PC05_N003_C04",
+          "text": "�v���ɂ����ꂽ���ۂ���\n���������̒��q�ōs��������\n"
         },
         {
-          "index": 8,
-          "name": "PC05_N004_C04",
-          "text": "わおっ、見事な計測\nこれなら調整も成功確実かな？\n"
+          "title": "PC05_N004_C04",
+          "text": "�킨���A�����Ȍv��\n����Ȃ璲���������m�����ȁH\n"
         },
         {
-          "index": 9,
-          "name": "PC06_N002_C04",
-          "text": "気にしない、気にしない\n失敗は次の調整で挽回よ！\n"
+          "title": "PC06_N002_C04",
+          "text": "�C�ɂ��Ȃ��A�C�ɂ��Ȃ�\n���s�͎��̒����Ŕ҉��I\n"
         },
         {
-          "index": 10,
-          "name": "PC06_N003_C04",
-          "text": "計測結果もバッチリね\nこれなら調整も無事に済みそう\n"
+          "title": "PC06_N003_C04",
+          "text": "�v�����ʂ��o�b�`����\n����Ȃ璲���������ɍς݂���\n"
         },
         {
-          "index": 11,
-          "name": "PC06_N004_C04",
-          "text": "何、この計測結果\n凄いわ～\nこれなら調整も大丈夫そう"
+          "title": "PC06_N004_C04",
+          "text": "���A���̌v������\n������`\n����Ȃ璲�������v����"
         },
         {
-          "index": 12,
-          "name": "PC04_N005_C04",
-          "text": "これは、チョッと失敗したね\n\n"
+          "title": "PC04_N005_C04",
+          "text": "����́A�`���b�Ǝ��s������\n\n"
         },
         {
-          "index": 13,
-          "name": "PC04_N006_C04",
-          "text": "うーん、普通ね\nもうすこしアクセントが効いてる方が\n好みだわ"
+          "title": "PC04_N006_C04",
+          "text": "���[��A���ʂ�\n�����������A�N�Z���g�������Ă����\n�D�݂���"
         },
         {
-          "index": 14,
-          "name": "PC04_N007_C04",
-          "text": "ほほう、イイ感じね\nチョッと、動作確認に行って来るね\n"
+          "title": "PC04_N007_C04",
+          "text": "�قق��A�C�C������\n�`���b�ƁA����m�F�ɍs���ė����\n"
         },
         {
-          "index": 15,
-          "name": "PC04_N008_C04",
-          "text": "予想外に凄いわ\nここまで調整が上手いとは\n思わなかったわー"
+          "title": "PC04_N008_C04",
+          "text": "�\�z�O�ɐ�����\n�����܂Œ�������肢�Ƃ�\n�v��Ȃ�������["
         },
         {
-          "index": 16,
-          "name": "PC05_N005_C04",
-          "text": "いいよ、いいよ\n次こそ成功よ！\n"
+          "title": "PC05_N005_C04",
+          "text": "������A������\n������������I\n"
         },
         {
-          "index": 17,
-          "name": "PC05_N006_C04",
-          "text": "まあまあの仕上げかな？\nほらほら、動作の確認もしておこうよ\n"
+          "title": "PC05_N006_C04",
+          "text": "�܂��܂��̎d�グ���ȁH\n�ق�ق�A����̊m�F�����Ă�������\n"
         },
         {
-          "index": 18,
-          "name": "PC05_N007_C04",
-          "text": "調整も見事成功！\n技術面の才能もあるって\nどんだけ多才なの？"
+          "title": "PC05_N007_C04",
+          "text": "���������������I\n�Z�p�ʂ̍˔\���������\n�ǂ񂾂����˂Ȃ́H"
         },
         {
-          "index": 19,
-          "name": "PC05_N008_C04",
-          "text": "わおっ、凄い出来だわ\nこの調子で次回の調整もお願いね♪\n"
+          "title": "PC05_N008_C04",
+          "text": "�킨���A�����o������\n���̒��q�Ŏ���̒��������肢�ˁ�\n"
         },
         {
-          "index": 20,
-          "name": "PC06_N005_C04",
-          "text": "たまには失敗もアリね\n次でリベンジよ！\n"
+          "title": "PC06_N005_C04",
+          "text": "���܂ɂ͎��s���A����\n���Ń��x���W��I\n"
         },
         {
-          "index": 21,
-          "name": "PC06_N006_C04",
-          "text": "良い仕上がりよね\n動作もスムーズだし\nこのまま動作確認にも付き合って"
+          "title": "PC06_N006_C04",
+          "text": "�ǂ��d�オ����\n������X���[�Y����\n���̂܂ܓ���m�F�ɂ��t��������"
         },
         {
-          "index": 22,
-          "name": "PC06_N007_C04",
-          "text": "うはー、見事な仕上げ\nこれは、もう、他のホウキには\n浮気できないかな～"
+          "title": "PC06_N007_C04",
+          "text": "���́[�A�����Ȏd�グ\n����́A�����A���̃z�E�L�ɂ�\n���C�ł��Ȃ����ȁ`"
         },
         {
-          "index": 23,
-          "name": "PC06_N008_C04",
-          "text": "いやいや、チョッと凄い出来よ、コレ\n同年代でここまでの腕とは\nお見逸れしました"
+          "title": "PC06_N008_C04",
+          "text": "���₢��A�`���b�Ɛ����o����A�R��\n���N��ł����܂ł̘r�Ƃ�\n������ꂵ�܂���"
         }
       ]
     },
     {
       "id": 21,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "PC07_N001_C04",
-          "text": "通常計測だけで良いと思いますよ\nこのままで計測しちゃいましょー！\n"
+          "title": "PC07_N001_C04",
+          "text": "�ʏ�v�������ŗǂ��Ǝv���܂���\n���̂܂܂Ōv�������Ⴂ�܂���[�I\n"
         },
         {
-          "index": 1,
-          "name": "PC08_N001_C04",
-          "text": "そこまでは大げさにしなくても……\nでも、計測の為には仕方ないかな\n準備してくるんで、待っててください"
+          "title": "PC08_N001_C04",
+          "text": "�����܂ł͑傰���ɂ��Ȃ��Ă��c�c\n�ł��A�v���ׂ̈ɂ͎d���Ȃ�����\n�������Ă����ŁA�҂��ĂĂ�������"
         },
         {
-          "index": 2,
-          "name": "PC09_N001_C04",
-          "text": "そうですね、先輩と話していると\n精密計測が必要な気がしてきた……\n了解、すぐ着替えてきます"
+          "title": "PC09_N001_C04",
+          "text": "�����ł��ˁA��y�Ƙb���Ă����\n�����v�����K�v�ȋC�����Ă����c�c\n�����A�������ւ��Ă��܂�"
         },
         {
-          "index": 3,
-          "name": "PC07_N002_C04",
-          "text": "計測は失敗でしたね\n\n"
+          "title": "PC07_N002_C04",
+          "text": "�v���͎��s�ł�����\n\n"
         },
         {
-          "index": 4,
-          "name": "PC07_N003_C04",
-          "text": "計測無事完了！\n調整もお願いしまーす\n"
+          "title": "PC07_N003_C04",
+          "text": "�v�����������I\n���������肢���܁[��\n"
         },
         {
-          "index": 5,
-          "name": "PC07_N004_C04",
-          "text": "凄いですね先輩\nこの良い流れに乗って\n調整も良い結果期待してますよ"
+          "title": "PC07_N004_C04",
+          "text": "�����ł��ː�y\n���̗ǂ�����ɏ����\n�������ǂ����ʊ��҂��Ă܂���"
         },
         {
-          "index": 6,
-          "name": "PC08_N002_C04",
-          "text": "失敗ですねぇ\n残念な結果だったけど\n次、頑張りましょう！"
+          "title": "PC08_N002_C04",
+          "text": "���s�ł��˂�\n�c�O�Ȍ��ʂ���������\n���A�撣��܂��傤�I"
         },
         {
-          "index": 7,
-          "name": "PC08_N003_C04",
-          "text": "先輩の計測にも慣れてきたかな？\n調整もこの調子で行きたいです\n"
+          "title": "PC08_N003_C04",
+          "text": "��y�̌v���ɂ�����Ă������ȁH\n���������̒��q�ōs�������ł�\n"
         },
         {
-          "index": 8,
-          "name": "PC08_N004_C04",
-          "text": "見事な計測結果ですね\nこのまま調整の成功も\n期待したいです！"
+          "title": "PC08_N004_C04",
+          "text": "�����Ȍv�����ʂł���\n���̂܂ܒ����̐�����\n���҂������ł��I"
         },
         {
-          "index": 9,
-          "name": "PC09_N002_C04",
-          "text": "計測、失敗しちゃいましたね\nでも、調整は成功すると信じて\n頑張りましょう"
+          "title": "PC09_N002_C04",
+          "text": "�v���A���s�����Ⴂ�܂�����\n�ł��A�����͐�������ƐM����\n�撣��܂��傤"
         },
         {
-          "index": 10,
-          "name": "PC09_N003_C04",
-          "text": "計測も無事終了\nこれなら調整も問題なさそうです\n"
+          "title": "PC09_N003_C04",
+          "text": "�v���������I��\n����Ȃ璲�������Ȃ������ł�\n"
         },
         {
-          "index": 11,
-          "name": "PC09_N004_C04",
-          "text": "流石の計測技術\n先輩のおかげで計測は問題無いし\nこのまま調整もバッチリお願いしますね"
+          "title": "PC09_N004_C04",
+          "text": "���΂̌v���Z�p\n��y�̂������Ōv���͖�薳����\n���̂܂ܒ������o�b�`�����肢���܂���"
         },
         {
-          "index": 12,
-          "name": "PC07_N005_C04",
-          "text": "調整、失敗ですね\n\n"
+          "title": "PC07_N005_C04",
+          "text": "�����A���s�ł���\n\n"
         },
         {
-          "index": 13,
-          "name": "PC07_N006_C04",
-          "text": "何か、普通ですね\n次に期待……かな？\n"
+          "title": "PC07_N006_C04",
+          "text": "�����A���ʂł���\n���Ɋ��ҁc�c���ȁH\n"
         },
         {
-          "index": 14,
-          "name": "PC07_N007_C04",
-          "text": "良い調整ですね\nチョッと、動作確認してきますねー\n"
+          "title": "PC07_N007_C04",
+          "text": "�ǂ������ł���\n�`���b�ƁA����m�F���Ă��܂��ˁ[\n"
         },
         {
-          "index": 15,
-          "name": "PC07_N008_C04",
-          "text": "これは驚きの調整結果です\n先輩って、思った以上にテクニシャン？\n"
+          "title": "PC07_N008_C04",
+          "text": "����͋����̒������ʂł�\n��y���āA�v�����ȏ�Ƀe�N�j�V�����H\n"
         },
         {
-          "index": 16,
-          "name": "PC08_N005_C04",
-          "text": "失敗することもあると思います\n次は成功させましょー\n"
+          "title": "PC08_N005_C04",
+          "text": "���s���邱�Ƃ�����Ǝv���܂�\n���͐��������܂���[\n"
         },
         {
-          "index": 17,
-          "name": "PC08_N006_C04",
-          "text": "仕上げは、まあまあってところ？\n一緒に動作確認に行っきましょー\n"
+          "title": "PC08_N006_C04",
+          "text": "�d�グ�́A�܂��܂����ĂƂ���H\n�ꏏ�ɓ���m�F�ɍs�����܂���[\n"
         },
         {
-          "index": 18,
-          "name": "PC08_N007_C04",
-          "text": "調整技術も見事ですねー\nなかなかの出来映えだと思いますよ\n"
+          "title": "PC08_N007_C04",
+          "text": "�����Z�p�������ł��ˁ[\n�Ȃ��Ȃ��̏o���f�����Ǝv���܂���\n"
         },
         {
-          "index": 19,
-          "name": "PC08_N008_C04",
-          "text": "素晴らしい腕前ですね\n先輩の調整、気に入りましたから\n次回もよろしくお願いしまーす"
+          "title": "PC08_N008_C04",
+          "text": "�f���炵���r�O�ł���\n��y�̒����A�C�ɓ���܂�������\n�������낵�����肢���܁[��"
         },
         {
-          "index": 20,
-          "name": "PC09_N005_C04",
-          "text": "失敗は成功のもと\n次の調整は成功間違い無し！\n"
+          "title": "PC09_N005_C04",
+          "text": "���s�͐����̂���\n���̒����͐����ԈႢ�����I\n"
         },
         {
-          "index": 21,
-          "name": "PC09_N006_C04",
-          "text": "良い仕上がりです\nチョッと試したいんで\n確認に付き合ってくださいね、先輩"
+          "title": "PC09_N006_C04",
+          "text": "�ǂ��d�オ��ł�\n�`���b�Ǝ����������\n�m�F�ɕt�������Ă��������ˁA��y"
         },
         {
-          "index": 22,
-          "name": "PC09_N007_C04",
-          "text": "特化並の見事な仕上がり\n今後の調整は\n先輩を指名させて貰おうかな～"
+          "title": "PC09_N007_C04",
+          "text": "�������̌����Ȏd�オ��\n����̒�����\n��y���w�������ĖႨ�����ȁ`"
         },
         {
-          "index": 23,
-          "name": "PC09_N008_C04",
-          "text": "ホント、素晴らしい腕前！\n千葉家の専属エンジニアになりませんか\n先輩？"
+          "title": "PC09_N008_C04",
+          "text": "�z���g�A�f���炵���r�O�I\n��t�Ƃ̐ꑮ�G���W�j�A�ɂȂ�܂���\n��y�H"
         }
       ]
     },
     {
       "id": 22,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "PC07_N001_C04",
-          "text": "通常計測だけで良いと思いますよ\nこのままで計測しちゃいましょー！\n"
+          "title": "PC07_N001_C04",
+          "text": "�ʏ�v�������ŗǂ��Ǝv���܂���\n���̂܂܂Ōv�������Ⴂ�܂���[�I\n"
         },
         {
-          "index": 1,
-          "name": "PC08_N001_C04",
-          "text": "そこまでは大げさにしなくても……\nでも、計測の為には仕方ないかな\n準備してくるんで、待っててください"
+          "title": "PC08_N001_C04",
+          "text": "�����܂ł͑傰���ɂ��Ȃ��Ă��c�c\n�ł��A�v���ׂ̈ɂ͎d���Ȃ�����\n�������Ă����ŁA�҂��ĂĂ�������"
         },
         {
-          "index": 2,
-          "name": "PC09_N001_C04",
-          "text": "そうですね、先輩と話していると\n精密計測が必要な気がしてきた……\n了解、すぐ着替えてきます"
+          "title": "PC09_N001_C04",
+          "text": "�����ł��ˁA��y�Ƙb���Ă����\n�����v�����K�v�ȋC�����Ă����c�c\n�����A�������ւ��Ă��܂�"
         },
         {
-          "index": 3,
-          "name": "PC07_N002_C04",
-          "text": "計測は失敗でしたね\n\n"
+          "title": "PC07_N002_C04",
+          "text": "�v���͎��s�ł�����\n\n"
         },
         {
-          "index": 4,
-          "name": "PC07_N003_C04",
-          "text": "計測無事完了！\n調整もお願いしまーす\n"
+          "title": "PC07_N003_C04",
+          "text": "�v�����������I\n���������肢���܁[��\n"
         },
         {
-          "index": 5,
-          "name": "PC07_N004_C04",
-          "text": "凄いですね先輩\nこの良い流れに乗って\n調整も良い結果期待してますよ"
+          "title": "PC07_N004_C04",
+          "text": "�����ł��ː�y\n���̗ǂ�����ɏ����\n�������ǂ����ʊ��҂��Ă܂���"
         },
         {
-          "index": 6,
-          "name": "PC08_N002_C04",
-          "text": "失敗ですねぇ\n残念な結果だったけど\n次、頑張りましょう！"
+          "title": "PC08_N002_C04",
+          "text": "���s�ł��˂�\n�c�O�Ȍ��ʂ���������\n���A�撣��܂��傤�I"
         },
         {
-          "index": 7,
-          "name": "PC08_N003_C04",
-          "text": "先輩の計測にも慣れてきたかな？\n調整もこの調子で行きたいです\n"
+          "title": "PC08_N003_C04",
+          "text": "��y�̌v���ɂ�����Ă������ȁH\n���������̒��q�ōs�������ł�\n"
         },
         {
-          "index": 8,
-          "name": "PC08_N004_C04",
-          "text": "見事な計測結果ですね\nこのまま調整の成功も\n期待したいです！"
+          "title": "PC08_N004_C04",
+          "text": "�����Ȍv�����ʂł���\n���̂܂ܒ����̐�����\n���҂������ł��I"
         },
         {
-          "index": 9,
-          "name": "PC09_N002_C04",
-          "text": "計測、失敗しちゃいましたね\nでも、調整は成功すると信じて\n頑張りましょう"
+          "title": "PC09_N002_C04",
+          "text": "�v���A���s�����Ⴂ�܂�����\n�ł��A�����͐�������ƐM����\n�撣��܂��傤"
         },
         {
-          "index": 10,
-          "name": "PC09_N003_C04",
-          "text": "計測も無事終了\nこれなら調整も問題なさそうです\n"
+          "title": "PC09_N003_C04",
+          "text": "�v���������I��\n����Ȃ璲�������Ȃ������ł�\n"
         },
         {
-          "index": 11,
-          "name": "PC09_N004_C04",
-          "text": "流石の計測技術\n先輩のおかげで計測は問題無いし\nこのまま調整もバッチリお願いしますね"
+          "title": "PC09_N004_C04",
+          "text": "���΂̌v���Z�p\n��y�̂������Ōv���͖�薳����\n���̂܂ܒ������o�b�`�����肢���܂���"
         },
         {
-          "index": 12,
-          "name": "PC07_N005_C04",
-          "text": "調整、失敗ですね\n\n"
+          "title": "PC07_N005_C04",
+          "text": "�����A���s�ł���\n\n"
         },
         {
-          "index": 13,
-          "name": "PC07_N006_C04",
-          "text": "何か、普通ですね\n次に期待……かな？\n"
+          "title": "PC07_N006_C04",
+          "text": "�����A���ʂł���\n���Ɋ��ҁc�c���ȁH\n"
         },
         {
-          "index": 14,
-          "name": "PC07_N007_C04",
-          "text": "良い調整ですね\nチョッと、動作確認してきますねー\n"
+          "title": "PC07_N007_C04",
+          "text": "�ǂ������ł���\n�`���b�ƁA����m�F���Ă��܂��ˁ[\n"
         },
         {
-          "index": 15,
-          "name": "PC07_N008_C04",
-          "text": "これは驚きの調整結果です\n先輩って、思った以上にテクニシャン？\n"
+          "title": "PC07_N008_C04",
+          "text": "����͋����̒������ʂł�\n��y���āA�v�����ȏ�Ƀe�N�j�V�����H\n"
         },
         {
-          "index": 16,
-          "name": "PC08_N005_C04",
-          "text": "失敗することもあると思います\n次は成功させましょー\n"
+          "title": "PC08_N005_C04",
+          "text": "���s���邱�Ƃ�����Ǝv���܂�\n���͐��������܂���[\n"
         },
         {
-          "index": 17,
-          "name": "PC08_N006_C04",
-          "text": "仕上げは、まあまあってところ？\n一緒に動作確認に行っきましょー\n"
+          "title": "PC08_N006_C04",
+          "text": "�d�グ�́A�܂��܂����ĂƂ���H\n�ꏏ�ɓ���m�F�ɍs�����܂���[\n"
         },
         {
-          "index": 18,
-          "name": "PC08_N007_C04",
-          "text": "調整技術も見事ですねー\nなかなかの出来映えだと思いますよ\n"
+          "title": "PC08_N007_C04",
+          "text": "�����Z�p�������ł��ˁ[\n�Ȃ��Ȃ��̏o���f�����Ǝv���܂���\n"
         },
         {
-          "index": 19,
-          "name": "PC08_N008_C04",
-          "text": "素晴らしい腕前ですね\n先輩の調整、気に入りましたから\n次回もよろしくお願いしまーす"
+          "title": "PC08_N008_C04",
+          "text": "�f���炵���r�O�ł���\n��y�̒����A�C�ɓ���܂�������\n�������낵�����肢���܁[��"
         },
         {
-          "index": 20,
-          "name": "PC09_N005_C04",
-          "text": "失敗は成功のもと\n次の調整は成功間違い無し！\n"
+          "title": "PC09_N005_C04",
+          "text": "���s�͐����̂���\n���̒����͐����ԈႢ�����I\n"
         },
         {
-          "index": 21,
-          "name": "PC09_N006_C04",
-          "text": "良い仕上がりです\nチョッと試したいんで\n確認に付き合ってくださいね、先輩"
+          "title": "PC09_N006_C04",
+          "text": "�ǂ��d�オ��ł�\n�`���b�Ǝ����������\n�m�F�ɕt�������Ă��������ˁA��y"
         },
         {
-          "index": 22,
-          "name": "PC09_N007_C04",
-          "text": "特化並の見事な仕上がり\n今後の調整は\n先輩を指名させて貰おうかな～"
+          "title": "PC09_N007_C04",
+          "text": "�������̌����Ȏd�オ��\n����̒�����\n��y���w�������ĖႨ�����ȁ`"
         },
         {
-          "index": 23,
-          "name": "PC09_N008_C04",
-          "text": "ホント、素晴らしい腕前！\n千葉家の専属エンジニアになりませんか\n先輩？"
+          "title": "PC09_N008_C04",
+          "text": "�z���g�A�f���炵���r�O�I\n��t�Ƃ̐ꑮ�G���W�j�A�ɂȂ�܂���\n��y�H"
         }
       ]
     },
     {
       "id": 23,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "PC07_N001_C04",
-          "text": "通常計測だけで良いと思いますよ\nこのままで計測しちゃいましょー！\n"
+          "title": "PC07_N001_C04",
+          "text": "�ʏ�v�������ŗǂ��Ǝv���܂���\n���̂܂܂Ōv�������Ⴂ�܂���[�I\n"
         },
         {
-          "index": 1,
-          "name": "PC08_N001_C04",
-          "text": "そこまでは大げさにしなくても……\nでも、計測の為には仕方ないかな\n準備してくるんで、待っててください"
+          "title": "PC08_N001_C04",
+          "text": "�����܂ł͑傰���ɂ��Ȃ��Ă��c�c\n�ł��A�v���ׂ̈ɂ͎d���Ȃ�����\n�������Ă����ŁA�҂��ĂĂ�������"
         },
         {
-          "index": 2,
-          "name": "PC09_N001_C04",
-          "text": "そうですね、先輩と話していると\n精密計測が必要な気がしてきた……\n了解、すぐ着替えてきます"
+          "title": "PC09_N001_C04",
+          "text": "�����ł��ˁA��y�Ƙb���Ă����\n�����v�����K�v�ȋC�����Ă����c�c\n�����A�������ւ��Ă��܂�"
         },
         {
-          "index": 3,
-          "name": "PC07_N002_C04",
-          "text": "計測は失敗でしたね\n\n"
+          "title": "PC07_N002_C04",
+          "text": "�v���͎��s�ł�����\n\n"
         },
         {
-          "index": 4,
-          "name": "PC07_N003_C04",
-          "text": "計測無事完了！\n調整もお願いしまーす\n"
+          "title": "PC07_N003_C04",
+          "text": "�v�����������I\n���������肢���܁[��\n"
         },
         {
-          "index": 5,
-          "name": "PC07_N004_C04",
-          "text": "凄いですね先輩\nこの良い流れに乗って\n調整も良い結果期待してますよ"
+          "title": "PC07_N004_C04",
+          "text": "�����ł��ː�y\n���̗ǂ�����ɏ����\n�������ǂ����ʊ��҂��Ă܂���"
         },
         {
-          "index": 6,
-          "name": "PC08_N002_C04",
-          "text": "失敗ですねぇ\n残念な結果だったけど\n次、頑張りましょう！"
+          "title": "PC08_N002_C04",
+          "text": "���s�ł��˂�\n�c�O�Ȍ��ʂ���������\n���A�撣��܂��傤�I"
         },
         {
-          "index": 7,
-          "name": "PC08_N003_C04",
-          "text": "先輩の計測にも慣れてきたかな？\n調整もこの調子で行きたいです\n"
+          "title": "PC08_N003_C04",
+          "text": "��y�̌v���ɂ�����Ă������ȁH\n���������̒��q�ōs�������ł�\n"
         },
         {
-          "index": 8,
-          "name": "PC08_N004_C04",
-          "text": "見事な計測結果ですね\nこのまま調整の成功も\n期待したいです！"
+          "title": "PC08_N004_C04",
+          "text": "�����Ȍv�����ʂł���\n���̂܂ܒ����̐�����\n���҂������ł��I"
         },
         {
-          "index": 9,
-          "name": "PC09_N002_C04",
-          "text": "計測、失敗しちゃいましたね\nでも、調整は成功すると信じて\n頑張りましょう"
+          "title": "PC09_N002_C04",
+          "text": "�v���A���s�����Ⴂ�܂�����\n�ł��A�����͐�������ƐM����\n�撣��܂��傤"
         },
         {
-          "index": 10,
-          "name": "PC09_N003_C04",
-          "text": "計測も無事終了\nこれなら調整も問題なさそうです\n"
+          "title": "PC09_N003_C04",
+          "text": "�v���������I��\n����Ȃ璲�������Ȃ������ł�\n"
         },
         {
-          "index": 11,
-          "name": "PC09_N004_C04",
-          "text": "流石の計測技術\n先輩のおかげで計測は問題無いし\nこのまま調整もバッチリお願いしますね"
+          "title": "PC09_N004_C04",
+          "text": "���΂̌v���Z�p\n��y�̂������Ōv���͖�薳����\n���̂܂ܒ������o�b�`�����肢���܂���"
         },
         {
-          "index": 12,
-          "name": "PC07_N005_C04",
-          "text": "調整、失敗ですね\n\n"
+          "title": "PC07_N005_C04",
+          "text": "�����A���s�ł���\n\n"
         },
         {
-          "index": 13,
-          "name": "PC07_N006_C04",
-          "text": "何か、普通ですね\n次に期待……かな？\n"
+          "title": "PC07_N006_C04",
+          "text": "�����A���ʂł���\n���Ɋ��ҁc�c���ȁH\n"
         },
         {
-          "index": 14,
-          "name": "PC07_N007_C04",
-          "text": "良い調整ですね\nチョッと、動作確認してきますねー\n"
+          "title": "PC07_N007_C04",
+          "text": "�ǂ������ł���\n�`���b�ƁA����m�F���Ă��܂��ˁ[\n"
         },
         {
-          "index": 15,
-          "name": "PC07_N008_C04",
-          "text": "これは驚きの調整結果です\n先輩って、思った以上にテクニシャン？\n"
+          "title": "PC07_N008_C04",
+          "text": "����͋����̒������ʂł�\n��y���āA�v�����ȏ�Ƀe�N�j�V�����H\n"
         },
         {
-          "index": 16,
-          "name": "PC08_N005_C04",
-          "text": "失敗することもあると思います\n次は成功させましょー\n"
+          "title": "PC08_N005_C04",
+          "text": "���s���邱�Ƃ�����Ǝv���܂�\n���͐��������܂���[\n"
         },
         {
-          "index": 17,
-          "name": "PC08_N006_C04",
-          "text": "仕上げは、まあまあってところ？\n一緒に動作確認に行っきましょー\n"
+          "title": "PC08_N006_C04",
+          "text": "�d�グ�́A�܂��܂����ĂƂ���H\n�ꏏ�ɓ���m�F�ɍs�����܂���[\n"
         },
         {
-          "index": 18,
-          "name": "PC08_N007_C04",
-          "text": "調整技術も見事ですねー\nなかなかの出来映えだと思いますよ\n"
+          "title": "PC08_N007_C04",
+          "text": "�����Z�p�������ł��ˁ[\n�Ȃ��Ȃ��̏o���f�����Ǝv���܂���\n"
         },
         {
-          "index": 19,
-          "name": "PC08_N008_C04",
-          "text": "素晴らしい腕前ですね\n先輩の調整、気に入りましたから\n次回もよろしくお願いしまーす"
+          "title": "PC08_N008_C04",
+          "text": "�f���炵���r�O�ł���\n��y�̒����A�C�ɓ���܂�������\n�������낵�����肢���܁[��"
         },
         {
-          "index": 20,
-          "name": "PC09_N005_C04",
-          "text": "失敗は成功のもと\n次の調整は成功間違い無し！\n"
+          "title": "PC09_N005_C04",
+          "text": "���s�͐����̂���\n���̒����͐����ԈႢ�����I\n"
         },
         {
-          "index": 21,
-          "name": "PC09_N006_C04",
-          "text": "良い仕上がりです\nチョッと試したいんで\n確認に付き合ってくださいね、先輩"
+          "title": "PC09_N006_C04",
+          "text": "�ǂ��d�オ��ł�\n�`���b�Ǝ����������\n�m�F�ɕt�������Ă��������ˁA��y"
         },
         {
-          "index": 22,
-          "name": "PC09_N007_C04",
-          "text": "特化並の見事な仕上がり\n今後の調整は\n先輩を指名させて貰おうかな～"
+          "title": "PC09_N007_C04",
+          "text": "�������̌����Ȏd�オ��\n����̒�����\n��y���w�������ĖႨ�����ȁ`"
         },
         {
-          "index": 23,
-          "name": "PC09_N008_C04",
-          "text": "ホント、素晴らしい腕前！\n千葉家の専属エンジニアになりませんか\n先輩？"
+          "title": "PC09_N008_C04",
+          "text": "�z���g�A�f���炵���r�O�I\n��t�Ƃ̐ꑮ�G���W�j�A�ɂȂ�܂���\n��y�H"
         }
       ]
     },
     {
       "id": 29,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "PC07_N001_C04",
-          "text": "通常計測だけで良いと思いますよ\nこのままで計測しちゃいましょー！\n"
+          "title": "PC07_N001_C04",
+          "text": "�ʏ�v�������ŗǂ��Ǝv���܂���\n���̂܂܂Ōv�������Ⴂ�܂���[�I\n"
         },
         {
-          "index": 1,
-          "name": "PC08_N001_C04",
-          "text": "そこまでは大げさにしなくても……\nでも、計測の為には仕方ないかな\n準備してくるんで、待っててください"
+          "title": "PC08_N001_C04",
+          "text": "�����܂ł͑傰���ɂ��Ȃ��Ă��c�c\n�ł��A�v���ׂ̈ɂ͎d���Ȃ�����\n�������Ă����ŁA�҂��ĂĂ�������"
         },
         {
-          "index": 2,
-          "name": "PC09_N001_C04",
-          "text": "そうですね、先輩と話していると\n精密計測が必要な気がしてきた……\n了解、すぐ着替えてきます"
+          "title": "PC09_N001_C04",
+          "text": "�����ł��ˁA��y�Ƙb���Ă����\n�����v�����K�v�ȋC�����Ă����c�c\n�����A�������ւ��Ă��܂�"
         },
         {
-          "index": 3,
-          "name": "PC07_N002_C04",
-          "text": "計測は失敗でしたね\n\n"
+          "title": "PC07_N002_C04",
+          "text": "�v���͎��s�ł�����\n\n"
         },
         {
-          "index": 4,
-          "name": "PC07_N003_C04",
-          "text": "計測無事完了！\n調整もお願いしまーす\n"
+          "title": "PC07_N003_C04",
+          "text": "�v�����������I\n���������肢���܁[��\n"
         },
         {
-          "index": 5,
-          "name": "PC07_N004_C04",
-          "text": "凄いですね先輩\nこの良い流れに乗って\n調整も良い結果期待してますよ"
+          "title": "PC07_N004_C04",
+          "text": "�����ł��ː�y\n���̗ǂ�����ɏ����\n�������ǂ����ʊ��҂��Ă܂���"
         },
         {
-          "index": 6,
-          "name": "PC08_N002_C04",
-          "text": "失敗ですねぇ\n残念な結果だったけど\n次、頑張りましょう！"
+          "title": "PC08_N002_C04",
+          "text": "���s�ł��˂�\n�c�O�Ȍ��ʂ���������\n���A�撣��܂��傤�I"
         },
         {
-          "index": 7,
-          "name": "PC08_N003_C04",
-          "text": "先輩の計測にも慣れてきたかな？\n調整もこの調子で行きたいです\n"
+          "title": "PC08_N003_C04",
+          "text": "��y�̌v���ɂ�����Ă������ȁH\n���������̒��q�ōs�������ł�\n"
         },
         {
-          "index": 8,
-          "name": "PC08_N004_C04",
-          "text": "見事な計測結果ですね\nこのまま調整の成功も\n期待したいです！"
+          "title": "PC08_N004_C04",
+          "text": "�����Ȍv�����ʂł���\n���̂܂ܒ����̐�����\n���҂������ł��I"
         },
         {
-          "index": 9,
-          "name": "PC09_N002_C04",
-          "text": "計測、失敗しちゃいましたね\nでも、調整は成功すると信じて\n頑張りましょう"
+          "title": "PC09_N002_C04",
+          "text": "�v���A���s�����Ⴂ�܂�����\n�ł��A�����͐�������ƐM����\n�撣��܂��傤"
         },
         {
-          "index": 10,
-          "name": "PC09_N003_C04",
-          "text": "計測も無事終了\nこれなら調整も問題なさそうです\n"
+          "title": "PC09_N003_C04",
+          "text": "�v���������I��\n����Ȃ璲�������Ȃ������ł�\n"
         },
         {
-          "index": 11,
-          "name": "PC09_N004_C04",
-          "text": "流石の計測技術\n先輩のおかげで計測は問題無いし\nこのまま調整もバッチリお願いしますね"
+          "title": "PC09_N004_C04",
+          "text": "���΂̌v���Z�p\n��y�̂������Ōv���͖�薳����\n���̂܂ܒ������o�b�`�����肢���܂���"
         },
         {
-          "index": 12,
-          "name": "PC07_N005_C04",
-          "text": "調整、失敗ですね\n\n"
+          "title": "PC07_N005_C04",
+          "text": "�����A���s�ł���\n\n"
         },
         {
-          "index": 13,
-          "name": "PC07_N006_C04",
-          "text": "何か、普通ですね\n次に期待……かな？\n"
+          "title": "PC07_N006_C04",
+          "text": "�����A���ʂł���\n���Ɋ��ҁc�c���ȁH\n"
         },
         {
-          "index": 14,
-          "name": "PC07_N007_C04",
-          "text": "良い調整ですね\nチョッと、動作確認してきますねー\n"
+          "title": "PC07_N007_C04",
+          "text": "�ǂ������ł���\n�`���b�ƁA����m�F���Ă��܂��ˁ[\n"
         },
         {
-          "index": 15,
-          "name": "PC07_N008_C04",
-          "text": "これは驚きの調整結果です\n先輩って、思った以上にテクニシャン？\n"
+          "title": "PC07_N008_C04",
+          "text": "����͋����̒������ʂł�\n��y���āA�v�����ȏ�Ƀe�N�j�V�����H\n"
         },
         {
-          "index": 16,
-          "name": "PC08_N005_C04",
-          "text": "失敗することもあると思います\n次は成功させましょー\n"
+          "title": "PC08_N005_C04",
+          "text": "���s���邱�Ƃ�����Ǝv���܂�\n���͐��������܂���[\n"
         },
         {
-          "index": 17,
-          "name": "PC08_N006_C04",
-          "text": "仕上げは、まあまあってところ？\n一緒に動作確認に行っきましょー\n"
+          "title": "PC08_N006_C04",
+          "text": "�d�グ�́A�܂��܂����ĂƂ���H\n�ꏏ�ɓ���m�F�ɍs�����܂���[\n"
         },
         {
-          "index": 18,
-          "name": "PC08_N007_C04",
-          "text": "調整技術も見事ですねー\nなかなかの出来映えだと思いますよ\n"
+          "title": "PC08_N007_C04",
+          "text": "�����Z�p�������ł��ˁ[\n�Ȃ��Ȃ��̏o���f�����Ǝv���܂���\n"
         },
         {
-          "index": 19,
-          "name": "PC08_N008_C04",
-          "text": "素晴らしい腕前ですね\n先輩の調整、気に入りましたから\n次回もよろしくお願いしまーす"
+          "title": "PC08_N008_C04",
+          "text": "�f���炵���r�O�ł���\n��y�̒����A�C�ɓ���܂�������\n�������낵�����肢���܁[��"
         },
         {
-          "index": 20,
-          "name": "PC09_N005_C04",
-          "text": "失敗は成功のもと\n次の調整は成功間違い無し！\n"
+          "title": "PC09_N005_C04",
+          "text": "���s�͐����̂���\n���̒����͐����ԈႢ�����I\n"
         },
         {
-          "index": 21,
-          "name": "PC09_N006_C04",
-          "text": "良い仕上がりです\nチョッと試したいんで\n確認に付き合ってくださいね、先輩"
+          "title": "PC09_N006_C04",
+          "text": "�ǂ��d�オ��ł�\n�`���b�Ǝ����������\n�m�F�ɕt�������Ă��������ˁA��y"
         },
         {
-          "index": 22,
-          "name": "PC09_N007_C04",
-          "text": "特化並の見事な仕上がり\n今後の調整は\n先輩を指名させて貰おうかな～"
+          "title": "PC09_N007_C04",
+          "text": "�������̌����Ȏd�オ��\n����̒�����\n��y���w�������ĖႨ�����ȁ`"
         },
         {
-          "index": 23,
-          "name": "PC09_N008_C04",
-          "text": "ホント、素晴らしい腕前！\n千葉家の専属エンジニアになりませんか\n先輩？"
+          "title": "PC09_N008_C04",
+          "text": "�z���g�A�f���炵���r�O�I\n��t�Ƃ̐ꑮ�G���W�j�A�ɂȂ�܂���\n��y�H"
         }
       ]
     },
     {
       "id": 31,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "PC22_N001_C04",
-          "text": "結構です\n今回は通常計測だけにしてください\n"
+          "title": "PC22_N001_C04",
+          "text": "���\�ł�\n����͒ʏ�v�������ɂ��Ă�������\n"
         },
         {
-          "index": 1,
-          "name": "PC23_N001_C04",
-          "text": "……分かりました\nすっごい気が進まないけど\n準備してきます"
+          "title": "PC23_N001_C04",
+          "text": "�c�c������܂���\n���������C���i�܂Ȃ�����\n�������Ă��܂�"
         },
         {
-          "index": 2,
-          "name": "PC24_N001_C04",
-          "text": "今回は了解しました\n着替えてくるので\n準備を進めておいてください"
+          "title": "PC24_N001_C04",
+          "text": "����͗������܂���\n���ւ��Ă���̂�\n������i�߂Ă����Ă�������"
         },
         {
-          "index": 3,
-          "name": "PC22_N002_C04",
-          "text": "失敗ですか……\nまあ、そんなもんですよね\n"
+          "title": "PC22_N002_C04",
+          "text": "���s�ł����c�c\n�܂��A����Ȃ���ł����\n"
         },
         {
-          "index": 4,
-          "name": "PC22_N003_C04",
-          "text": "普通だなー\n調整もきっと普通でしょうが\nよ・ろ・し・く、お願いします"
+          "title": "PC22_N003_C04",
+          "text": "���ʂ��ȁ[\n�����������ƕ��ʂł��傤��\n��E��E���E���A���肢���܂�"
         },
         {
-          "index": 5,
-          "name": "PC22_N004_C04",
-          "text": "……驚いたわー\n渡辺先輩はエンジニアの真似事も\n出来るんですね"
+          "title": "PC22_N004_C04",
+          "text": "�c�c��������[\n�n�Ӑ�y�̓G���W�j�A�̐^������\n�o�����ł���"
         },
         {
-          "index": 6,
-          "name": "PC23_N002_C04",
-          "text": "失敗ね……\nチョッとは期待してたんだけどね……\n"
+          "title": "PC23_N002_C04",
+          "text": "���s�ˁc�c\n�`���b�Ƃ͊��҂��Ă��񂾂��ǂˁc�c\n"
         },
         {
-          "index": 7,
-          "name": "PC23_N003_C04",
-          "text": "計測技術も上がってきてる？\n……まぐれ？\nたまたま上手く行ったのかもしれない"
+          "title": "PC23_N003_C04",
+          "text": "�v���Z�p���オ���Ă��Ă�H\n�c�c�܂���H\n���܂��܏�肭�s�����̂�������Ȃ�"
         },
         {
-          "index": 8,
-          "name": "PC23_N004_C04",
-          "text": "……正直、見事です\nまあ、この調子で進めてみたら\n調整も成功するかもしれませんね"
+          "title": "PC23_N004_C04",
+          "text": "�c�c�����A�����ł�\n�܂��A���̒��q�Ői�߂Ă݂���\n�������������邩������܂����"
         },
         {
-          "index": 9,
-          "name": "PC24_N002_C04",
-          "text": "失敗……\nまあ、これだけ回数繰り返していれば\n調子の悪い時もあるかもね"
+          "title": "PC24_N002_C04",
+          "text": "���s�c�c\n�܂��A���ꂾ���񐔌J��Ԃ��Ă����\n���q�̈����������邩����"
         },
         {
-          "index": 10,
-          "name": "PC24_N003_C04",
-          "text": "計測技術はかなりの安定度\n不本意ながら、計測にも慣れてきたかも\n"
+          "title": "PC24_N003_C04",
+          "text": "�v���Z�p�͂��Ȃ�̈���x\n�s�{�ӂȂ���A�v���ɂ�����Ă�������\n"
         },
         {
-          "index": 11,
-          "name": "PC24_N004_C04",
-          "text": "むむむ、予想以上の計測結果ね\nまさかここまでの腕前になるとは……\n"
+          "title": "PC24_N004_C04",
+          "text": "�ނނށA�\�z�ȏ�̌v�����ʂ�\n�܂��������܂ł̘r�O�ɂȂ�Ƃ́c�c\n"
         },
         {
-          "index": 12,
-          "name": "PC22_N005_C04",
-          "text": "失敗ね\nしっかし、酷い調整ね\n"
+          "title": "PC22_N005_C04",
+          "text": "���s��\n���������A����������\n"
         },
         {
-          "index": 13,
-          "name": "PC22_N006_C04",
-          "text": "平凡な調整ね\nチョッと期待外れだわー\n"
+          "title": "PC22_N006_C04",
+          "text": "���}�Ȓ�����\n�`���b�Ɗ��ҊO�ꂾ��[\n"
         },
         {
-          "index": 14,
-          "name": "PC22_N007_C04",
-          "text": "結構良い仕上がり\nでも、動作に問題アリかもしれないし\nしっかり確認しましょう"
+          "title": "PC22_N007_C04",
+          "text": "���\�ǂ��d�オ��\n�ł��A����ɖ��A����������Ȃ���\n��������m�F���܂��傤"
         },
         {
-          "index": 15,
-          "name": "PC22_N008_C04",
-          "text": "正直、驚いたわ\nここまで上手に調整できるなら\nエンジニアになったら良いのでは？"
+          "title": "PC22_N008_C04",
+          "text": "�����A��������\n�����܂ŏ��ɒ����ł���Ȃ�\n�G���W�j�A�ɂȂ�����ǂ��̂ł́H"
         },
         {
-          "index": 16,
-          "name": "PC23_N005_C04",
-          "text": "失敗することもあるわね\nまあ、いくら何でも\n連続で失敗なんてしないでしょ"
+          "title": "PC23_N005_C04",
+          "text": "���s���邱�Ƃ�������\n�܂��A�����牽�ł�\n�A���Ŏ��s�Ȃ�Ă��Ȃ��ł���"
         },
         {
-          "index": 17,
-          "name": "PC23_N006_C04",
-          "text": "まあまあの仕上がりね\n動作も問題無さそうだけど\n確認してみないと、まだ分かんないわ"
+          "title": "PC23_N006_C04",
+          "text": "�܂��܂��̎d�オ���\n�������薳������������\n�m�F���Ă݂Ȃ��ƁA�܂�������Ȃ���"
         },
         {
-          "index": 18,
-          "name": "PC23_N007_C04",
-          "text": "なかなかの仕上がり\n意外に多才よね、あんたって\n"
+          "title": "PC23_N007_C04",
+          "text": "�Ȃ��Ȃ��̎d�オ��\n�ӊO�ɑ��˂�ˁA���񂽂���\n"
         },
         {
-          "index": 19,
-          "name": "PC23_N008_C04",
-          "text": "うう、チョッと凄いと思っちゃった……\n調整結果も悪くないし\n……不本意だけど、次もよろしく"
+          "title": "PC23_N008_C04",
+          "text": "�����A�`���b�Ɛ����Ǝv����������c�c\n�������ʂ������Ȃ���\n�c�c�s�{�ӂ����ǁA������낵��"
         },
         {
-          "index": 20,
-          "name": "PC24_N005_C04",
-          "text": "失敗したけど、可能性は感じた……かも？\n次は成功してよね\n"
+          "title": "PC24_N005_C04",
+          "text": "���s�������ǁA�\���͊������c�c�����H\n���͐������Ă��\n"
         },
         {
-          "index": 21,
-          "name": "PC24_N006_C04",
-          "text": "良い仕上がり\nチョッと確認に付き合ってよ\nあんたなら全力でも大丈夫でしょ"
+          "title": "PC24_N006_C04",
+          "text": "�ǂ��d�オ��\n�`���b�Ɗm�F�ɕt�������Ă�\n���񂽂Ȃ�S�͂ł����v�ł���"
         },
         {
-          "index": 22,
-          "name": "PC24_N007_C04",
-          "text": "むむむ、見事な仕上がり\n……今後、もし誰もいなかったら\n調整はあんたを指名するかもね"
+          "title": "PC24_N007_C04",
+          "text": "�ނނށA�����Ȏd�オ��\n�c�c����A�����N�����Ȃ�������\n�����͂��񂽂��w�����邩����"
         },
         {
-          "index": 23,
-          "name": "PC24_N008_C04",
-          "text": "正直、渡辺先輩の腕前には脱帽よ\n兄貴とのことは、認められないけど\nエンジニアとしてなら千葉家に来ても良いわ"
+          "title": "PC24_N008_C04",
+          "text": "�����A�n�Ӑ�y�̘r�O�ɂ͒E�X��\n�Z�M�Ƃ̂��Ƃ́A�F�߂��Ȃ�����\n�G���W�j�A�Ƃ��ĂȂ��t�Ƃɗ��Ă��ǂ���"
         }
       ]
     },
     {
       "id": 34,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "PC07_N001_C04",
-          "text": "通常計測だけで良いと思いますよ\nこのままで計測しちゃいましょー！\n"
+          "title": "PC07_N001_C04",
+          "text": "�ʏ�v�������ŗǂ��Ǝv���܂���\n���̂܂܂Ōv�������Ⴂ�܂���[�I\n"
         },
         {
-          "index": 1,
-          "name": "PC08_N001_C04",
-          "text": "そこまでは大げさにしなくても……\nでも、計測の為には仕方ないかな\n準備してくるんで、待っててください"
+          "title": "PC08_N001_C04",
+          "text": "�����܂ł͑傰���ɂ��Ȃ��Ă��c�c\n�ł��A�v���ׂ̈ɂ͎d���Ȃ�����\n�������Ă����ŁA�҂��ĂĂ�������"
         },
         {
-          "index": 2,
-          "name": "PC09_N001_C04",
-          "text": "そうですね、先輩と話していると\n精密計測が必要な気がしてきた……\n了解、すぐ着替えてきます"
+          "title": "PC09_N001_C04",
+          "text": "�����ł��ˁA��y�Ƙb���Ă����\n�����v�����K�v�ȋC�����Ă����c�c\n�����A�������ւ��Ă��܂�"
         },
         {
-          "index": 3,
-          "name": "PC07_N002_C04",
-          "text": "計測は失敗でしたね\n\n"
+          "title": "PC07_N002_C04",
+          "text": "�v���͎��s�ł�����\n\n"
         },
         {
-          "index": 4,
-          "name": "PC07_N003_C04",
-          "text": "計測無事完了！\n調整もお願いしまーす\n"
+          "title": "PC07_N003_C04",
+          "text": "�v�����������I\n���������肢���܁[��\n"
         },
         {
-          "index": 5,
-          "name": "PC07_N004_C04",
-          "text": "凄いですね先輩\nこの良い流れに乗って\n調整も良い結果期待してますよ"
+          "title": "PC07_N004_C04",
+          "text": "�����ł��ː�y\n���̗ǂ�����ɏ����\n�������ǂ����ʊ��҂��Ă܂���"
         },
         {
-          "index": 6,
-          "name": "PC08_N002_C04",
-          "text": "失敗ですねぇ\n残念な結果だったけど\n次、頑張りましょう！"
+          "title": "PC08_N002_C04",
+          "text": "���s�ł��˂�\n�c�O�Ȍ��ʂ���������\n���A�撣��܂��傤�I"
         },
         {
-          "index": 7,
-          "name": "PC08_N003_C04",
-          "text": "先輩の計測にも慣れてきたかな？\n調整もこの調子で行きたいです\n"
+          "title": "PC08_N003_C04",
+          "text": "��y�̌v���ɂ�����Ă������ȁH\n���������̒��q�ōs�������ł�\n"
         },
         {
-          "index": 8,
-          "name": "PC08_N004_C04",
-          "text": "見事な計測結果ですね\nこのまま調整の成功も\n期待したいです！"
+          "title": "PC08_N004_C04",
+          "text": "�����Ȍv�����ʂł���\n���̂܂ܒ����̐�����\n���҂������ł��I"
         },
         {
-          "index": 9,
-          "name": "PC09_N002_C04",
-          "text": "計測、失敗しちゃいましたね\nでも、調整は成功すると信じて\n頑張りましょう"
+          "title": "PC09_N002_C04",
+          "text": "�v���A���s�����Ⴂ�܂�����\n�ł��A�����͐�������ƐM����\n�撣��܂��傤"
         },
         {
-          "index": 10,
-          "name": "PC09_N003_C04",
-          "text": "計測も無事終了\nこれなら調整も問題なさそうです\n"
+          "title": "PC09_N003_C04",
+          "text": "�v���������I��\n����Ȃ璲�������Ȃ������ł�\n"
         },
         {
-          "index": 11,
-          "name": "PC09_N004_C04",
-          "text": "流石の計測技術\n先輩のおかげで計測は問題無いし\nこのまま調整もバッチリお願いしますね"
+          "title": "PC09_N004_C04",
+          "text": "���΂̌v���Z�p\n��y�̂������Ōv���͖�薳����\n���̂܂ܒ������o�b�`�����肢���܂���"
         },
         {
-          "index": 12,
-          "name": "PC07_N005_C04",
-          "text": "調整、失敗ですね\n\n"
+          "title": "PC07_N005_C04",
+          "text": "�����A���s�ł���\n\n"
         },
         {
-          "index": 13,
-          "name": "PC07_N006_C04",
-          "text": "何か、普通ですね\n次に期待……かな？\n"
+          "title": "PC07_N006_C04",
+          "text": "�����A���ʂł���\n���Ɋ��ҁc�c���ȁH\n"
         },
         {
-          "index": 14,
-          "name": "PC07_N007_C04",
-          "text": "良い調整ですね\nチョッと、動作確認してきますねー\n"
+          "title": "PC07_N007_C04",
+          "text": "�ǂ������ł���\n�`���b�ƁA����m�F���Ă��܂��ˁ[\n"
         },
         {
-          "index": 15,
-          "name": "PC07_N008_C04",
-          "text": "これは驚きの調整結果です\n先輩って、思った以上にテクニシャン？\n"
+          "title": "PC07_N008_C04",
+          "text": "����͋����̒������ʂł�\n��y���āA�v�����ȏ�Ƀe�N�j�V�����H\n"
         },
         {
-          "index": 16,
-          "name": "PC08_N005_C04",
-          "text": "失敗することもあると思います\n次は成功させましょー\n"
+          "title": "PC08_N005_C04",
+          "text": "���s���邱�Ƃ�����Ǝv���܂�\n���͐��������܂���[\n"
         },
         {
-          "index": 17,
-          "name": "PC08_N006_C04",
-          "text": "仕上げは、まあまあってところ？\n一緒に動作確認に行っきましょー\n"
+          "title": "PC08_N006_C04",
+          "text": "�d�グ�́A�܂��܂����ĂƂ���H\n�ꏏ�ɓ���m�F�ɍs�����܂���[\n"
         },
         {
-          "index": 18,
-          "name": "PC08_N007_C04",
-          "text": "調整技術も見事ですねー\nなかなかの出来映えだと思いますよ\n"
+          "title": "PC08_N007_C04",
+          "text": "�����Z�p�������ł��ˁ[\n�Ȃ��Ȃ��̏o���f�����Ǝv���܂���\n"
         },
         {
-          "index": 19,
-          "name": "PC08_N008_C04",
-          "text": "素晴らしい腕前ですね\n先輩の調整、気に入りましたから\n次回もよろしくお願いしまーす"
+          "title": "PC08_N008_C04",
+          "text": "�f���炵���r�O�ł���\n��y�̒����A�C�ɓ���܂�������\n�������낵�����肢���܁[��"
         },
         {
-          "index": 20,
-          "name": "PC09_N005_C04",
-          "text": "失敗は成功のもと\n次の調整は成功間違い無し！\n"
+          "title": "PC09_N005_C04",
+          "text": "���s�͐����̂���\n���̒����͐����ԈႢ�����I\n"
         },
         {
-          "index": 21,
-          "name": "PC09_N006_C04",
-          "text": "良い仕上がりです\nチョッと試したいんで\n確認に付き合ってくださいね、先輩"
+          "title": "PC09_N006_C04",
+          "text": "�ǂ��d�オ��ł�\n�`���b�Ǝ����������\n�m�F�ɕt�������Ă��������ˁA��y"
         },
         {
-          "index": 22,
-          "name": "PC09_N007_C04",
-          "text": "特化並の見事な仕上がり\n今後の調整は\n先輩を指名させて貰おうかな～"
+          "title": "PC09_N007_C04",
+          "text": "�������̌����Ȏd�オ��\n����̒�����\n��y���w�������ĖႨ�����ȁ`"
         },
         {
-          "index": 23,
-          "name": "PC09_N008_C04",
-          "text": "ホント、素晴らしい腕前！\n千葉家の専属エンジニアになりませんか\n先輩？"
+          "title": "PC09_N008_C04",
+          "text": "�z���g�A�f���炵���r�O�I\n��t�Ƃ̐ꑮ�G���W�j�A�ɂȂ�܂���\n��y�H"
         }
       ]
     },
     {
       "id": 43,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "PC07_N001_C04",
-          "text": "通常計測だけで良いと思いますよ\nこのままで計測しちゃいましょー！\n"
+          "title": "PC07_N001_C04",
+          "text": "�ʏ�v�������ŗǂ��Ǝv���܂���\n���̂܂܂Ōv�������Ⴂ�܂���[�I\n"
         },
         {
-          "index": 1,
-          "name": "PC08_N001_C04",
-          "text": "そこまでは大げさにしなくても……\nでも、計測の為には仕方ないかな\n準備してくるんで、待っててください"
+          "title": "PC08_N001_C04",
+          "text": "�����܂ł͑傰���ɂ��Ȃ��Ă��c�c\n�ł��A�v���ׂ̈ɂ͎d���Ȃ�����\n�������Ă����ŁA�҂��ĂĂ�������"
         },
         {
-          "index": 2,
-          "name": "PC09_N001_C04",
-          "text": "そうですね、先輩と話していると\n精密計測が必要な気がしてきた……\n了解、すぐ着替えてきます"
+          "title": "PC09_N001_C04",
+          "text": "�����ł��ˁA��y�Ƙb���Ă����\n�����v�����K�v�ȋC�����Ă����c�c\n�����A�������ւ��Ă��܂�"
         },
         {
-          "index": 3,
-          "name": "PC07_N002_C04",
-          "text": "計測は失敗でしたね\n\n"
+          "title": "PC07_N002_C04",
+          "text": "�v���͎��s�ł�����\n\n"
         },
         {
-          "index": 4,
-          "name": "PC07_N003_C04",
-          "text": "計測無事完了！\n調整もお願いしまーす\n"
+          "title": "PC07_N003_C04",
+          "text": "�v�����������I\n���������肢���܁[��\n"
         },
         {
-          "index": 5,
-          "name": "PC07_N004_C04",
-          "text": "凄いですね先輩\nこの良い流れに乗って\n調整も良い結果期待してますよ"
+          "title": "PC07_N004_C04",
+          "text": "�����ł��ː�y\n���̗ǂ�����ɏ����\n�������ǂ����ʊ��҂��Ă܂���"
         },
         {
-          "index": 6,
-          "name": "PC08_N002_C04",
-          "text": "失敗ですねぇ\n残念な結果だったけど\n次、頑張りましょう！"
+          "title": "PC08_N002_C04",
+          "text": "���s�ł��˂�\n�c�O�Ȍ��ʂ���������\n���A�撣��܂��傤�I"
         },
         {
-          "index": 7,
-          "name": "PC08_N003_C04",
-          "text": "先輩の計測にも慣れてきたかな？\n調整もこの調子で行きたいです\n"
+          "title": "PC08_N003_C04",
+          "text": "��y�̌v���ɂ�����Ă������ȁH\n���������̒��q�ōs�������ł�\n"
         },
         {
-          "index": 8,
-          "name": "PC08_N004_C04",
-          "text": "見事な計測結果ですね\nこのまま調整の成功も\n期待したいです！"
+          "title": "PC08_N004_C04",
+          "text": "�����Ȍv�����ʂł���\n���̂܂ܒ����̐�����\n���҂������ł��I"
         },
         {
-          "index": 9,
-          "name": "PC09_N002_C04",
-          "text": "計測、失敗しちゃいましたね\nでも、調整は成功すると信じて\n頑張りましょう"
+          "title": "PC09_N002_C04",
+          "text": "�v���A���s�����Ⴂ�܂�����\n�ł��A�����͐�������ƐM����\n�撣��܂��傤"
         },
         {
-          "index": 10,
-          "name": "PC09_N003_C04",
-          "text": "計測も無事終了\nこれなら調整も問題なさそうです\n"
+          "title": "PC09_N003_C04",
+          "text": "�v���������I��\n����Ȃ璲�������Ȃ������ł�\n"
         },
         {
-          "index": 11,
-          "name": "PC09_N004_C04",
-          "text": "流石の計測技術\n先輩のおかげで計測は問題無いし\nこのまま調整もバッチリお願いしますね"
+          "title": "PC09_N004_C04",
+          "text": "���΂̌v���Z�p\n��y�̂������Ōv���͖�薳����\n���̂܂ܒ������o�b�`�����肢���܂���"
         },
         {
-          "index": 12,
-          "name": "PC07_N005_C04",
-          "text": "調整、失敗ですね\n\n"
+          "title": "PC07_N005_C04",
+          "text": "�����A���s�ł���\n\n"
         },
         {
-          "index": 13,
-          "name": "PC07_N006_C04",
-          "text": "何か、普通ですね\n次に期待……かな？\n"
+          "title": "PC07_N006_C04",
+          "text": "�����A���ʂł���\n���Ɋ��ҁc�c���ȁH\n"
         },
         {
-          "index": 14,
-          "name": "PC07_N007_C04",
-          "text": "良い調整ですね\nチョッと、動作確認してきますねー\n"
+          "title": "PC07_N007_C04",
+          "text": "�ǂ������ł���\n�`���b�ƁA����m�F���Ă��܂��ˁ[\n"
         },
         {
-          "index": 15,
-          "name": "PC07_N008_C04",
-          "text": "これは驚きの調整結果です\n先輩って、思った以上にテクニシャン？\n"
+          "title": "PC07_N008_C04",
+          "text": "����͋����̒������ʂł�\n��y���āA�v�����ȏ�Ƀe�N�j�V�����H\n"
         },
         {
-          "index": 16,
-          "name": "PC08_N005_C04",
-          "text": "失敗することもあると思います\n次は成功させましょー\n"
+          "title": "PC08_N005_C04",
+          "text": "���s���邱�Ƃ�����Ǝv���܂�\n���͐��������܂���[\n"
         },
         {
-          "index": 17,
-          "name": "PC08_N006_C04",
-          "text": "仕上げは、まあまあってところ？\n一緒に動作確認に行っきましょー\n"
+          "title": "PC08_N006_C04",
+          "text": "�d�グ�́A�܂��܂����ĂƂ���H\n�ꏏ�ɓ���m�F�ɍs�����܂���[\n"
         },
         {
-          "index": 18,
-          "name": "PC08_N007_C04",
-          "text": "調整技術も見事ですねー\nなかなかの出来映えだと思いますよ\n"
+          "title": "PC08_N007_C04",
+          "text": "�����Z�p�������ł��ˁ[\n�Ȃ��Ȃ��̏o���f�����Ǝv���܂���\n"
         },
         {
-          "index": 19,
-          "name": "PC08_N008_C04",
-          "text": "素晴らしい腕前ですね\n先輩の調整、気に入りましたから\n次回もよろしくお願いしまーす"
+          "title": "PC08_N008_C04",
+          "text": "�f���炵���r�O�ł���\n��y�̒����A�C�ɓ���܂�������\n�������낵�����肢���܁[��"
         },
         {
-          "index": 20,
-          "name": "PC09_N005_C04",
-          "text": "失敗は成功のもと\n次の調整は成功間違い無し！\n"
+          "title": "PC09_N005_C04",
+          "text": "���s�͐����̂���\n���̒����͐����ԈႢ�����I\n"
         },
         {
-          "index": 21,
-          "name": "PC09_N006_C04",
-          "text": "良い仕上がりです\nチョッと試したいんで\n確認に付き合ってくださいね、先輩"
+          "title": "PC09_N006_C04",
+          "text": "�ǂ��d�オ��ł�\n�`���b�Ǝ����������\n�m�F�ɕt�������Ă��������ˁA��y"
         },
         {
-          "index": 22,
-          "name": "PC09_N007_C04",
-          "text": "特化並の見事な仕上がり\n今後の調整は\n先輩を指名させて貰おうかな～"
+          "title": "PC09_N007_C04",
+          "text": "�������̌����Ȏd�オ��\n����̒�����\n��y���w�������ĖႨ�����ȁ`"
         },
         {
-          "index": 23,
-          "name": "PC09_N008_C04",
-          "text": "ホント、素晴らしい腕前！\n千葉家の専属エンジニアになりませんか\n先輩？"
+          "title": "PC09_N008_C04",
+          "text": "�z���g�A�f���炵���r�O�I\n��t�Ƃ̐ꑮ�G���W�j�A�ɂȂ�܂���\n��y�H"
         }
       ]
     },
     {
       "id": 51,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "PC01_N001_C04",
-          "text": "通常計測だけでイイでしょ？\n着替える必要ナシ！\n"
+          "title": "PC01_N001_C04",
+          "text": "�ʏ�v�������ŃC�C�ł���H\n���ւ���K�v�i�V�I\n"
         },
         {
-          "index": 1,
-          "name": "PC02_N001_C04",
-          "text": "チョッと大げさな気もするけど……\nまあ、今回はそっちの話に乗っておくわ\n準備してくるから、チョッと待って"
+          "title": "PC02_N001_C04",
+          "text": "�`���b�Ƒ傰���ȋC�����邯�ǁc�c\n�܂��A����͂������̘b�ɏ���Ă�����\n�������Ă��邩��A�`���b�Ƒ҂���"
         },
         {
-          "index": 2,
-          "name": "PC03_N001_C04",
-          "text": "そうだよねー\n精密計測する必要あるよね……\nうん、すぐに準備してくるわ"
+          "title": "PC03_N001_C04",
+          "text": "��������ˁ[\n�����v������K�v�����ˁc�c\n����A�����ɏ������Ă����"
         },
         {
-          "index": 3,
-          "name": "PC01_N002_C04",
-          "text": "計測、大丈夫？\n不安……\n"
+          "title": "PC01_N002_C04",
+          "text": "�v���A���v�H\n�s���c�c\n"
         },
         {
-          "index": 4,
-          "name": "PC01_N003_C04",
-          "text": "この調子だったら\n調整もいけるかな？\n"
+          "title": "PC01_N003_C04",
+          "text": "���̒��q��������\n�����������邩�ȁH\n"
         },
         {
-          "index": 5,
-          "name": "PC01_N004_C04",
-          "text": "ビックリ！\n結構やるじゃないの\nこの調子で調整もお願いね"
+          "title": "PC01_N004_C04",
+          "text": "�r�b�N���I\n���\��邶��Ȃ���\n���̒��q�Œ��������肢��"
         },
         {
-          "index": 6,
-          "name": "PC02_N002_C04",
-          "text": "うわぁ、失敗かぁー\nハイハイ、次回、頑張りましょう\n"
+          "title": "PC02_N002_C04",
+          "text": "���킟�A���s�����[\n�n�C�n�C�A����A�撣��܂��傤\n"
         },
         {
-          "index": 7,
-          "name": "PC02_N003_C04",
-          "text": "計測にも慣れたねー\n調整もこの調子で行きたいね\n"
+          "title": "PC02_N003_C04",
+          "text": "�v���ɂ����ꂽ�ˁ[\n���������̒��q�ōs��������\n"
         },
         {
-          "index": 8,
-          "name": "PC02_N004_C04",
-          "text": "ほほう、見事な計測ですなぁ\nこの調子なら調整も成功ね♪\n"
+          "title": "PC02_N004_C04",
+          "text": "�قق��A�����Ȍv���ł��Ȃ�\n���̒��q�Ȃ璲���������ˁ�\n"
         },
         {
-          "index": 9,
-          "name": "PC03_N002_C04",
-          "text": "たまの失敗なんて、気にしない\n調整で挽回ね\n"
+          "title": "PC03_N002_C04",
+          "text": "���܂̎��s�Ȃ�āA�C�ɂ��Ȃ�\n�����Ŕ҉��\n"
         },
         {
-          "index": 10,
-          "name": "PC03_N003_C04",
-          "text": "計測もバッチリね\nこれなら調整も無事に済みそう\n"
+          "title": "PC03_N003_C04",
+          "text": "�v�����o�b�`����\n����Ȃ璲���������ɍς݂���\n"
         },
         {
-          "index": 11,
-          "name": "PC03_N004_C04",
-          "text": "凄い結果ね\n計測技術ならトップレベルじゃない？\nこれなら調整も大丈夫そう"
+          "title": "PC03_N004_C04",
+          "text": "�������ʂ�\n�v���Z�p�Ȃ�g�b�v���x������Ȃ��H\n����Ȃ璲�������v����"
         },
         {
-          "index": 12,
-          "name": "PC01_N005_C04",
-          "text": "うはーひどい調整\nこりゃあ失敗するわ\n"
+          "title": "PC01_N005_C04",
+          "text": "���́[�Ђǂ�����\n����Ⴀ���s�����\n"
         },
         {
-          "index": 13,
-          "name": "PC01_N006_C04",
-          "text": "どうだろう、普通？\n次はもうすこしパンチがほしいわ\n"
+          "title": "PC01_N006_C04",
+          "text": "�ǂ����낤�A���ʁH\n���͂����������p���`���ق�����\n"
         },
         {
-          "index": 14,
-          "name": "PC01_N007_C04",
-          "text": "イイ感じの調整ね\nチョッと、動作確認してくる\n"
+          "title": "PC01_N007_C04",
+          "text": "�C�C�����̒�����\n�`���b�ƁA����m�F���Ă���\n"
         },
         {
-          "index": 15,
-          "name": "PC01_N008_C04",
-          "text": "これは……凄いね\nここまで調整上手いと作業も楽しそう\n"
+          "title": "PC01_N008_C04",
+          "text": "����́c�c������\n�����܂Œ�����肢�ƍ�Ƃ��y������\n"
         },
         {
-          "index": 16,
-          "name": "PC02_N005_C04",
-          "text": "失敗することもあるって\n次こそ成功よ！\n"
+          "title": "PC02_N005_C04",
+          "text": "���s���邱�Ƃ��������\n������������I\n"
         },
         {
-          "index": 17,
-          "name": "PC02_N006_C04",
-          "text": "まあまあの出来ね\n動作の確認もしておこうか\n"
+          "title": "PC02_N006_C04",
+          "text": "�܂��܂��̏o����\n����̊m�F�����Ă�������\n"
         },
         {
-          "index": 18,
-          "name": "PC02_N007_C04",
-          "text": "調整も見事成功！\nもう、エンジニア名乗っても\n良いんじゃない？"
+          "title": "PC02_N007_C04",
+          "text": "���������������I\n�����A�G���W�j�A������Ă�\n�ǂ��񂶂�Ȃ��H"
         },
         {
-          "index": 19,
-          "name": "PC02_N008_C04",
-          "text": "いやー、凄い出来だわ\n次回の調整もお願いね♪\n"
+          "title": "PC02_N008_C04",
+          "text": "����[�A�����o������\n����̒��������肢�ˁ�\n"
         },
         {
-          "index": 20,
-          "name": "PC03_N005_C04",
-          "text": "今回は失敗しちゃったね\nでも失敗から学ぶこともあるよね！\n"
+          "title": "PC03_N005_C04",
+          "text": "����͎��s�����������\n�ł����s����w�Ԃ��Ƃ������ˁI\n"
         },
         {
-          "index": 21,
-          "name": "PC03_N006_C04",
-          "text": "良い出来になったねー\n動作もバッチリっぽいし\n動作確認に付き合って"
+          "title": "PC03_N006_C04",
+          "text": "�ǂ��o���ɂȂ����ˁ[\n������o�b�`�����ۂ���\n����m�F�ɕt��������"
         },
         {
-          "index": 22,
-          "name": "PC03_N007_C04",
-          "text": "おお、見事な仕上げ……\nこれなら今後は\n調整丸投げでも大丈夫かな～"
+          "title": "PC03_N007_C04",
+          "text": "�����A�����Ȏd�グ�c�c\n����Ȃ獡���\n�����ۓ����ł����v���ȁ`"
         },
         {
-          "index": 23,
-          "name": "PC03_N008_C04",
-          "text": "チョッとチョッと、凄い出来じゃない！\nこれは、将来のエンジニアフラグが\n立ったかもね～"
+          "title": "PC03_N008_C04",
+          "text": "�`���b�ƃ`���b�ƁA�����o������Ȃ��I\n����́A�����̃G���W�j�A�t���O��\n�����������ˁ`"
         }
       ]
     },
     {
       "id": 52,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "PC01_N001_C04",
-          "text": "通常計測だけでイイでしょ？\n着替える必要ナシ！\n"
+          "title": "PC01_N001_C04",
+          "text": "�ʏ�v�������ŃC�C�ł���H\n���ւ���K�v�i�V�I\n"
         },
         {
-          "index": 1,
-          "name": "PC02_N001_C04",
-          "text": "チョッと大げさな気もするけど……\nまあ、今回はそっちの話に乗っておくわ\n準備してくるから、チョッと待って"
+          "title": "PC02_N001_C04",
+          "text": "�`���b�Ƒ傰���ȋC�����邯�ǁc�c\n�܂��A����͂������̘b�ɏ���Ă�����\n�������Ă��邩��A�`���b�Ƒ҂���"
         },
         {
-          "index": 2,
-          "name": "PC03_N001_C04",
-          "text": "そうだよねー\n精密計測する必要あるよね……\nうん、すぐに準備してくるわ"
+          "title": "PC03_N001_C04",
+          "text": "��������ˁ[\n�����v������K�v�����ˁc�c\n����A�����ɏ������Ă����"
         },
         {
-          "index": 3,
-          "name": "PC01_N002_C04",
-          "text": "計測、大丈夫？\n不安……\n"
+          "title": "PC01_N002_C04",
+          "text": "�v���A���v�H\n�s���c�c\n"
         },
         {
-          "index": 4,
-          "name": "PC01_N003_C04",
-          "text": "この調子だったら\n調整もいけるかな？\n"
+          "title": "PC01_N003_C04",
+          "text": "���̒��q��������\n�����������邩�ȁH\n"
         },
         {
-          "index": 5,
-          "name": "PC01_N004_C04",
-          "text": "ビックリ！\n結構やるじゃないの\nこの調子で調整もお願いね"
+          "title": "PC01_N004_C04",
+          "text": "�r�b�N���I\n���\��邶��Ȃ���\n���̒��q�Œ��������肢��"
         },
         {
-          "index": 6,
-          "name": "PC02_N002_C04",
-          "text": "うわぁ、失敗かぁー\nハイハイ、次回、頑張りましょう\n"
+          "title": "PC02_N002_C04",
+          "text": "���킟�A���s�����[\n�n�C�n�C�A����A�撣��܂��傤\n"
         },
         {
-          "index": 7,
-          "name": "PC02_N003_C04",
-          "text": "計測にも慣れたねー\n調整もこの調子で行きたいね\n"
+          "title": "PC02_N003_C04",
+          "text": "�v���ɂ����ꂽ�ˁ[\n���������̒��q�ōs��������\n"
         },
         {
-          "index": 8,
-          "name": "PC02_N004_C04",
-          "text": "ほほう、見事な計測ですなぁ\nこの調子なら調整も成功ね♪\n"
+          "title": "PC02_N004_C04",
+          "text": "�قق��A�����Ȍv���ł��Ȃ�\n���̒��q�Ȃ璲���������ˁ�\n"
         },
         {
-          "index": 9,
-          "name": "PC03_N002_C04",
-          "text": "たまの失敗なんて、気にしない\n調整で挽回ね\n"
+          "title": "PC03_N002_C04",
+          "text": "���܂̎��s�Ȃ�āA�C�ɂ��Ȃ�\n�����Ŕ҉��\n"
         },
         {
-          "index": 10,
-          "name": "PC03_N003_C04",
-          "text": "計測もバッチリね\nこれなら調整も無事に済みそう\n"
+          "title": "PC03_N003_C04",
+          "text": "�v�����o�b�`����\n����Ȃ璲���������ɍς݂���\n"
         },
         {
-          "index": 11,
-          "name": "PC03_N004_C04",
-          "text": "凄い結果ね\n計測技術ならトップレベルじゃない？\nこれなら調整も大丈夫そう"
+          "title": "PC03_N004_C04",
+          "text": "�������ʂ�\n�v���Z�p�Ȃ�g�b�v���x������Ȃ��H\n����Ȃ璲�������v����"
         },
         {
-          "index": 12,
-          "name": "PC01_N005_C04",
-          "text": "うはーひどい調整\nこりゃあ失敗するわ\n"
+          "title": "PC01_N005_C04",
+          "text": "���́[�Ђǂ�����\n����Ⴀ���s�����\n"
         },
         {
-          "index": 13,
-          "name": "PC01_N006_C04",
-          "text": "どうだろう、普通？\n次はもうすこしパンチがほしいわ\n"
+          "title": "PC01_N006_C04",
+          "text": "�ǂ����낤�A���ʁH\n���͂����������p���`���ق�����\n"
         },
         {
-          "index": 14,
-          "name": "PC01_N007_C04",
-          "text": "イイ感じの調整ね\nチョッと、動作確認してくる\n"
+          "title": "PC01_N007_C04",
+          "text": "�C�C�����̒�����\n�`���b�ƁA����m�F���Ă���\n"
         },
         {
-          "index": 15,
-          "name": "PC01_N008_C04",
-          "text": "これは……凄いね\nここまで調整上手いと作業も楽しそう\n"
+          "title": "PC01_N008_C04",
+          "text": "����́c�c������\n�����܂Œ�����肢�ƍ�Ƃ��y������\n"
         },
         {
-          "index": 16,
-          "name": "PC02_N005_C04",
-          "text": "失敗することもあるって\n次こそ成功よ！\n"
+          "title": "PC02_N005_C04",
+          "text": "���s���邱�Ƃ��������\n������������I\n"
         },
         {
-          "index": 17,
-          "name": "PC02_N006_C04",
-          "text": "まあまあの出来ね\n動作の確認もしておこうか\n"
+          "title": "PC02_N006_C04",
+          "text": "�܂��܂��̏o����\n����̊m�F�����Ă�������\n"
         },
         {
-          "index": 18,
-          "name": "PC02_N007_C04",
-          "text": "調整も見事成功！\nもう、エンジニア名乗っても\n良いんじゃない？"
+          "title": "PC02_N007_C04",
+          "text": "���������������I\n�����A�G���W�j�A������Ă�\n�ǂ��񂶂�Ȃ��H"
         },
         {
-          "index": 19,
-          "name": "PC02_N008_C04",
-          "text": "いやー、凄い出来だわ\n次回の調整もお願いね♪\n"
+          "title": "PC02_N008_C04",
+          "text": "����[�A�����o������\n����̒��������肢�ˁ�\n"
         },
         {
-          "index": 20,
-          "name": "PC03_N005_C04",
-          "text": "今回は失敗しちゃったね\nでも失敗から学ぶこともあるよね！\n"
+          "title": "PC03_N005_C04",
+          "text": "����͎��s�����������\n�ł����s����w�Ԃ��Ƃ������ˁI\n"
         },
         {
-          "index": 21,
-          "name": "PC03_N006_C04",
-          "text": "良い出来になったねー\n動作もバッチリっぽいし\n動作確認に付き合って"
+          "title": "PC03_N006_C04",
+          "text": "�ǂ��o���ɂȂ����ˁ[\n������o�b�`�����ۂ���\n����m�F�ɕt��������"
         },
         {
-          "index": 22,
-          "name": "PC03_N007_C04",
-          "text": "おお、見事な仕上げ……\nこれなら今後は\n調整丸投げでも大丈夫かな～"
+          "title": "PC03_N007_C04",
+          "text": "�����A�����Ȏd�グ�c�c\n����Ȃ獡���\n�����ۓ����ł����v���ȁ`"
         },
         {
-          "index": 23,
-          "name": "PC03_N008_C04",
-          "text": "チョッとチョッと、凄い出来じゃない！\nこれは、将来のエンジニアフラグが\n立ったかもね～"
+          "title": "PC03_N008_C04",
+          "text": "�`���b�ƃ`���b�ƁA�����o������Ȃ��I\n����́A�����̃G���W�j�A�t���O��\n�����������ˁ`"
         }
       ]
     },
     {
       "id": 81,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "PC04_N001_C04",
-          "text": "通常計測だけでイイじゃない？\n着替える必要も無いでしょ\n"
+          "title": "PC04_N001_C04",
+          "text": "�ʏ�v�������ŃC�C����Ȃ��H\n���ւ���K�v�������ł���\n"
         },
         {
-          "index": 1,
-          "name": "PC05_N001_C04",
-          "text": "チョッと大げさじゃない？\nでも、まあ、今回は申し出を採用して\n着替えてくるから、準備を進めてて"
+          "title": "PC05_N001_C04",
+          "text": "�`���b�Ƒ傰������Ȃ��H\n�ł��A�܂��A����͐\���o���̗p����\n���ւ��Ă��邩��A������i�߂Ă�"
         },
         {
-          "index": 2,
-          "name": "PC06_N001_C04",
-          "text": "そうよねー\n中途半端な計測をするよりもね……\nうん、すぐに着替えてくるわ"
+          "title": "PC06_N001_C04",
+          "text": "������ˁ[\n���r���[�Ȍv������������ˁc�c\n����A�����ɒ��ւ��Ă����"
         },
         {
-          "index": 3,
-          "name": "PC04_N002_C04",
-          "text": "計測、失敗じゃない？\n\n"
+          "title": "PC04_N002_C04",
+          "text": "�v���A���s����Ȃ��H\n\n"
         },
         {
-          "index": 4,
-          "name": "PC04_N003_C04",
-          "text": "この調子なら調整もいけるね\n\n"
+          "title": "PC04_N003_C04",
+          "text": "���̒��q�Ȃ璲�����������\n\n"
         },
         {
-          "index": 5,
-          "name": "PC04_N004_C04",
-          "text": "驚き！\nなかなかやるじゃない\nこの調子で調整もお願いね"
+          "title": "PC04_N004_C04",
+          "text": "�����I\n�Ȃ��Ȃ���邶��Ȃ�\n���̒��q�Œ��������肢��"
         },
         {
-          "index": 6,
-          "name": "PC05_N002_C04",
-          "text": "あらら、失敗かぁー\n切り替えて、次で頑張りましょう\n"
+          "title": "PC05_N002_C04",
+          "text": "�����A���s�����[\n�؂�ւ��āA���Ŋ撣��܂��傤\n"
         },
         {
-          "index": 7,
-          "name": "PC05_N003_C04",
-          "text": "計測にも慣れたっぽいね\n調整もこの調子で行きたいな\n"
+          "title": "PC05_N003_C04",
+          "text": "�v���ɂ����ꂽ���ۂ���\n���������̒��q�ōs��������\n"
         },
         {
-          "index": 8,
-          "name": "PC05_N004_C04",
-          "text": "わおっ、見事な計測\nこれなら調整も成功確実かな？\n"
+          "title": "PC05_N004_C04",
+          "text": "�킨���A�����Ȍv��\n����Ȃ璲���������m�����ȁH\n"
         },
         {
-          "index": 9,
-          "name": "PC06_N002_C04",
-          "text": "気にしない、気にしない\n失敗は次の調整で挽回よ！\n"
+          "title": "PC06_N002_C04",
+          "text": "�C�ɂ��Ȃ��A�C�ɂ��Ȃ�\n���s�͎��̒����Ŕ҉��I\n"
         },
         {
-          "index": 10,
-          "name": "PC06_N003_C04",
-          "text": "計測結果もバッチリね\nこれなら調整も無事に済みそう\n"
+          "title": "PC06_N003_C04",
+          "text": "�v�����ʂ��o�b�`����\n����Ȃ璲���������ɍς݂���\n"
         },
         {
-          "index": 11,
-          "name": "PC06_N004_C04",
-          "text": "何、この計測結果\n凄いわ～\nこれなら調整も大丈夫そう"
+          "title": "PC06_N004_C04",
+          "text": "���A���̌v������\n������`\n����Ȃ璲�������v����"
         },
         {
-          "index": 12,
-          "name": "PC04_N005_C04",
-          "text": "これは、チョッと失敗したね\n\n"
+          "title": "PC04_N005_C04",
+          "text": "����́A�`���b�Ǝ��s������\n\n"
         },
         {
-          "index": 13,
-          "name": "PC04_N006_C04",
-          "text": "うーん、普通ね\nもうすこしアクセントが効いてる方が\n好みだわ"
+          "title": "PC04_N006_C04",
+          "text": "���[��A���ʂ�\n�����������A�N�Z���g�������Ă����\n�D�݂���"
         },
         {
-          "index": 14,
-          "name": "PC04_N007_C04",
-          "text": "ほほう、イイ感じね\nチョッと、動作確認に行って来るね\n"
+          "title": "PC04_N007_C04",
+          "text": "�قق��A�C�C������\n�`���b�ƁA����m�F�ɍs���ė����\n"
         },
         {
-          "index": 15,
-          "name": "PC04_N008_C04",
-          "text": "予想外に凄いわ\nここまで調整が上手いとは\n思わなかったわー"
+          "title": "PC04_N008_C04",
+          "text": "�\�z�O�ɐ�����\n�����܂Œ�������肢�Ƃ�\n�v��Ȃ�������["
         },
         {
-          "index": 16,
-          "name": "PC05_N005_C04",
-          "text": "いいよ、いいよ\n次こそ成功よ！\n"
+          "title": "PC05_N005_C04",
+          "text": "������A������\n������������I\n"
         },
         {
-          "index": 17,
-          "name": "PC05_N006_C04",
-          "text": "まあまあの仕上げかな？\nほらほら、動作の確認もしておこうよ\n"
+          "title": "PC05_N006_C04",
+          "text": "�܂��܂��̎d�グ���ȁH\n�ق�ق�A����̊m�F�����Ă�������\n"
         },
         {
-          "index": 18,
-          "name": "PC05_N007_C04",
-          "text": "調整も見事成功！\n技術面の才能もあるって\nどんだけ多才なの？"
+          "title": "PC05_N007_C04",
+          "text": "���������������I\n�Z�p�ʂ̍˔\���������\n�ǂ񂾂����˂Ȃ́H"
         },
         {
-          "index": 19,
-          "name": "PC05_N008_C04",
-          "text": "わおっ、凄い出来だわ\nこの調子で次回の調整もお願いね♪\n"
+          "title": "PC05_N008_C04",
+          "text": "�킨���A�����o������\n���̒��q�Ŏ���̒��������肢�ˁ�\n"
         },
         {
-          "index": 20,
-          "name": "PC06_N005_C04",
-          "text": "たまには失敗もアリね\n次でリベンジよ！\n"
+          "title": "PC06_N005_C04",
+          "text": "���܂ɂ͎��s���A����\n���Ń��x���W��I\n"
         },
         {
-          "index": 21,
-          "name": "PC06_N006_C04",
-          "text": "良い仕上がりよね\n動作もスムーズだし\nこのまま動作確認にも付き合って"
+          "title": "PC06_N006_C04",
+          "text": "�ǂ��d�オ����\n������X���[�Y����\n���̂܂ܓ���m�F�ɂ��t��������"
         },
         {
-          "index": 22,
-          "name": "PC06_N007_C04",
-          "text": "うはー、見事な仕上げ\nこれは、もう、他のホウキには\n浮気できないかな～"
+          "title": "PC06_N007_C04",
+          "text": "���́[�A�����Ȏd�グ\n����́A�����A���̃z�E�L�ɂ�\n���C�ł��Ȃ����ȁ`"
         },
         {
-          "index": 23,
-          "name": "PC06_N008_C04",
-          "text": "いやいや、チョッと凄い出来よ、コレ\n同年代でここまでの腕とは\nお見逸れしました"
+          "title": "PC06_N008_C04",
+          "text": "���₢��A�`���b�Ɛ����o����A�R��\n���N��ł����܂ł̘r�Ƃ�\n������ꂵ�܂���"
         }
       ]
     },
     {
       "id": 91,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "PC10_N001_C04",
-          "text": "通常計測だけにしよう\n\n"
+          "title": "PC10_N001_C04",
+          "text": "�ʏ�v�������ɂ��悤\n\n"
         },
         {
-          "index": 1,
-          "name": "PC11_N001_C04",
-          "text": "うーん、分かったわ\n着替えてくるから、準備しといて\n"
+          "title": "PC11_N001_C04",
+          "text": "���[��A����������\n���ւ��Ă��邩��A�������Ƃ���\n"
         },
         {
-          "index": 2,
-          "name": "PC12_N001_C04",
-          "text": "そうね、今回はじっくり計測しようかな\n着替えてくるね、ピクシー\n"
+          "title": "PC12_N001_C04",
+          "text": "�����ˁA����͂�������v�����悤����\n���ւ��Ă���ˁA�s�N�V�[\n"
         },
         {
-          "index": 3,
-          "name": "PC10_N002_C04",
-          "text": "失敗ね\n\n"
+          "title": "PC10_N002_C04",
+          "text": "���s��\n\n"
         },
         {
-          "index": 4,
-          "name": "PC10_N003_C04",
-          "text": "無事しゅ～りょ～\n結果、普通！\n"
+          "title": "PC10_N003_C04",
+          "text": "��������`���`\n���ʁA���ʁI\n"
         },
         {
-          "index": 5,
-          "name": "PC10_N004_C04",
-          "text": "驚き、ＨＡＲでも計測できるんだ\nこれは調整もチョッと楽しみ♪\n"
+          "title": "PC10_N004_C04",
+          "text": "�����A�g�`�q�ł��v���ł����\n����͒������`���b�Ɗy���݁�\n"
         },
         {
-          "index": 6,
-          "name": "PC11_N002_C04",
-          "text": "失敗よ\nでも、調整は続けてみよ\n"
+          "title": "PC11_N002_C04",
+          "text": "���s��\n�ł��A�����͑����Ă݂�\n"
         },
         {
-          "index": 7,
-          "name": "PC11_N003_C04",
-          "text": "ＨＡＲの計測にも慣れた気がするわ\nこの調子で調整もお願い\n"
+          "title": "PC11_N003_C04",
+          "text": "�g�`�q�̌v���ɂ����ꂽ�C�������\n���̒��q�Œ��������肢\n"
         },
         {
-          "index": 8,
-          "name": "PC11_N004_C04",
-          "text": "凄いわねピクシー\nこの調子なら調整も成功ね\n"
+          "title": "PC11_N004_C04",
+          "text": "������˃s�N�V�[\n���̒��q�Ȃ璲����������\n"
         },
         {
-          "index": 9,
-          "name": "PC12_N002_C04",
-          "text": "惜しい、失敗！\nでも、この失敗は\n次の計測に活かそうか、ピクシー"
+          "title": "PC12_N002_C04",
+          "text": "�ɂ����A���s�I\n�ł��A���̎��s��\n���̌v���Ɋ����������A�s�N�V�["
         },
         {
-          "index": 10,
-          "name": "PC12_N003_C04",
-          "text": "ピクシーの計測も安定したね\nこの調子で調整も進めて\n"
+          "title": "PC12_N003_C04",
+          "text": "�s�N�V�[�̌v�������肵����\n���̒��q�Œ������i�߂�\n"
         },
         {
-          "index": 11,
-          "name": "PC12_N004_C04",
-          "text": "素晴らしい結果ね、ピクシー\nこの調子なら調整も大丈夫そうね\n"
+          "title": "PC12_N004_C04",
+          "text": "�f���炵�����ʂˁA�s�N�V�[\n���̒��q�Ȃ璲�������v������\n"
         },
         {
-          "index": 12,
-          "name": "PC10_N005_C04",
-          "text": "失敗したわね\n\n"
+          "title": "PC10_N005_C04",
+          "text": "���s�������\n\n"
         },
         {
-          "index": 13,
-          "name": "PC10_N006_C04",
-          "text": "一応形にはなったけど\n次回の教訓にしましょ\n"
+          "title": "PC10_N006_C04",
+          "text": "�ꉞ�`�ɂ͂Ȃ�������\n����̋��P�ɂ��܂���\n"
         },
         {
-          "index": 14,
-          "name": "PC10_N007_C04",
-          "text": "イイ感じね\n動作チェックしてみましょ\n"
+          "title": "PC10_N007_C04",
+          "text": "�C�C������\n����`�F�b�N���Ă݂܂���\n"
         },
         {
-          "index": 15,
-          "name": "PC10_N008_C04",
-          "text": "驚いた\nＨＡＲでも、ここまでの調整できるなら\n十分って感じね"
+          "title": "PC10_N008_C04",
+          "text": "������\n�g�`�q�ł��A�����܂ł̒����ł���Ȃ�\n�\�����Ċ�����"
         },
         {
-          "index": 16,
-          "name": "PC11_N005_C04",
-          "text": "ピクシー、失敗データも\n貴重だから管理しておいてね\n"
+          "title": "PC11_N005_C04",
+          "text": "�s�N�V�[�A���s�f�[�^��\n�M�d������Ǘ����Ă����Ă�\n"
         },
         {
-          "index": 17,
-          "name": "PC11_N006_C04",
-          "text": "まあまあ良い出来ね\nデバッグが無事に終わったら\n動作確認に行くわよ"
+          "title": "PC11_N006_C04",
+          "text": "�܂��܂��ǂ��o����\n�f�o�b�O�������ɏI�������\n����m�F�ɍs�����"
         },
         {
-          "index": 18,
-          "name": "PC11_N007_C04",
-          "text": "なかなかの完成度になったわね\nＨＡＲって結構多才なのね\n"
+          "title": "PC11_N007_C04",
+          "text": "�Ȃ��Ȃ��̊����x�ɂȂ������\n�g�`�q���Č��\���˂Ȃ̂�\n"
         },
         {
-          "index": 19,
-          "name": "PC11_N008_C04",
-          "text": "ピクシーの調整技術も一流ね\n次回の調整も期待しているわ\n"
+          "title": "PC11_N008_C04",
+          "text": "�s�N�V�[�̒����Z�p���ꗬ��\n����̒��������҂��Ă����\n"
         },
         {
-          "index": 20,
-          "name": "PC12_N005_C04",
-          "text": "今回の結果も忘れず保存ね\n情報共有は大事よ\n"
+          "title": "PC12_N005_C04",
+          "text": "����̌��ʂ��Y�ꂸ�ۑ���\n��񋤗L�͑厖��\n"
         },
         {
-          "index": 21,
-          "name": "PC12_N006_C04",
-          "text": "おお、良い出来\n動作にも問題は無さそうね\nピクシー、確認するから相手しなさい！"
+          "title": "PC12_N006_C04",
+          "text": "�����A�ǂ��o��\n����ɂ����͖���������\n�s�N�V�[�A�m�F���邩�瑊�肵�Ȃ����I"
         },
         {
-          "index": 22,
-          "name": "PC12_N007_C04",
-          "text": "見事な出来映えよ\n今後はピクシーに調整をお願いするかな\n"
+          "title": "PC12_N007_C04",
+          "text": "�����ȏo���f����\n����̓s�N�V�[�ɒ��������肢���邩��\n"
         },
         {
-          "index": 23,
-          "name": "PC12_N008_C04",
-          "text": "わおっ、素晴らしい出来\n……ＨＡＲが専属エンジニアとかって\nアリかしら？"
+          "title": "PC12_N008_C04",
+          "text": "�킨���A�f���炵���o��\n�c�c�g�`�q���ꑮ�G���W�j�A�Ƃ�����\n�A��������H"
         }
       ]
     }

@@ -1,2104 +1,1704 @@
 {
-  "type": "STANDARD",
-  "name": "IMH_Tuning_List_T_51.bin",
-  "blocks": [
+  "type": "TuningList",
+  "file_path": "Graph2D/TuneData/IMH_Tuning_List_T_51.bin",
+  "block": [
     {
       "id": 1,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N00100_C51",
-          "text": "どちらを使用する？"
+          "title": "CC01_N00100_C51",
+          "text": "�ǂ�����g�p����H"
         },
         {
-          "index": 1,
-          "name": "CC01_N00200_C51",
-          "text": "ヘッドギア型を使用してみよう"
+          "title": "CC01_N00200_C51",
+          "text": "�w�b�h�M�A�^���g�p���Ă݂悤"
         },
         {
-          "index": 2,
-          "name": "CC01_N00300_C51",
-          "text": "通常計測で調整しよう"
+          "title": "CC01_N00300_C51",
+          "text": "�ʏ�v���Œ������悤"
         },
         {
-          "index": 3,
-          "name": "CC01_N00400_C51",
-          "text": "カプセルベッド型を使用してみよう"
+          "title": "CC01_N00400_C51",
+          "text": "�J�v�Z���x�b�h�^���g�p���Ă݂悤"
         },
         {
-          "index": 4,
-          "name": "CC01_N00500_C51",
-          "text": "精密計測で調整しよう"
+          "title": "CC01_N00500_C51",
+          "text": "�����v���Œ������悤"
         },
         {
-          "index": 5,
-          "name": "CC01_N00600_C51",
-          "text": "計測はせずに調整しよう"
+          "title": "CC01_N00600_C51",
+          "text": "�v���͂����ɒ������悤"
         },
         {
-          "index": 6,
-          "name": "CC01_N00700_C51",
-          "text": "計測を開始するぞ\n\n"
+          "title": "CC01_N00700_C51",
+          "text": "�v�����J�n���邼\n\n"
         },
         {
-          "index": 7,
-          "name": "CC01_N00800_C51",
-          "text": "計測は問題無いな\n\n"
+          "title": "CC01_N00800_C51",
+          "text": "�v���͖�薳����\n\n"
         },
         {
-          "index": 8,
-          "name": "CC01_N00900_C51",
-          "text": "計測は順調だ\n\n"
+          "title": "CC01_N00900_C51",
+          "text": "�v���͏�����\n\n"
         },
         {
-          "index": 9,
-          "name": "CC01_N01000_C51",
-          "text": "クリアな波形で計測できているな\n\n"
+          "title": "CC01_N01000_C51",
+          "text": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n"
         },
         {
-          "index": 10,
-          "name": "クリアな波形で計測できているな\n\n",
+          "title": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n",
           "text": "CC01_N00900_C51"
         },
         {
-          "index": 11,
-          "name": "少しノイズが出ているな\n\n",
+          "title": "�����m�C�Y���o�Ă����\n\n",
           "text": "CC01_N01000_C51"
         },
         {
-          "index": 12,
-          "name": "波形が乱れているな\n\n",
+          "title": "�g�`������Ă����\n\n",
           "text": "CC01_N01100_C51"
         },
         {
-          "index": 13,
-          "name": "CC01_N01400_C51",
-          "text": "すまん\nもう一度計測させてほしい\n"
+          "title": "CC01_N01400_C51",
+          "text": "���܂�\n������x�v�������Ăق���\n"
         },
         {
-          "index": 14,
-          "name": "CC01_N01500_C51",
-          "text": "まずまずの計測結果だったぞ\n\n"
+          "title": "CC01_N01500_C51",
+          "text": "�܂��܂��̌v�����ʂ�������\n\n"
         },
         {
-          "index": 15,
-          "name": "CC01_N01600_C51",
-          "text": "良い計測結果になったな\nこれなら調整も上手く行くと思うぞ\n"
+          "title": "CC01_N01600_C51",
+          "text": "�ǂ��v�����ʂɂȂ�����\n����Ȃ璲������肭�s���Ǝv����\n"
         },
         {
-          "index": 16,
-          "name": "CC01_N01700_C51",
-          "text": "すまない……\n調整に失敗してしまったよ\n"
+          "title": "CC01_N01700_C51",
+          "text": "���܂Ȃ��c�c\n�����Ɏ��s���Ă��܂�����\n"
         },
         {
-          "index": 17,
-          "name": "CC01_N01800_C51",
-          "text": "調整はしてみたけど\nあまり変わりは出なかったな\n"
+          "title": "CC01_N01800_C51",
+          "text": "�����͂��Ă݂�����\n���܂�ς��͏o�Ȃ�������\n"
         },
         {
-          "index": 18,
-          "name": "CC01_N01900_C51",
-          "text": "まずまずの調整結果だったぞ\nきっと効果も実感できるはずだ\n"
+          "title": "CC01_N01900_C51",
+          "text": "�܂��܂��̒������ʂ�������\n�����ƌ��ʂ������ł���͂���\n"
         },
         {
-          "index": 19,
-          "name": "CC01_N02000_C51",
-          "text": "調整は上手くいったぞ\nかなり扱いやすくなったはずだ\n"
+          "title": "CC01_N02000_C51",
+          "text": "�����͏�肭��������\n���Ȃ舵���₷���Ȃ����͂���\n"
         }
       ]
     },
     {
       "id": 2,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N00100_C51",
-          "text": "どちらを使用する？"
+          "title": "CC01_N00100_C51",
+          "text": "�ǂ�����g�p����H"
         },
         {
-          "index": 1,
-          "name": "CC01_N00200_C51",
-          "text": "ヘッドギア型を使用してみよう"
+          "title": "CC01_N00200_C51",
+          "text": "�w�b�h�M�A�^���g�p���Ă݂悤"
         },
         {
-          "index": 2,
-          "name": "CC01_N00300_C51",
-          "text": "通常計測で調整しよう"
+          "title": "CC01_N00300_C51",
+          "text": "�ʏ�v���Œ������悤"
         },
         {
-          "index": 3,
-          "name": "CC01_N00400_C51",
-          "text": "カプセルベッド型を使用してみよう"
+          "title": "CC01_N00400_C51",
+          "text": "�J�v�Z���x�b�h�^���g�p���Ă݂悤"
         },
         {
-          "index": 4,
-          "name": "CC01_N00500_C51",
-          "text": "精密計測で調整しよう"
+          "title": "CC01_N00500_C51",
+          "text": "�����v���Œ������悤"
         },
         {
-          "index": 5,
-          "name": "CC01_N00600_C51",
-          "text": "計測はせずに調整しよう"
+          "title": "CC01_N00600_C51",
+          "text": "�v���͂����ɒ������悤"
         },
         {
-          "index": 6,
-          "name": "CC04_N00700_C51",
-          "text": "それじゃあ、司波さん\n計測を始めましょう\n"
+          "title": "CC04_N00700_C51",
+          "text": "���ꂶ�Ⴀ�A�i�g����\n�v�����n�߂܂��傤\n"
         },
         {
-          "index": 7,
-          "name": "CC04_N00800_C51",
-          "text": "計測は問題無いです\n\n"
+          "title": "CC04_N00800_C51",
+          "text": "�v���͖�薳���ł�\n\n"
         },
         {
-          "index": 8,
-          "name": "CC04_N00900_C51",
-          "text": "順調に計測できています\n\n"
+          "title": "CC04_N00900_C51",
+          "text": "�����Ɍv���ł��Ă��܂�\n\n"
         },
         {
-          "index": 9,
-          "name": "CC04_N01000_C51",
-          "text": "綺麗な波形だ……\n\n"
+          "title": "CC04_N01000_C51",
+          "text": "�Y��Ȕg�`���c�c\n\n"
         },
         {
-          "index": 10,
-          "name": "綺麗な波形だ……\n\n",
+          "title": "�Y��Ȕg�`���c�c\n\n",
           "text": "CC04_N00900_C51"
         },
         {
-          "index": 11,
-          "name": "少しノイズが出ていますね……\n\n",
+          "title": "�����m�C�Y���o�Ă��܂��ˁc�c\n\n",
           "text": "CC04_N01000_C51"
         },
         {
-          "index": 12,
-          "name": "波形に乱れが出ていますね\n気掛かりなことでも",
+          "title": "�g�`�ɗ��ꂪ�o�Ă��܂���\n�C�|����Ȃ��Ƃł�",
           "text": "CC04_N01100_C51"
         },
         {
-          "index": 13,
-          "name": "CC04_N01400_C51",
-          "text": "すみません、司波さん\n後で再計測させてください\n"
+          "title": "CC04_N01400_C51",
+          "text": "���݂܂���A�i�g����\n��ōČv�������Ă�������\n"
         },
         {
-          "index": 14,
-          "name": "CC04_N01500_C51",
-          "text": "司波さん、お疲れ様です\nまずまずの計測結果が取れました\n"
+          "title": "CC04_N01500_C51",
+          "text": "�i�g����A�����l�ł�\n�܂��܂��̌v�����ʂ����܂���\n"
         },
         {
-          "index": 15,
-          "name": "CC04_N01600_C51",
-          "text": "お疲れ様です、司波さん\n計測結果も良い数値が出ていますし\nこれなら調整も楽になります"
+          "title": "CC04_N01600_C51",
+          "text": "�����l�ł��A�i�g����\n�v�����ʂ��ǂ����l���o�Ă��܂���\n����Ȃ璲�����y�ɂȂ�܂�"
         },
         {
-          "index": 16,
-          "name": "CC04_N01700_C51",
-          "text": "すみません、司波さん\nあまり良い調整になりませんでした\n"
+          "title": "CC04_N01700_C51",
+          "text": "���݂܂���A�i�g����\n���܂�ǂ������ɂȂ�܂���ł���\n"
         },
         {
-          "index": 17,
-          "name": "CC04_N01800_C51",
-          "text": "調整はしてみましたが……\n司波さんには\n相応しくない出来になってしまいました"
+          "title": "CC04_N01800_C51",
+          "text": "�����͂��Ă݂܂������c�c\n�i�g����ɂ�\n���������Ȃ��o���ɂȂ��Ă��܂��܂���"
         },
         {
-          "index": 18,
-          "name": "CC04_N01900_C51",
-          "text": "問題無く、調整ができたと思います\n司波さんも\n十分に効果が実感できると思います"
+          "title": "CC04_N01900_C51",
+          "text": "��薳���A�������ł����Ǝv���܂�\n�i�g�����\n�\���Ɍ��ʂ������ł���Ǝv���܂�"
         },
         {
-          "index": 19,
-          "name": "CC04_N02000_C51",
-          "text": "調整は上手くいきました\n司波さんに相応しい物になったと思います\nどうでしょう？"
+          "title": "CC04_N02000_C51",
+          "text": "�����͏�肭�����܂���\n�i�g����ɑ����������ɂȂ����Ǝv���܂�\n�ǂ��ł��傤�H"
         }
       ]
     },
     {
       "id": 4,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N00100_C51",
-          "text": "どちらを使用する？"
+          "title": "CC01_N00100_C51",
+          "text": "�ǂ�����g�p����H"
         },
         {
-          "index": 1,
-          "name": "CC01_N00200_C51",
-          "text": "ヘッドギア型を使用してみよう"
+          "title": "CC01_N00200_C51",
+          "text": "�w�b�h�M�A�^���g�p���Ă݂悤"
         },
         {
-          "index": 2,
-          "name": "CC01_N00300_C51",
-          "text": "通常計測で調整しよう"
+          "title": "CC01_N00300_C51",
+          "text": "�ʏ�v���Œ������悤"
         },
         {
-          "index": 3,
-          "name": "CC01_N00400_C51",
-          "text": "カプセルベッド型を使用してみよう"
+          "title": "CC01_N00400_C51",
+          "text": "�J�v�Z���x�b�h�^���g�p���Ă݂悤"
         },
         {
-          "index": 4,
-          "name": "CC01_N00500_C51",
-          "text": "精密計測で調整しよう"
+          "title": "CC01_N00500_C51",
+          "text": "�����v���Œ������悤"
         },
         {
-          "index": 5,
-          "name": "CC01_N00600_C51",
-          "text": "計測はせずに調整しよう"
+          "title": "CC01_N00600_C51",
+          "text": "�v���͂����ɒ������悤"
         },
         {
-          "index": 6,
-          "name": "CC01_N00700_C51",
-          "text": "計測を開始するぞ\n\n"
+          "title": "CC01_N00700_C51",
+          "text": "�v�����J�n���邼\n\n"
         },
         {
-          "index": 7,
-          "name": "CC01_N00800_C51",
-          "text": "計測は問題無いな\n\n"
+          "title": "CC01_N00800_C51",
+          "text": "�v���͖�薳����\n\n"
         },
         {
-          "index": 8,
-          "name": "CC01_N00900_C51",
-          "text": "計測は順調だ\n\n"
+          "title": "CC01_N00900_C51",
+          "text": "�v���͏�����\n\n"
         },
         {
-          "index": 9,
-          "name": "CC01_N01000_C51",
-          "text": "クリアな波形で計測できているな\n\n"
+          "title": "CC01_N01000_C51",
+          "text": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n"
         },
         {
-          "index": 10,
-          "name": "クリアな波形で計測できているな\n\n",
+          "title": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n",
           "text": "CC01_N00900_C51"
         },
         {
-          "index": 11,
-          "name": "少しノイズが出ているな\n\n",
+          "title": "�����m�C�Y���o�Ă����\n\n",
           "text": "CC01_N01000_C51"
         },
         {
-          "index": 12,
-          "name": "波形が乱れているな\n\n",
+          "title": "�g�`������Ă����\n\n",
           "text": "CC01_N01100_C51"
         },
         {
-          "index": 13,
-          "name": "CC01_N01400_C51",
-          "text": "すまん\nもう一度計測させてほしい\n"
+          "title": "CC01_N01400_C51",
+          "text": "���܂�\n������x�v�������Ăق���\n"
         },
         {
-          "index": 14,
-          "name": "CC01_N01500_C51",
-          "text": "まずまずの計測結果だったぞ\n\n"
+          "title": "CC01_N01500_C51",
+          "text": "�܂��܂��̌v�����ʂ�������\n\n"
         },
         {
-          "index": 15,
-          "name": "CC01_N01600_C51",
-          "text": "良い計測結果になったな\nこれなら調整も上手く行くと思うぞ\n"
+          "title": "CC01_N01600_C51",
+          "text": "�ǂ��v�����ʂɂȂ�����\n����Ȃ璲������肭�s���Ǝv����\n"
         },
         {
-          "index": 16,
-          "name": "CC01_N01700_C51",
-          "text": "すまない……\n調整に失敗してしまったよ\n"
+          "title": "CC01_N01700_C51",
+          "text": "���܂Ȃ��c�c\n�����Ɏ��s���Ă��܂�����\n"
         },
         {
-          "index": 17,
-          "name": "CC01_N01800_C51",
-          "text": "調整はしてみたけど\nあまり変わりは出なかったな\n"
+          "title": "CC01_N01800_C51",
+          "text": "�����͂��Ă݂�����\n���܂�ς��͏o�Ȃ�������\n"
         },
         {
-          "index": 18,
-          "name": "CC01_N01900_C51",
-          "text": "まずまずの調整結果だったぞ\nきっと効果も実感できるはずだ\n"
+          "title": "CC01_N01900_C51",
+          "text": "�܂��܂��̒������ʂ�������\n�����ƌ��ʂ������ł���͂���\n"
         },
         {
-          "index": 19,
-          "name": "CC01_N02000_C51",
-          "text": "調整は上手くいったぞ\nかなり扱いやすくなったはずだ\n"
+          "title": "CC01_N02000_C51",
+          "text": "�����͏�肭��������\n���Ȃ舵���₷���Ȃ����͂���\n"
         }
       ]
     },
     {
       "id": 3,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N00100_C51",
-          "text": "どちらを使用する？"
+          "title": "CC01_N00100_C51",
+          "text": "�ǂ�����g�p����H"
         },
         {
-          "index": 1,
-          "name": "CC01_N00200_C51",
-          "text": "ヘッドギア型を使用してみよう"
+          "title": "CC01_N00200_C51",
+          "text": "�w�b�h�M�A�^���g�p���Ă݂悤"
         },
         {
-          "index": 2,
-          "name": "CC01_N00300_C51",
-          "text": "通常計測で調整しよう"
+          "title": "CC01_N00300_C51",
+          "text": "�ʏ�v���Œ������悤"
         },
         {
-          "index": 3,
-          "name": "CC01_N00400_C51",
-          "text": "カプセルベッド型を使用してみよう"
+          "title": "CC01_N00400_C51",
+          "text": "�J�v�Z���x�b�h�^���g�p���Ă݂悤"
         },
         {
-          "index": 4,
-          "name": "CC01_N00500_C51",
-          "text": "精密計測で調整しよう"
+          "title": "CC01_N00500_C51",
+          "text": "�����v���Œ������悤"
         },
         {
-          "index": 5,
-          "name": "CC01_N00600_C51",
-          "text": "計測はせずに調整しよう"
+          "title": "CC01_N00600_C51",
+          "text": "�v���͂����ɒ������悤"
         },
         {
-          "index": 6,
-          "name": "CC01_N00700_C51",
-          "text": "計測を開始するぞ\n\n"
+          "title": "CC01_N00700_C51",
+          "text": "�v�����J�n���邼\n\n"
         },
         {
-          "index": 7,
-          "name": "CC01_N00800_C51",
-          "text": "計測は問題無いな\n\n"
+          "title": "CC01_N00800_C51",
+          "text": "�v���͖�薳����\n\n"
         },
         {
-          "index": 8,
-          "name": "CC01_N00900_C51",
-          "text": "計測は順調だ\n\n"
+          "title": "CC01_N00900_C51",
+          "text": "�v���͏�����\n\n"
         },
         {
-          "index": 9,
-          "name": "CC01_N01000_C51",
-          "text": "クリアな波形で計測できているな\n\n"
+          "title": "CC01_N01000_C51",
+          "text": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n"
         },
         {
-          "index": 10,
-          "name": "クリアな波形で計測できているな\n\n",
+          "title": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n",
           "text": "CC01_N00900_C51"
         },
         {
-          "index": 11,
-          "name": "少しノイズが出ているな\n\n",
+          "title": "�����m�C�Y���o�Ă����\n\n",
           "text": "CC01_N01000_C51"
         },
         {
-          "index": 12,
-          "name": "波形が乱れているな\n\n",
+          "title": "�g�`������Ă����\n\n",
           "text": "CC01_N01100_C51"
         },
         {
-          "index": 13,
-          "name": "CC01_N01400_C51",
-          "text": "すまん\nもう一度計測させてほしい\n"
+          "title": "CC01_N01400_C51",
+          "text": "���܂�\n������x�v�������Ăق���\n"
         },
         {
-          "index": 14,
-          "name": "CC01_N01500_C51",
-          "text": "まずまずの計測結果だったぞ\n\n"
+          "title": "CC01_N01500_C51",
+          "text": "�܂��܂��̌v�����ʂ�������\n\n"
         },
         {
-          "index": 15,
-          "name": "CC01_N01600_C51",
-          "text": "良い計測結果になったな\nこれなら調整も上手く行くと思うぞ\n"
+          "title": "CC01_N01600_C51",
+          "text": "�ǂ��v�����ʂɂȂ�����\n����Ȃ璲������肭�s���Ǝv����\n"
         },
         {
-          "index": 16,
-          "name": "CC01_N01700_C51",
-          "text": "すまない……\n調整に失敗してしまったよ\n"
+          "title": "CC01_N01700_C51",
+          "text": "���܂Ȃ��c�c\n�����Ɏ��s���Ă��܂�����\n"
         },
         {
-          "index": 17,
-          "name": "CC01_N01800_C51",
-          "text": "調整はしてみたけど\nあまり変わりは出なかったな\n"
+          "title": "CC01_N01800_C51",
+          "text": "�����͂��Ă݂�����\n���܂�ς��͏o�Ȃ�������\n"
         },
         {
-          "index": 18,
-          "name": "CC01_N01900_C51",
-          "text": "まずまずの調整結果だったぞ\nきっと効果も実感できるはずだ\n"
+          "title": "CC01_N01900_C51",
+          "text": "�܂��܂��̒������ʂ�������\n�����ƌ��ʂ������ł���͂���\n"
         },
         {
-          "index": 19,
-          "name": "CC01_N02000_C51",
-          "text": "調整は上手くいったぞ\nかなり扱いやすくなったはずだ\n"
+          "title": "CC01_N02000_C51",
+          "text": "�����͏�肭��������\n���Ȃ舵���₷���Ȃ����͂���\n"
         }
       ]
     },
     {
       "id": 5,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N00100_C51",
-          "text": "どちらを使用する？"
+          "title": "CC01_N00100_C51",
+          "text": "�ǂ�����g�p����H"
         },
         {
-          "index": 1,
-          "name": "CC01_N00200_C51",
-          "text": "ヘッドギア型を使用してみよう"
+          "title": "CC01_N00200_C51",
+          "text": "�w�b�h�M�A�^���g�p���Ă݂悤"
         },
         {
-          "index": 2,
-          "name": "CC01_N00300_C51",
-          "text": "通常計測で調整しよう"
+          "title": "CC01_N00300_C51",
+          "text": "�ʏ�v���Œ������悤"
         },
         {
-          "index": 3,
-          "name": "CC01_N00400_C51",
-          "text": "カプセルベッド型を使用してみよう"
+          "title": "CC01_N00400_C51",
+          "text": "�J�v�Z���x�b�h�^���g�p���Ă݂悤"
         },
         {
-          "index": 4,
-          "name": "CC01_N00500_C51",
-          "text": "精密計測で調整しよう"
+          "title": "CC01_N00500_C51",
+          "text": "�����v���Œ������悤"
         },
         {
-          "index": 5,
-          "name": "CC01_N00600_C51",
-          "text": "計測はせずに調整しよう"
+          "title": "CC01_N00600_C51",
+          "text": "�v���͂����ɒ������悤"
         },
         {
-          "index": 6,
-          "name": "CC01_N00700_C51",
-          "text": "計測を開始するぞ\n\n"
+          "title": "CC01_N00700_C51",
+          "text": "�v�����J�n���邼\n\n"
         },
         {
-          "index": 7,
-          "name": "CC01_N00800_C51",
-          "text": "計測は問題無いな\n\n"
+          "title": "CC01_N00800_C51",
+          "text": "�v���͖�薳����\n\n"
         },
         {
-          "index": 8,
-          "name": "CC01_N00900_C51",
-          "text": "計測は順調だ\n\n"
+          "title": "CC01_N00900_C51",
+          "text": "�v���͏�����\n\n"
         },
         {
-          "index": 9,
-          "name": "CC01_N01000_C51",
-          "text": "クリアな波形で計測できているな\n\n"
+          "title": "CC01_N01000_C51",
+          "text": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n"
         },
         {
-          "index": 10,
-          "name": "クリアな波形で計測できているな\n\n",
+          "title": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n",
           "text": "CC01_N00900_C51"
         },
         {
-          "index": 11,
-          "name": "少しノイズが出ているな\n\n",
+          "title": "�����m�C�Y���o�Ă����\n\n",
           "text": "CC01_N01000_C51"
         },
         {
-          "index": 12,
-          "name": "波形が乱れているな\n\n",
+          "title": "�g�`������Ă����\n\n",
           "text": "CC01_N01100_C51"
         },
         {
-          "index": 13,
-          "name": "CC01_N01400_C51",
-          "text": "すまん\nもう一度計測させてほしい\n"
+          "title": "CC01_N01400_C51",
+          "text": "���܂�\n������x�v�������Ăق���\n"
         },
         {
-          "index": 14,
-          "name": "CC01_N01500_C51",
-          "text": "まずまずの計測結果だったぞ\n\n"
+          "title": "CC01_N01500_C51",
+          "text": "�܂��܂��̌v�����ʂ�������\n\n"
         },
         {
-          "index": 15,
-          "name": "CC01_N01600_C51",
-          "text": "良い計測結果になったな\nこれなら調整も上手く行くと思うぞ\n"
+          "title": "CC01_N01600_C51",
+          "text": "�ǂ��v�����ʂɂȂ�����\n����Ȃ璲������肭�s���Ǝv����\n"
         },
         {
-          "index": 16,
-          "name": "CC01_N01700_C51",
-          "text": "すまない……\n調整に失敗してしまったよ\n"
+          "title": "CC01_N01700_C51",
+          "text": "���܂Ȃ��c�c\n�����Ɏ��s���Ă��܂�����\n"
         },
         {
-          "index": 17,
-          "name": "CC01_N01800_C51",
-          "text": "調整はしてみたけど\nあまり変わりは出なかったな\n"
+          "title": "CC01_N01800_C51",
+          "text": "�����͂��Ă݂�����\n���܂�ς��͏o�Ȃ�������\n"
         },
         {
-          "index": 18,
-          "name": "CC01_N01900_C51",
-          "text": "まずまずの調整結果だったぞ\nきっと効果も実感できるはずだ\n"
+          "title": "CC01_N01900_C51",
+          "text": "�܂��܂��̒������ʂ�������\n�����ƌ��ʂ������ł���͂���\n"
         },
         {
-          "index": 19,
-          "name": "CC01_N02000_C51",
-          "text": "調整は上手くいったぞ\nかなり扱いやすくなったはずだ\n"
+          "title": "CC01_N02000_C51",
+          "text": "�����͏�肭��������\n���Ȃ舵���₷���Ȃ����͂���\n"
         }
       ]
     },
     {
       "id": 6,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "",
-          "text": "どちらを使用する？"
+          "title": "",
+          "text": "�ǂ�����g�p����H"
         },
         {
-          "index": 1,
-          "name": "",
-          "text": "ヘッドギア型を使用してみよう"
+          "title": "",
+          "text": "�w�b�h�M�A�^���g�p���Ă݂悤"
         },
         {
-          "index": 2,
-          "name": "",
-          "text": "通常計測で調整しよう"
+          "title": "",
+          "text": "�ʏ�v���Œ������悤"
         },
         {
-          "index": 3,
-          "name": "",
-          "text": "カプセルベッド型を使用してみよう"
+          "title": "",
+          "text": "�J�v�Z���x�b�h�^���g�p���Ă݂悤"
         },
         {
-          "index": 4,
-          "name": "",
-          "text": "精密計測で調整しよう"
+          "title": "",
+          "text": "�����v���Œ������悤"
         },
         {
-          "index": 5,
-          "name": "",
-          "text": "計測はせずに調整しよう"
+          "title": "",
+          "text": "�v���͂����ɒ������悤"
         },
         {
-          "index": 6,
-          "name": "",
-          "text": "計測を開始するぞ\n\n"
+          "title": "",
+          "text": "�v�����J�n���邼\n\n"
         },
         {
-          "index": 7,
-          "name": "",
-          "text": "計測は問題無いな\n\n"
+          "title": "",
+          "text": "�v���͖�薳����\n\n"
         },
         {
-          "index": 8,
-          "name": "",
-          "text": "計測は順調だ\n\n"
+          "title": "",
+          "text": "�v���͏�����\n\n"
         },
         {
-          "index": 9,
-          "name": "",
-          "text": "クリアな波形で計測できているな\n\n"
+          "title": "",
+          "text": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n"
         },
         {
-          "index": 10,
-          "name": "クリアな波形で計測できているな\n\n",
+          "title": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n",
           "text": ""
         },
         {
-          "index": 11,
-          "name": "少しノイズが出ているな\n\n",
+          "title": "�����m�C�Y���o�Ă����\n\n",
           "text": ""
         },
         {
-          "index": 12,
-          "name": "波形が乱れているな\n\n",
+          "title": "�g�`������Ă����\n\n",
           "text": ""
         },
         {
-          "index": 13,
-          "name": "",
-          "text": "すまん\nもう一度計測させてほしい\n"
+          "title": "",
+          "text": "���܂�\n������x�v�������Ăق���\n"
         },
         {
-          "index": 14,
-          "name": "",
-          "text": "まずまずの計測結果だったぞ\n\n"
+          "title": "",
+          "text": "�܂��܂��̌v�����ʂ�������\n\n"
         },
         {
-          "index": 15,
-          "name": "",
-          "text": "良い計測結果になったな\nこれなら調整も上手く行くと思うぞ\n"
+          "title": "",
+          "text": "�ǂ��v�����ʂɂȂ�����\n����Ȃ璲������肭�s���Ǝv����\n"
         },
         {
-          "index": 16,
-          "name": "",
-          "text": "すまない……\n調整に失敗してしまったよ\n"
+          "title": "",
+          "text": "���܂Ȃ��c�c\n�����Ɏ��s���Ă��܂�����\n"
         },
         {
-          "index": 17,
-          "name": "",
-          "text": "調整はしてみたけど\nあまり変わりは出なかったな\n"
+          "title": "",
+          "text": "�����͂��Ă݂�����\n���܂�ς��͏o�Ȃ�������\n"
         },
         {
-          "index": 18,
-          "name": "",
-          "text": "まずまずの調整結果だったぞ\nきっと効果も実感できるはずだ\n"
+          "title": "",
+          "text": "�܂��܂��̒������ʂ�������\n�����ƌ��ʂ������ł���͂���\n"
         },
         {
-          "index": 19,
-          "name": "",
-          "text": "調整は上手くいったぞ\nかなり扱いやすくなったはずだ\n"
+          "title": "",
+          "text": "�����͏�肭��������\n���Ȃ舵���₷���Ȃ����͂���\n"
         }
       ]
     },
     {
       "id": 11,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N00100_C51",
-          "text": "どちらを使用する？"
+          "title": "CC01_N00100_C51",
+          "text": "�ǂ�����g�p����H"
         },
         {
-          "index": 1,
-          "name": "CC01_N00200_C51",
-          "text": "ヘッドギア型を使用してみよう"
+          "title": "CC01_N00200_C51",
+          "text": "�w�b�h�M�A�^���g�p���Ă݂悤"
         },
         {
-          "index": 2,
-          "name": "CC01_N00300_C51",
-          "text": "通常計測で調整しよう"
+          "title": "CC01_N00300_C51",
+          "text": "�ʏ�v���Œ������悤"
         },
         {
-          "index": 3,
-          "name": "CC01_N00400_C51",
-          "text": "カプセルベッド型を使用してみよう"
+          "title": "CC01_N00400_C51",
+          "text": "�J�v�Z���x�b�h�^���g�p���Ă݂悤"
         },
         {
-          "index": 4,
-          "name": "CC01_N00500_C51",
-          "text": "精密計測で調整しよう"
+          "title": "CC01_N00500_C51",
+          "text": "�����v���Œ������悤"
         },
         {
-          "index": 5,
-          "name": "CC01_N00600_C51",
-          "text": "計測はせずに調整しよう"
+          "title": "CC01_N00600_C51",
+          "text": "�v���͂����ɒ������悤"
         },
         {
-          "index": 6,
-          "name": "CC01_N00700_C51",
-          "text": "計測を開始するぞ\n\n"
+          "title": "CC01_N00700_C51",
+          "text": "�v�����J�n���邼\n\n"
         },
         {
-          "index": 7,
-          "name": "CC01_N00800_C51",
-          "text": "計測は問題無いな\n\n"
+          "title": "CC01_N00800_C51",
+          "text": "�v���͖�薳����\n\n"
         },
         {
-          "index": 8,
-          "name": "CC01_N00900_C51",
-          "text": "計測は順調だ\n\n"
+          "title": "CC01_N00900_C51",
+          "text": "�v���͏�����\n\n"
         },
         {
-          "index": 9,
-          "name": "CC01_N01000_C51",
-          "text": "クリアな波形で計測できているな\n\n"
+          "title": "CC01_N01000_C51",
+          "text": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n"
         },
         {
-          "index": 10,
-          "name": "クリアな波形で計測できているな\n\n",
+          "title": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n",
           "text": "CC01_N00900_C51"
         },
         {
-          "index": 11,
-          "name": "少しノイズが出ているな\n\n",
+          "title": "�����m�C�Y���o�Ă����\n\n",
           "text": "CC01_N01000_C51"
         },
         {
-          "index": 12,
-          "name": "波形が乱れているな\n\n",
+          "title": "�g�`������Ă����\n\n",
           "text": "CC01_N01100_C51"
         },
         {
-          "index": 13,
-          "name": "CC01_N01400_C51",
-          "text": "すまん\nもう一度計測させてほしい\n"
+          "title": "CC01_N01400_C51",
+          "text": "���܂�\n������x�v�������Ăق���\n"
         },
         {
-          "index": 14,
-          "name": "CC01_N01500_C51",
-          "text": "まずまずの計測結果だったぞ\n\n"
+          "title": "CC01_N01500_C51",
+          "text": "�܂��܂��̌v�����ʂ�������\n\n"
         },
         {
-          "index": 15,
-          "name": "CC01_N01600_C51",
-          "text": "良い計測結果になったな\nこれなら調整も上手く行くと思うぞ\n"
+          "title": "CC01_N01600_C51",
+          "text": "�ǂ��v�����ʂɂȂ�����\n����Ȃ璲������肭�s���Ǝv����\n"
         },
         {
-          "index": 16,
-          "name": "CC01_N01700_C51",
-          "text": "すまない……\n調整に失敗してしまったよ\n"
+          "title": "CC01_N01700_C51",
+          "text": "���܂Ȃ��c�c\n�����Ɏ��s���Ă��܂�����\n"
         },
         {
-          "index": 17,
-          "name": "CC01_N01800_C51",
-          "text": "調整はしてみたけど\nあまり変わりは出なかったな\n"
+          "title": "CC01_N01800_C51",
+          "text": "�����͂��Ă݂�����\n���܂�ς��͏o�Ȃ�������\n"
         },
         {
-          "index": 18,
-          "name": "CC01_N01900_C51",
-          "text": "まずまずの調整結果だったぞ\nきっと効果も実感できるはずだ\n"
+          "title": "CC01_N01900_C51",
+          "text": "�܂��܂��̒������ʂ�������\n�����ƌ��ʂ������ł���͂���\n"
         },
         {
-          "index": 19,
-          "name": "CC01_N02000_C51",
-          "text": "調整は上手くいったぞ\nかなり扱いやすくなったはずだ\n"
+          "title": "CC01_N02000_C51",
+          "text": "�����͏�肭��������\n���Ȃ舵���₷���Ȃ����͂���\n"
         }
       ]
     },
     {
       "id": 12,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N00100_C51",
-          "text": "どちらを使用する？"
+          "title": "CC01_N00100_C51",
+          "text": "�ǂ�����g�p����H"
         },
         {
-          "index": 1,
-          "name": "CC01_N00200_C51",
-          "text": "ヘッドギア型を使用してみよう"
+          "title": "CC01_N00200_C51",
+          "text": "�w�b�h�M�A�^���g�p���Ă݂悤"
         },
         {
-          "index": 2,
-          "name": "CC01_N00300_C51",
-          "text": "通常計測で調整しよう"
+          "title": "CC01_N00300_C51",
+          "text": "�ʏ�v���Œ������悤"
         },
         {
-          "index": 3,
-          "name": "CC01_N00400_C51",
-          "text": "カプセルベッド型を使用してみよう"
+          "title": "CC01_N00400_C51",
+          "text": "�J�v�Z���x�b�h�^���g�p���Ă݂悤"
         },
         {
-          "index": 4,
-          "name": "CC01_N00500_C51",
-          "text": "精密計測で調整しよう"
+          "title": "CC01_N00500_C51",
+          "text": "�����v���Œ������悤"
         },
         {
-          "index": 5,
-          "name": "CC01_N00600_C51",
-          "text": "計測はせずに調整しよう"
+          "title": "CC01_N00600_C51",
+          "text": "�v���͂����ɒ������悤"
         },
         {
-          "index": 6,
-          "name": "CC01_N00700_C51",
-          "text": "計測を開始するぞ\n\n"
+          "title": "CC01_N00700_C51",
+          "text": "�v�����J�n���邼\n\n"
         },
         {
-          "index": 7,
-          "name": "CC01_N00800_C51",
-          "text": "計測は問題無いな\n\n"
+          "title": "CC01_N00800_C51",
+          "text": "�v���͖�薳����\n\n"
         },
         {
-          "index": 8,
-          "name": "CC01_N00900_C51",
-          "text": "計測は順調だ\n\n"
+          "title": "CC01_N00900_C51",
+          "text": "�v���͏�����\n\n"
         },
         {
-          "index": 9,
-          "name": "CC01_N01000_C51",
-          "text": "クリアな波形で計測できているな\n\n"
+          "title": "CC01_N01000_C51",
+          "text": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n"
         },
         {
-          "index": 10,
-          "name": "クリアな波形で計測できているな\n\n",
+          "title": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n",
           "text": "CC01_N00900_C51"
         },
         {
-          "index": 11,
-          "name": "少しノイズが出ているな\n\n",
+          "title": "�����m�C�Y���o�Ă����\n\n",
           "text": "CC01_N01000_C51"
         },
         {
-          "index": 12,
-          "name": "波形が乱れているな\n\n",
+          "title": "�g�`������Ă����\n\n",
           "text": "CC01_N01100_C51"
         },
         {
-          "index": 13,
-          "name": "CC01_N01400_C51",
-          "text": "すまん\nもう一度計測させてほしい\n"
+          "title": "CC01_N01400_C51",
+          "text": "���܂�\n������x�v�������Ăق���\n"
         },
         {
-          "index": 14,
-          "name": "CC01_N01500_C51",
-          "text": "まずまずの計測結果だったぞ\n\n"
+          "title": "CC01_N01500_C51",
+          "text": "�܂��܂��̌v�����ʂ�������\n\n"
         },
         {
-          "index": 15,
-          "name": "CC01_N01600_C51",
-          "text": "良い計測結果になったな\nこれなら調整も上手く行くと思うぞ\n"
+          "title": "CC01_N01600_C51",
+          "text": "�ǂ��v�����ʂɂȂ�����\n����Ȃ璲������肭�s���Ǝv����\n"
         },
         {
-          "index": 16,
-          "name": "CC01_N01700_C51",
-          "text": "すまない……\n調整に失敗してしまったよ\n"
+          "title": "CC01_N01700_C51",
+          "text": "���܂Ȃ��c�c\n�����Ɏ��s���Ă��܂�����\n"
         },
         {
-          "index": 17,
-          "name": "CC01_N01800_C51",
-          "text": "調整はしてみたけど\nあまり変わりは出なかったな\n"
+          "title": "CC01_N01800_C51",
+          "text": "�����͂��Ă݂�����\n���܂�ς��͏o�Ȃ�������\n"
         },
         {
-          "index": 18,
-          "name": "CC01_N01900_C51",
-          "text": "まずまずの調整結果だったぞ\nきっと効果も実感できるはずだ\n"
+          "title": "CC01_N01900_C51",
+          "text": "�܂��܂��̒������ʂ�������\n�����ƌ��ʂ������ł���͂���\n"
         },
         {
-          "index": 19,
-          "name": "CC01_N02000_C51",
-          "text": "調整は上手くいったぞ\nかなり扱いやすくなったはずだ\n"
+          "title": "CC01_N02000_C51",
+          "text": "�����͏�肭��������\n���Ȃ舵���₷���Ȃ����͂���\n"
         }
       ]
     },
     {
       "id": 14,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N00100_C51",
-          "text": "どちらを使用する？"
+          "title": "CC01_N00100_C51",
+          "text": "�ǂ�����g�p����H"
         },
         {
-          "index": 1,
-          "name": "CC01_N00200_C51",
-          "text": "ヘッドギア型を使用してみよう"
+          "title": "CC01_N00200_C51",
+          "text": "�w�b�h�M�A�^���g�p���Ă݂悤"
         },
         {
-          "index": 2,
-          "name": "CC01_N00300_C51",
-          "text": "通常計測で調整しよう"
+          "title": "CC01_N00300_C51",
+          "text": "�ʏ�v���Œ������悤"
         },
         {
-          "index": 3,
-          "name": "CC01_N00400_C51",
-          "text": "カプセルベッド型を使用してみよう"
+          "title": "CC01_N00400_C51",
+          "text": "�J�v�Z���x�b�h�^���g�p���Ă݂悤"
         },
         {
-          "index": 4,
-          "name": "CC01_N00500_C51",
-          "text": "精密計測で調整しよう"
+          "title": "CC01_N00500_C51",
+          "text": "�����v���Œ������悤"
         },
         {
-          "index": 5,
-          "name": "CC01_N00600_C51",
-          "text": "計測はせずに調整しよう"
+          "title": "CC01_N00600_C51",
+          "text": "�v���͂����ɒ������悤"
         },
         {
-          "index": 6,
-          "name": "CC01_N00700_C51",
-          "text": "計測を開始するぞ\n\n"
+          "title": "CC01_N00700_C51",
+          "text": "�v�����J�n���邼\n\n"
         },
         {
-          "index": 7,
-          "name": "CC01_N00800_C51",
-          "text": "計測は問題無いな\n\n"
+          "title": "CC01_N00800_C51",
+          "text": "�v���͖�薳����\n\n"
         },
         {
-          "index": 8,
-          "name": "CC01_N00900_C51",
-          "text": "計測は順調だ\n\n"
+          "title": "CC01_N00900_C51",
+          "text": "�v���͏�����\n\n"
         },
         {
-          "index": 9,
-          "name": "CC01_N01000_C51",
-          "text": "クリアな波形で計測できているな\n\n"
+          "title": "CC01_N01000_C51",
+          "text": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n"
         },
         {
-          "index": 10,
-          "name": "クリアな波形で計測できているな\n\n",
+          "title": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n",
           "text": "CC01_N00900_C51"
         },
         {
-          "index": 11,
-          "name": "少しノイズが出ているな\n\n",
+          "title": "�����m�C�Y���o�Ă����\n\n",
           "text": "CC01_N01000_C51"
         },
         {
-          "index": 12,
-          "name": "波形が乱れているな\n\n",
+          "title": "�g�`������Ă����\n\n",
           "text": "CC01_N01100_C51"
         },
         {
-          "index": 13,
-          "name": "CC01_N01400_C51",
-          "text": "すまん\nもう一度計測させてほしい\n"
+          "title": "CC01_N01400_C51",
+          "text": "���܂�\n������x�v�������Ăق���\n"
         },
         {
-          "index": 14,
-          "name": "CC01_N01500_C51",
-          "text": "まずまずの計測結果だったぞ\n\n"
+          "title": "CC01_N01500_C51",
+          "text": "�܂��܂��̌v�����ʂ�������\n\n"
         },
         {
-          "index": 15,
-          "name": "CC01_N01600_C51",
-          "text": "良い計測結果になったな\nこれなら調整も上手く行くと思うぞ\n"
+          "title": "CC01_N01600_C51",
+          "text": "�ǂ��v�����ʂɂȂ�����\n����Ȃ璲������肭�s���Ǝv����\n"
         },
         {
-          "index": 16,
-          "name": "CC01_N01700_C51",
-          "text": "すまない……\n調整に失敗してしまったよ\n"
+          "title": "CC01_N01700_C51",
+          "text": "���܂Ȃ��c�c\n�����Ɏ��s���Ă��܂�����\n"
         },
         {
-          "index": 17,
-          "name": "CC01_N01800_C51",
-          "text": "調整はしてみたけど\nあまり変わりは出なかったな\n"
+          "title": "CC01_N01800_C51",
+          "text": "�����͂��Ă݂�����\n���܂�ς��͏o�Ȃ�������\n"
         },
         {
-          "index": 18,
-          "name": "CC01_N01900_C51",
-          "text": "まずまずの調整結果だったぞ\nきっと効果も実感できるはずだ\n"
+          "title": "CC01_N01900_C51",
+          "text": "�܂��܂��̒������ʂ�������\n�����ƌ��ʂ������ł���͂���\n"
         },
         {
-          "index": 19,
-          "name": "CC01_N02000_C51",
-          "text": "調整は上手くいったぞ\nかなり扱いやすくなったはずだ\n"
+          "title": "CC01_N02000_C51",
+          "text": "�����͏�肭��������\n���Ȃ舵���₷���Ȃ����͂���\n"
         }
       ]
     },
     {
       "id": 21,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N00100_C51",
-          "text": "どちらを使用する？"
+          "title": "CC01_N00100_C51",
+          "text": "�ǂ�����g�p����H"
         },
         {
-          "index": 1,
-          "name": "CC01_N00200_C51",
-          "text": "ヘッドギア型を使用してみよう"
+          "title": "CC01_N00200_C51",
+          "text": "�w�b�h�M�A�^���g�p���Ă݂悤"
         },
         {
-          "index": 2,
-          "name": "CC01_N00300_C51",
-          "text": "通常計測で調整しよう"
+          "title": "CC01_N00300_C51",
+          "text": "�ʏ�v���Œ������悤"
         },
         {
-          "index": 3,
-          "name": "CC01_N00400_C51",
-          "text": "カプセルベッド型を使用してみよう"
+          "title": "CC01_N00400_C51",
+          "text": "�J�v�Z���x�b�h�^���g�p���Ă݂悤"
         },
         {
-          "index": 4,
-          "name": "CC01_N00500_C51",
-          "text": "精密計測で調整しよう"
+          "title": "CC01_N00500_C51",
+          "text": "�����v���Œ������悤"
         },
         {
-          "index": 5,
-          "name": "CC01_N00600_C51",
-          "text": "計測はせずに調整しよう"
+          "title": "CC01_N00600_C51",
+          "text": "�v���͂����ɒ������悤"
         },
         {
-          "index": 6,
-          "name": "CC02_N00700_C51",
-          "text": "計測を開始します\n\n"
+          "title": "CC02_N00700_C51",
+          "text": "�v�����J�n���܂�\n\n"
         },
         {
-          "index": 7,
-          "name": "CC02_N00800_C51",
-          "text": "計測に問題ありません\n\n"
+          "title": "CC02_N00800_C51",
+          "text": "�v���ɖ�肠��܂���\n\n"
         },
         {
-          "index": 8,
-          "name": "CC02_N00900_C51",
-          "text": "計測は順調です\n\n"
+          "title": "CC02_N00900_C51",
+          "text": "�v���͏����ł�\n\n"
         },
         {
-          "index": 9,
-          "name": "CC02_N01000_C51",
-          "text": "クリアな波形で計測できています\n\n"
+          "title": "CC02_N01000_C51",
+          "text": "�N���A�Ȕg�`�Ōv���ł��Ă��܂�\n\n"
         },
         {
-          "index": 10,
-          "name": "クリアな波形で計測できています\n\n",
+          "title": "�N���A�Ȕg�`�Ōv���ł��Ă��܂�\n\n",
           "text": "CC02_N00900_C51"
         },
         {
-          "index": 11,
-          "name": "少しノイズが出ています\n\n",
+          "title": "�����m�C�Y���o�Ă��܂�\n\n",
           "text": "CC02_N01000_C51"
         },
         {
-          "index": 12,
-          "name": "波形が乱れています\n\n",
+          "title": "�g�`������Ă��܂�\n\n",
           "text": "CC02_N01100_C51"
         },
         {
-          "index": 13,
-          "name": "CC02_N01400_C51",
-          "text": "すみません\n再計測が必要かと思います\n"
+          "title": "CC02_N01400_C51",
+          "text": "���݂܂���\n�Čv�����K�v���Ǝv���܂�\n"
         },
         {
-          "index": 14,
-          "name": "CC02_N01500_C51",
-          "text": "お疲れ様です\nまずまずの計測結果だと思います\n"
+          "title": "CC02_N01500_C51",
+          "text": "�����l�ł�\n�܂��܂��̌v�����ʂ��Ǝv���܂�\n"
         },
         {
-          "index": 15,
-          "name": "CC02_N01600_C51",
-          "text": "お疲れ様です\nこの結果なら調整もし易いと思います\n"
+          "title": "CC02_N01600_C51",
+          "text": "�����l�ł�\n���̌��ʂȂ璲�������Ղ��Ǝv���܂�\n"
         },
         {
-          "index": 16,
-          "name": "CC02_N01700_C51",
-          "text": "すみません\nあまり良い調整になりませんでした\n"
+          "title": "CC02_N01700_C51",
+          "text": "���݂܂���\n���܂�ǂ������ɂȂ�܂���ł���\n"
         },
         {
-          "index": 17,
-          "name": "CC02_N01800_C51",
-          "text": "調整はしてみましたが\n大きな変化は出ませんでした\n"
+          "title": "CC02_N01800_C51",
+          "text": "�����͂��Ă݂܂�����\n�傫�ȕω��͏o�܂���ł���\n"
         },
         {
-          "index": 18,
-          "name": "CC02_N01900_C51",
-          "text": "問題無く、調整ができたと思います\n効果も確認してみてください\n"
+          "title": "CC02_N01900_C51",
+          "text": "��薳���A�������ł����Ǝv���܂�\n���ʂ��m�F���Ă݂Ă�������\n"
         },
         {
-          "index": 19,
-          "name": "CC02_N02000_C51",
-          "text": "調整は上手くいきました\nかなり扱いやすくなったと思います\n"
+          "title": "CC02_N02000_C51",
+          "text": "�����͏�肭�����܂���\n���Ȃ舵���₷���Ȃ����Ǝv���܂�\n"
         }
       ]
     },
     {
       "id": 22,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "",
-          "text": "どちらを使用する？"
+          "title": "",
+          "text": "�ǂ�����g�p����H"
         },
         {
-          "index": 1,
-          "name": "",
-          "text": "ヘッドギア型を使用してみよう"
+          "title": "",
+          "text": "�w�b�h�M�A�^���g�p���Ă݂悤"
         },
         {
-          "index": 2,
-          "name": "",
-          "text": "通常計測で調整しよう"
+          "title": "",
+          "text": "�ʏ�v���Œ������悤"
         },
         {
-          "index": 3,
-          "name": "",
-          "text": "カプセルベッド型を使用してみよう"
+          "title": "",
+          "text": "�J�v�Z���x�b�h�^���g�p���Ă݂悤"
         },
         {
-          "index": 4,
-          "name": "",
-          "text": "精密計測で調整しよう"
+          "title": "",
+          "text": "�����v���Œ������悤"
         },
         {
-          "index": 5,
-          "name": "",
-          "text": "計測はせずに調整しよう"
+          "title": "",
+          "text": "�v���͂����ɒ������悤"
         },
         {
-          "index": 6,
-          "name": "",
-          "text": "計測を開始します\n\n"
+          "title": "",
+          "text": "�v�����J�n���܂�\n\n"
         },
         {
-          "index": 7,
-          "name": "",
-          "text": "計測に問題ありません\n\n"
+          "title": "",
+          "text": "�v���ɖ�肠��܂���\n\n"
         },
         {
-          "index": 8,
-          "name": "",
-          "text": "計測は順調です\n\n"
+          "title": "",
+          "text": "�v���͏����ł�\n\n"
         },
         {
-          "index": 9,
-          "name": "",
-          "text": "クリアな波形で計測できています\n\n"
+          "title": "",
+          "text": "�N���A�Ȕg�`�Ōv���ł��Ă��܂�\n\n"
         },
         {
-          "index": 10,
-          "name": "クリアな波形で計測できています\n\n",
+          "title": "�N���A�Ȕg�`�Ōv���ł��Ă��܂�\n\n",
           "text": ""
         },
         {
-          "index": 11,
-          "name": "少しノイズが出ています\n\n",
+          "title": "�����m�C�Y���o�Ă��܂�\n\n",
           "text": ""
         },
         {
-          "index": 12,
-          "name": "波形が乱れています\n\n",
+          "title": "�g�`������Ă��܂�\n\n",
           "text": ""
         },
         {
-          "index": 13,
-          "name": "",
-          "text": "すみません\n再計測が必要かと思います\n"
+          "title": "",
+          "text": "���݂܂���\n�Čv�����K�v���Ǝv���܂�\n"
         },
         {
-          "index": 14,
-          "name": "",
-          "text": "お疲れ様です\nまずまずの計測結果だと思います\n"
+          "title": "",
+          "text": "�����l�ł�\n�܂��܂��̌v�����ʂ��Ǝv���܂�\n"
         },
         {
-          "index": 15,
-          "name": "",
-          "text": "お疲れ様です\nこの結果なら調整もし易いと思います\n"
+          "title": "",
+          "text": "�����l�ł�\n���̌��ʂȂ璲�������Ղ��Ǝv���܂�\n"
         },
         {
-          "index": 16,
-          "name": "",
-          "text": "すみません\nあまり良い調整になりませんでした\n"
+          "title": "",
+          "text": "���݂܂���\n���܂�ǂ������ɂȂ�܂���ł���\n"
         },
         {
-          "index": 17,
-          "name": "",
-          "text": "調整はしてみましたが\n大きな変化は出ませんでした\n"
+          "title": "",
+          "text": "�����͂��Ă݂܂�����\n�傫�ȕω��͏o�܂���ł���\n"
         },
         {
-          "index": 18,
-          "name": "",
-          "text": "問題無く、調整ができたと思います\n効果も確認してみてください\n"
+          "title": "",
+          "text": "��薳���A�������ł����Ǝv���܂�\n���ʂ��m�F���Ă݂Ă�������\n"
         },
         {
-          "index": 19,
-          "name": "",
-          "text": "調整は上手くいきました\nかなり扱いやすくなったと思います\n"
+          "title": "",
+          "text": "�����͏�肭�����܂���\n���Ȃ舵���₷���Ȃ����Ǝv���܂�\n"
         }
       ]
     },
     {
       "id": 23,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "",
-          "text": "どちらを使用する？"
+          "title": "",
+          "text": "�ǂ�����g�p����H"
         },
         {
-          "index": 1,
-          "name": "",
-          "text": "ヘッドギア型を使用してみよう"
+          "title": "",
+          "text": "�w�b�h�M�A�^���g�p���Ă݂悤"
         },
         {
-          "index": 2,
-          "name": "",
-          "text": "通常計測で調整しよう"
+          "title": "",
+          "text": "�ʏ�v���Œ������悤"
         },
         {
-          "index": 3,
-          "name": "",
-          "text": "カプセルベッド型を使用してみよう"
+          "title": "",
+          "text": "�J�v�Z���x�b�h�^���g�p���Ă݂悤"
         },
         {
-          "index": 4,
-          "name": "",
-          "text": "精密計測で調整しよう"
+          "title": "",
+          "text": "�����v���Œ������悤"
         },
         {
-          "index": 5,
-          "name": "",
-          "text": "計測はせずに調整しよう"
+          "title": "",
+          "text": "�v���͂����ɒ������悤"
         },
         {
-          "index": 6,
-          "name": "",
-          "text": "計測を開始します\n\n"
+          "title": "",
+          "text": "�v�����J�n���܂�\n\n"
         },
         {
-          "index": 7,
-          "name": "",
-          "text": "計測に問題ありません\n\n"
+          "title": "",
+          "text": "�v���ɖ�肠��܂���\n\n"
         },
         {
-          "index": 8,
-          "name": "",
-          "text": "計測は順調です\n\n"
+          "title": "",
+          "text": "�v���͏����ł�\n\n"
         },
         {
-          "index": 9,
-          "name": "",
-          "text": "クリアな波形で計測できています\n\n"
+          "title": "",
+          "text": "�N���A�Ȕg�`�Ōv���ł��Ă��܂�\n\n"
         },
         {
-          "index": 10,
-          "name": "クリアな波形で計測できています\n\n",
+          "title": "�N���A�Ȕg�`�Ōv���ł��Ă��܂�\n\n",
           "text": ""
         },
         {
-          "index": 11,
-          "name": "少しノイズが出ています\n\n",
+          "title": "�����m�C�Y���o�Ă��܂�\n\n",
           "text": ""
         },
         {
-          "index": 12,
-          "name": "波形が乱れています\n\n",
+          "title": "�g�`������Ă��܂�\n\n",
           "text": ""
         },
         {
-          "index": 13,
-          "name": "",
-          "text": "すみません\n再計測が必要かと思います\n"
+          "title": "",
+          "text": "���݂܂���\n�Čv�����K�v���Ǝv���܂�\n"
         },
         {
-          "index": 14,
-          "name": "",
-          "text": "お疲れ様です\nまずまずの計測結果だと思います\n"
+          "title": "",
+          "text": "�����l�ł�\n�܂��܂��̌v�����ʂ��Ǝv���܂�\n"
         },
         {
-          "index": 15,
-          "name": "",
-          "text": "お疲れ様です\nこの結果なら調整もし易いと思います\n"
+          "title": "",
+          "text": "�����l�ł�\n���̌��ʂȂ璲�������Ղ��Ǝv���܂�\n"
         },
         {
-          "index": 16,
-          "name": "",
-          "text": "すみません\nあまり良い調整になりませんでした\n"
+          "title": "",
+          "text": "���݂܂���\n���܂�ǂ������ɂȂ�܂���ł���\n"
         },
         {
-          "index": 17,
-          "name": "",
-          "text": "調整はしてみましたが\n大きな変化は出ませんでした\n"
+          "title": "",
+          "text": "�����͂��Ă݂܂�����\n�傫�ȕω��͏o�܂���ł���\n"
         },
         {
-          "index": 18,
-          "name": "",
-          "text": "問題無く、調整ができたと思います\n効果も確認してみてください\n"
+          "title": "",
+          "text": "��薳���A�������ł����Ǝv���܂�\n���ʂ��m�F���Ă݂Ă�������\n"
         },
         {
-          "index": 19,
-          "name": "",
-          "text": "調整は上手くいきました\nかなり扱いやすくなったと思います\n"
+          "title": "",
+          "text": "�����͏�肭�����܂���\n���Ȃ舵���₷���Ȃ����Ǝv���܂�\n"
         }
       ]
     },
     {
       "id": 29,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N00100_C51",
-          "text": "どちらを使用する？"
+          "title": "CC01_N00100_C51",
+          "text": "�ǂ�����g�p����H"
         },
         {
-          "index": 1,
-          "name": "CC01_N00200_C51",
-          "text": "ヘッドギア型を使用してみよう"
+          "title": "CC01_N00200_C51",
+          "text": "�w�b�h�M�A�^���g�p���Ă݂悤"
         },
         {
-          "index": 2,
-          "name": "CC01_N00300_C51",
-          "text": "通常計測で調整しよう"
+          "title": "CC01_N00300_C51",
+          "text": "�ʏ�v���Œ������悤"
         },
         {
-          "index": 3,
-          "name": "CC01_N00400_C51",
-          "text": "カプセルベッド型を使用してみよう"
+          "title": "CC01_N00400_C51",
+          "text": "�J�v�Z���x�b�h�^���g�p���Ă݂悤"
         },
         {
-          "index": 4,
-          "name": "CC01_N00500_C51",
-          "text": "精密計測で調整しよう"
+          "title": "CC01_N00500_C51",
+          "text": "�����v���Œ������悤"
         },
         {
-          "index": 5,
-          "name": "CC01_N00600_C51",
-          "text": "計測はせずに調整しよう"
+          "title": "CC01_N00600_C51",
+          "text": "�v���͂����ɒ������悤"
         },
         {
-          "index": 6,
-          "name": "CC02_N00700_C51",
-          "text": "計測を開始します\n\n"
+          "title": "CC02_N00700_C51",
+          "text": "�v�����J�n���܂�\n\n"
         },
         {
-          "index": 7,
-          "name": "CC02_N00800_C51",
-          "text": "計測に問題ありません\n\n"
+          "title": "CC02_N00800_C51",
+          "text": "�v���ɖ�肠��܂���\n\n"
         },
         {
-          "index": 8,
-          "name": "CC02_N00900_C51",
-          "text": "計測は順調です\n\n"
+          "title": "CC02_N00900_C51",
+          "text": "�v���͏����ł�\n\n"
         },
         {
-          "index": 9,
-          "name": "CC02_N01000_C51",
-          "text": "クリアな波形で計測できています\n\n"
+          "title": "CC02_N01000_C51",
+          "text": "�N���A�Ȕg�`�Ōv���ł��Ă��܂�\n\n"
         },
         {
-          "index": 10,
-          "name": "クリアな波形で計測できています\n\n",
+          "title": "�N���A�Ȕg�`�Ōv���ł��Ă��܂�\n\n",
           "text": "CC02_N00900_C51"
         },
         {
-          "index": 11,
-          "name": "少しノイズが出ています\n\n",
+          "title": "�����m�C�Y���o�Ă��܂�\n\n",
           "text": "CC02_N01000_C51"
         },
         {
-          "index": 12,
-          "name": "波形が乱れています\n\n",
+          "title": "�g�`������Ă��܂�\n\n",
           "text": "CC02_N01100_C51"
         },
         {
-          "index": 13,
-          "name": "CC02_N01400_C51",
-          "text": "すみません\n再計測が必要かと思います\n"
+          "title": "CC02_N01400_C51",
+          "text": "���݂܂���\n�Čv�����K�v���Ǝv���܂�\n"
         },
         {
-          "index": 14,
-          "name": "CC02_N01500_C51",
-          "text": "お疲れ様です\nまずまずの計測結果だと思います\n"
+          "title": "CC02_N01500_C51",
+          "text": "�����l�ł�\n�܂��܂��̌v�����ʂ��Ǝv���܂�\n"
         },
         {
-          "index": 15,
-          "name": "CC02_N01600_C51",
-          "text": "お疲れ様です\nこの結果なら調整もし易いと思います\n"
+          "title": "CC02_N01600_C51",
+          "text": "�����l�ł�\n���̌��ʂȂ璲�������Ղ��Ǝv���܂�\n"
         },
         {
-          "index": 16,
-          "name": "CC02_N01700_C51",
-          "text": "すみません\nあまり良い調整になりませんでした\n"
+          "title": "CC02_N01700_C51",
+          "text": "���݂܂���\n���܂�ǂ������ɂȂ�܂���ł���\n"
         },
         {
-          "index": 17,
-          "name": "CC02_N01800_C51",
-          "text": "調整はしてみましたが\n大きな変化は出ませんでした\n"
+          "title": "CC02_N01800_C51",
+          "text": "�����͂��Ă݂܂�����\n�傫�ȕω��͏o�܂���ł���\n"
         },
         {
-          "index": 18,
-          "name": "CC02_N01900_C51",
-          "text": "問題無く、調整ができたと思います\n効果も確認してみてください\n"
+          "title": "CC02_N01900_C51",
+          "text": "��薳���A�������ł����Ǝv���܂�\n���ʂ��m�F���Ă݂Ă�������\n"
         },
         {
-          "index": 19,
-          "name": "CC02_N02000_C51",
-          "text": "調整は上手くいきました\nかなり扱いやすくなったと思います\n"
+          "title": "CC02_N02000_C51",
+          "text": "�����͏�肭�����܂���\n���Ȃ舵���₷���Ȃ����Ǝv���܂�\n"
         }
       ]
     },
     {
       "id": 31,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N00100_C51",
-          "text": "どちらを使用する？"
+          "title": "CC01_N00100_C51",
+          "text": "�ǂ�����g�p����H"
         },
         {
-          "index": 1,
-          "name": "CC01_N00200_C51",
-          "text": "ヘッドギア型を使用してみよう"
+          "title": "CC01_N00200_C51",
+          "text": "�w�b�h�M�A�^���g�p���Ă݂悤"
         },
         {
-          "index": 2,
-          "name": "CC01_N00300_C51",
-          "text": "通常計測で調整しよう"
+          "title": "CC01_N00300_C51",
+          "text": "�ʏ�v���Œ������悤"
         },
         {
-          "index": 3,
-          "name": "CC01_N00400_C51",
-          "text": "カプセルベッド型を使用してみよう"
+          "title": "CC01_N00400_C51",
+          "text": "�J�v�Z���x�b�h�^���g�p���Ă݂悤"
         },
         {
-          "index": 4,
-          "name": "CC01_N00500_C51",
-          "text": "精密計測で調整しよう"
+          "title": "CC01_N00500_C51",
+          "text": "�����v���Œ������悤"
         },
         {
-          "index": 5,
-          "name": "CC01_N00600_C51",
-          "text": "計測はせずに調整しよう"
+          "title": "CC01_N00600_C51",
+          "text": "�v���͂����ɒ������悤"
         },
         {
-          "index": 6,
-          "name": "CC02_N00700_C51",
-          "text": "計測を開始します\n\n"
+          "title": "CC02_N00700_C51",
+          "text": "�v�����J�n���܂�\n\n"
         },
         {
-          "index": 7,
-          "name": "CC02_N00800_C51",
-          "text": "計測に問題ありません\n\n"
+          "title": "CC02_N00800_C51",
+          "text": "�v���ɖ�肠��܂���\n\n"
         },
         {
-          "index": 8,
-          "name": "CC02_N00900_C51",
-          "text": "計測は順調です\n\n"
+          "title": "CC02_N00900_C51",
+          "text": "�v���͏����ł�\n\n"
         },
         {
-          "index": 9,
-          "name": "CC02_N01000_C51",
-          "text": "クリアな波形で計測できています\n\n"
+          "title": "CC02_N01000_C51",
+          "text": "�N���A�Ȕg�`�Ōv���ł��Ă��܂�\n\n"
         },
         {
-          "index": 10,
-          "name": "クリアな波形で計測できています\n\n",
+          "title": "�N���A�Ȕg�`�Ōv���ł��Ă��܂�\n\n",
           "text": "CC02_N00900_C51"
         },
         {
-          "index": 11,
-          "name": "少しノイズが出ています\n\n",
+          "title": "�����m�C�Y���o�Ă��܂�\n\n",
           "text": "CC02_N01000_C51"
         },
         {
-          "index": 12,
-          "name": "波形が乱れています\n\n",
+          "title": "�g�`������Ă��܂�\n\n",
           "text": "CC02_N01100_C51"
         },
         {
-          "index": 13,
-          "name": "CC02_N01400_C51",
-          "text": "すみません\n再計測が必要かと思います\n"
+          "title": "CC02_N01400_C51",
+          "text": "���݂܂���\n�Čv�����K�v���Ǝv���܂�\n"
         },
         {
-          "index": 14,
-          "name": "CC02_N01500_C51",
-          "text": "お疲れ様です\nまずまずの計測結果だと思います\n"
+          "title": "CC02_N01500_C51",
+          "text": "�����l�ł�\n�܂��܂��̌v�����ʂ��Ǝv���܂�\n"
         },
         {
-          "index": 15,
-          "name": "CC02_N01600_C51",
-          "text": "お疲れ様です\nこの結果なら調整もし易いと思います\n"
+          "title": "CC02_N01600_C51",
+          "text": "�����l�ł�\n���̌��ʂȂ璲�������Ղ��Ǝv���܂�\n"
         },
         {
-          "index": 16,
-          "name": "CC02_N01700_C51",
-          "text": "すみません\nあまり良い調整になりませんでした\n"
+          "title": "CC02_N01700_C51",
+          "text": "���݂܂���\n���܂�ǂ������ɂȂ�܂���ł���\n"
         },
         {
-          "index": 17,
-          "name": "CC02_N01800_C51",
-          "text": "調整はしてみましたが\n大きな変化は出ませんでした\n"
+          "title": "CC02_N01800_C51",
+          "text": "�����͂��Ă݂܂�����\n�傫�ȕω��͏o�܂���ł���\n"
         },
         {
-          "index": 18,
-          "name": "CC02_N01900_C51",
-          "text": "問題無く、調整ができたと思います\n効果も確認してみてください\n"
+          "title": "CC02_N01900_C51",
+          "text": "��薳���A�������ł����Ǝv���܂�\n���ʂ��m�F���Ă݂Ă�������\n"
         },
         {
-          "index": 19,
-          "name": "CC02_N02000_C51",
-          "text": "調整は上手くいきました\nかなり扱いやすくなったと思います\n"
+          "title": "CC02_N02000_C51",
+          "text": "�����͏�肭�����܂���\n���Ȃ舵���₷���Ȃ����Ǝv���܂�\n"
         }
       ]
     },
     {
       "id": 34,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N00100_C51",
-          "text": "どちらを使用する？"
+          "title": "CC01_N00100_C51",
+          "text": "�ǂ�����g�p����H"
         },
         {
-          "index": 1,
-          "name": "CC01_N00200_C51",
-          "text": "ヘッドギア型を使用してみよう"
+          "title": "CC01_N00200_C51",
+          "text": "�w�b�h�M�A�^���g�p���Ă݂悤"
         },
         {
-          "index": 2,
-          "name": "CC01_N00300_C51",
-          "text": "通常計測で調整しよう"
+          "title": "CC01_N00300_C51",
+          "text": "�ʏ�v���Œ������悤"
         },
         {
-          "index": 3,
-          "name": "CC01_N00400_C51",
-          "text": "カプセルベッド型を使用してみよう"
+          "title": "CC01_N00400_C51",
+          "text": "�J�v�Z���x�b�h�^���g�p���Ă݂悤"
         },
         {
-          "index": 4,
-          "name": "CC01_N00500_C51",
-          "text": "精密計測で調整しよう"
+          "title": "CC01_N00500_C51",
+          "text": "�����v���Œ������悤"
         },
         {
-          "index": 5,
-          "name": "CC01_N00600_C51",
-          "text": "計測はせずに調整しよう"
+          "title": "CC01_N00600_C51",
+          "text": "�v���͂����ɒ������悤"
         },
         {
-          "index": 6,
-          "name": "CC02_N00700_C51",
-          "text": "計測を開始します\n\n"
+          "title": "CC02_N00700_C51",
+          "text": "�v�����J�n���܂�\n\n"
         },
         {
-          "index": 7,
-          "name": "CC02_N00800_C51",
-          "text": "計測に問題ありません\n\n"
+          "title": "CC02_N00800_C51",
+          "text": "�v���ɖ�肠��܂���\n\n"
         },
         {
-          "index": 8,
-          "name": "CC02_N00900_C51",
-          "text": "計測は順調です\n\n"
+          "title": "CC02_N00900_C51",
+          "text": "�v���͏����ł�\n\n"
         },
         {
-          "index": 9,
-          "name": "CC02_N01000_C51",
-          "text": "クリアな波形で計測できています\n\n"
+          "title": "CC02_N01000_C51",
+          "text": "�N���A�Ȕg�`�Ōv���ł��Ă��܂�\n\n"
         },
         {
-          "index": 10,
-          "name": "クリアな波形で計測できています\n\n",
+          "title": "�N���A�Ȕg�`�Ōv���ł��Ă��܂�\n\n",
           "text": "CC02_N00900_C51"
         },
         {
-          "index": 11,
-          "name": "少しノイズが出ています\n\n",
+          "title": "�����m�C�Y���o�Ă��܂�\n\n",
           "text": "CC02_N01000_C51"
         },
         {
-          "index": 12,
-          "name": "波形が乱れています\n\n",
+          "title": "�g�`������Ă��܂�\n\n",
           "text": "CC02_N01100_C51"
         },
         {
-          "index": 13,
-          "name": "CC02_N01400_C51",
-          "text": "すみません\n再計測が必要かと思います\n"
+          "title": "CC02_N01400_C51",
+          "text": "���݂܂���\n�Čv�����K�v���Ǝv���܂�\n"
         },
         {
-          "index": 14,
-          "name": "CC02_N01500_C51",
-          "text": "お疲れ様です\nまずまずの計測結果だと思います\n"
+          "title": "CC02_N01500_C51",
+          "text": "�����l�ł�\n�܂��܂��̌v�����ʂ��Ǝv���܂�\n"
         },
         {
-          "index": 15,
-          "name": "CC02_N01600_C51",
-          "text": "お疲れ様です\nこの結果なら調整もし易いと思います\n"
+          "title": "CC02_N01600_C51",
+          "text": "�����l�ł�\n���̌��ʂȂ璲�������Ղ��Ǝv���܂�\n"
         },
         {
-          "index": 16,
-          "name": "CC02_N01700_C51",
-          "text": "すみません\nあまり良い調整になりませんでした\n"
+          "title": "CC02_N01700_C51",
+          "text": "���݂܂���\n���܂�ǂ������ɂȂ�܂���ł���\n"
         },
         {
-          "index": 17,
-          "name": "CC02_N01800_C51",
-          "text": "調整はしてみましたが\n大きな変化は出ませんでした\n"
+          "title": "CC02_N01800_C51",
+          "text": "�����͂��Ă݂܂�����\n�傫�ȕω��͏o�܂���ł���\n"
         },
         {
-          "index": 18,
-          "name": "CC02_N01900_C51",
-          "text": "問題無く、調整ができたと思います\n効果も確認してみてください\n"
+          "title": "CC02_N01900_C51",
+          "text": "��薳���A�������ł����Ǝv���܂�\n���ʂ��m�F���Ă݂Ă�������\n"
         },
         {
-          "index": 19,
-          "name": "CC02_N02000_C51",
-          "text": "調整は上手くいきました\nかなり扱いやすくなったと思います\n"
+          "title": "CC02_N02000_C51",
+          "text": "�����͏�肭�����܂���\n���Ȃ舵���₷���Ȃ����Ǝv���܂�\n"
         }
       ]
     },
     {
       "id": 43,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "",
-          "text": "どちらを使用する？"
+          "title": "",
+          "text": "�ǂ�����g�p����H"
         },
         {
-          "index": 1,
-          "name": "",
-          "text": "ヘッドギア型を使用してみよう"
+          "title": "",
+          "text": "�w�b�h�M�A�^���g�p���Ă݂悤"
         },
         {
-          "index": 2,
-          "name": "",
-          "text": "通常計測で調整しよう"
+          "title": "",
+          "text": "�ʏ�v���Œ������悤"
         },
         {
-          "index": 3,
-          "name": "",
-          "text": "カプセルベッド型を使用してみよう"
+          "title": "",
+          "text": "�J�v�Z���x�b�h�^���g�p���Ă݂悤"
         },
         {
-          "index": 4,
-          "name": "",
-          "text": "精密計測で調整しよう"
+          "title": "",
+          "text": "�����v���Œ������悤"
         },
         {
-          "index": 5,
-          "name": "",
-          "text": "計測はせずに調整しよう"
+          "title": "",
+          "text": "�v���͂����ɒ������悤"
         },
         {
-          "index": 6,
-          "name": "",
-          "text": "計測を開始します\n\n"
+          "title": "",
+          "text": "�v�����J�n���܂�\n\n"
         },
         {
-          "index": 7,
-          "name": "",
-          "text": "計測に問題ありません\n\n"
+          "title": "",
+          "text": "�v���ɖ�肠��܂���\n\n"
         },
         {
-          "index": 8,
-          "name": "",
-          "text": "計測は順調です\n\n"
+          "title": "",
+          "text": "�v���͏����ł�\n\n"
         },
         {
-          "index": 9,
-          "name": "",
-          "text": "クリアな波形で計測できています\n\n"
+          "title": "",
+          "text": "�N���A�Ȕg�`�Ōv���ł��Ă��܂�\n\n"
         },
         {
-          "index": 10,
-          "name": "クリアな波形で計測できています\n\n",
+          "title": "�N���A�Ȕg�`�Ōv���ł��Ă��܂�\n\n",
           "text": ""
         },
         {
-          "index": 11,
-          "name": "少しノイズが出ています\n\n",
+          "title": "�����m�C�Y���o�Ă��܂�\n\n",
           "text": ""
         },
         {
-          "index": 12,
-          "name": "波形が乱れています\n\n",
+          "title": "�g�`������Ă��܂�\n\n",
           "text": ""
         },
         {
-          "index": 13,
-          "name": "",
-          "text": "すみません\n再計測が必要かと思います\n"
+          "title": "",
+          "text": "���݂܂���\n�Čv�����K�v���Ǝv���܂�\n"
         },
         {
-          "index": 14,
-          "name": "",
-          "text": "お疲れ様です\nまずまずの計測結果だと思います\n"
+          "title": "",
+          "text": "�����l�ł�\n�܂��܂��̌v�����ʂ��Ǝv���܂�\n"
         },
         {
-          "index": 15,
-          "name": "",
-          "text": "お疲れ様です\nこの結果なら調整もし易いと思います\n"
+          "title": "",
+          "text": "�����l�ł�\n���̌��ʂȂ璲�������Ղ��Ǝv���܂�\n"
         },
         {
-          "index": 16,
-          "name": "",
-          "text": "すみません\nあまり良い調整になりませんでした\n"
+          "title": "",
+          "text": "���݂܂���\n���܂�ǂ������ɂȂ�܂���ł���\n"
         },
         {
-          "index": 17,
-          "name": "",
-          "text": "調整はしてみましたが\n大きな変化は出ませんでした\n"
+          "title": "",
+          "text": "�����͂��Ă݂܂�����\n�傫�ȕω��͏o�܂���ł���\n"
         },
         {
-          "index": 18,
-          "name": "",
-          "text": "問題無く、調整ができたと思います\n効果も確認してみてください\n"
+          "title": "",
+          "text": "��薳���A�������ł����Ǝv���܂�\n���ʂ��m�F���Ă݂Ă�������\n"
         },
         {
-          "index": 19,
-          "name": "",
-          "text": "調整は上手くいきました\nかなり扱いやすくなったと思います\n"
+          "title": "",
+          "text": "�����͏�肭�����܂���\n���Ȃ舵���₷���Ȃ����Ǝv���܂�\n"
         }
       ]
     },
     {
       "id": 51,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "",
-          "text": "どちらを使用する？"
+          "title": "",
+          "text": "�ǂ�����g�p����H"
         },
         {
-          "index": 1,
-          "name": "",
-          "text": "ヘッドギア型を使用してみよう"
+          "title": "",
+          "text": "�w�b�h�M�A�^���g�p���Ă݂悤"
         },
         {
-          "index": 2,
-          "name": "",
-          "text": "通常計測で調整しよう"
+          "title": "",
+          "text": "�ʏ�v���Œ������悤"
         },
         {
-          "index": 3,
-          "name": "",
-          "text": "カプセルベッド型を使用してみよう"
+          "title": "",
+          "text": "�J�v�Z���x�b�h�^���g�p���Ă݂悤"
         },
         {
-          "index": 4,
-          "name": "",
-          "text": "精密計測で調整しよう"
+          "title": "",
+          "text": "�����v���Œ������悤"
         },
         {
-          "index": 5,
-          "name": "",
-          "text": "計測はせずに調整しよう"
+          "title": "",
+          "text": "�v���͂����ɒ������悤"
         },
         {
-          "index": 6,
-          "name": "",
-          "text": "計測を開始するぞ\n\n"
+          "title": "",
+          "text": "�v�����J�n���邼\n\n"
         },
         {
-          "index": 7,
-          "name": "",
-          "text": "計測は問題無いな\n\n"
+          "title": "",
+          "text": "�v���͖�薳����\n\n"
         },
         {
-          "index": 8,
-          "name": "",
-          "text": "計測は順調だ\n\n"
+          "title": "",
+          "text": "�v���͏�����\n\n"
         },
         {
-          "index": 9,
-          "name": "",
-          "text": "クリアな波形で計測できているな\n\n"
+          "title": "",
+          "text": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n"
         },
         {
-          "index": 10,
-          "name": "クリアな波形で計測できているな\n\n",
+          "title": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n",
           "text": ""
         },
         {
-          "index": 11,
-          "name": "少しノイズが出ているな\n\n",
+          "title": "�����m�C�Y���o�Ă����\n\n",
           "text": ""
         },
         {
-          "index": 12,
-          "name": "波形が乱れているな\n\n",
+          "title": "�g�`������Ă����\n\n",
           "text": ""
         },
         {
-          "index": 13,
-          "name": "",
-          "text": "すまん\nもう一度計測させてほしい\n"
+          "title": "",
+          "text": "���܂�\n������x�v�������Ăق���\n"
         },
         {
-          "index": 14,
-          "name": "",
-          "text": "まずまずの計測結果だったぞ\n\n"
+          "title": "",
+          "text": "�܂��܂��̌v�����ʂ�������\n\n"
         },
         {
-          "index": 15,
-          "name": "",
-          "text": "良い計測結果になったな\nこれなら調整も上手く行くと思うぞ\n"
+          "title": "",
+          "text": "�ǂ��v�����ʂɂȂ�����\n����Ȃ璲������肭�s���Ǝv����\n"
         },
         {
-          "index": 16,
-          "name": "",
-          "text": "すまない……\n調整に失敗してしまったよ\n"
+          "title": "",
+          "text": "���܂Ȃ��c�c\n�����Ɏ��s���Ă��܂�����\n"
         },
         {
-          "index": 17,
-          "name": "",
-          "text": "調整はしてみたけど\nあまり変わりは出なかったな\n"
+          "title": "",
+          "text": "�����͂��Ă݂�����\n���܂�ς��͏o�Ȃ�������\n"
         },
         {
-          "index": 18,
-          "name": "",
-          "text": "まずまずの調整結果だったぞ\nきっと効果も実感できるはずだ\n"
+          "title": "",
+          "text": "�܂��܂��̒������ʂ�������\n�����ƌ��ʂ������ł���͂���\n"
         },
         {
-          "index": 19,
-          "name": "",
-          "text": "調整は上手くいったぞ\nかなり扱いやすくなったはずだ\n"
+          "title": "",
+          "text": "�����͏�肭��������\n���Ȃ舵���₷���Ȃ����͂���\n"
         }
       ]
     },
     {
       "id": 52,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "",
-          "text": "どちらを使用する？"
+          "title": "",
+          "text": "�ǂ�����g�p����H"
         },
         {
-          "index": 1,
-          "name": "",
-          "text": "ヘッドギア型を使用してみよう"
+          "title": "",
+          "text": "�w�b�h�M�A�^���g�p���Ă݂悤"
         },
         {
-          "index": 2,
-          "name": "",
-          "text": "通常計測で調整しよう"
+          "title": "",
+          "text": "�ʏ�v���Œ������悤"
         },
         {
-          "index": 3,
-          "name": "",
-          "text": "カプセルベッド型を使用してみよう"
+          "title": "",
+          "text": "�J�v�Z���x�b�h�^���g�p���Ă݂悤"
         },
         {
-          "index": 4,
-          "name": "",
-          "text": "精密計測で調整しよう"
+          "title": "",
+          "text": "�����v���Œ������悤"
         },
         {
-          "index": 5,
-          "name": "",
-          "text": "計測はせずに調整しよう"
+          "title": "",
+          "text": "�v���͂����ɒ������悤"
         },
         {
-          "index": 6,
-          "name": "",
-          "text": "計測を開始するぞ\n\n"
+          "title": "",
+          "text": "�v�����J�n���邼\n\n"
         },
         {
-          "index": 7,
-          "name": "",
-          "text": "計測は問題無いな\n\n"
+          "title": "",
+          "text": "�v���͖�薳����\n\n"
         },
         {
-          "index": 8,
-          "name": "",
-          "text": "計測は順調だ\n\n"
+          "title": "",
+          "text": "�v���͏�����\n\n"
         },
         {
-          "index": 9,
-          "name": "",
-          "text": "クリアな波形で計測できているな\n\n"
+          "title": "",
+          "text": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n"
         },
         {
-          "index": 10,
-          "name": "クリアな波形で計測できているな\n\n",
+          "title": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n",
           "text": ""
         },
         {
-          "index": 11,
-          "name": "少しノイズが出ているな\n\n",
+          "title": "�����m�C�Y���o�Ă����\n\n",
           "text": ""
         },
         {
-          "index": 12,
-          "name": "波形が乱れているな\n\n",
+          "title": "�g�`������Ă����\n\n",
           "text": ""
         },
         {
-          "index": 13,
-          "name": "",
-          "text": "すまん\nもう一度計測させてほしい\n"
+          "title": "",
+          "text": "���܂�\n������x�v�������Ăق���\n"
         },
         {
-          "index": 14,
-          "name": "",
-          "text": "まずまずの計測結果だったぞ\n\n"
+          "title": "",
+          "text": "�܂��܂��̌v�����ʂ�������\n\n"
         },
         {
-          "index": 15,
-          "name": "",
-          "text": "良い計測結果になったな\nこれなら調整も上手く行くと思うぞ\n"
+          "title": "",
+          "text": "�ǂ��v�����ʂɂȂ�����\n����Ȃ璲������肭�s���Ǝv����\n"
         },
         {
-          "index": 16,
-          "name": "",
-          "text": "すまない……\n調整に失敗してしまったよ\n"
+          "title": "",
+          "text": "���܂Ȃ��c�c\n�����Ɏ��s���Ă��܂�����\n"
         },
         {
-          "index": 17,
-          "name": "",
-          "text": "調整はしてみたけど\nあまり変わりは出なかったな\n"
+          "title": "",
+          "text": "�����͂��Ă݂�����\n���܂�ς��͏o�Ȃ�������\n"
         },
         {
-          "index": 18,
-          "name": "",
-          "text": "まずまずの調整結果だったぞ\nきっと効果も実感できるはずだ\n"
+          "title": "",
+          "text": "�܂��܂��̒������ʂ�������\n�����ƌ��ʂ������ł���͂���\n"
         },
         {
-          "index": 19,
-          "name": "",
-          "text": "調整は上手くいったぞ\nかなり扱いやすくなったはずだ\n"
+          "title": "",
+          "text": "�����͏�肭��������\n���Ȃ舵���₷���Ȃ����͂���\n"
         }
       ]
     },
     {
       "id": 81,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N00100_C51",
-          "text": "どちらを使用する？"
+          "title": "CC01_N00100_C51",
+          "text": "�ǂ�����g�p����H"
         },
         {
-          "index": 1,
-          "name": "CC01_N00200_C51",
-          "text": "ヘッドギア型を使用してみよう"
+          "title": "CC01_N00200_C51",
+          "text": "�w�b�h�M�A�^���g�p���Ă݂悤"
         },
         {
-          "index": 2,
-          "name": "CC01_N00300_C51",
-          "text": "通常計測で調整しよう"
+          "title": "CC01_N00300_C51",
+          "text": "�ʏ�v���Œ������悤"
         },
         {
-          "index": 3,
-          "name": "CC01_N00400_C51",
-          "text": "カプセルベッド型を使用してみよう"
+          "title": "CC01_N00400_C51",
+          "text": "�J�v�Z���x�b�h�^���g�p���Ă݂悤"
         },
         {
-          "index": 4,
-          "name": "CC01_N00500_C51",
-          "text": "精密計測で調整しよう"
+          "title": "CC01_N00500_C51",
+          "text": "�����v���Œ������悤"
         },
         {
-          "index": 5,
-          "name": "CC01_N00600_C51",
-          "text": "計測はせずに調整しよう"
+          "title": "CC01_N00600_C51",
+          "text": "�v���͂����ɒ������悤"
         },
         {
-          "index": 6,
-          "name": "CC01_N00700_C51",
-          "text": "計測を開始するぞ\n\n"
+          "title": "CC01_N00700_C51",
+          "text": "�v�����J�n���邼\n\n"
         },
         {
-          "index": 7,
-          "name": "CC01_N00800_C51",
-          "text": "計測は問題無いな\n\n"
+          "title": "CC01_N00800_C51",
+          "text": "�v���͖�薳����\n\n"
         },
         {
-          "index": 8,
-          "name": "CC01_N00900_C51",
-          "text": "計測は順調だ\n\n"
+          "title": "CC01_N00900_C51",
+          "text": "�v���͏�����\n\n"
         },
         {
-          "index": 9,
-          "name": "CC01_N01000_C51",
-          "text": "クリアな波形で計測できているな\n\n"
+          "title": "CC01_N01000_C51",
+          "text": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n"
         },
         {
-          "index": 10,
-          "name": "クリアな波形で計測できているな\n\n",
+          "title": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n",
           "text": "CC01_N00900_C51"
         },
         {
-          "index": 11,
-          "name": "少しノイズが出ているな\n\n",
+          "title": "�����m�C�Y���o�Ă����\n\n",
           "text": "CC01_N01000_C51"
         },
         {
-          "index": 12,
-          "name": "波形が乱れているな\n\n",
+          "title": "�g�`������Ă����\n\n",
           "text": "CC01_N01100_C51"
         },
         {
-          "index": 13,
-          "name": "CC01_N01400_C51",
-          "text": "すまん\nもう一度計測させてほしい\n"
+          "title": "CC01_N01400_C51",
+          "text": "���܂�\n������x�v�������Ăق���\n"
         },
         {
-          "index": 14,
-          "name": "CC01_N01500_C51",
-          "text": "まずまずの計測結果だったぞ\n\n"
+          "title": "CC01_N01500_C51",
+          "text": "�܂��܂��̌v�����ʂ�������\n\n"
         },
         {
-          "index": 15,
-          "name": "CC01_N01600_C51",
-          "text": "良い計測結果になったな\nこれなら調整も上手く行くと思うぞ\n"
+          "title": "CC01_N01600_C51",
+          "text": "�ǂ��v�����ʂɂȂ�����\n����Ȃ璲������肭�s���Ǝv����\n"
         },
         {
-          "index": 16,
-          "name": "CC01_N01700_C51",
-          "text": "すまない……\n調整に失敗してしまったよ\n"
+          "title": "CC01_N01700_C51",
+          "text": "���܂Ȃ��c�c\n�����Ɏ��s���Ă��܂�����\n"
         },
         {
-          "index": 17,
-          "name": "CC01_N01800_C51",
-          "text": "調整はしてみたけど\nあまり変わりは出なかったな\n"
+          "title": "CC01_N01800_C51",
+          "text": "�����͂��Ă݂�����\n���܂�ς��͏o�Ȃ�������\n"
         },
         {
-          "index": 18,
-          "name": "CC01_N01900_C51",
-          "text": "まずまずの調整結果だったぞ\nきっと効果も実感できるはずだ\n"
+          "title": "CC01_N01900_C51",
+          "text": "�܂��܂��̒������ʂ�������\n�����ƌ��ʂ������ł���͂���\n"
         },
         {
-          "index": 19,
-          "name": "CC01_N02000_C51",
-          "text": "調整は上手くいったぞ\nかなり扱いやすくなったはずだ\n"
+          "title": "CC01_N02000_C51",
+          "text": "�����͏�肭��������\n���Ȃ舵���₷���Ȃ����͂���\n"
         }
       ]
     },
     {
       "id": 91,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N00100_C51",
-          "text": "どちらを使用する？"
+          "title": "CC01_N00100_C51",
+          "text": "�ǂ�����g�p����H"
         },
         {
-          "index": 1,
-          "name": "CC01_N00200_C51",
-          "text": "ヘッドギア型を使用してみよう"
+          "title": "CC01_N00200_C51",
+          "text": "�w�b�h�M�A�^���g�p���Ă݂悤"
         },
         {
-          "index": 2,
-          "name": "CC01_N00300_C51",
-          "text": "通常計測で調整しよう"
+          "title": "CC01_N00300_C51",
+          "text": "�ʏ�v���Œ������悤"
         },
         {
-          "index": 3,
-          "name": "CC01_N00400_C51",
-          "text": "カプセルベッド型を使用してみよう"
+          "title": "CC01_N00400_C51",
+          "text": "�J�v�Z���x�b�h�^���g�p���Ă݂悤"
         },
         {
-          "index": 4,
-          "name": "CC01_N00500_C51",
-          "text": "精密計測で調整しよう"
+          "title": "CC01_N00500_C51",
+          "text": "�����v���Œ������悤"
         },
         {
-          "index": 5,
-          "name": "CC01_N00600_C51",
-          "text": "計測はせずに調整しよう"
+          "title": "CC01_N00600_C51",
+          "text": "�v���͂����ɒ������悤"
         },
         {
-          "index": 6,
-          "name": "CC03_N00700_C51",
-          "text": "計測を開始しよう\n\n"
+          "title": "CC03_N00700_C51",
+          "text": "�v�����J�n���悤\n\n"
         },
         {
-          "index": 7,
-          "name": "CC01_N00800_C51",
-          "text": "計測は問題無いな\n\n"
+          "title": "CC01_N00800_C51",
+          "text": "�v���͖�薳����\n\n"
         },
         {
-          "index": 8,
-          "name": "CC01_N00900_C51",
-          "text": "計測は順調だ\n\n"
+          "title": "CC01_N00900_C51",
+          "text": "�v���͏�����\n\n"
         },
         {
-          "index": 9,
-          "name": "CC01_N01000_C51",
-          "text": "クリアな波形で計測できているな\n\n"
+          "title": "CC01_N01000_C51",
+          "text": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n"
         },
         {
-          "index": 10,
-          "name": "クリアな波形で計測できているな\n\n",
+          "title": "�N���A�Ȕg�`�Ōv���ł��Ă����\n\n",
           "text": "CC01_N00900_C51"
         },
         {
-          "index": 11,
-          "name": "少しノイズが出ているな\n\n",
+          "title": "�����m�C�Y���o�Ă����\n\n",
           "text": "CC01_N01000_C51"
         },
         {
-          "index": 12,
-          "name": "波形が乱れているな\n\n",
+          "title": "�g�`������Ă����\n\n",
           "text": "CC01_N01100_C51"
         },
         {
-          "index": 13,
-          "name": "CC03_N01400_C51",
-          "text": "すまない\n後で再計測させてくれ\n"
+          "title": "CC03_N01400_C51",
+          "text": "���܂Ȃ�\n��ōČv�������Ă���\n"
         },
         {
-          "index": 14,
-          "name": "CC03_N01500_C51",
-          "text": "まずまずの計測結果だろう\n\n"
+          "title": "CC03_N01500_C51",
+          "text": "�܂��܂��̌v�����ʂ��낤\n\n"
         },
         {
-          "index": 15,
-          "name": "CC03_N01600_C51",
-          "text": "良い計測結果になったよ\n\n"
+          "title": "CC03_N01600_C51",
+          "text": "�ǂ��v�����ʂɂȂ�����\n\n"
         },
         {
-          "index": 16,
-          "name": "CC03_N01700_C51",
-          "text": "……調整に失敗したか\n\n"
+          "title": "CC03_N01700_C51",
+          "text": "�c�c�����Ɏ��s������\n\n"
         },
         {
-          "index": 17,
-          "name": "CC01_N01800_C51",
-          "text": "調整はしてみたけど\nあまり変わりは出なかったな\n"
+          "title": "CC01_N01800_C51",
+          "text": "�����͂��Ă݂�����\n���܂�ς��͏o�Ȃ�������\n"
         },
         {
-          "index": 18,
-          "name": "CC03_N01900_C51",
-          "text": "まずまずの調整だったよ\n動作確認してみてくれ\n"
+          "title": "CC03_N01900_C51",
+          "text": "�܂��܂��̒�����������\n����m�F���Ă݂Ă���\n"
         },
         {
-          "index": 19,
-          "name": "CC03_N02000_C51",
-          "text": "調整は上手くいったよ\nかなり性能は上がった筈だよ\n"
+          "title": "CC03_N02000_C51",
+          "text": "�����͏�肭��������\n���Ȃ萫�\�͏オ����������\n"
         }
       ]
     }

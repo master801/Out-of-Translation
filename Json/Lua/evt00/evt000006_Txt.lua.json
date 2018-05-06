@@ -1,9 +1,7 @@
 {
-  "name": "evt000006_Txt.lua",
-  "containers": [
-    {
-      "name": "t000001001",
-      "lineContainers": []
-    }
-  ]
+  "type": "Lua",
+  "file_path": "Lua/evt00/evt000006_Txt.lua",
+  "block": {
+    "t000001001": {}
+  }
 }

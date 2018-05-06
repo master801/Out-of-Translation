@@ -1,2104 +1,1704 @@
 {
-  "type": "STANDARD",
-  "name": "IMH_Tuning_List_T_12.bin",
-  "blocks": [
+  "type": "TuningList",
+  "file_path": "Graph2D/TuneData/IMH_Tuning_List_T_12.bin",
+  "block": [
     {
       "id": 1,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N001_C12",
-          "text": "ã©ã¡ã‚‰ã‚’ä½¿ç”¨ã™ã‚‹ï¼Ÿ"
+          "title": "CC01_N001_C12",
+          "text": "‚Ç‚¿‚ç‚ðŽg—p‚·‚éH"
         },
         {
-          "index": 1,
-          "name": "CC01_N002_C12",
-          "text": "ãƒ˜ãƒƒãƒ‰ã‚®ã‚¢åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N002_C12",
+          "text": "ƒwƒbƒhƒMƒAŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 2,
-          "name": "CC01_N003_C12",
-          "text": "é€šå¸¸è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N003_C12",
+          "text": "’ÊíŒv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 3,
-          "name": "CC01_N004_C12",
-          "text": "ã‚«ãƒ—ã‚»ãƒ«ãƒ™ãƒƒãƒ‰åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N004_C12",
+          "text": "ƒJƒvƒZƒ‹ƒxƒbƒhŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 4,
-          "name": "CC01_N005_C12",
-          "text": "ç²¾å¯†è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N005_C12",
+          "text": "¸–§Œv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 5,
-          "name": "CC01_N006_C12",
-          "text": "è¨ˆæ¸¬ç„¡ã—ã§ã€èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N006_C12",
+          "text": "Œv‘ª–³‚µ‚ÅA’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 6,
-          "name": "CC04_N007_C12",
-          "text": "é”ä¹Ÿã•ã‚“ã€è¨ˆæ¸¬å§‹ã‚ã¾ã™ã­\n\n"
+          "title": "CC04_N007_C12",
+          "text": "’B–ç‚³‚ñAŒv‘ªŽn‚ß‚Ü‚·‚Ë\n\n"
         },
         {
-          "index": 7,
-          "name": "CC01_N008_C12",
-          "text": "è¨ˆæ¸¬ã¯å•é¡Œãªã—\n\n"
+          "title": "CC01_N008_C12",
+          "text": "Œv‘ª‚Í–â‘è‚È‚µ\n\n"
         },
         {
-          "index": 8,
-          "name": "CC04_N009_C12",
-          "text": "é †èª¿ã§ã™ã€é”ä¹Ÿã•ã‚“\n\n"
+          "title": "CC04_N009_C12",
+          "text": "‡’²‚Å‚·A’B–ç‚³‚ñ\n\n"
         },
         {
-          "index": 9,
-          "name": "CC04_N010_C12",
-          "text": "ç¶ºéº—ãªæ³¢å½¢ã§ã™ã­\n\n"
+          "title": "CC04_N010_C12",
+          "text": "ãY—í‚È”gŒ`‚Å‚·‚Ë\n\n"
         },
         {
-          "index": 10,
-          "name": "ç¶ºéº—ãªæ³¢å½¢ã§ã™ã­\n\n",
+          "title": "ãY—í‚È”gŒ`‚Å‚·‚Ë\n\n",
           "text": "CC04_N009_C12"
         },
         {
-          "index": 11,
-          "name": "ã‚ã®ã€é”ä¹Ÿã•ã‚“â€¦â€¦\nå°‘ã—ãƒŽã‚¤ã‚ºãŒå‡ºã¦ã¾ã™ã‚ˆ\n",
+          "title": "‚ ‚ÌA’B–ç‚³‚ñcc\n­‚µƒmƒCƒY‚ªo‚Ä‚Ü‚·‚æ\n",
           "text": "CC04_N010_C12"
         },
         {
-          "index": 12,
-          "name": "é”ä¹Ÿã•ã‚“\næ³¢å½¢ã«ä¹±ã‚Œã€å‡ºã¦ã„ã¾ã™ã‚ˆ\n",
+          "title": "’B–ç‚³‚ñ\n”gŒ`‚É—‚êAo‚Ä‚¢‚Ü‚·‚æ\n",
           "text": "CC04_N011_C12"
         },
         {
-          "index": 13,
-          "name": "CC04_N014_C12",
-          "text": "ã”ã‚ã‚“ãªã•ã„ã€é”ä¹Ÿã•ã‚“\nã‚‚ã†ä¸€åº¦è¨ˆæ¸¬ã•ã›ã¦\n"
+          "title": "CC04_N014_C12",
+          "text": "‚²‚ß‚ñ‚È‚³‚¢A’B–ç‚³‚ñ\n‚à‚¤ˆê“xŒv‘ª‚³‚¹‚Ä\n"
         },
         {
-          "index": 14,
-          "name": "CC04_N015_C12",
-          "text": "ãŠç–²ã‚Œæ§˜ã€é”ä¹Ÿã•ã‚“\nã¾ãšã¾ãšã®è¨ˆæ¸¬çµæžœã ã‚ˆ\n"
+          "title": "CC04_N015_C12",
+          "text": "‚¨”æ‚ê—lA’B–ç‚³‚ñ\n‚Ü‚¸‚Ü‚¸‚ÌŒv‘ªŒ‹‰Ê‚¾‚æ\n"
         },
         {
-          "index": 15,
-          "name": "CC04_N016_C12",
-          "text": "æµçŸ³ã§ã™ã€é”ä¹Ÿã•ã‚“\nè‰¯ã„è¨ˆæ¸¬çµæžœãŒå–ã‚ŒãŸ\nã“ã‚Œã§èª¿æ•´ã‚‚æ¥½ã«ãªã‚‹ã‚ˆ"
+          "title": "CC04_N016_C12",
+          "text": "—¬Î‚Å‚·A’B–ç‚³‚ñ\n—Ç‚¢Œv‘ªŒ‹‰Ê‚ªŽæ‚ê‚½\n‚±‚ê‚Å’²®‚àŠy‚É‚È‚é‚æ"
         },
         {
-          "index": 16,
-          "name": "CC04_N017_C12",
-          "text": "ã”ã‚ã‚“ãªã•ã„ã€é”ä¹Ÿã•ã‚“\nèª¿æ•´ã€ã‚ã¾ã‚Šä¸Šæ‰‹ã«ã§ããªã‹ã£ãŸ\n"
+          "title": "CC04_N017_C12",
+          "text": "‚²‚ß‚ñ‚È‚³‚¢A’B–ç‚³‚ñ\n’²®A‚ ‚Ü‚èãŽè‚É‚Å‚«‚È‚©‚Á‚½\n"
         },
         {
-          "index": 17,
-          "name": "CC04_N018_C12",
-          "text": "ä¸€å¿œã€èª¿æ•´ã¯ã—ã¦ã¿ãŸâ€¦â€¦\nã§ã‚‚ã€çµæžœã¯ã‚¤ãƒžã‚¤ãƒã ã£ãŸ\n"
+          "title": "CC04_N018_C12",
+          "text": "ˆê‰žA’²®‚Í‚µ‚Ä‚Ý‚½cc\n‚Å‚àAŒ‹‰Ê‚ÍƒCƒ}ƒCƒ`‚¾‚Á‚½\n"
         },
         {
-          "index": 18,
-          "name": "CC04_N019_C12",
-          "text": "èª¿æ•´è‰¯ã‹ã£ãŸã‚ˆã€é”ä¹Ÿã•ã‚“\nåŠ¹æžœã®é•ã„ã‚‚å®Ÿæ„Ÿã§ãã‚‹ã‚ˆ\n"
+          "title": "CC04_N019_C12",
+          "text": "’²®—Ç‚©‚Á‚½‚æA’B–ç‚³‚ñ\nŒø‰Ê‚Ìˆá‚¢‚àŽÀŠ´‚Å‚«‚é‚æ\n"
         },
         {
-          "index": 19,
-          "name": "CC04_N020_C12",
-          "text": "èª¿æ•´ã€ä¸Šæ‰‹ãã„ãã¾ã—ãŸã€é”ä¹Ÿã•ã‚“\né”ä¹Ÿã•ã‚“ã®ã‚¢ãƒ‰ãƒã‚¤ã‚¹ã‚‚ã‚ã£ãŸã‹ã‚‰\nã‹ãªã‚Šä½¿ã„ã‚„ã™ããªã£ãŸ"
+          "title": "CC04_N020_C12",
+          "text": "’²®AãŽè‚­‚¢‚«‚Ü‚µ‚½A’B–ç‚³‚ñ\n’B–ç‚³‚ñ‚ÌƒAƒhƒoƒCƒX‚à‚ ‚Á‚½‚©‚ç\n‚©‚È‚èŽg‚¢‚â‚·‚­‚È‚Á‚½"
         }
       ]
     },
     {
       "id": 2,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N001_C12",
-          "text": "ã©ã¡ã‚‰ã‚’ä½¿ç”¨ã™ã‚‹ï¼Ÿ"
+          "title": "CC01_N001_C12",
+          "text": "‚Ç‚¿‚ç‚ðŽg—p‚·‚éH"
         },
         {
-          "index": 1,
-          "name": "CC01_N002_C12",
-          "text": "ãƒ˜ãƒƒãƒ‰ã‚®ã‚¢åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N002_C12",
+          "text": "ƒwƒbƒhƒMƒAŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 2,
-          "name": "CC01_N003_C12",
-          "text": "é€šå¸¸è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N003_C12",
+          "text": "’ÊíŒv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 3,
-          "name": "CC01_N004_C12",
-          "text": "ã‚«ãƒ—ã‚»ãƒ«ãƒ™ãƒƒãƒ‰åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N004_C12",
+          "text": "ƒJƒvƒZƒ‹ƒxƒbƒhŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 4,
-          "name": "CC01_N005_C12",
-          "text": "ç²¾å¯†è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N005_C12",
+          "text": "¸–§Œv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 5,
-          "name": "CC01_N006_C12",
-          "text": "è¨ˆæ¸¬ç„¡ã—ã§ã€èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N006_C12",
+          "text": "Œv‘ª–³‚µ‚ÅA’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 6,
-          "name": "CC01_N007_C12",
-          "text": "è¨ˆæ¸¬å§‹ã‚ã‚‹ã‚ˆ\n\n"
+          "title": "CC01_N007_C12",
+          "text": "Œv‘ªŽn‚ß‚é‚æ\n\n"
         },
         {
-          "index": 7,
-          "name": "CC01_N008_C12",
-          "text": "è¨ˆæ¸¬ã¯å•é¡Œãªã—\n\n"
+          "title": "CC01_N008_C12",
+          "text": "Œv‘ª‚Í–â‘è‚È‚µ\n\n"
         },
         {
-          "index": 8,
-          "name": "CC01_N009_C12",
-          "text": "ã‚“ã€é †èª¿\n\n"
+          "title": "CC01_N009_C12",
+          "text": "‚ñA‡’²\n\n"
         },
         {
-          "index": 9,
-          "name": "CC01_N010_C12",
-          "text": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã‚‹ã‚ˆ\n\n"
+          "title": "CC01_N010_C12",
+          "text": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚é‚æ\n\n"
         },
         {
-          "index": 10,
-          "name": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚é‚æ\n\n",
           "text": "CC01_N009_C12"
         },
         {
-          "index": 11,
-          "name": "ãƒŽã‚¤ã‚ºã€å‡ºã¦ã‚‹ã‚ˆ\n\n",
+          "title": "ƒmƒCƒYAo‚Ä‚é‚æ\n\n",
           "text": "CC01_N010_C12"
         },
         {
-          "index": 12,
-          "name": "æ³¢å½¢ãŒä¹±ã‚Œã¦ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`‚ª—‚ê‚Ä‚é‚æ\n\n",
           "text": "CC01_N011_C12"
         },
         {
-          "index": 13,
-          "name": "CC01_N014_C12",
-          "text": "å†è¨ˆæ¸¬ãŒå¿…è¦ã‹ã‚‚â€¦â€¦\n\n"
+          "title": "CC01_N014_C12",
+          "text": "ÄŒv‘ª‚ª•K—v‚©‚àcc\n\n"
         },
         {
-          "index": 14,
-          "name": "CC01_N015_C12",
-          "text": "è¨ˆæ¸¬å®Œäº†ï½ž\nãŠç–²ã‚Œæ§˜\n"
+          "title": "CC01_N015_C12",
+          "text": "Œv‘ªŠ®—¹`\n‚¨”æ‚ê—l\n"
         },
         {
-          "index": 15,
-          "name": "CC01_N016_C12",
-          "text": "è¨ˆæ¸¬ï¼¯ï¼«ã ã‚ˆ\nèª¿æ•´ã‚‚å•é¡Œç„¡ã„â€¦â€¦ã¨æ€ã†\n"
+          "title": "CC01_N016_C12",
+          "text": "Œv‘ª‚n‚j‚¾‚æ\n’²®‚à–â‘è–³‚¢cc‚ÆŽv‚¤\n"
         },
         {
-          "index": 16,
-          "name": "CC01_N017_C12",
-          "text": "ã”ã‚ã‚“\nã‚ã¾ã‚Šè‰¯ã„èª¿æ•´ã«ãªã‚‰ãªã‹ã£ãŸ\n"
+          "title": "CC01_N017_C12",
+          "text": "‚²‚ß‚ñ\n‚ ‚Ü‚è—Ç‚¢’²®‚É‚È‚ç‚È‚©‚Á‚½\n"
         },
         {
-          "index": 17,
-          "name": "CC01_N018_C12",
-          "text": "èª¿æ•´ã¯ã—ãŸã‘ã©\nå¤‰åŒ–ç„¡ã„ã¨æ€ã†\n"
+          "title": "CC01_N018_C12",
+          "text": "’²®‚Í‚µ‚½‚¯‚Ç\n•Ï‰»–³‚¢‚ÆŽv‚¤\n"
         },
         {
-          "index": 18,
-          "name": "CC01_N019_C12",
-          "text": "ã¾ãšã¾ãšã®èª¿æ•´ãŒã§ããŸã‚ˆ\nåŠ¹æžœã‚‚å®Ÿæ„Ÿã§ãã‚‹ã¯ãš\n"
+          "title": "CC01_N019_C12",
+          "text": "‚Ü‚¸‚Ü‚¸‚Ì’²®‚ª‚Å‚«‚½‚æ\nŒø‰Ê‚àŽÀŠ´‚Å‚«‚é‚Í‚¸\n"
         },
         {
-          "index": 19,
-          "name": "CC01_N020_C12",
-          "text": "èª¿æ•´ã€ã‹ãªã‚Šä¸Šæ‰‹ãã„ã£ãŸã‚ˆ\næ‰±ã„ã‚„ã™ããªã£ãŸâ€¦â€¦ã¯ãš\n"
+          "title": "CC01_N020_C12",
+          "text": "’²®A‚©‚È‚èãŽè‚­‚¢‚Á‚½‚æ\nˆµ‚¢‚â‚·‚­‚È‚Á‚½cc‚Í‚¸\n"
         }
       ]
     },
     {
       "id": 4,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N001_C12",
-          "text": "ã©ã¡ã‚‰ã‚’ä½¿ç”¨ã™ã‚‹ï¼Ÿ"
+          "title": "CC01_N001_C12",
+          "text": "‚Ç‚¿‚ç‚ðŽg—p‚·‚éH"
         },
         {
-          "index": 1,
-          "name": "CC01_N002_C12",
-          "text": "ãƒ˜ãƒƒãƒ‰ã‚®ã‚¢åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N002_C12",
+          "text": "ƒwƒbƒhƒMƒAŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 2,
-          "name": "CC01_N003_C12",
-          "text": "é€šå¸¸è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N003_C12",
+          "text": "’ÊíŒv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 3,
-          "name": "CC01_N004_C12",
-          "text": "ã‚«ãƒ—ã‚»ãƒ«ãƒ™ãƒƒãƒ‰åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N004_C12",
+          "text": "ƒJƒvƒZƒ‹ƒxƒbƒhŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 4,
-          "name": "CC01_N005_C12",
-          "text": "ç²¾å¯†è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N005_C12",
+          "text": "¸–§Œv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 5,
-          "name": "CC01_N006_C12",
-          "text": "è¨ˆæ¸¬ç„¡ã—ã§ã€èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N006_C12",
+          "text": "Œv‘ª–³‚µ‚ÅA’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 6,
-          "name": "CC01_N007_C12",
-          "text": "è¨ˆæ¸¬å§‹ã‚ã‚‹ã‚ˆ\n\n"
+          "title": "CC01_N007_C12",
+          "text": "Œv‘ªŽn‚ß‚é‚æ\n\n"
         },
         {
-          "index": 7,
-          "name": "CC01_N008_C12",
-          "text": "è¨ˆæ¸¬ã¯å•é¡Œãªã—\n\n"
+          "title": "CC01_N008_C12",
+          "text": "Œv‘ª‚Í–â‘è‚È‚µ\n\n"
         },
         {
-          "index": 8,
-          "name": "CC01_N009_C12",
-          "text": "ã‚“ã€é †èª¿\n\n"
+          "title": "CC01_N009_C12",
+          "text": "‚ñA‡’²\n\n"
         },
         {
-          "index": 9,
-          "name": "CC01_N010_C12",
-          "text": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã‚‹ã‚ˆ\n\n"
+          "title": "CC01_N010_C12",
+          "text": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚é‚æ\n\n"
         },
         {
-          "index": 10,
-          "name": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚é‚æ\n\n",
           "text": "CC01_N009_C12"
         },
         {
-          "index": 11,
-          "name": "ãƒŽã‚¤ã‚ºã€å‡ºã¦ã‚‹ã‚ˆ\n\n",
+          "title": "ƒmƒCƒYAo‚Ä‚é‚æ\n\n",
           "text": "CC01_N010_C12"
         },
         {
-          "index": 12,
-          "name": "æ³¢å½¢ãŒä¹±ã‚Œã¦ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`‚ª—‚ê‚Ä‚é‚æ\n\n",
           "text": "CC01_N011_C12"
         },
         {
-          "index": 13,
-          "name": "CC01_N014_C12",
-          "text": "å†è¨ˆæ¸¬ãŒå¿…è¦ã‹ã‚‚â€¦â€¦\n\n"
+          "title": "CC01_N014_C12",
+          "text": "ÄŒv‘ª‚ª•K—v‚©‚àcc\n\n"
         },
         {
-          "index": 14,
-          "name": "CC01_N015_C12",
-          "text": "è¨ˆæ¸¬å®Œäº†ï½ž\nãŠç–²ã‚Œæ§˜\n"
+          "title": "CC01_N015_C12",
+          "text": "Œv‘ªŠ®—¹`\n‚¨”æ‚ê—l\n"
         },
         {
-          "index": 15,
-          "name": "CC01_N016_C12",
-          "text": "è¨ˆæ¸¬ï¼¯ï¼«ã ã‚ˆ\nèª¿æ•´ã‚‚å•é¡Œç„¡ã„â€¦â€¦ã¨æ€ã†\n"
+          "title": "CC01_N016_C12",
+          "text": "Œv‘ª‚n‚j‚¾‚æ\n’²®‚à–â‘è–³‚¢cc‚ÆŽv‚¤\n"
         },
         {
-          "index": 16,
-          "name": "CC01_N017_C12",
-          "text": "ã”ã‚ã‚“\nã‚ã¾ã‚Šè‰¯ã„èª¿æ•´ã«ãªã‚‰ãªã‹ã£ãŸ\n"
+          "title": "CC01_N017_C12",
+          "text": "‚²‚ß‚ñ\n‚ ‚Ü‚è—Ç‚¢’²®‚É‚È‚ç‚È‚©‚Á‚½\n"
         },
         {
-          "index": 17,
-          "name": "CC01_N018_C12",
-          "text": "èª¿æ•´ã¯ã—ãŸã‘ã©\nå¤‰åŒ–ç„¡ã„ã¨æ€ã†\n"
+          "title": "CC01_N018_C12",
+          "text": "’²®‚Í‚µ‚½‚¯‚Ç\n•Ï‰»–³‚¢‚ÆŽv‚¤\n"
         },
         {
-          "index": 18,
-          "name": "CC01_N019_C12",
-          "text": "ã¾ãšã¾ãšã®èª¿æ•´ãŒã§ããŸã‚ˆ\nåŠ¹æžœã‚‚å®Ÿæ„Ÿã§ãã‚‹ã¯ãš\n"
+          "title": "CC01_N019_C12",
+          "text": "‚Ü‚¸‚Ü‚¸‚Ì’²®‚ª‚Å‚«‚½‚æ\nŒø‰Ê‚àŽÀŠ´‚Å‚«‚é‚Í‚¸\n"
         },
         {
-          "index": 19,
-          "name": "CC01_N020_C12",
-          "text": "èª¿æ•´ã€ã‹ãªã‚Šä¸Šæ‰‹ãã„ã£ãŸã‚ˆ\næ‰±ã„ã‚„ã™ããªã£ãŸâ€¦â€¦ã¯ãš\n"
+          "title": "CC01_N020_C12",
+          "text": "’²®A‚©‚È‚èãŽè‚­‚¢‚Á‚½‚æ\nˆµ‚¢‚â‚·‚­‚È‚Á‚½cc‚Í‚¸\n"
         }
       ]
     },
     {
       "id": 3,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N001_C12",
-          "text": "ã©ã¡ã‚‰ã‚’ä½¿ç”¨ã™ã‚‹ï¼Ÿ"
+          "title": "CC01_N001_C12",
+          "text": "‚Ç‚¿‚ç‚ðŽg—p‚·‚éH"
         },
         {
-          "index": 1,
-          "name": "CC01_N002_C12",
-          "text": "ãƒ˜ãƒƒãƒ‰ã‚®ã‚¢åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N002_C12",
+          "text": "ƒwƒbƒhƒMƒAŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 2,
-          "name": "CC01_N003_C12",
-          "text": "é€šå¸¸è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N003_C12",
+          "text": "’ÊíŒv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 3,
-          "name": "CC01_N004_C12",
-          "text": "ã‚«ãƒ—ã‚»ãƒ«ãƒ™ãƒƒãƒ‰åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N004_C12",
+          "text": "ƒJƒvƒZƒ‹ƒxƒbƒhŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 4,
-          "name": "CC01_N005_C12",
-          "text": "ç²¾å¯†è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N005_C12",
+          "text": "¸–§Œv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 5,
-          "name": "CC01_N006_C12",
-          "text": "è¨ˆæ¸¬ç„¡ã—ã§ã€èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N006_C12",
+          "text": "Œv‘ª–³‚µ‚ÅA’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 6,
-          "name": "CC01_N007_C12",
-          "text": "è¨ˆæ¸¬å§‹ã‚ã‚‹ã‚ˆ\n\n"
+          "title": "CC01_N007_C12",
+          "text": "Œv‘ªŽn‚ß‚é‚æ\n\n"
         },
         {
-          "index": 7,
-          "name": "CC01_N008_C12",
-          "text": "è¨ˆæ¸¬ã¯å•é¡Œãªã—\n\n"
+          "title": "CC01_N008_C12",
+          "text": "Œv‘ª‚Í–â‘è‚È‚µ\n\n"
         },
         {
-          "index": 8,
-          "name": "CC01_N009_C12",
-          "text": "ã‚“ã€é †èª¿\n\n"
+          "title": "CC01_N009_C12",
+          "text": "‚ñA‡’²\n\n"
         },
         {
-          "index": 9,
-          "name": "CC01_N010_C12",
-          "text": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã‚‹ã‚ˆ\n\n"
+          "title": "CC01_N010_C12",
+          "text": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚é‚æ\n\n"
         },
         {
-          "index": 10,
-          "name": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚é‚æ\n\n",
           "text": "CC01_N009_C12"
         },
         {
-          "index": 11,
-          "name": "ãƒŽã‚¤ã‚ºã€å‡ºã¦ã‚‹ã‚ˆ\n\n",
+          "title": "ƒmƒCƒYAo‚Ä‚é‚æ\n\n",
           "text": "CC01_N010_C12"
         },
         {
-          "index": 12,
-          "name": "æ³¢å½¢ãŒä¹±ã‚Œã¦ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`‚ª—‚ê‚Ä‚é‚æ\n\n",
           "text": "CC01_N011_C12"
         },
         {
-          "index": 13,
-          "name": "CC01_N014_C12",
-          "text": "å†è¨ˆæ¸¬ãŒå¿…è¦ã‹ã‚‚â€¦â€¦\n\n"
+          "title": "CC01_N014_C12",
+          "text": "ÄŒv‘ª‚ª•K—v‚©‚àcc\n\n"
         },
         {
-          "index": 14,
-          "name": "CC01_N015_C12",
-          "text": "è¨ˆæ¸¬å®Œäº†ï½ž\nãŠç–²ã‚Œæ§˜\n"
+          "title": "CC01_N015_C12",
+          "text": "Œv‘ªŠ®—¹`\n‚¨”æ‚ê—l\n"
         },
         {
-          "index": 15,
-          "name": "CC01_N016_C12",
-          "text": "è¨ˆæ¸¬ï¼¯ï¼«ã ã‚ˆ\nèª¿æ•´ã‚‚å•é¡Œç„¡ã„â€¦â€¦ã¨æ€ã†\n"
+          "title": "CC01_N016_C12",
+          "text": "Œv‘ª‚n‚j‚¾‚æ\n’²®‚à–â‘è–³‚¢cc‚ÆŽv‚¤\n"
         },
         {
-          "index": 16,
-          "name": "CC01_N017_C12",
-          "text": "ã”ã‚ã‚“\nã‚ã¾ã‚Šè‰¯ã„èª¿æ•´ã«ãªã‚‰ãªã‹ã£ãŸ\n"
+          "title": "CC01_N017_C12",
+          "text": "‚²‚ß‚ñ\n‚ ‚Ü‚è—Ç‚¢’²®‚É‚È‚ç‚È‚©‚Á‚½\n"
         },
         {
-          "index": 17,
-          "name": "CC01_N018_C12",
-          "text": "èª¿æ•´ã¯ã—ãŸã‘ã©\nå¤‰åŒ–ç„¡ã„ã¨æ€ã†\n"
+          "title": "CC01_N018_C12",
+          "text": "’²®‚Í‚µ‚½‚¯‚Ç\n•Ï‰»–³‚¢‚ÆŽv‚¤\n"
         },
         {
-          "index": 18,
-          "name": "CC01_N019_C12",
-          "text": "ã¾ãšã¾ãšã®èª¿æ•´ãŒã§ããŸã‚ˆ\nåŠ¹æžœã‚‚å®Ÿæ„Ÿã§ãã‚‹ã¯ãš\n"
+          "title": "CC01_N019_C12",
+          "text": "‚Ü‚¸‚Ü‚¸‚Ì’²®‚ª‚Å‚«‚½‚æ\nŒø‰Ê‚àŽÀŠ´‚Å‚«‚é‚Í‚¸\n"
         },
         {
-          "index": 19,
-          "name": "CC01_N020_C12",
-          "text": "èª¿æ•´ã€ã‹ãªã‚Šä¸Šæ‰‹ãã„ã£ãŸã‚ˆ\næ‰±ã„ã‚„ã™ããªã£ãŸâ€¦â€¦ã¯ãš\n"
+          "title": "CC01_N020_C12",
+          "text": "’²®A‚©‚È‚èãŽè‚­‚¢‚Á‚½‚æ\nˆµ‚¢‚â‚·‚­‚È‚Á‚½cc‚Í‚¸\n"
         }
       ]
     },
     {
       "id": 5,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N001_C12",
-          "text": "ã©ã¡ã‚‰ã‚’ä½¿ç”¨ã™ã‚‹ï¼Ÿ"
+          "title": "CC01_N001_C12",
+          "text": "‚Ç‚¿‚ç‚ðŽg—p‚·‚éH"
         },
         {
-          "index": 1,
-          "name": "CC01_N002_C12",
-          "text": "ãƒ˜ãƒƒãƒ‰ã‚®ã‚¢åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N002_C12",
+          "text": "ƒwƒbƒhƒMƒAŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 2,
-          "name": "CC01_N003_C12",
-          "text": "é€šå¸¸è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N003_C12",
+          "text": "’ÊíŒv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 3,
-          "name": "CC01_N004_C12",
-          "text": "ã‚«ãƒ—ã‚»ãƒ«ãƒ™ãƒƒãƒ‰åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N004_C12",
+          "text": "ƒJƒvƒZƒ‹ƒxƒbƒhŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 4,
-          "name": "CC01_N005_C12",
-          "text": "ç²¾å¯†è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N005_C12",
+          "text": "¸–§Œv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 5,
-          "name": "CC01_N006_C12",
-          "text": "è¨ˆæ¸¬ç„¡ã—ã§ã€èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N006_C12",
+          "text": "Œv‘ª–³‚µ‚ÅA’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 6,
-          "name": "CC01_N007_C12",
-          "text": "è¨ˆæ¸¬å§‹ã‚ã‚‹ã‚ˆ\n\n"
+          "title": "CC01_N007_C12",
+          "text": "Œv‘ªŽn‚ß‚é‚æ\n\n"
         },
         {
-          "index": 7,
-          "name": "CC01_N008_C12",
-          "text": "è¨ˆæ¸¬ã¯å•é¡Œãªã—\n\n"
+          "title": "CC01_N008_C12",
+          "text": "Œv‘ª‚Í–â‘è‚È‚µ\n\n"
         },
         {
-          "index": 8,
-          "name": "CC01_N009_C12",
-          "text": "ã‚“ã€é †èª¿\n\n"
+          "title": "CC01_N009_C12",
+          "text": "‚ñA‡’²\n\n"
         },
         {
-          "index": 9,
-          "name": "CC01_N010_C12",
-          "text": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã‚‹ã‚ˆ\n\n"
+          "title": "CC01_N010_C12",
+          "text": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚é‚æ\n\n"
         },
         {
-          "index": 10,
-          "name": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚é‚æ\n\n",
           "text": "CC01_N009_C12"
         },
         {
-          "index": 11,
-          "name": "ãƒŽã‚¤ã‚ºã€å‡ºã¦ã‚‹ã‚ˆ\n\n",
+          "title": "ƒmƒCƒYAo‚Ä‚é‚æ\n\n",
           "text": "CC01_N010_C12"
         },
         {
-          "index": 12,
-          "name": "æ³¢å½¢ãŒä¹±ã‚Œã¦ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`‚ª—‚ê‚Ä‚é‚æ\n\n",
           "text": "CC01_N011_C12"
         },
         {
-          "index": 13,
-          "name": "CC01_N014_C12",
-          "text": "å†è¨ˆæ¸¬ãŒå¿…è¦ã‹ã‚‚â€¦â€¦\n\n"
+          "title": "CC01_N014_C12",
+          "text": "ÄŒv‘ª‚ª•K—v‚©‚àcc\n\n"
         },
         {
-          "index": 14,
-          "name": "CC01_N015_C12",
-          "text": "è¨ˆæ¸¬å®Œäº†ï½ž\nãŠç–²ã‚Œæ§˜\n"
+          "title": "CC01_N015_C12",
+          "text": "Œv‘ªŠ®—¹`\n‚¨”æ‚ê—l\n"
         },
         {
-          "index": 15,
-          "name": "CC01_N016_C12",
-          "text": "è¨ˆæ¸¬ï¼¯ï¼«ã ã‚ˆ\nèª¿æ•´ã‚‚å•é¡Œç„¡ã„â€¦â€¦ã¨æ€ã†\n"
+          "title": "CC01_N016_C12",
+          "text": "Œv‘ª‚n‚j‚¾‚æ\n’²®‚à–â‘è–³‚¢cc‚ÆŽv‚¤\n"
         },
         {
-          "index": 16,
-          "name": "CC01_N017_C12",
-          "text": "ã”ã‚ã‚“\nã‚ã¾ã‚Šè‰¯ã„èª¿æ•´ã«ãªã‚‰ãªã‹ã£ãŸ\n"
+          "title": "CC01_N017_C12",
+          "text": "‚²‚ß‚ñ\n‚ ‚Ü‚è—Ç‚¢’²®‚É‚È‚ç‚È‚©‚Á‚½\n"
         },
         {
-          "index": 17,
-          "name": "CC01_N018_C12",
-          "text": "èª¿æ•´ã¯ã—ãŸã‘ã©\nå¤‰åŒ–ç„¡ã„ã¨æ€ã†\n"
+          "title": "CC01_N018_C12",
+          "text": "’²®‚Í‚µ‚½‚¯‚Ç\n•Ï‰»–³‚¢‚ÆŽv‚¤\n"
         },
         {
-          "index": 18,
-          "name": "CC01_N019_C12",
-          "text": "ã¾ãšã¾ãšã®èª¿æ•´ãŒã§ããŸã‚ˆ\nåŠ¹æžœã‚‚å®Ÿæ„Ÿã§ãã‚‹ã¯ãš\n"
+          "title": "CC01_N019_C12",
+          "text": "‚Ü‚¸‚Ü‚¸‚Ì’²®‚ª‚Å‚«‚½‚æ\nŒø‰Ê‚àŽÀŠ´‚Å‚«‚é‚Í‚¸\n"
         },
         {
-          "index": 19,
-          "name": "CC01_N020_C12",
-          "text": "èª¿æ•´ã€ã‹ãªã‚Šä¸Šæ‰‹ãã„ã£ãŸã‚ˆ\næ‰±ã„ã‚„ã™ããªã£ãŸâ€¦â€¦ã¯ãš\n"
+          "title": "CC01_N020_C12",
+          "text": "’²®A‚©‚È‚èãŽè‚­‚¢‚Á‚½‚æ\nˆµ‚¢‚â‚·‚­‚È‚Á‚½cc‚Í‚¸\n"
         }
       ]
     },
     {
       "id": 6,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "",
-          "text": "ã©ã¡ã‚‰ã‚’ä½¿ç”¨ã™ã‚‹ï¼Ÿ"
+          "title": "",
+          "text": "‚Ç‚¿‚ç‚ðŽg—p‚·‚éH"
         },
         {
-          "index": 1,
-          "name": "",
-          "text": "ãƒ˜ãƒƒãƒ‰ã‚®ã‚¢åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "",
+          "text": "ƒwƒbƒhƒMƒAŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 2,
-          "name": "",
-          "text": "é€šå¸¸è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "",
+          "text": "’ÊíŒv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 3,
-          "name": "",
-          "text": "ã‚«ãƒ—ã‚»ãƒ«ãƒ™ãƒƒãƒ‰åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "",
+          "text": "ƒJƒvƒZƒ‹ƒxƒbƒhŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 4,
-          "name": "",
-          "text": "ç²¾å¯†è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "",
+          "text": "¸–§Œv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 5,
-          "name": "",
-          "text": "è¨ˆæ¸¬ç„¡ã—ã§ã€èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "",
+          "text": "Œv‘ª–³‚µ‚ÅA’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 6,
-          "name": "",
-          "text": "è¨ˆæ¸¬å§‹ã‚ã‚‹ã‚ˆ\n\n"
+          "title": "",
+          "text": "Œv‘ªŽn‚ß‚é‚æ\n\n"
         },
         {
-          "index": 7,
-          "name": "",
-          "text": "è¨ˆæ¸¬ã¯å•é¡Œãªã—\n\n"
+          "title": "",
+          "text": "Œv‘ª‚Í–â‘è‚È‚µ\n\n"
         },
         {
-          "index": 8,
-          "name": "",
-          "text": "ã‚“ã€é †èª¿\n\n"
+          "title": "",
+          "text": "‚ñA‡’²\n\n"
         },
         {
-          "index": 9,
-          "name": "",
-          "text": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã‚‹ã‚ˆ\n\n"
+          "title": "",
+          "text": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚é‚æ\n\n"
         },
         {
-          "index": 10,
-          "name": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚é‚æ\n\n",
           "text": ""
         },
         {
-          "index": 11,
-          "name": "ãƒŽã‚¤ã‚ºã€å‡ºã¦ã‚‹ã‚ˆ\n\n",
+          "title": "ƒmƒCƒYAo‚Ä‚é‚æ\n\n",
           "text": ""
         },
         {
-          "index": 12,
-          "name": "æ³¢å½¢ãŒä¹±ã‚Œã¦ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`‚ª—‚ê‚Ä‚é‚æ\n\n",
           "text": ""
         },
         {
-          "index": 13,
-          "name": "",
-          "text": "å†è¨ˆæ¸¬ãŒå¿…è¦ã‹ã‚‚â€¦â€¦\n\n"
+          "title": "",
+          "text": "ÄŒv‘ª‚ª•K—v‚©‚àcc\n\n"
         },
         {
-          "index": 14,
-          "name": "",
-          "text": "è¨ˆæ¸¬å®Œäº†ï½ž\nãŠç–²ã‚Œæ§˜\n"
+          "title": "",
+          "text": "Œv‘ªŠ®—¹`\n‚¨”æ‚ê—l\n"
         },
         {
-          "index": 15,
-          "name": "",
-          "text": "è¨ˆæ¸¬ï¼¯ï¼«ã ã‚ˆ\nèª¿æ•´ã‚‚å•é¡Œç„¡ã„â€¦â€¦ã¨æ€ã†\n"
+          "title": "",
+          "text": "Œv‘ª‚n‚j‚¾‚æ\n’²®‚à–â‘è–³‚¢cc‚ÆŽv‚¤\n"
         },
         {
-          "index": 16,
-          "name": "",
-          "text": "ã”ã‚ã‚“\nã‚ã¾ã‚Šè‰¯ã„èª¿æ•´ã«ãªã‚‰ãªã‹ã£ãŸ\n"
+          "title": "",
+          "text": "‚²‚ß‚ñ\n‚ ‚Ü‚è—Ç‚¢’²®‚É‚È‚ç‚È‚©‚Á‚½\n"
         },
         {
-          "index": 17,
-          "name": "",
-          "text": "èª¿æ•´ã¯ã—ãŸã‘ã©\nå¤‰åŒ–ç„¡ã„ã¨æ€ã†\n"
+          "title": "",
+          "text": "’²®‚Í‚µ‚½‚¯‚Ç\n•Ï‰»–³‚¢‚ÆŽv‚¤\n"
         },
         {
-          "index": 18,
-          "name": "",
-          "text": "ã¾ãšã¾ãšã®èª¿æ•´ãŒã§ããŸã‚ˆ\nåŠ¹æžœã‚‚å®Ÿæ„Ÿã§ãã‚‹ã¯ãš\n"
+          "title": "",
+          "text": "‚Ü‚¸‚Ü‚¸‚Ì’²®‚ª‚Å‚«‚½‚æ\nŒø‰Ê‚àŽÀŠ´‚Å‚«‚é‚Í‚¸\n"
         },
         {
-          "index": 19,
-          "name": "",
-          "text": "èª¿æ•´ã€ã‹ãªã‚Šä¸Šæ‰‹ãã„ã£ãŸã‚ˆ\næ‰±ã„ã‚„ã™ããªã£ãŸâ€¦â€¦ã¯ãš\n"
+          "title": "",
+          "text": "’²®A‚©‚È‚èãŽè‚­‚¢‚Á‚½‚æ\nˆµ‚¢‚â‚·‚­‚È‚Á‚½cc‚Í‚¸\n"
         }
       ]
     },
     {
       "id": 11,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N001_C12",
-          "text": "ã©ã¡ã‚‰ã‚’ä½¿ç”¨ã™ã‚‹ï¼Ÿ"
+          "title": "CC01_N001_C12",
+          "text": "‚Ç‚¿‚ç‚ðŽg—p‚·‚éH"
         },
         {
-          "index": 1,
-          "name": "CC01_N002_C12",
-          "text": "ãƒ˜ãƒƒãƒ‰ã‚®ã‚¢åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N002_C12",
+          "text": "ƒwƒbƒhƒMƒAŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 2,
-          "name": "CC01_N003_C12",
-          "text": "é€šå¸¸è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N003_C12",
+          "text": "’ÊíŒv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 3,
-          "name": "CC01_N004_C12",
-          "text": "ã‚«ãƒ—ã‚»ãƒ«ãƒ™ãƒƒãƒ‰åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N004_C12",
+          "text": "ƒJƒvƒZƒ‹ƒxƒbƒhŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 4,
-          "name": "CC01_N005_C12",
-          "text": "ç²¾å¯†è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N005_C12",
+          "text": "¸–§Œv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 5,
-          "name": "CC01_N006_C12",
-          "text": "è¨ˆæ¸¬ç„¡ã—ã§ã€èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N006_C12",
+          "text": "Œv‘ª–³‚µ‚ÅA’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 6,
-          "name": "CC05_N007_C12",
-          "text": "ãã‚Œã˜ã‚ƒã‚ã€ã»ã®ã‹\nè¨ˆæ¸¬å§‹ã‚ã‚‹ã‚ˆ\n"
+          "title": "CC05_N007_C12",
+          "text": "‚»‚ê‚¶‚á‚ A‚Ù‚Ì‚©\nŒv‘ªŽn‚ß‚é‚æ\n"
         },
         {
-          "index": 7,
-          "name": "CC05_N008_C12",
-          "text": "è¨ˆæ¸¬ã¯å•é¡Œç„¡ã„ã‚ˆ\n\n"
+          "title": "CC05_N008_C12",
+          "text": "Œv‘ª‚Í–â‘è–³‚¢‚æ\n\n"
         },
         {
-          "index": 8,
-          "name": "CC05_N009_C12",
-          "text": "è¨ˆæ¸¬ã¯é †èª¿\n\n"
+          "title": "CC05_N009_C12",
+          "text": "Œv‘ª‚Í‡’²\n\n"
         },
         {
-          "index": 9,
-          "name": "CC05_N010_C12",
-          "text": "ã»ã®ã‹ã®æ³¢å½¢ã£ã¦\nç¶ºéº—â€¦â€¦\n"
+          "title": "CC05_N010_C12",
+          "text": "‚Ù‚Ì‚©‚Ì”gŒ`‚Á‚Ä\nãY—ícc\n"
         },
         {
-          "index": 10,
-          "name": "ã»ã®ã‹ã®æ³¢å½¢ã£ã¦\nç¶ºéº—â€¦â€¦\n",
+          "title": "‚Ù‚Ì‚©‚Ì”gŒ`‚Á‚Ä\nãY—ícc\n",
           "text": "CC05_N009_C12"
         },
         {
-          "index": 11,
-          "name": "ã»ã®ã‹ãƒ¼\nãƒŽã‚¤ã‚ºã ã‚ˆ\n",
+          "title": "‚Ù‚Ì‚©[\nƒmƒCƒY‚¾‚æ\n",
           "text": "CC05_N010_C12"
         },
         {
-          "index": 12,
-          "name": "ã»ã®ã‹ã€æ³¢å½¢ãŒä¹±ã‚Œã¦ã„ã‚‹ã‚ˆ\n\n",
+          "title": "‚Ù‚Ì‚©A”gŒ`‚ª—‚ê‚Ä‚¢‚é‚æ\n\n",
           "text": "CC05_N011_C12"
         },
         {
-          "index": 13,
-          "name": "CC05_N014_C12",
-          "text": "ã”ã‚ã‚“ã€ã»ã®ã‹\nã‚‚ã†ä¸€åº¦è¨ˆæ¸¬ã‚’ãŠé¡˜ã„â€¦â€¦\n"
+          "title": "CC05_N014_C12",
+          "text": "‚²‚ß‚ñA‚Ù‚Ì‚©\n‚à‚¤ˆê“xŒv‘ª‚ð‚¨Šè‚¢cc\n"
         },
         {
-          "index": 14,
-          "name": "CC05_N015_C12",
-          "text": "ãŠç–²ã‚Œæ§˜ã€ã»ã®ã‹\nã¾ãšã¾ãšã®è¨ˆæ¸¬çµæžœã ã£ãŸã‚ˆ\n"
+          "title": "CC05_N015_C12",
+          "text": "‚¨”æ‚ê—lA‚Ù‚Ì‚©\n‚Ü‚¸‚Ü‚¸‚ÌŒv‘ªŒ‹‰Ê‚¾‚Á‚½‚æ\n"
         },
         {
-          "index": 15,
-          "name": "CC05_N016_C12",
-          "text": "ã»ã®ã‹ã€è‰¯ã„è¨ˆæ¸¬çµæžœãŒå‡ºãŸã‚ˆ\nã“ã‚Œãªã‚‰èª¿æ•´ã‚‚æ¥½\nã†ã‚“ã€ãã£ã¨æ¥½ã«ãªã‚‹ã‚ˆ"
+          "title": "CC05_N016_C12",
+          "text": "‚Ù‚Ì‚©A—Ç‚¢Œv‘ªŒ‹‰Ê‚ªo‚½‚æ\n‚±‚ê‚È‚ç’²®‚àŠy\n‚¤‚ñA‚«‚Á‚ÆŠy‚É‚È‚é‚æ"
         },
         {
-          "index": 16,
-          "name": "CC05_N017_C12",
-          "text": "ã”ã‚ã‚“ã€ã»ã®ã‹\nèª¿æ•´ã€ã‚ã¾ã‚Šè‰¯ããªã‹ã£ãŸã‚ˆ\n"
+          "title": "CC05_N017_C12",
+          "text": "‚²‚ß‚ñA‚Ù‚Ì‚©\n’²®A‚ ‚Ü‚è—Ç‚­‚È‚©‚Á‚½‚æ\n"
         },
         {
-          "index": 17,
-          "name": "CC05_N018_C12",
-          "text": "ä¸€å¿œã€èª¿æ•´ã¯ã—ãŸã‘ã©â€¦â€¦\næ€§èƒ½ã«å¤‰åŒ–ã¯ç„¡ã„ã¨æ€ã†\n"
+          "title": "CC05_N018_C12",
+          "text": "ˆê‰žA’²®‚Í‚µ‚½‚¯‚Çcc\n«”\‚É•Ï‰»‚Í–³‚¢‚ÆŽv‚¤\n"
         },
         {
-          "index": 18,
-          "name": "CC05_N019_C12",
-          "text": "ã¾ãšã¾ãšã®èª¿æ•´\nã»ã®ã‹ãªã‚‰ãƒãƒƒãƒãƒªä½¿ã„ã“ãªã›ã¦\né”ä¹Ÿã•ã‚“ã‚‚ãƒ¡ãƒ­ãƒ¡ãƒ­"
+          "title": "CC05_N019_C12",
+          "text": "‚Ü‚¸‚Ü‚¸‚Ì’²®\n‚Ù‚Ì‚©‚È‚çƒoƒbƒ`ƒŠŽg‚¢‚±‚È‚¹‚Ä\n’B–ç‚³‚ñ‚àƒƒƒƒ"
         },
         {
-          "index": 19,
-          "name": "CC05_N020_C12",
-          "text": "èª¿æ•´ä¸Šæ‰‹ãã„ã£ãŸã‚ˆã€ã»ã®ã‹\nã»ã®ã‹ã®ç‚ºã‚’æ€ã£ã¦ä½œã£ãŸå°‚ç”¨æ©Ÿ\nå¤§åˆ‡ã«ã—ã¦ã­"
+          "title": "CC05_N020_C12",
+          "text": "’²®ãŽè‚­‚¢‚Á‚½‚æA‚Ù‚Ì‚©\n‚Ù‚Ì‚©‚Ìˆ×‚ðŽv‚Á‚Äì‚Á‚½ê—p‹@\n‘åØ‚É‚µ‚Ä‚Ë"
         }
       ]
     },
     {
       "id": 12,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "",
-          "text": "ã©ã¡ã‚‰ã‚’ä½¿ç”¨ã™ã‚‹ï¼Ÿ"
+          "title": "",
+          "text": "‚Ç‚¿‚ç‚ðŽg—p‚·‚éH"
         },
         {
-          "index": 1,
-          "name": "",
-          "text": "ãƒ˜ãƒƒãƒ‰ã‚®ã‚¢åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "",
+          "text": "ƒwƒbƒhƒMƒAŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 2,
-          "name": "",
-          "text": "é€šå¸¸è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "",
+          "text": "’ÊíŒv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 3,
-          "name": "",
-          "text": "ã‚«ãƒ—ã‚»ãƒ«ãƒ™ãƒƒãƒ‰åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "",
+          "text": "ƒJƒvƒZƒ‹ƒxƒbƒhŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 4,
-          "name": "",
-          "text": "ç²¾å¯†è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "",
+          "text": "¸–§Œv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 5,
-          "name": "",
-          "text": "è¨ˆæ¸¬ç„¡ã—ã§ã€èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "",
+          "text": "Œv‘ª–³‚µ‚ÅA’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 6,
-          "name": "",
-          "text": "è¨ˆæ¸¬å§‹ã‚ã‚‹ã‚ˆ\n\n"
+          "title": "",
+          "text": "Œv‘ªŽn‚ß‚é‚æ\n\n"
         },
         {
-          "index": 7,
-          "name": "",
-          "text": "è¨ˆæ¸¬ã¯å•é¡Œãªã—\n\n"
+          "title": "",
+          "text": "Œv‘ª‚Í–â‘è‚È‚µ\n\n"
         },
         {
-          "index": 8,
-          "name": "",
-          "text": "ã‚“ã€é †èª¿\n\n"
+          "title": "",
+          "text": "‚ñA‡’²\n\n"
         },
         {
-          "index": 9,
-          "name": "",
-          "text": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã‚‹ã‚ˆ\n\n"
+          "title": "",
+          "text": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚é‚æ\n\n"
         },
         {
-          "index": 10,
-          "name": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚é‚æ\n\n",
           "text": ""
         },
         {
-          "index": 11,
-          "name": "ãƒŽã‚¤ã‚ºã€å‡ºã¦ã‚‹ã‚ˆ\n\n",
+          "title": "ƒmƒCƒYAo‚Ä‚é‚æ\n\n",
           "text": ""
         },
         {
-          "index": 12,
-          "name": "æ³¢å½¢ãŒä¹±ã‚Œã¦ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`‚ª—‚ê‚Ä‚é‚æ\n\n",
           "text": ""
         },
         {
-          "index": 13,
-          "name": "",
-          "text": "å†è¨ˆæ¸¬ãŒå¿…è¦ã‹ã‚‚â€¦â€¦\n\n"
+          "title": "",
+          "text": "ÄŒv‘ª‚ª•K—v‚©‚àcc\n\n"
         },
         {
-          "index": 14,
-          "name": "",
-          "text": "è¨ˆæ¸¬å®Œäº†ï½ž\nãŠç–²ã‚Œæ§˜\n"
+          "title": "",
+          "text": "Œv‘ªŠ®—¹`\n‚¨”æ‚ê—l\n"
         },
         {
-          "index": 15,
-          "name": "",
-          "text": "è¨ˆæ¸¬ï¼¯ï¼«ã ã‚ˆ\nèª¿æ•´ã‚‚å•é¡Œç„¡ã„â€¦â€¦ã¨æ€ã†\n"
+          "title": "",
+          "text": "Œv‘ª‚n‚j‚¾‚æ\n’²®‚à–â‘è–³‚¢cc‚ÆŽv‚¤\n"
         },
         {
-          "index": 16,
-          "name": "",
-          "text": "ã”ã‚ã‚“\nã‚ã¾ã‚Šè‰¯ã„èª¿æ•´ã«ãªã‚‰ãªã‹ã£ãŸ\n"
+          "title": "",
+          "text": "‚²‚ß‚ñ\n‚ ‚Ü‚è—Ç‚¢’²®‚É‚È‚ç‚È‚©‚Á‚½\n"
         },
         {
-          "index": 17,
-          "name": "",
-          "text": "èª¿æ•´ã¯ã—ãŸã‘ã©\nå¤‰åŒ–ç„¡ã„ã¨æ€ã†\n"
+          "title": "",
+          "text": "’²®‚Í‚µ‚½‚¯‚Ç\n•Ï‰»–³‚¢‚ÆŽv‚¤\n"
         },
         {
-          "index": 18,
-          "name": "",
-          "text": "ã¾ãšã¾ãšã®èª¿æ•´ãŒã§ããŸã‚ˆ\nåŠ¹æžœã‚‚å®Ÿæ„Ÿã§ãã‚‹ã¯ãš\n"
+          "title": "",
+          "text": "‚Ü‚¸‚Ü‚¸‚Ì’²®‚ª‚Å‚«‚½‚æ\nŒø‰Ê‚àŽÀŠ´‚Å‚«‚é‚Í‚¸\n"
         },
         {
-          "index": 19,
-          "name": "",
-          "text": "èª¿æ•´ã€ã‹ãªã‚Šä¸Šæ‰‹ãã„ã£ãŸã‚ˆ\næ‰±ã„ã‚„ã™ããªã£ãŸâ€¦â€¦ã¯ãš\n"
+          "title": "",
+          "text": "’²®A‚©‚È‚èãŽè‚­‚¢‚Á‚½‚æ\nˆµ‚¢‚â‚·‚­‚È‚Á‚½cc‚Í‚¸\n"
         }
       ]
     },
     {
       "id": 14,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N001_C12",
-          "text": "ã©ã¡ã‚‰ã‚’ä½¿ç”¨ã™ã‚‹ï¼Ÿ"
+          "title": "CC01_N001_C12",
+          "text": "‚Ç‚¿‚ç‚ðŽg—p‚·‚éH"
         },
         {
-          "index": 1,
-          "name": "CC01_N002_C12",
-          "text": "ãƒ˜ãƒƒãƒ‰ã‚®ã‚¢åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N002_C12",
+          "text": "ƒwƒbƒhƒMƒAŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 2,
-          "name": "CC01_N003_C12",
-          "text": "é€šå¸¸è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N003_C12",
+          "text": "’ÊíŒv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 3,
-          "name": "CC01_N004_C12",
-          "text": "ã‚«ãƒ—ã‚»ãƒ«ãƒ™ãƒƒãƒ‰åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N004_C12",
+          "text": "ƒJƒvƒZƒ‹ƒxƒbƒhŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 4,
-          "name": "CC01_N005_C12",
-          "text": "ç²¾å¯†è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N005_C12",
+          "text": "¸–§Œv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 5,
-          "name": "CC01_N006_C12",
-          "text": "è¨ˆæ¸¬ç„¡ã—ã§ã€èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N006_C12",
+          "text": "Œv‘ª–³‚µ‚ÅA’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 6,
-          "name": "CC01_N007_C12",
-          "text": "è¨ˆæ¸¬å§‹ã‚ã‚‹ã‚ˆ\n\n"
+          "title": "CC01_N007_C12",
+          "text": "Œv‘ªŽn‚ß‚é‚æ\n\n"
         },
         {
-          "index": 7,
-          "name": "CC01_N008_C12",
-          "text": "è¨ˆæ¸¬ã¯å•é¡Œãªã—\n\n"
+          "title": "CC01_N008_C12",
+          "text": "Œv‘ª‚Í–â‘è‚È‚µ\n\n"
         },
         {
-          "index": 8,
-          "name": "CC01_N009_C12",
-          "text": "ã‚“ã€é †èª¿\n\n"
+          "title": "CC01_N009_C12",
+          "text": "‚ñA‡’²\n\n"
         },
         {
-          "index": 9,
-          "name": "CC01_N010_C12",
-          "text": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã‚‹ã‚ˆ\n\n"
+          "title": "CC01_N010_C12",
+          "text": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚é‚æ\n\n"
         },
         {
-          "index": 10,
-          "name": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚é‚æ\n\n",
           "text": "CC01_N009_C12"
         },
         {
-          "index": 11,
-          "name": "ãƒŽã‚¤ã‚ºã€å‡ºã¦ã‚‹ã‚ˆ\n\n",
+          "title": "ƒmƒCƒYAo‚Ä‚é‚æ\n\n",
           "text": "CC01_N010_C12"
         },
         {
-          "index": 12,
-          "name": "æ³¢å½¢ãŒä¹±ã‚Œã¦ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`‚ª—‚ê‚Ä‚é‚æ\n\n",
           "text": "CC01_N011_C12"
         },
         {
-          "index": 13,
-          "name": "CC01_N014_C12",
-          "text": "å†è¨ˆæ¸¬ãŒå¿…è¦ã‹ã‚‚â€¦â€¦\n\n"
+          "title": "CC01_N014_C12",
+          "text": "ÄŒv‘ª‚ª•K—v‚©‚àcc\n\n"
         },
         {
-          "index": 14,
-          "name": "CC01_N015_C12",
-          "text": "è¨ˆæ¸¬å®Œäº†ï½ž\nãŠç–²ã‚Œæ§˜\n"
+          "title": "CC01_N015_C12",
+          "text": "Œv‘ªŠ®—¹`\n‚¨”æ‚ê—l\n"
         },
         {
-          "index": 15,
-          "name": "CC01_N016_C12",
-          "text": "è¨ˆæ¸¬ï¼¯ï¼«ã ã‚ˆ\nèª¿æ•´ã‚‚å•é¡Œç„¡ã„â€¦â€¦ã¨æ€ã†\n"
+          "title": "CC01_N016_C12",
+          "text": "Œv‘ª‚n‚j‚¾‚æ\n’²®‚à–â‘è–³‚¢cc‚ÆŽv‚¤\n"
         },
         {
-          "index": 16,
-          "name": "CC01_N017_C12",
-          "text": "ã”ã‚ã‚“\nã‚ã¾ã‚Šè‰¯ã„èª¿æ•´ã«ãªã‚‰ãªã‹ã£ãŸ\n"
+          "title": "CC01_N017_C12",
+          "text": "‚²‚ß‚ñ\n‚ ‚Ü‚è—Ç‚¢’²®‚É‚È‚ç‚È‚©‚Á‚½\n"
         },
         {
-          "index": 17,
-          "name": "CC01_N018_C12",
-          "text": "èª¿æ•´ã¯ã—ãŸã‘ã©\nå¤‰åŒ–ç„¡ã„ã¨æ€ã†\n"
+          "title": "CC01_N018_C12",
+          "text": "’²®‚Í‚µ‚½‚¯‚Ç\n•Ï‰»–³‚¢‚ÆŽv‚¤\n"
         },
         {
-          "index": 18,
-          "name": "CC01_N019_C12",
-          "text": "ã¾ãšã¾ãšã®èª¿æ•´ãŒã§ããŸã‚ˆ\nåŠ¹æžœã‚‚å®Ÿæ„Ÿã§ãã‚‹ã¯ãš\n"
+          "title": "CC01_N019_C12",
+          "text": "‚Ü‚¸‚Ü‚¸‚Ì’²®‚ª‚Å‚«‚½‚æ\nŒø‰Ê‚àŽÀŠ´‚Å‚«‚é‚Í‚¸\n"
         },
         {
-          "index": 19,
-          "name": "CC01_N020_C12",
-          "text": "èª¿æ•´ã€ã‹ãªã‚Šä¸Šæ‰‹ãã„ã£ãŸã‚ˆ\næ‰±ã„ã‚„ã™ããªã£ãŸâ€¦â€¦ã¯ãš\n"
+          "title": "CC01_N020_C12",
+          "text": "’²®A‚©‚È‚èãŽè‚­‚¢‚Á‚½‚æ\nˆµ‚¢‚â‚·‚­‚È‚Á‚½cc‚Í‚¸\n"
         }
       ]
     },
     {
       "id": 21,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N001_C12",
-          "text": "ã©ã¡ã‚‰ã‚’ä½¿ç”¨ã™ã‚‹ï¼Ÿ"
+          "title": "CC01_N001_C12",
+          "text": "‚Ç‚¿‚ç‚ðŽg—p‚·‚éH"
         },
         {
-          "index": 1,
-          "name": "CC01_N002_C12",
-          "text": "ãƒ˜ãƒƒãƒ‰ã‚®ã‚¢åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N002_C12",
+          "text": "ƒwƒbƒhƒMƒAŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 2,
-          "name": "CC01_N003_C12",
-          "text": "é€šå¸¸è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N003_C12",
+          "text": "’ÊíŒv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 3,
-          "name": "CC01_N004_C12",
-          "text": "ã‚«ãƒ—ã‚»ãƒ«ãƒ™ãƒƒãƒ‰åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N004_C12",
+          "text": "ƒJƒvƒZƒ‹ƒxƒbƒhŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 4,
-          "name": "CC01_N005_C12",
-          "text": "ç²¾å¯†è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N005_C12",
+          "text": "¸–§Œv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 5,
-          "name": "CC01_N006_C12",
-          "text": "è¨ˆæ¸¬ç„¡ã—ã§ã€èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N006_C12",
+          "text": "Œv‘ª–³‚µ‚ÅA’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 6,
-          "name": "CC02_N007_C12",
-          "text": "è¨ˆæ¸¬ã‚’å§‹ã‚ã¾ã™\n\n"
+          "title": "CC02_N007_C12",
+          "text": "Œv‘ª‚ðŽn‚ß‚Ü‚·\n\n"
         },
         {
-          "index": 7,
-          "name": "CC02_N008_C12",
-          "text": "è¨ˆæ¸¬ã§ãã¦ã„ã¾ã™\n\n"
+          "title": "CC02_N008_C12",
+          "text": "Œv‘ª‚Å‚«‚Ä‚¢‚Ü‚·\n\n"
         },
         {
-          "index": 8,
-          "name": "CC02_N009_C12",
-          "text": "è¨ˆæ¸¬ã¯é †èª¿ã§ã™\n\n"
+          "title": "CC02_N009_C12",
+          "text": "Œv‘ª‚Í‡’²‚Å‚·\n\n"
         },
         {
-          "index": 9,
-          "name": "CC02_N010_C12",
-          "text": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã¾ã™\n\n"
+          "title": "CC02_N010_C12",
+          "text": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚Ü‚·\n\n"
         },
         {
-          "index": 10,
-          "name": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚Ü‚·\n\n",
           "text": "CC02_N009_C12"
         },
         {
-          "index": 11,
-          "name": "ãƒŽã‚¤ã‚ºãŒã™ã“ã—å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "ƒmƒCƒY‚ª‚·‚±‚µo‚Ä‚¢‚Ü‚·\n\n",
           "text": "CC02_N010_C12"
         },
         {
-          "index": 12,
-          "name": "æ³¢å½¢ã®ä¹±ã‚Œã€å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "”gŒ`‚Ì—‚êAo‚Ä‚¢‚Ü‚·\n\n",
           "text": "CC02_N011_C12"
         },
         {
-          "index": 13,
-          "name": "CC02_N014_C12",
-          "text": "ã™ã¿ã¾ã›ã‚“\nå†è¨ˆæ¸¬ãŒå¿…è¦ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“â€¦â€¦\n"
+          "title": "CC02_N014_C12",
+          "text": "‚·‚Ý‚Ü‚¹‚ñ\nÄŒv‘ª‚ª•K—v‚©‚à‚µ‚ê‚Ü‚¹‚ñcc\n"
         },
         {
-          "index": 14,
-          "name": "CC02_N015_C12",
-          "text": "ãŠç–²ã‚Œæ§˜ã§ã™\nè¨ˆæ¸¬å®Œäº†ã—ã¾ã—ãŸ\n"
+          "title": "CC02_N015_C12",
+          "text": "‚¨”æ‚ê—l‚Å‚·\nŒv‘ªŠ®—¹‚µ‚Ü‚µ‚½\n"
         },
         {
-          "index": 15,
-          "name": "CC02_N016_C12",
-          "text": "è¨ˆæ¸¬å®Œäº†ã—ã¾ã—ãŸ\nã“ã®çµæžœãªã‚‰å¤§ä¸ˆå¤«ã§ã™\n"
+          "title": "CC02_N016_C12",
+          "text": "Œv‘ªŠ®—¹‚µ‚Ü‚µ‚½\n‚±‚ÌŒ‹‰Ê‚È‚ç‘åä•v‚Å‚·\n"
         },
         {
-          "index": 16,
-          "name": "CC02_N017_C12",
-          "text": "ã™ã¿ã¾ã›ã‚“\nèª¿æ•´ã€ã‚ã¾ã‚Šè‰¯ãã§ãã¾ã›ã‚“ã§ã—ãŸ\n"
+          "title": "CC02_N017_C12",
+          "text": "‚·‚Ý‚Ü‚¹‚ñ\n’²®A‚ ‚Ü‚è—Ç‚­‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½\n"
         },
         {
-          "index": 17,
-          "name": "CC02_N018_C12",
-          "text": "èª¿æ•´ã¯ã—ã¦ã¿ã¾ã—ãŸãŒ\næ€§èƒ½ã¯å¤‰ã‚ã‚Šã¾ã›ã‚“ã§ã—ãŸ\n"
+          "title": "CC02_N018_C12",
+          "text": "’²®‚Í‚µ‚Ä‚Ý‚Ü‚µ‚½‚ª\n«”\‚Í•Ï‚í‚è‚Ü‚¹‚ñ‚Å‚µ‚½\n"
         },
         {
-          "index": 18,
-          "name": "CC02_N019_C12",
-          "text": "ã¾ãšã¾ãšã®èª¿æ•´å†…å®¹ã§ã™\nåŠ¹æžœã‚‚ç¢ºèªã§ãã¾ã™\n"
+          "title": "CC02_N019_C12",
+          "text": "‚Ü‚¸‚Ü‚¸‚Ì’²®“à—e‚Å‚·\nŒø‰Ê‚àŠm”F‚Å‚«‚Ü‚·\n"
         },
         {
-          "index": 19,
-          "name": "CC02_N020_C12",
-          "text": "èª¿æ•´ã¯ä¸Šæ‰‹ãã„ãã¾ã—ãŸ\nã‹ãªã‚Šæ‰±ã„ã‚„ã™ããªã‚Šã¾ã—ãŸ\n"
+          "title": "CC02_N020_C12",
+          "text": "’²®‚ÍãŽè‚­‚¢‚«‚Ü‚µ‚½\n‚©‚È‚èˆµ‚¢‚â‚·‚­‚È‚è‚Ü‚µ‚½\n"
         }
       ]
     },
     {
       "id": 22,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "",
-          "text": "ã©ã¡ã‚‰ã‚’ä½¿ç”¨ã™ã‚‹ï¼Ÿ"
+          "title": "",
+          "text": "‚Ç‚¿‚ç‚ðŽg—p‚·‚éH"
         },
         {
-          "index": 1,
-          "name": "",
-          "text": "ãƒ˜ãƒƒãƒ‰ã‚®ã‚¢åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "",
+          "text": "ƒwƒbƒhƒMƒAŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 2,
-          "name": "",
-          "text": "é€šå¸¸è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "",
+          "text": "’ÊíŒv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 3,
-          "name": "",
-          "text": "ã‚«ãƒ—ã‚»ãƒ«ãƒ™ãƒƒãƒ‰åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "",
+          "text": "ƒJƒvƒZƒ‹ƒxƒbƒhŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 4,
-          "name": "",
-          "text": "ç²¾å¯†è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "",
+          "text": "¸–§Œv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 5,
-          "name": "",
-          "text": "è¨ˆæ¸¬ç„¡ã—ã§ã€èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "",
+          "text": "Œv‘ª–³‚µ‚ÅA’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 6,
-          "name": "",
-          "text": "è¨ˆæ¸¬ã‚’å§‹ã‚ã¾ã™\n\n"
+          "title": "",
+          "text": "Œv‘ª‚ðŽn‚ß‚Ü‚·\n\n"
         },
         {
-          "index": 7,
-          "name": "",
-          "text": "è¨ˆæ¸¬ã§ãã¦ã„ã¾ã™\n\n"
+          "title": "",
+          "text": "Œv‘ª‚Å‚«‚Ä‚¢‚Ü‚·\n\n"
         },
         {
-          "index": 8,
-          "name": "",
-          "text": "è¨ˆæ¸¬ã¯é †èª¿ã§ã™\n\n"
+          "title": "",
+          "text": "Œv‘ª‚Í‡’²‚Å‚·\n\n"
         },
         {
-          "index": 9,
-          "name": "",
-          "text": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã¾ã™\n\n"
+          "title": "",
+          "text": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚Ü‚·\n\n"
         },
         {
-          "index": 10,
-          "name": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚Ü‚·\n\n",
           "text": ""
         },
         {
-          "index": 11,
-          "name": "ãƒŽã‚¤ã‚ºãŒã™ã“ã—å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "ƒmƒCƒY‚ª‚·‚±‚µo‚Ä‚¢‚Ü‚·\n\n",
           "text": ""
         },
         {
-          "index": 12,
-          "name": "æ³¢å½¢ã®ä¹±ã‚Œã€å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "”gŒ`‚Ì—‚êAo‚Ä‚¢‚Ü‚·\n\n",
           "text": ""
         },
         {
-          "index": 13,
-          "name": "",
-          "text": "ã™ã¿ã¾ã›ã‚“\nå†è¨ˆæ¸¬ãŒå¿…è¦ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“â€¦â€¦\n"
+          "title": "",
+          "text": "‚·‚Ý‚Ü‚¹‚ñ\nÄŒv‘ª‚ª•K—v‚©‚à‚µ‚ê‚Ü‚¹‚ñcc\n"
         },
         {
-          "index": 14,
-          "name": "",
-          "text": "ãŠç–²ã‚Œæ§˜ã§ã™\nè¨ˆæ¸¬å®Œäº†ã—ã¾ã—ãŸ\n"
+          "title": "",
+          "text": "‚¨”æ‚ê—l‚Å‚·\nŒv‘ªŠ®—¹‚µ‚Ü‚µ‚½\n"
         },
         {
-          "index": 15,
-          "name": "",
-          "text": "è¨ˆæ¸¬å®Œäº†ã—ã¾ã—ãŸ\nã“ã®çµæžœãªã‚‰å¤§ä¸ˆå¤«ã§ã™\n"
+          "title": "",
+          "text": "Œv‘ªŠ®—¹‚µ‚Ü‚µ‚½\n‚±‚ÌŒ‹‰Ê‚È‚ç‘åä•v‚Å‚·\n"
         },
         {
-          "index": 16,
-          "name": "",
-          "text": "ã™ã¿ã¾ã›ã‚“\nèª¿æ•´ã€ã‚ã¾ã‚Šè‰¯ãã§ãã¾ã›ã‚“ã§ã—ãŸ\n"
+          "title": "",
+          "text": "‚·‚Ý‚Ü‚¹‚ñ\n’²®A‚ ‚Ü‚è—Ç‚­‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½\n"
         },
         {
-          "index": 17,
-          "name": "",
-          "text": "èª¿æ•´ã¯ã—ã¦ã¿ã¾ã—ãŸãŒ\næ€§èƒ½ã¯å¤‰ã‚ã‚Šã¾ã›ã‚“ã§ã—ãŸ\n"
+          "title": "",
+          "text": "’²®‚Í‚µ‚Ä‚Ý‚Ü‚µ‚½‚ª\n«”\‚Í•Ï‚í‚è‚Ü‚¹‚ñ‚Å‚µ‚½\n"
         },
         {
-          "index": 18,
-          "name": "",
-          "text": "ã¾ãšã¾ãšã®èª¿æ•´å†…å®¹ã§ã™\nåŠ¹æžœã‚‚ç¢ºèªã§ãã¾ã™\n"
+          "title": "",
+          "text": "‚Ü‚¸‚Ü‚¸‚Ì’²®“à—e‚Å‚·\nŒø‰Ê‚àŠm”F‚Å‚«‚Ü‚·\n"
         },
         {
-          "index": 19,
-          "name": "",
-          "text": "èª¿æ•´ã¯ä¸Šæ‰‹ãã„ãã¾ã—ãŸ\nã‹ãªã‚Šæ‰±ã„ã‚„ã™ããªã‚Šã¾ã—ãŸ\n"
+          "title": "",
+          "text": "’²®‚ÍãŽè‚­‚¢‚«‚Ü‚µ‚½\n‚©‚È‚èˆµ‚¢‚â‚·‚­‚È‚è‚Ü‚µ‚½\n"
         }
       ]
     },
     {
       "id": 23,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "",
-          "text": "ã©ã¡ã‚‰ã‚’ä½¿ç”¨ã™ã‚‹ï¼Ÿ"
+          "title": "",
+          "text": "‚Ç‚¿‚ç‚ðŽg—p‚·‚éH"
         },
         {
-          "index": 1,
-          "name": "",
-          "text": "ãƒ˜ãƒƒãƒ‰ã‚®ã‚¢åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "",
+          "text": "ƒwƒbƒhƒMƒAŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 2,
-          "name": "",
-          "text": "é€šå¸¸è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "",
+          "text": "’ÊíŒv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 3,
-          "name": "",
-          "text": "ã‚«ãƒ—ã‚»ãƒ«ãƒ™ãƒƒãƒ‰åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "",
+          "text": "ƒJƒvƒZƒ‹ƒxƒbƒhŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 4,
-          "name": "",
-          "text": "ç²¾å¯†è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "",
+          "text": "¸–§Œv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 5,
-          "name": "",
-          "text": "è¨ˆæ¸¬ç„¡ã—ã§ã€èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "",
+          "text": "Œv‘ª–³‚µ‚ÅA’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 6,
-          "name": "",
-          "text": "è¨ˆæ¸¬ã‚’å§‹ã‚ã¾ã™\n\n"
+          "title": "",
+          "text": "Œv‘ª‚ðŽn‚ß‚Ü‚·\n\n"
         },
         {
-          "index": 7,
-          "name": "",
-          "text": "è¨ˆæ¸¬ã§ãã¦ã„ã¾ã™\n\n"
+          "title": "",
+          "text": "Œv‘ª‚Å‚«‚Ä‚¢‚Ü‚·\n\n"
         },
         {
-          "index": 8,
-          "name": "",
-          "text": "è¨ˆæ¸¬ã¯é †èª¿ã§ã™\n\n"
+          "title": "",
+          "text": "Œv‘ª‚Í‡’²‚Å‚·\n\n"
         },
         {
-          "index": 9,
-          "name": "",
-          "text": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã¾ã™\n\n"
+          "title": "",
+          "text": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚Ü‚·\n\n"
         },
         {
-          "index": 10,
-          "name": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚Ü‚·\n\n",
           "text": ""
         },
         {
-          "index": 11,
-          "name": "ãƒŽã‚¤ã‚ºãŒã™ã“ã—å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "ƒmƒCƒY‚ª‚·‚±‚µo‚Ä‚¢‚Ü‚·\n\n",
           "text": ""
         },
         {
-          "index": 12,
-          "name": "æ³¢å½¢ã®ä¹±ã‚Œã€å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "”gŒ`‚Ì—‚êAo‚Ä‚¢‚Ü‚·\n\n",
           "text": ""
         },
         {
-          "index": 13,
-          "name": "",
-          "text": "ã™ã¿ã¾ã›ã‚“\nå†è¨ˆæ¸¬ãŒå¿…è¦ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“â€¦â€¦\n"
+          "title": "",
+          "text": "‚·‚Ý‚Ü‚¹‚ñ\nÄŒv‘ª‚ª•K—v‚©‚à‚µ‚ê‚Ü‚¹‚ñcc\n"
         },
         {
-          "index": 14,
-          "name": "",
-          "text": "ãŠç–²ã‚Œæ§˜ã§ã™\nè¨ˆæ¸¬å®Œäº†ã—ã¾ã—ãŸ\n"
+          "title": "",
+          "text": "‚¨”æ‚ê—l‚Å‚·\nŒv‘ªŠ®—¹‚µ‚Ü‚µ‚½\n"
         },
         {
-          "index": 15,
-          "name": "",
-          "text": "è¨ˆæ¸¬å®Œäº†ã—ã¾ã—ãŸ\nã“ã®çµæžœãªã‚‰å¤§ä¸ˆå¤«ã§ã™\n"
+          "title": "",
+          "text": "Œv‘ªŠ®—¹‚µ‚Ü‚µ‚½\n‚±‚ÌŒ‹‰Ê‚È‚ç‘åä•v‚Å‚·\n"
         },
         {
-          "index": 16,
-          "name": "",
-          "text": "ã™ã¿ã¾ã›ã‚“\nèª¿æ•´ã€ã‚ã¾ã‚Šè‰¯ãã§ãã¾ã›ã‚“ã§ã—ãŸ\n"
+          "title": "",
+          "text": "‚·‚Ý‚Ü‚¹‚ñ\n’²®A‚ ‚Ü‚è—Ç‚­‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½\n"
         },
         {
-          "index": 17,
-          "name": "",
-          "text": "èª¿æ•´ã¯ã—ã¦ã¿ã¾ã—ãŸãŒ\næ€§èƒ½ã¯å¤‰ã‚ã‚Šã¾ã›ã‚“ã§ã—ãŸ\n"
+          "title": "",
+          "text": "’²®‚Í‚µ‚Ä‚Ý‚Ü‚µ‚½‚ª\n«”\‚Í•Ï‚í‚è‚Ü‚¹‚ñ‚Å‚µ‚½\n"
         },
         {
-          "index": 18,
-          "name": "",
-          "text": "ã¾ãšã¾ãšã®èª¿æ•´å†…å®¹ã§ã™\nåŠ¹æžœã‚‚ç¢ºèªã§ãã¾ã™\n"
+          "title": "",
+          "text": "‚Ü‚¸‚Ü‚¸‚Ì’²®“à—e‚Å‚·\nŒø‰Ê‚àŠm”F‚Å‚«‚Ü‚·\n"
         },
         {
-          "index": 19,
-          "name": "",
-          "text": "èª¿æ•´ã¯ä¸Šæ‰‹ãã„ãã¾ã—ãŸ\nã‹ãªã‚Šæ‰±ã„ã‚„ã™ããªã‚Šã¾ã—ãŸ\n"
+          "title": "",
+          "text": "’²®‚ÍãŽè‚­‚¢‚«‚Ü‚µ‚½\n‚©‚È‚èˆµ‚¢‚â‚·‚­‚È‚è‚Ü‚µ‚½\n"
         }
       ]
     },
     {
       "id": 29,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N001_C12",
-          "text": "ã©ã¡ã‚‰ã‚’ä½¿ç”¨ã™ã‚‹ï¼Ÿ"
+          "title": "CC01_N001_C12",
+          "text": "‚Ç‚¿‚ç‚ðŽg—p‚·‚éH"
         },
         {
-          "index": 1,
-          "name": "CC01_N002_C12",
-          "text": "ãƒ˜ãƒƒãƒ‰ã‚®ã‚¢åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N002_C12",
+          "text": "ƒwƒbƒhƒMƒAŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 2,
-          "name": "CC01_N003_C12",
-          "text": "é€šå¸¸è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N003_C12",
+          "text": "’ÊíŒv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 3,
-          "name": "CC01_N004_C12",
-          "text": "ã‚«ãƒ—ã‚»ãƒ«ãƒ™ãƒƒãƒ‰åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N004_C12",
+          "text": "ƒJƒvƒZƒ‹ƒxƒbƒhŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 4,
-          "name": "CC01_N005_C12",
-          "text": "ç²¾å¯†è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N005_C12",
+          "text": "¸–§Œv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 5,
-          "name": "CC01_N006_C12",
-          "text": "è¨ˆæ¸¬ç„¡ã—ã§ã€èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N006_C12",
+          "text": "Œv‘ª–³‚µ‚ÅA’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 6,
-          "name": "CC02_N007_C12",
-          "text": "è¨ˆæ¸¬ã‚’å§‹ã‚ã¾ã™\n\n"
+          "title": "CC02_N007_C12",
+          "text": "Œv‘ª‚ðŽn‚ß‚Ü‚·\n\n"
         },
         {
-          "index": 7,
-          "name": "CC02_N008_C12",
-          "text": "è¨ˆæ¸¬ã§ãã¦ã„ã¾ã™\n\n"
+          "title": "CC02_N008_C12",
+          "text": "Œv‘ª‚Å‚«‚Ä‚¢‚Ü‚·\n\n"
         },
         {
-          "index": 8,
-          "name": "CC02_N009_C12",
-          "text": "è¨ˆæ¸¬ã¯é †èª¿ã§ã™\n\n"
+          "title": "CC02_N009_C12",
+          "text": "Œv‘ª‚Í‡’²‚Å‚·\n\n"
         },
         {
-          "index": 9,
-          "name": "CC02_N010_C12",
-          "text": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã¾ã™\n\n"
+          "title": "CC02_N010_C12",
+          "text": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚Ü‚·\n\n"
         },
         {
-          "index": 10,
-          "name": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚Ü‚·\n\n",
           "text": "CC02_N009_C12"
         },
         {
-          "index": 11,
-          "name": "ãƒŽã‚¤ã‚ºãŒã™ã“ã—å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "ƒmƒCƒY‚ª‚·‚±‚µo‚Ä‚¢‚Ü‚·\n\n",
           "text": "CC02_N010_C12"
         },
         {
-          "index": 12,
-          "name": "æ³¢å½¢ã®ä¹±ã‚Œã€å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "”gŒ`‚Ì—‚êAo‚Ä‚¢‚Ü‚·\n\n",
           "text": "CC02_N011_C12"
         },
         {
-          "index": 13,
-          "name": "CC02_N014_C12",
-          "text": "ã™ã¿ã¾ã›ã‚“\nå†è¨ˆæ¸¬ãŒå¿…è¦ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“â€¦â€¦\n"
+          "title": "CC02_N014_C12",
+          "text": "‚·‚Ý‚Ü‚¹‚ñ\nÄŒv‘ª‚ª•K—v‚©‚à‚µ‚ê‚Ü‚¹‚ñcc\n"
         },
         {
-          "index": 14,
-          "name": "CC02_N015_C12",
-          "text": "ãŠç–²ã‚Œæ§˜ã§ã™\nè¨ˆæ¸¬å®Œäº†ã—ã¾ã—ãŸ\n"
+          "title": "CC02_N015_C12",
+          "text": "‚¨”æ‚ê—l‚Å‚·\nŒv‘ªŠ®—¹‚µ‚Ü‚µ‚½\n"
         },
         {
-          "index": 15,
-          "name": "CC02_N016_C12",
-          "text": "è¨ˆæ¸¬å®Œäº†ã—ã¾ã—ãŸ\nã“ã®çµæžœãªã‚‰å¤§ä¸ˆå¤«ã§ã™\n"
+          "title": "CC02_N016_C12",
+          "text": "Œv‘ªŠ®—¹‚µ‚Ü‚µ‚½\n‚±‚ÌŒ‹‰Ê‚È‚ç‘åä•v‚Å‚·\n"
         },
         {
-          "index": 16,
-          "name": "CC02_N017_C12",
-          "text": "ã™ã¿ã¾ã›ã‚“\nèª¿æ•´ã€ã‚ã¾ã‚Šè‰¯ãã§ãã¾ã›ã‚“ã§ã—ãŸ\n"
+          "title": "CC02_N017_C12",
+          "text": "‚·‚Ý‚Ü‚¹‚ñ\n’²®A‚ ‚Ü‚è—Ç‚­‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½\n"
         },
         {
-          "index": 17,
-          "name": "CC02_N018_C12",
-          "text": "èª¿æ•´ã¯ã—ã¦ã¿ã¾ã—ãŸãŒ\næ€§èƒ½ã¯å¤‰ã‚ã‚Šã¾ã›ã‚“ã§ã—ãŸ\n"
+          "title": "CC02_N018_C12",
+          "text": "’²®‚Í‚µ‚Ä‚Ý‚Ü‚µ‚½‚ª\n«”\‚Í•Ï‚í‚è‚Ü‚¹‚ñ‚Å‚µ‚½\n"
         },
         {
-          "index": 18,
-          "name": "CC02_N019_C12",
-          "text": "ã¾ãšã¾ãšã®èª¿æ•´å†…å®¹ã§ã™\nåŠ¹æžœã‚‚ç¢ºèªã§ãã¾ã™\n"
+          "title": "CC02_N019_C12",
+          "text": "‚Ü‚¸‚Ü‚¸‚Ì’²®“à—e‚Å‚·\nŒø‰Ê‚àŠm”F‚Å‚«‚Ü‚·\n"
         },
         {
-          "index": 19,
-          "name": "CC02_N020_C12",
-          "text": "èª¿æ•´ã¯ä¸Šæ‰‹ãã„ãã¾ã—ãŸ\nã‹ãªã‚Šæ‰±ã„ã‚„ã™ããªã‚Šã¾ã—ãŸ\n"
+          "title": "CC02_N020_C12",
+          "text": "’²®‚ÍãŽè‚­‚¢‚«‚Ü‚µ‚½\n‚©‚È‚èˆµ‚¢‚â‚·‚­‚È‚è‚Ü‚µ‚½\n"
         }
       ]
     },
     {
       "id": 31,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N001_C12",
-          "text": "ã©ã¡ã‚‰ã‚’ä½¿ç”¨ã™ã‚‹ï¼Ÿ"
+          "title": "CC01_N001_C12",
+          "text": "‚Ç‚¿‚ç‚ðŽg—p‚·‚éH"
         },
         {
-          "index": 1,
-          "name": "CC01_N002_C12",
-          "text": "ãƒ˜ãƒƒãƒ‰ã‚®ã‚¢åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N002_C12",
+          "text": "ƒwƒbƒhƒMƒAŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 2,
-          "name": "CC01_N003_C12",
-          "text": "é€šå¸¸è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N003_C12",
+          "text": "’ÊíŒv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 3,
-          "name": "CC01_N004_C12",
-          "text": "ã‚«ãƒ—ã‚»ãƒ«ãƒ™ãƒƒãƒ‰åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N004_C12",
+          "text": "ƒJƒvƒZƒ‹ƒxƒbƒhŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 4,
-          "name": "CC01_N005_C12",
-          "text": "ç²¾å¯†è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N005_C12",
+          "text": "¸–§Œv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 5,
-          "name": "CC01_N006_C12",
-          "text": "è¨ˆæ¸¬ç„¡ã—ã§ã€èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N006_C12",
+          "text": "Œv‘ª–³‚µ‚ÅA’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 6,
-          "name": "CC02_N007_C12",
-          "text": "è¨ˆæ¸¬ã‚’å§‹ã‚ã¾ã™\n\n"
+          "title": "CC02_N007_C12",
+          "text": "Œv‘ª‚ðŽn‚ß‚Ü‚·\n\n"
         },
         {
-          "index": 7,
-          "name": "CC02_N008_C12",
-          "text": "è¨ˆæ¸¬ã§ãã¦ã„ã¾ã™\n\n"
+          "title": "CC02_N008_C12",
+          "text": "Œv‘ª‚Å‚«‚Ä‚¢‚Ü‚·\n\n"
         },
         {
-          "index": 8,
-          "name": "CC02_N009_C12",
-          "text": "è¨ˆæ¸¬ã¯é †èª¿ã§ã™\n\n"
+          "title": "CC02_N009_C12",
+          "text": "Œv‘ª‚Í‡’²‚Å‚·\n\n"
         },
         {
-          "index": 9,
-          "name": "CC02_N010_C12",
-          "text": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã¾ã™\n\n"
+          "title": "CC02_N010_C12",
+          "text": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚Ü‚·\n\n"
         },
         {
-          "index": 10,
-          "name": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚Ü‚·\n\n",
           "text": "CC02_N009_C12"
         },
         {
-          "index": 11,
-          "name": "ãƒŽã‚¤ã‚ºãŒã™ã“ã—å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "ƒmƒCƒY‚ª‚·‚±‚µo‚Ä‚¢‚Ü‚·\n\n",
           "text": "CC02_N010_C12"
         },
         {
-          "index": 12,
-          "name": "æ³¢å½¢ã®ä¹±ã‚Œã€å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "”gŒ`‚Ì—‚êAo‚Ä‚¢‚Ü‚·\n\n",
           "text": "CC02_N011_C12"
         },
         {
-          "index": 13,
-          "name": "CC02_N014_C12",
-          "text": "ã™ã¿ã¾ã›ã‚“\nå†è¨ˆæ¸¬ãŒå¿…è¦ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“â€¦â€¦\n"
+          "title": "CC02_N014_C12",
+          "text": "‚·‚Ý‚Ü‚¹‚ñ\nÄŒv‘ª‚ª•K—v‚©‚à‚µ‚ê‚Ü‚¹‚ñcc\n"
         },
         {
-          "index": 14,
-          "name": "CC02_N015_C12",
-          "text": "ãŠç–²ã‚Œæ§˜ã§ã™\nè¨ˆæ¸¬å®Œäº†ã—ã¾ã—ãŸ\n"
+          "title": "CC02_N015_C12",
+          "text": "‚¨”æ‚ê—l‚Å‚·\nŒv‘ªŠ®—¹‚µ‚Ü‚µ‚½\n"
         },
         {
-          "index": 15,
-          "name": "CC02_N016_C12",
-          "text": "è¨ˆæ¸¬å®Œäº†ã—ã¾ã—ãŸ\nã“ã®çµæžœãªã‚‰å¤§ä¸ˆå¤«ã§ã™\n"
+          "title": "CC02_N016_C12",
+          "text": "Œv‘ªŠ®—¹‚µ‚Ü‚µ‚½\n‚±‚ÌŒ‹‰Ê‚È‚ç‘åä•v‚Å‚·\n"
         },
         {
-          "index": 16,
-          "name": "CC02_N017_C12",
-          "text": "ã™ã¿ã¾ã›ã‚“\nèª¿æ•´ã€ã‚ã¾ã‚Šè‰¯ãã§ãã¾ã›ã‚“ã§ã—ãŸ\n"
+          "title": "CC02_N017_C12",
+          "text": "‚·‚Ý‚Ü‚¹‚ñ\n’²®A‚ ‚Ü‚è—Ç‚­‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½\n"
         },
         {
-          "index": 17,
-          "name": "CC02_N018_C12",
-          "text": "èª¿æ•´ã¯ã—ã¦ã¿ã¾ã—ãŸãŒ\næ€§èƒ½ã¯å¤‰ã‚ã‚Šã¾ã›ã‚“ã§ã—ãŸ\n"
+          "title": "CC02_N018_C12",
+          "text": "’²®‚Í‚µ‚Ä‚Ý‚Ü‚µ‚½‚ª\n«”\‚Í•Ï‚í‚è‚Ü‚¹‚ñ‚Å‚µ‚½\n"
         },
         {
-          "index": 18,
-          "name": "CC02_N019_C12",
-          "text": "ã¾ãšã¾ãšã®èª¿æ•´å†…å®¹ã§ã™\nåŠ¹æžœã‚‚ç¢ºèªã§ãã¾ã™\n"
+          "title": "CC02_N019_C12",
+          "text": "‚Ü‚¸‚Ü‚¸‚Ì’²®“à—e‚Å‚·\nŒø‰Ê‚àŠm”F‚Å‚«‚Ü‚·\n"
         },
         {
-          "index": 19,
-          "name": "CC02_N020_C12",
-          "text": "èª¿æ•´ã¯ä¸Šæ‰‹ãã„ãã¾ã—ãŸ\nã‹ãªã‚Šæ‰±ã„ã‚„ã™ããªã‚Šã¾ã—ãŸ\n"
+          "title": "CC02_N020_C12",
+          "text": "’²®‚ÍãŽè‚­‚¢‚«‚Ü‚µ‚½\n‚©‚È‚èˆµ‚¢‚â‚·‚­‚È‚è‚Ü‚µ‚½\n"
         }
       ]
     },
     {
       "id": 34,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N001_C12",
-          "text": "ã©ã¡ã‚‰ã‚’ä½¿ç”¨ã™ã‚‹ï¼Ÿ"
+          "title": "CC01_N001_C12",
+          "text": "‚Ç‚¿‚ç‚ðŽg—p‚·‚éH"
         },
         {
-          "index": 1,
-          "name": "CC01_N002_C12",
-          "text": "ãƒ˜ãƒƒãƒ‰ã‚®ã‚¢åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N002_C12",
+          "text": "ƒwƒbƒhƒMƒAŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 2,
-          "name": "CC01_N003_C12",
-          "text": "é€šå¸¸è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N003_C12",
+          "text": "’ÊíŒv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 3,
-          "name": "CC01_N004_C12",
-          "text": "ã‚«ãƒ—ã‚»ãƒ«ãƒ™ãƒƒãƒ‰åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N004_C12",
+          "text": "ƒJƒvƒZƒ‹ƒxƒbƒhŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 4,
-          "name": "CC01_N005_C12",
-          "text": "ç²¾å¯†è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N005_C12",
+          "text": "¸–§Œv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 5,
-          "name": "CC01_N006_C12",
-          "text": "è¨ˆæ¸¬ç„¡ã—ã§ã€èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N006_C12",
+          "text": "Œv‘ª–³‚µ‚ÅA’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 6,
-          "name": "CC02_N007_C12",
-          "text": "è¨ˆæ¸¬ã‚’å§‹ã‚ã¾ã™\n\n"
+          "title": "CC02_N007_C12",
+          "text": "Œv‘ª‚ðŽn‚ß‚Ü‚·\n\n"
         },
         {
-          "index": 7,
-          "name": "CC02_N008_C12",
-          "text": "è¨ˆæ¸¬ã§ãã¦ã„ã¾ã™\n\n"
+          "title": "CC02_N008_C12",
+          "text": "Œv‘ª‚Å‚«‚Ä‚¢‚Ü‚·\n\n"
         },
         {
-          "index": 8,
-          "name": "CC02_N009_C12",
-          "text": "è¨ˆæ¸¬ã¯é †èª¿ã§ã™\n\n"
+          "title": "CC02_N009_C12",
+          "text": "Œv‘ª‚Í‡’²‚Å‚·\n\n"
         },
         {
-          "index": 9,
-          "name": "CC02_N010_C12",
-          "text": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã¾ã™\n\n"
+          "title": "CC02_N010_C12",
+          "text": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚Ü‚·\n\n"
         },
         {
-          "index": 10,
-          "name": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚Ü‚·\n\n",
           "text": "CC02_N009_C12"
         },
         {
-          "index": 11,
-          "name": "ãƒŽã‚¤ã‚ºãŒã™ã“ã—å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "ƒmƒCƒY‚ª‚·‚±‚µo‚Ä‚¢‚Ü‚·\n\n",
           "text": "CC02_N010_C12"
         },
         {
-          "index": 12,
-          "name": "æ³¢å½¢ã®ä¹±ã‚Œã€å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "”gŒ`‚Ì—‚êAo‚Ä‚¢‚Ü‚·\n\n",
           "text": "CC02_N011_C12"
         },
         {
-          "index": 13,
-          "name": "CC02_N014_C12",
-          "text": "ã™ã¿ã¾ã›ã‚“\nå†è¨ˆæ¸¬ãŒå¿…è¦ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“â€¦â€¦\n"
+          "title": "CC02_N014_C12",
+          "text": "‚·‚Ý‚Ü‚¹‚ñ\nÄŒv‘ª‚ª•K—v‚©‚à‚µ‚ê‚Ü‚¹‚ñcc\n"
         },
         {
-          "index": 14,
-          "name": "CC02_N015_C12",
-          "text": "ãŠç–²ã‚Œæ§˜ã§ã™\nè¨ˆæ¸¬å®Œäº†ã—ã¾ã—ãŸ\n"
+          "title": "CC02_N015_C12",
+          "text": "‚¨”æ‚ê—l‚Å‚·\nŒv‘ªŠ®—¹‚µ‚Ü‚µ‚½\n"
         },
         {
-          "index": 15,
-          "name": "CC02_N016_C12",
-          "text": "è¨ˆæ¸¬å®Œäº†ã—ã¾ã—ãŸ\nã“ã®çµæžœãªã‚‰å¤§ä¸ˆå¤«ã§ã™\n"
+          "title": "CC02_N016_C12",
+          "text": "Œv‘ªŠ®—¹‚µ‚Ü‚µ‚½\n‚±‚ÌŒ‹‰Ê‚È‚ç‘åä•v‚Å‚·\n"
         },
         {
-          "index": 16,
-          "name": "CC02_N017_C12",
-          "text": "ã™ã¿ã¾ã›ã‚“\nèª¿æ•´ã€ã‚ã¾ã‚Šè‰¯ãã§ãã¾ã›ã‚“ã§ã—ãŸ\n"
+          "title": "CC02_N017_C12",
+          "text": "‚·‚Ý‚Ü‚¹‚ñ\n’²®A‚ ‚Ü‚è—Ç‚­‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½\n"
         },
         {
-          "index": 17,
-          "name": "CC02_N018_C12",
-          "text": "èª¿æ•´ã¯ã—ã¦ã¿ã¾ã—ãŸãŒ\næ€§èƒ½ã¯å¤‰ã‚ã‚Šã¾ã›ã‚“ã§ã—ãŸ\n"
+          "title": "CC02_N018_C12",
+          "text": "’²®‚Í‚µ‚Ä‚Ý‚Ü‚µ‚½‚ª\n«”\‚Í•Ï‚í‚è‚Ü‚¹‚ñ‚Å‚µ‚½\n"
         },
         {
-          "index": 18,
-          "name": "CC02_N019_C12",
-          "text": "ã¾ãšã¾ãšã®èª¿æ•´å†…å®¹ã§ã™\nåŠ¹æžœã‚‚ç¢ºèªã§ãã¾ã™\n"
+          "title": "CC02_N019_C12",
+          "text": "‚Ü‚¸‚Ü‚¸‚Ì’²®“à—e‚Å‚·\nŒø‰Ê‚àŠm”F‚Å‚«‚Ü‚·\n"
         },
         {
-          "index": 19,
-          "name": "CC02_N020_C12",
-          "text": "èª¿æ•´ã¯ä¸Šæ‰‹ãã„ãã¾ã—ãŸ\nã‹ãªã‚Šæ‰±ã„ã‚„ã™ããªã‚Šã¾ã—ãŸ\n"
+          "title": "CC02_N020_C12",
+          "text": "’²®‚ÍãŽè‚­‚¢‚«‚Ü‚µ‚½\n‚©‚È‚èˆµ‚¢‚â‚·‚­‚È‚è‚Ü‚µ‚½\n"
         }
       ]
     },
     {
       "id": 43,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "",
-          "text": "ã©ã¡ã‚‰ã‚’ä½¿ç”¨ã™ã‚‹ï¼Ÿ"
+          "title": "",
+          "text": "‚Ç‚¿‚ç‚ðŽg—p‚·‚éH"
         },
         {
-          "index": 1,
-          "name": "",
-          "text": "ãƒ˜ãƒƒãƒ‰ã‚®ã‚¢åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "",
+          "text": "ƒwƒbƒhƒMƒAŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 2,
-          "name": "",
-          "text": "é€šå¸¸è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "",
+          "text": "’ÊíŒv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 3,
-          "name": "",
-          "text": "ã‚«ãƒ—ã‚»ãƒ«ãƒ™ãƒƒãƒ‰åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "",
+          "text": "ƒJƒvƒZƒ‹ƒxƒbƒhŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 4,
-          "name": "",
-          "text": "ç²¾å¯†è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "",
+          "text": "¸–§Œv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 5,
-          "name": "",
-          "text": "è¨ˆæ¸¬ç„¡ã—ã§ã€èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "",
+          "text": "Œv‘ª–³‚µ‚ÅA’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 6,
-          "name": "",
-          "text": "è¨ˆæ¸¬ã‚’å§‹ã‚ã¾ã™\n\n"
+          "title": "",
+          "text": "Œv‘ª‚ðŽn‚ß‚Ü‚·\n\n"
         },
         {
-          "index": 7,
-          "name": "",
-          "text": "è¨ˆæ¸¬ã§ãã¦ã„ã¾ã™\n\n"
+          "title": "",
+          "text": "Œv‘ª‚Å‚«‚Ä‚¢‚Ü‚·\n\n"
         },
         {
-          "index": 8,
-          "name": "",
-          "text": "è¨ˆæ¸¬ã¯é †èª¿ã§ã™\n\n"
+          "title": "",
+          "text": "Œv‘ª‚Í‡’²‚Å‚·\n\n"
         },
         {
-          "index": 9,
-          "name": "",
-          "text": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã¾ã™\n\n"
+          "title": "",
+          "text": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚Ü‚·\n\n"
         },
         {
-          "index": 10,
-          "name": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚Ü‚·\n\n",
           "text": ""
         },
         {
-          "index": 11,
-          "name": "ãƒŽã‚¤ã‚ºãŒã™ã“ã—å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "ƒmƒCƒY‚ª‚·‚±‚µo‚Ä‚¢‚Ü‚·\n\n",
           "text": ""
         },
         {
-          "index": 12,
-          "name": "æ³¢å½¢ã®ä¹±ã‚Œã€å‡ºã¦ã„ã¾ã™\n\n",
+          "title": "”gŒ`‚Ì—‚êAo‚Ä‚¢‚Ü‚·\n\n",
           "text": ""
         },
         {
-          "index": 13,
-          "name": "",
-          "text": "ã™ã¿ã¾ã›ã‚“\nå†è¨ˆæ¸¬ãŒå¿…è¦ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“â€¦â€¦\n"
+          "title": "",
+          "text": "‚·‚Ý‚Ü‚¹‚ñ\nÄŒv‘ª‚ª•K—v‚©‚à‚µ‚ê‚Ü‚¹‚ñcc\n"
         },
         {
-          "index": 14,
-          "name": "",
-          "text": "ãŠç–²ã‚Œæ§˜ã§ã™\nè¨ˆæ¸¬å®Œäº†ã—ã¾ã—ãŸ\n"
+          "title": "",
+          "text": "‚¨”æ‚ê—l‚Å‚·\nŒv‘ªŠ®—¹‚µ‚Ü‚µ‚½\n"
         },
         {
-          "index": 15,
-          "name": "",
-          "text": "è¨ˆæ¸¬å®Œäº†ã—ã¾ã—ãŸ\nã“ã®çµæžœãªã‚‰å¤§ä¸ˆå¤«ã§ã™\n"
+          "title": "",
+          "text": "Œv‘ªŠ®—¹‚µ‚Ü‚µ‚½\n‚±‚ÌŒ‹‰Ê‚È‚ç‘åä•v‚Å‚·\n"
         },
         {
-          "index": 16,
-          "name": "",
-          "text": "ã™ã¿ã¾ã›ã‚“\nèª¿æ•´ã€ã‚ã¾ã‚Šè‰¯ãã§ãã¾ã›ã‚“ã§ã—ãŸ\n"
+          "title": "",
+          "text": "‚·‚Ý‚Ü‚¹‚ñ\n’²®A‚ ‚Ü‚è—Ç‚­‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½\n"
         },
         {
-          "index": 17,
-          "name": "",
-          "text": "èª¿æ•´ã¯ã—ã¦ã¿ã¾ã—ãŸãŒ\næ€§èƒ½ã¯å¤‰ã‚ã‚Šã¾ã›ã‚“ã§ã—ãŸ\n"
+          "title": "",
+          "text": "’²®‚Í‚µ‚Ä‚Ý‚Ü‚µ‚½‚ª\n«”\‚Í•Ï‚í‚è‚Ü‚¹‚ñ‚Å‚µ‚½\n"
         },
         {
-          "index": 18,
-          "name": "",
-          "text": "ã¾ãšã¾ãšã®èª¿æ•´å†…å®¹ã§ã™\nåŠ¹æžœã‚‚ç¢ºèªã§ãã¾ã™\n"
+          "title": "",
+          "text": "‚Ü‚¸‚Ü‚¸‚Ì’²®“à—e‚Å‚·\nŒø‰Ê‚àŠm”F‚Å‚«‚Ü‚·\n"
         },
         {
-          "index": 19,
-          "name": "",
-          "text": "èª¿æ•´ã¯ä¸Šæ‰‹ãã„ãã¾ã—ãŸ\nã‹ãªã‚Šæ‰±ã„ã‚„ã™ããªã‚Šã¾ã—ãŸ\n"
+          "title": "",
+          "text": "’²®‚ÍãŽè‚­‚¢‚«‚Ü‚µ‚½\n‚©‚È‚èˆµ‚¢‚â‚·‚­‚È‚è‚Ü‚µ‚½\n"
         }
       ]
     },
     {
       "id": 51,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N001_C12",
-          "text": "ã©ã¡ã‚‰ã‚’ä½¿ç”¨ã™ã‚‹ï¼Ÿ"
+          "title": "CC01_N001_C12",
+          "text": "‚Ç‚¿‚ç‚ðŽg—p‚·‚éH"
         },
         {
-          "index": 1,
-          "name": "CC01_N002_C12",
-          "text": "ãƒ˜ãƒƒãƒ‰ã‚®ã‚¢åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N002_C12",
+          "text": "ƒwƒbƒhƒMƒAŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 2,
-          "name": "CC01_N003_C12",
-          "text": "é€šå¸¸è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N003_C12",
+          "text": "’ÊíŒv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 3,
-          "name": "CC01_N004_C12",
-          "text": "ã‚«ãƒ—ã‚»ãƒ«ãƒ™ãƒƒãƒ‰åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N004_C12",
+          "text": "ƒJƒvƒZƒ‹ƒxƒbƒhŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 4,
-          "name": "CC01_N005_C12",
-          "text": "ç²¾å¯†è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N005_C12",
+          "text": "¸–§Œv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 5,
-          "name": "CC01_N006_C12",
-          "text": "è¨ˆæ¸¬ç„¡ã—ã§ã€èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N006_C12",
+          "text": "Œv‘ª–³‚µ‚ÅA’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 6,
-          "name": "CC01_N007_C12",
-          "text": "è¨ˆæ¸¬å§‹ã‚ã‚‹ã‚ˆ\n\n"
+          "title": "CC01_N007_C12",
+          "text": "Œv‘ªŽn‚ß‚é‚æ\n\n"
         },
         {
-          "index": 7,
-          "name": "CC01_N008_C12",
-          "text": "è¨ˆæ¸¬ã¯å•é¡Œãªã—\n\n"
+          "title": "CC01_N008_C12",
+          "text": "Œv‘ª‚Í–â‘è‚È‚µ\n\n"
         },
         {
-          "index": 8,
-          "name": "CC01_N009_C12",
-          "text": "ã‚“ã€é †èª¿\n\n"
+          "title": "CC01_N009_C12",
+          "text": "‚ñA‡’²\n\n"
         },
         {
-          "index": 9,
-          "name": "CC01_N010_C12",
-          "text": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã‚‹ã‚ˆ\n\n"
+          "title": "CC01_N010_C12",
+          "text": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚é‚æ\n\n"
         },
         {
-          "index": 10,
-          "name": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚é‚æ\n\n",
           "text": "CC01_N009_C12"
         },
         {
-          "index": 11,
-          "name": "ãƒŽã‚¤ã‚ºã€å‡ºã¦ã‚‹ã‚ˆ\n\n",
+          "title": "ƒmƒCƒYAo‚Ä‚é‚æ\n\n",
           "text": "CC01_N010_C12"
         },
         {
-          "index": 12,
-          "name": "æ³¢å½¢ãŒä¹±ã‚Œã¦ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`‚ª—‚ê‚Ä‚é‚æ\n\n",
           "text": "CC01_N011_C12"
         },
         {
-          "index": 13,
-          "name": "CC01_N014_C12",
-          "text": "å†è¨ˆæ¸¬ãŒå¿…è¦ã‹ã‚‚â€¦â€¦\n\n"
+          "title": "CC01_N014_C12",
+          "text": "ÄŒv‘ª‚ª•K—v‚©‚àcc\n\n"
         },
         {
-          "index": 14,
-          "name": "CC01_N015_C12",
-          "text": "è¨ˆæ¸¬å®Œäº†ï½ž\nãŠç–²ã‚Œæ§˜\n"
+          "title": "CC01_N015_C12",
+          "text": "Œv‘ªŠ®—¹`\n‚¨”æ‚ê—l\n"
         },
         {
-          "index": 15,
-          "name": "CC01_N016_C12",
-          "text": "è¨ˆæ¸¬ï¼¯ï¼«ã ã‚ˆ\nèª¿æ•´ã‚‚å•é¡Œç„¡ã„â€¦â€¦ã¨æ€ã†\n"
+          "title": "CC01_N016_C12",
+          "text": "Œv‘ª‚n‚j‚¾‚æ\n’²®‚à–â‘è–³‚¢cc‚ÆŽv‚¤\n"
         },
         {
-          "index": 16,
-          "name": "CC01_N017_C12",
-          "text": "ã”ã‚ã‚“\nã‚ã¾ã‚Šè‰¯ã„èª¿æ•´ã«ãªã‚‰ãªã‹ã£ãŸ\n"
+          "title": "CC01_N017_C12",
+          "text": "‚²‚ß‚ñ\n‚ ‚Ü‚è—Ç‚¢’²®‚É‚È‚ç‚È‚©‚Á‚½\n"
         },
         {
-          "index": 17,
-          "name": "CC01_N018_C12",
-          "text": "èª¿æ•´ã¯ã—ãŸã‘ã©\nå¤‰åŒ–ç„¡ã„ã¨æ€ã†\n"
+          "title": "CC01_N018_C12",
+          "text": "’²®‚Í‚µ‚½‚¯‚Ç\n•Ï‰»–³‚¢‚ÆŽv‚¤\n"
         },
         {
-          "index": 18,
-          "name": "CC01_N019_C12",
-          "text": "ã¾ãšã¾ãšã®èª¿æ•´ãŒã§ããŸã‚ˆ\nåŠ¹æžœã‚‚å®Ÿæ„Ÿã§ãã‚‹ã¯ãš\n"
+          "title": "CC01_N019_C12",
+          "text": "‚Ü‚¸‚Ü‚¸‚Ì’²®‚ª‚Å‚«‚½‚æ\nŒø‰Ê‚àŽÀŠ´‚Å‚«‚é‚Í‚¸\n"
         },
         {
-          "index": 19,
-          "name": "CC01_N020_C12",
-          "text": "èª¿æ•´ã€ã‹ãªã‚Šä¸Šæ‰‹ãã„ã£ãŸã‚ˆ\næ‰±ã„ã‚„ã™ããªã£ãŸâ€¦â€¦ã¯ãš\n"
+          "title": "CC01_N020_C12",
+          "text": "’²®A‚©‚È‚èãŽè‚­‚¢‚Á‚½‚æ\nˆµ‚¢‚â‚·‚­‚È‚Á‚½cc‚Í‚¸\n"
         }
       ]
     },
     {
       "id": 52,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "",
-          "text": "ã©ã¡ã‚‰ã‚’ä½¿ç”¨ã™ã‚‹ï¼Ÿ"
+          "title": "",
+          "text": "‚Ç‚¿‚ç‚ðŽg—p‚·‚éH"
         },
         {
-          "index": 1,
-          "name": "",
-          "text": "ãƒ˜ãƒƒãƒ‰ã‚®ã‚¢åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "",
+          "text": "ƒwƒbƒhƒMƒAŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 2,
-          "name": "",
-          "text": "é€šå¸¸è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "",
+          "text": "’ÊíŒv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 3,
-          "name": "",
-          "text": "ã‚«ãƒ—ã‚»ãƒ«ãƒ™ãƒƒãƒ‰åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "",
+          "text": "ƒJƒvƒZƒ‹ƒxƒbƒhŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 4,
-          "name": "",
-          "text": "ç²¾å¯†è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "",
+          "text": "¸–§Œv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 5,
-          "name": "",
-          "text": "è¨ˆæ¸¬ç„¡ã—ã§ã€èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "",
+          "text": "Œv‘ª–³‚µ‚ÅA’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 6,
-          "name": "",
-          "text": "è¨ˆæ¸¬å§‹ã‚ã‚‹ã‚ˆ\n\n"
+          "title": "",
+          "text": "Œv‘ªŽn‚ß‚é‚æ\n\n"
         },
         {
-          "index": 7,
-          "name": "",
-          "text": "è¨ˆæ¸¬ã¯å•é¡Œãªã—\n\n"
+          "title": "",
+          "text": "Œv‘ª‚Í–â‘è‚È‚µ\n\n"
         },
         {
-          "index": 8,
-          "name": "",
-          "text": "ã‚“ã€é †èª¿\n\n"
+          "title": "",
+          "text": "‚ñA‡’²\n\n"
         },
         {
-          "index": 9,
-          "name": "",
-          "text": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã‚‹ã‚ˆ\n\n"
+          "title": "",
+          "text": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚é‚æ\n\n"
         },
         {
-          "index": 10,
-          "name": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚é‚æ\n\n",
           "text": ""
         },
         {
-          "index": 11,
-          "name": "ãƒŽã‚¤ã‚ºã€å‡ºã¦ã‚‹ã‚ˆ\n\n",
+          "title": "ƒmƒCƒYAo‚Ä‚é‚æ\n\n",
           "text": ""
         },
         {
-          "index": 12,
-          "name": "æ³¢å½¢ãŒä¹±ã‚Œã¦ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`‚ª—‚ê‚Ä‚é‚æ\n\n",
           "text": ""
         },
         {
-          "index": 13,
-          "name": "",
-          "text": "å†è¨ˆæ¸¬ãŒå¿…è¦ã‹ã‚‚â€¦â€¦\n\n"
+          "title": "",
+          "text": "ÄŒv‘ª‚ª•K—v‚©‚àcc\n\n"
         },
         {
-          "index": 14,
-          "name": "",
-          "text": "è¨ˆæ¸¬å®Œäº†ï½ž\nãŠç–²ã‚Œæ§˜\n"
+          "title": "",
+          "text": "Œv‘ªŠ®—¹`\n‚¨”æ‚ê—l\n"
         },
         {
-          "index": 15,
-          "name": "",
-          "text": "è¨ˆæ¸¬ï¼¯ï¼«ã ã‚ˆ\nèª¿æ•´ã‚‚å•é¡Œç„¡ã„â€¦â€¦ã¨æ€ã†\n"
+          "title": "",
+          "text": "Œv‘ª‚n‚j‚¾‚æ\n’²®‚à–â‘è–³‚¢cc‚ÆŽv‚¤\n"
         },
         {
-          "index": 16,
-          "name": "",
-          "text": "ã”ã‚ã‚“\nã‚ã¾ã‚Šè‰¯ã„èª¿æ•´ã«ãªã‚‰ãªã‹ã£ãŸ\n"
+          "title": "",
+          "text": "‚²‚ß‚ñ\n‚ ‚Ü‚è—Ç‚¢’²®‚É‚È‚ç‚È‚©‚Á‚½\n"
         },
         {
-          "index": 17,
-          "name": "",
-          "text": "èª¿æ•´ã¯ã—ãŸã‘ã©\nå¤‰åŒ–ç„¡ã„ã¨æ€ã†\n"
+          "title": "",
+          "text": "’²®‚Í‚µ‚½‚¯‚Ç\n•Ï‰»–³‚¢‚ÆŽv‚¤\n"
         },
         {
-          "index": 18,
-          "name": "",
-          "text": "ã¾ãšã¾ãšã®èª¿æ•´ãŒã§ããŸã‚ˆ\nåŠ¹æžœã‚‚å®Ÿæ„Ÿã§ãã‚‹ã¯ãš\n"
+          "title": "",
+          "text": "‚Ü‚¸‚Ü‚¸‚Ì’²®‚ª‚Å‚«‚½‚æ\nŒø‰Ê‚àŽÀŠ´‚Å‚«‚é‚Í‚¸\n"
         },
         {
-          "index": 19,
-          "name": "",
-          "text": "èª¿æ•´ã€ã‹ãªã‚Šä¸Šæ‰‹ãã„ã£ãŸã‚ˆ\næ‰±ã„ã‚„ã™ããªã£ãŸâ€¦â€¦ã¯ãš\n"
+          "title": "",
+          "text": "’²®A‚©‚È‚èãŽè‚­‚¢‚Á‚½‚æ\nˆµ‚¢‚â‚·‚­‚È‚Á‚½cc‚Í‚¸\n"
         }
       ]
     },
     {
       "id": 81,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N001_C12",
-          "text": "ã©ã¡ã‚‰ã‚’ä½¿ç”¨ã™ã‚‹ï¼Ÿ"
+          "title": "CC01_N001_C12",
+          "text": "‚Ç‚¿‚ç‚ðŽg—p‚·‚éH"
         },
         {
-          "index": 1,
-          "name": "CC01_N002_C12",
-          "text": "ãƒ˜ãƒƒãƒ‰ã‚®ã‚¢åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N002_C12",
+          "text": "ƒwƒbƒhƒMƒAŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 2,
-          "name": "CC01_N003_C12",
-          "text": "é€šå¸¸è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N003_C12",
+          "text": "’ÊíŒv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 3,
-          "name": "CC01_N004_C12",
-          "text": "ã‚«ãƒ—ã‚»ãƒ«ãƒ™ãƒƒãƒ‰åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N004_C12",
+          "text": "ƒJƒvƒZƒ‹ƒxƒbƒhŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 4,
-          "name": "CC01_N005_C12",
-          "text": "ç²¾å¯†è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N005_C12",
+          "text": "¸–§Œv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 5,
-          "name": "CC01_N006_C12",
-          "text": "è¨ˆæ¸¬ç„¡ã—ã§ã€èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N006_C12",
+          "text": "Œv‘ª–³‚µ‚ÅA’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 6,
-          "name": "CC01_N007_C12",
-          "text": "è¨ˆæ¸¬å§‹ã‚ã‚‹ã‚ˆ\n\n"
+          "title": "CC01_N007_C12",
+          "text": "Œv‘ªŽn‚ß‚é‚æ\n\n"
         },
         {
-          "index": 7,
-          "name": "CC01_N008_C12",
-          "text": "è¨ˆæ¸¬ã¯å•é¡Œãªã—\n\n"
+          "title": "CC01_N008_C12",
+          "text": "Œv‘ª‚Í–â‘è‚È‚µ\n\n"
         },
         {
-          "index": 8,
-          "name": "CC01_N009_C12",
-          "text": "ã‚“ã€é †èª¿\n\n"
+          "title": "CC01_N009_C12",
+          "text": "‚ñA‡’²\n\n"
         },
         {
-          "index": 9,
-          "name": "CC01_N010_C12",
-          "text": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã‚‹ã‚ˆ\n\n"
+          "title": "CC01_N010_C12",
+          "text": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚é‚æ\n\n"
         },
         {
-          "index": 10,
-          "name": "æ³¢å½¢ã€ã‚¯ãƒªã‚¢ã«å‡ºã¦ã„ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`AƒNƒŠƒA‚Éo‚Ä‚¢‚é‚æ\n\n",
           "text": "CC01_N009_C12"
         },
         {
-          "index": 11,
-          "name": "ãƒŽã‚¤ã‚ºã€å‡ºã¦ã‚‹ã‚ˆ\n\n",
+          "title": "ƒmƒCƒYAo‚Ä‚é‚æ\n\n",
           "text": "CC01_N010_C12"
         },
         {
-          "index": 12,
-          "name": "æ³¢å½¢ãŒä¹±ã‚Œã¦ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`‚ª—‚ê‚Ä‚é‚æ\n\n",
           "text": "CC01_N011_C12"
         },
         {
-          "index": 13,
-          "name": "CC01_N014_C12",
-          "text": "å†è¨ˆæ¸¬ãŒå¿…è¦ã‹ã‚‚â€¦â€¦\n\n"
+          "title": "CC01_N014_C12",
+          "text": "ÄŒv‘ª‚ª•K—v‚©‚àcc\n\n"
         },
         {
-          "index": 14,
-          "name": "CC01_N015_C12",
-          "text": "è¨ˆæ¸¬å®Œäº†ï½ž\nãŠç–²ã‚Œæ§˜\n"
+          "title": "CC01_N015_C12",
+          "text": "Œv‘ªŠ®—¹`\n‚¨”æ‚ê—l\n"
         },
         {
-          "index": 15,
-          "name": "CC01_N016_C12",
-          "text": "è¨ˆæ¸¬ï¼¯ï¼«ã ã‚ˆ\nèª¿æ•´ã‚‚å•é¡Œç„¡ã„â€¦â€¦ã¨æ€ã†\n"
+          "title": "CC01_N016_C12",
+          "text": "Œv‘ª‚n‚j‚¾‚æ\n’²®‚à–â‘è–³‚¢cc‚ÆŽv‚¤\n"
         },
         {
-          "index": 16,
-          "name": "CC01_N017_C12",
-          "text": "ã”ã‚ã‚“\nã‚ã¾ã‚Šè‰¯ã„èª¿æ•´ã«ãªã‚‰ãªã‹ã£ãŸ\n"
+          "title": "CC01_N017_C12",
+          "text": "‚²‚ß‚ñ\n‚ ‚Ü‚è—Ç‚¢’²®‚É‚È‚ç‚È‚©‚Á‚½\n"
         },
         {
-          "index": 17,
-          "name": "CC01_N018_C12",
-          "text": "èª¿æ•´ã¯ã—ãŸã‘ã©\nå¤‰åŒ–ç„¡ã„ã¨æ€ã†\n"
+          "title": "CC01_N018_C12",
+          "text": "’²®‚Í‚µ‚½‚¯‚Ç\n•Ï‰»–³‚¢‚ÆŽv‚¤\n"
         },
         {
-          "index": 18,
-          "name": "CC01_N019_C12",
-          "text": "ã¾ãšã¾ãšã®èª¿æ•´ãŒã§ããŸã‚ˆ\nåŠ¹æžœã‚‚å®Ÿæ„Ÿã§ãã‚‹ã¯ãš\n"
+          "title": "CC01_N019_C12",
+          "text": "‚Ü‚¸‚Ü‚¸‚Ì’²®‚ª‚Å‚«‚½‚æ\nŒø‰Ê‚àŽÀŠ´‚Å‚«‚é‚Í‚¸\n"
         },
         {
-          "index": 19,
-          "name": "CC01_N020_C12",
-          "text": "èª¿æ•´ã€ã‹ãªã‚Šä¸Šæ‰‹ãã„ã£ãŸã‚ˆ\næ‰±ã„ã‚„ã™ããªã£ãŸâ€¦â€¦ã¯ãš\n"
+          "title": "CC01_N020_C12",
+          "text": "’²®A‚©‚È‚èãŽè‚­‚¢‚Á‚½‚æ\nˆµ‚¢‚â‚·‚­‚È‚Á‚½cc‚Í‚¸\n"
         }
       ]
     },
     {
       "id": 91,
-      "lines": [
+      "entries": [
         {
-          "index": 0,
-          "name": "CC01_N001_C12",
-          "text": "ã©ã¡ã‚‰ã‚’ä½¿ç”¨ã™ã‚‹ï¼Ÿ"
+          "title": "CC01_N001_C12",
+          "text": "‚Ç‚¿‚ç‚ðŽg—p‚·‚éH"
         },
         {
-          "index": 1,
-          "name": "CC01_N002_C12",
-          "text": "ãƒ˜ãƒƒãƒ‰ã‚®ã‚¢åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N002_C12",
+          "text": "ƒwƒbƒhƒMƒAŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 2,
-          "name": "CC01_N003_C12",
-          "text": "é€šå¸¸è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N003_C12",
+          "text": "’ÊíŒv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 3,
-          "name": "CC01_N004_C12",
-          "text": "ã‚«ãƒ—ã‚»ãƒ«ãƒ™ãƒƒãƒ‰åž‹ã‚’ä½¿ç”¨ã™ã‚‹"
+          "title": "CC01_N004_C12",
+          "text": "ƒJƒvƒZƒ‹ƒxƒbƒhŒ^‚ðŽg—p‚·‚é"
         },
         {
-          "index": 4,
-          "name": "CC01_N005_C12",
-          "text": "ç²¾å¯†è¨ˆæ¸¬ã§èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N005_C12",
+          "text": "¸–§Œv‘ª‚Å’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 5,
-          "name": "CC01_N006_C12",
-          "text": "è¨ˆæ¸¬ç„¡ã—ã§ã€èª¿æ•´ã—ã¦ã¿ã‚‹"
+          "title": "CC01_N006_C12",
+          "text": "Œv‘ª–³‚µ‚ÅA’²®‚µ‚Ä‚Ý‚é"
         },
         {
-          "index": 6,
-          "name": "CC01_N007_C12",
-          "text": "è¨ˆæ¸¬å§‹ã‚ã‚‹ã‚ˆ\n\n"
+          "title": "CC01_N007_C12",
+          "text": "Œv‘ªŽn‚ß‚é‚æ\n\n"
         },
         {
-          "index": 7,
-          "name": "CC01_N008_C12",
-          "text": "è¨ˆæ¸¬ã¯å•é¡Œãªã—\n\n"
+          "title": "CC01_N008_C12",
+          "text": "Œv‘ª‚Í–â‘è‚È‚µ\n\n"
         },
         {
-          "index": 8,
-          "name": "CC01_N009_C12",
-          "text": "ã‚“ã€é †èª¿\n\n"
+          "title": "CC01_N009_C12",
+          "text": "‚ñA‡’²\n\n"
         },
         {
-          "index": 9,
-          "name": "CC03_N010_C12",
-          "text": "æ³¢ãŒã‚¯ãƒªã‚¢\n\n"
+          "title": "CC03_N010_C12",
+          "text": "”g‚ªƒNƒŠƒA\n\n"
         },
         {
-          "index": 10,
-          "name": "æ³¢ãŒã‚¯ãƒªã‚¢\n\n",
+          "title": "”g‚ªƒNƒŠƒA\n\n",
           "text": "CC01_N009_C12"
         },
         {
-          "index": 11,
-          "name": "ãƒŽã‚¤ã‚ºã€å‡ºã¦ã‚‹ã‚ˆ\n\n",
+          "title": "ƒmƒCƒYAo‚Ä‚é‚æ\n\n",
           "text": "CC03_N010_C12"
         },
         {
-          "index": 12,
-          "name": "æ³¢å½¢ãŒä¹±ã‚Œã¦ã‚‹ã‚ˆ\n\n",
+          "title": "”gŒ`‚ª—‚ê‚Ä‚é‚æ\n\n",
           "text": "CC01_N011_C12"
         },
         {
-          "index": 13,
-          "name": "CC03_N014_C12",
-          "text": "å†è¨ˆæ¸¬ã€å¿…è¦ã£ã½ã„â€¦â€¦\n\n"
+          "title": "CC03_N014_C12",
+          "text": "ÄŒv‘ªA•K—v‚Á‚Û‚¢cc\n\n"
         },
         {
-          "index": 14,
-          "name": "CC03_N015_C12",
-          "text": "è¨ˆæ¸¬å®Œäº†\n\n"
+          "title": "CC03_N015_C12",
+          "text": "Œv‘ªŠ®—¹\n\n"
         },
         {
-          "index": 15,
-          "name": "CC03_N016_C12",
-          "text": "è¨ˆæ¸¬ã‚‚å¤§ä¸ˆå¤«ã£ã½ã„\nèª¿æ•´ã‚‚æ¥½ã«ãªã‚‹ã‚ˆ\n"
+          "title": "CC03_N016_C12",
+          "text": "Œv‘ª‚à‘åä•v‚Á‚Û‚¢\n’²®‚àŠy‚É‚È‚é‚æ\n"
         },
         {
-          "index": 16,
-          "name": "CC01_N017_C12",
-          "text": "ã”ã‚ã‚“\nã‚ã¾ã‚Šè‰¯ã„èª¿æ•´ã«ãªã‚‰ãªã‹ã£ãŸ\n"
+          "title": "CC01_N017_C12",
+          "text": "‚²‚ß‚ñ\n‚ ‚Ü‚è—Ç‚¢’²®‚É‚È‚ç‚È‚©‚Á‚½\n"
         },
         {
-          "index": 17,
-          "name": "CC01_N018_C12",
-          "text": "èª¿æ•´ã¯ã—ãŸã‘ã©\nå¤‰åŒ–ç„¡ã„ã¨æ€ã†\n"
+          "title": "CC01_N018_C12",
+          "text": "’²®‚Í‚µ‚½‚¯‚Ç\n•Ï‰»–³‚¢‚ÆŽv‚¤\n"
         },
         {
-          "index": 18,
-          "name": "CC01_N019_C12",
-          "text": "ã¾ãšã¾ãšã®èª¿æ•´ãŒã§ããŸã‚ˆ\nåŠ¹æžœã‚‚å®Ÿæ„Ÿã§ãã‚‹ã¯ãš\n"
+          "title": "CC01_N019_C12",
+          "text": "‚Ü‚¸‚Ü‚¸‚Ì’²®‚ª‚Å‚«‚½‚æ\nŒø‰Ê‚àŽÀŠ´‚Å‚«‚é‚Í‚¸\n"
         },
         {
-          "index": 19,
-          "name": "CC03_N020_C12",
-          "text": "èª¿æ•´ã€ä¸Šæ‰‹ãã„ã£ãŸã‚ˆ\næ‰±ã„ã‚„ã™ããªã£ãŸã‚ˆ\n"
+          "title": "CC03_N020_C12",
+          "text": "’²®AãŽè‚­‚¢‚Á‚½‚æ\nˆµ‚¢‚â‚·‚­‚È‚Á‚½‚æ\n"
         }
       ]
     }

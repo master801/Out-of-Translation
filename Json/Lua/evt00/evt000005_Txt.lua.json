@@ -1,538 +1,457 @@
 {
-  "name": "evt000005_Txt.lua",
-  "containers": [
-    {
-      "name": "t000001001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+  "type": "Lua",
+  "file_path": "Lua/evt00/evt000005_Txt.lua",
+  "block": {
+    "t000001001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x30\\x31"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000002001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000002001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x30\\x32"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000003001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000003001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x30\\x33"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000004001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000004001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x30\\x34"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000005001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000005001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x30\\x35"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000006001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000006001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\xE6\\xAC\\xA0\\xE7\\x95\\xAA"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000007001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000007001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x30\\x37"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000008001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000008001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x30\\x38"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000009001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000009001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x30\\x39"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000010001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000010001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x31\\x30"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000011001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000011001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x31\\x31"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000012001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000012001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x31\\x32"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000013001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000013001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x31\\x33"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000014001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000014001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x31\\x34"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000015001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000015001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x31\\x35"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000016001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000016001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x31\\x36"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000017001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000017001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x31\\x37"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000018001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000018001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x31\\x38"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000019001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000019001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x31\\x39"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000020001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000020001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x32\\x30"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000021001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000021001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x32\\x31"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000022001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000022001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x32\\x32"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000023001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000023001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x32\\x33"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000024001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000024001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x32\\x34"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000025001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000025001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x32\\x35"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000026001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000026001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x32\\x36"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000027001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000027001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x32\\x37"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000028001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000028001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x32\\x38"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000029001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000029001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x32\\x39"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000030001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000030001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x33\\x30"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000031001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000031001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x33\\x31"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000032001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000032001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x33\\x32"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000033001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000033001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x33\\x33"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000034001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000034001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x33\\x34"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000035001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000035001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x33\\x35"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000036001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000036001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x33\\x36"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000037001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000037001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x33\\x37"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000038001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000038001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x33\\x38"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000039001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000039001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x33\\x39"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000040001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000040001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x34\\x30"
+      },
+      "2": {
+        "voice": ""
+      }
     },
-    {
-      "name": "t000041001",
-      "lineContainers": [
-        {
-          "name": "name",
-          "line": "BGM"
-        },
-        {
-          "name": "voice",
-          "line": ""
-        }
-      ]
+    "t000041001": {
+      "0": {
+        "name": "\\x42\\x47\\x4D"
+      },
+      "1": {
+        "txt": "\\x42\\x34\\x31"
+      },
+      "2": {
+        "voice": ""
+      }
     }
-  ]
+  }
 }
