@@ -1,29 +1,15 @@
 # Out-of-English
+
 Mahouka Koukou No Rettousei: Out of Order
 
-[========]
 
-# Out-of-English: Tool
-Converts game binary files to json and back
+## Out-of-Py
 
-#### Script mode
+Tool used to decode and encode the Json files.</br>
+Read README.md in the submodule's directory ("Out-of-Py") for more info.
 
-##### Supports the following files:
-Lua/evt\*\*/evt\*\*\*\*\*\*\*_Txt.lua
 
-----------------------------------------------------------------------
+## Info
 
-#### Bin mode
-
-##### Supports the following files:
-- Graph2D/TuneData/IMH_Tuning_List_\*_\*\*.bin
-- Graph2D/Tutorial/TutorialList.bin
-
-##### Does not yet support the following files:
-- Param/Atk/CharMenuParam.bin
-- Param/Atk/MagicParam.bin
-- Param/Atk/MagicTextParam.bin
-- Param/Atk/CadParam.bin
-- Param/Atk/CadTextParam.bin
-
-Copyright Master 2016-2018
+If you're using my tool(s), please give credit where it's due.</br>
+It'd be a shame to not publicly share translation tools and documents. :(
