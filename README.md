@@ -1,15 +1,46 @@
-# Out-of-English
+# Out-of-Translation
 
-Mahouka Koukou No Rettousei: Out of Order
-
-
-## Out-of-Py
-
-Tool used to decode and encode the Json files.</br>
-Read README.md in the submodule's directory ("Out-of-Py") for more info.
+Mahouka Koukou No Rettousei: Out of Order</br>
+Skeleton translation repository
 
 
-## Info
+## <a name="info"/> Info
 
-If you're using my tool(s), please give credit where it's due.</br>
+<b>
+If you're using this project skeleton, please give credit where it's due and give a link to the [original repository](https://github.com/master801/Out-of-Translation/).<br/>
+</b>
+
+I've spent a great amount of time dedicated to perfecting this skeleton for easy end-user modification.<br/>
+
 It'd be a shame to not publicly share translation tools and documents. :(
+<br/><br/>
+If you have a question or need help with this project skeleton, feel free to create an issue here.<br/>
+Otherwise if you have a question regarding [Out-of-Py](#out-of-py), please create a separate issue in its [respective repository](#out-of-py-repo).
+
+
+## License
+
+<b>
+Don't be a dick and claim this project skeleton as yours. This includes [Out-of-Py](#out-of-py).<br/>
+Don't sell nor profit off of my work (including [Out-of-Py](#out-of-py).)<br/>
+Give credit where it's due.
+</b>
+
+
+## <a name="json"/> [Json](Json/)
+
+Files deserialized to Json for easy user-modification.<br/>
+Encoded in Shift-Jis.<br/>
+Use [Out-of-Py](#out-of-py) to encode these to their original formats.
+
+
+## <a name="tools"/> Tools
+[Out-of-Py](#out-of-py)
+
+### <a name="out-of-py"/> [Out-of-Py](Out-of-Py/)
+
+<a name="out-of-py-repo"/>[Original repository](https://github.com/master801/Out-of-Py/)
+
+Tool used to decode and encode the Json files.<br/>
+Read [README.md](Out-of-Py/README.md) for more info.
+

@@ -6,6 +6,7 @@ meta:
 seq:
   - id: blocks
     type: block
+    size: 0x144
     repeat: eos
 types:
   block:
