@@ -30,14 +30,15 @@ Give credit where it's due.
 ## <a name="json"/> [Json](Json/)
 
 Files deserialized to Json for easy user-modification.<br/>
-Encoded in Shift-Jis.<br/>
 Use [Out-of-Py](#out-of-py) to encode these to their original formats.
 
 
 ## <a name="tools"/> Tools
 [Out-of-Py](#out-of-py)
 
-### <a name="out-of-py"/> [Out-of-Py](Out-of-Py/)
+------------------------------------------------------------
+
+### <a name="out-of-py"/> [Out-of-Py](#out-of-py-repo)
 
 <a name="out-of-py-repo"/>[Original repository](https://github.com/master801/Out-of-Py/)
 
