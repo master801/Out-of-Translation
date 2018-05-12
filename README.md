@@ -43,5 +43,5 @@ Use [Out-of-Py](#out-of-py) to encode these to their original formats.
 <a name="out-of-py-repo"/>[Original repository](https://github.com/master801/Out-of-Py/)
 
 Tool used to decode and encode the Json files.<br/>
-Read [README.md](Out-of-Py/README.md) for more info.
+Read [README.md](https://github.com/master801/Out-of-Py/README.md) for more info.
 
